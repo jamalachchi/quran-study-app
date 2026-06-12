@@ -99,6 +99,47 @@ export default function App() {
     }
   }, [selectedSurah]);
 
+  // Touch swipe detection for verse navigation
+  const touchStartX = useRef<number | null>(null);
+  const touchStartY = useRef<number | null>(null);
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+    touchStartY.current = e.touches[0].clientY;
+  };
+
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    if (isBottomSheetOpen) return;
+    if (touchStartX.current === null || touchStartY.current === null) return;
+
+    const diffX = e.changedTouches[0].clientX - touchStartX.current;
+    const diffY = e.changedTouches[0].clientY - touchStartY.current;
+
+    // Clear values
+    touchStartX.current = null;
+    touchStartY.current = null;
+
+    // Minimum distance threshold to register a swipe (e.g. 60px)
+    const threshold = 60;
+    // Maximum vertical offset to avoid registering diagonal scrolls as swipes (e.g. 50px)
+    const verticalThreshold = 50;
+
+    const target = e.target as HTMLElement;
+    if (target.closest('select') || target.closest('button') || target.closest('input')) {
+      return;
+    }
+
+    if (Math.abs(diffX) > threshold && Math.abs(diffY) < verticalThreshold) {
+      if (diffX > 0) {
+        // Swipe Right -> Prev Ayah
+        handlePrevAyah();
+      } else {
+        // Swipe Left -> Next Ayah
+        handleNextAyah();
+      }
+    }
+  };
+
   // Check offline audio cache status
   const checkAudioOfflineStatus = useCallback(async (surahId: number, reciterId: string) => {
     try {
@@ -568,7 +609,11 @@ export default function App() {
       </header>
 
       {/* CORE VIEW SCROLL-CONTAINER */}
-      <main className="flex-1 overflow-y-auto px-4 py-4 pb-6">
+      <main 
+        className="flex-1 overflow-y-auto px-4 py-4 pb-6"
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
+      >
         {activeTab === "quran" && (
           <AyahReader
             verseData={verseData}
