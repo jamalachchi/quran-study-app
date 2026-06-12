@@ -5,8 +5,8 @@ quran_study.db
 *.db-wal
 
 # Raw Data & Samples
-data/
-samples/
+/data/
+/samples/
 
 # Google API Credentials
 credentials.json

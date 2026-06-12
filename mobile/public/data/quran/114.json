@@ -1,0 +1,963 @@
+{
+  "surah_id": 114,
+  "verses": [
+    {
+      "id": 6231,
+      "verse_number": 1,
+      "verse_key": "114:1",
+      "text_uthmani": null,
+      "translations": [
+        {
+          "text": "Say<a class=\"sup\"><sup>sg </sup></a>, “I seek refuge with the Lord of mankind,",
+          "resource_id": 149
+        },
+        {
+          "text": "Say, \"I seek refuge in the Lord of mankind,",
+          "resource_id": 20
+        },
+        {
+          "text": "Say, ‘I seek refuge with the Lord of people,",
+          "resource_id": 85
+        }
+      ],
+      "words": [
+        {
+          "id": 115,
+          "position": 1,
+          "audio_url": "wbw/114_001_001.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "قُلْ",
+          "text_imlaei": "قُلْ",
+          "location": "114:1:1",
+          "translation": {
+            "text": "Say",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qul",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "qulo",
+              "tag": "V",
+              "features": "STEM|POS:V|IMPV|LEM:qaAla|ROOT:qwl|2MS",
+              "arabic_root": "ق و ل"
+            }
+          ],
+          "root": "ق و ل"
+        },
+        {
+          "id": 116,
+          "position": 2,
+          "audio_url": "wbw/114_001_002.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "أَعُوذُ",
+          "text_imlaei": "أَعُوذُ",
+          "location": "114:1:2",
+          "translation": {
+            "text": "I seek refuge",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "aʿūdhu",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": ">aEuw*u",
+              "tag": "V",
+              "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S",
+              "arabic_root": "ع و ذ"
+            }
+          ],
+          "root": "ع و ذ"
+        },
+        {
+          "id": 117,
+          "position": 3,
+          "audio_url": "wbw/114_001_003.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "بِرَبِّ",
+          "text_imlaei": "بِرَبِّ",
+          "location": "114:1:3",
+          "translation": {
+            "text": "in (the) Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "birabbi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "bi",
+              "tag": "P",
+              "features": "PREFIX|bi+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "rab~i",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN",
+              "arabic_root": "ر ب ب"
+            }
+          ],
+          "root": "ر ب ب"
+        },
+        {
+          "id": 118,
+          "position": 4,
+          "audio_url": "wbw/114_001_004.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلنَّاسِ",
+          "text_imlaei": "النَّاسِ",
+          "location": "114:1:4",
+          "translation": {
+            "text": "(of) mankind",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{l",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "n~aAsi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN",
+              "arabic_root": "ن و س"
+            }
+          ],
+          "root": "ن و س"
+        },
+        {
+          "id": 119,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "text_uthmani": "١",
+          "text_imlaei": "١",
+          "location": "114:1:5",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          },
+          "morphology": [],
+          "root": null
+        }
+      ],
+      "tafsirs": [
+        {
+          "source_book": "ibn_ashur",
+          "content": "شابهت فاتحتها فاتحة سورة الفلق إلا أن سورة الفلق تعوُّذ من شرور المخلوقات من حيوان وناس ، وسورة الناس تعوّذ من شرور مخلوقات خفيّة وهي الشياطين .\nوالقول في الأمر بالقول ، وفي المقول ، وفي أن الخطاب للنبيء صلى الله عليه وسلم والمقصود شموله أمته ، كالقول في نظيره من سورة الفلق سواء .\nوعُرِّف { رب } بإضافته إلى { الناس } دون غيرهم من المربوبين لأن الاستعاذة من شر يلقيه الشيطان في قلوب الناس فيَضِلُّون ويُضلون ، فالشر المستعاذ منه مصبه إلى الناس ، فناسب أن يُستحضر المستعاذُ إليه بعنوان أنه رب من يُلْقون الشر ومن يُلْقَى إليهم ليصرف هؤلاء ويدفع عن الآخرين كما يقال لمَولى العبد : يا مولَى فلان كُف عني عبدك .\nوقد رتبت أوصاف الله بالنسبة إلى الناس ترتيباً مدرَّجاً فإن الله خالقهم ، ثم هم غير خارجين عن حكمه إذا شاء أن يتصرف في شؤونهم ، ثم زيد بياناً بوصف إلهيته لهم ليتبين أن ربوبيته لهم وحاكميته فيهم ليست كربوبية بعضهم بعضاً وحاكمية بعضهم في بعض .\nوفي هذا الترتيب إشعار أيضاً بمراتب النظر في معرفة الله تعالى فإن الناظر يعلم بادىء ذي بدء بأن له رباً يسبب ما يشعُر به من وجود نفسه ، ونعمة تركيبه ، ثم يتغلغل في النظر فيَشعر بأن ربه هو المَلِكُ الحقُّ الغني عن الخلق ، ثم يعلم أنه المستحق للعبادة فهو إله الناس كلهم .\nو { ملك الناس } عطف بيان من { رب الناس } وكذلك { إله الناس } فتكرير لفظ { الناس } دون اكتفاء بضميره لأن عطف البيان يقتضي الإِظهار ليكون الاسم المبيِّن ( بكسر الياء ) مستقلاً بنفسه لأن عطف البيان بمنزلة علَم للاسم المبيَّن ( بالفتح ) .\nو { الناس } : اسم جمع للبشر جميعهم أو طائفة منهم ولا يطلق على غيرهم على التحقيق .\nو { الوسواس } : المتكلم بالوسوسة ، وهي الكلام الخفيّ ، قال رُؤبة يصف صائداً في قُتْرتِه\n: ... وَسْوَسَ يَدْعُو مُخلصاً ربَّ الفَلَقْ\nفالوسواس اسم فاعل ويطلق الوسواس بفتح الواو مجازاً على ما يخطر بنفس المرء من الخواطر التي يتوهمها مثل كلام يكلم به نفسه قال عُروة بن أذينة\n: ... وإذا وجَدْت لها وسَاوِسَ سَلوَةٍ\nشفَع الفؤادُ إلى الضمير فسَلَّها ... والتعريف في { الوسواس } تعريف الجنس وإطلاق { الوسواس } على معنييه المجازي والحقيقي يشمل الشياطين التي تلقي في أنفُس الناس الخواطر الشريرة ، قال تعالى : { فوسوس إليه الشيطان } [ طه : 120 ] ، ويشمل الوسواسُ كل من يتكلم كلاماً خفياً من الناس وهم أصحاب المكائد والمؤامرات المقصود منها إلحاق الأذى من اغتيال نفوس أو سرقة أموال أو إغراءٍ بالضلال والإِعراض عن الهدى ، لأن شأن مذاكرة هؤلاء بعضهم مع بعض أن تكون سِراً لئلا يطلع عليها من يريدون الإِيقاعَ به ، وهم الذين يتربصون برسول الله صلى الله عليه وسلم الدوائر ويغرون الناس بأذِيَّتِهِ .\n\u0001\nو { الخناس } : الشديد الخنْس والكثيرُه . والمراد أنه صار عادة له . والخنس والخنوس : الاختفاء . والشيطان يلقب ب { الخناس } لأنه يتصل بعقل الإِنسان وعزمه من غير شعور منه فكأنَّه خنس فيه ، وأهل المكر والكيد والتختل خنّاسون لأنهم يتحينون غفلات الناس ويتسترون بأنواع الحيل لكيلا يشعر الناس بهم .\nفالتعريف في { الخناس } على وزاننِ تعريف موصوفه ، ولأن خواطر الشر يهم بها صاحبها فيطرق ويتردد ويخاف تبعاتها وتزجره النفس اللّوامة ، أو يزَعه وازع الدين أو الحياء أو خوف العقاب عند الله أو عند الناس ثم تعاوده حتى يطمئن لها ويرتاض بها فيصمم على فعلها فيقترفها ، فكأنَّ الشيطان يبدو له ثم يختفي ، ثم يبدو ثم يختفي حتى يتمكن من تدليته بغرور .\nووُصِفَ { الوسواس الخناس } ب { الذي يوسوس في صدور الناس } لتقريب تصوير الوسوسة كي يتقيها المرء إذا اعترته لخفائها ، وذلك بأن بُيِّنَ أنَّ مكان إلقاء الوسوسة هو صدور الناس وبواطنهم فعبّر بها عن الإِحساس النفسي كما قال تعالى : { ولكن تعمى القلوب التي في الصدور } [ الحج : 46 ] وقال تعالى : { إن في صدورهم إلا كبر ما هم ببالغيه } [ غافر : 56 ] . وقال النبي صلى الله عليه وسلم \" الإثم ما حاك في الصدر وتردَّد في القلب \" فغاية الوسواس من وسوسته بثّها في نفس المغرور والمشبوككِ في فخّه ، فوسوسة الشياطين اتصالاتُ جاذبيه النفوس نحو دَاعية الشياطين . وقد قرَّبها النبي صلى الله عليه وسلم في آثار كثيرة بأنواع من التقريب منها : «أنها كالخراطيم يمدها الشيطان إلى قلب الإِنسان» وشبهها مرة بالنفث ، ومرة بالإِبْسَاس . وفي الحديث : \" إن الشيطان يجري من ابن آدم مجرى الدم وإني خشيت أن يقذف في قلوبكما \" .\nوإطلاق فعل { يوسوس } على هذا العمل الشيطاني مجاز إذ ليس للشيطان كلام في باطن الإِنسان . وأما إطلاقه على تسويل الإِنسان لغيره عملَ السوء فهو حقيقة . وتعلّق المجرور من قوله : { في صدور الناس } بفعل { يوسوس } بالنسبة لوسوسة الشيطان تعلق حقيقي ، وأما بالنسبة لوسوسة الناس فهو مجاز عقلي لأن وسوسة الناس سبب لوقوع أثرها في الصدور فكان في كلِّ من فعل { يوسوس } ومتعلِّقه استعمال اللفظين في الحقيقة والمجاز .\nو { مِن } في قوله : { من الجنة والناس } بيانية بينَتْ { الذي يوسوس في صدور الناس } بأنه جنس ينحلّ باعتبار إرادة حقيقته ، ومجازه إلى صنفين : صنف من الجنّة وهو أصله ، وصنف من الناس وما هو إلا تبع وولي للصنف الأول ، وجمَع الله هذين الصنفين في قوله : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن يوحي بعضهم إلى بعض زخرف القول غروراً } [ الأنعام : 112 ] .\nووجه الحاجة إلى هذا البيان خفاءُ ما ينجرّ من وسوسة نوع الإِنسان ، لأن الأمم اعتادوا أن يحذرهم المصلحون من وسوسة الشيطان ، وربما لا يخطر بالبال أن من الوسواس ما هو شر من وسواس الشياطين ، وهو وسوسة أهل نوعهم وهو أشد خطراً وهم بالتعوذ منهم أجدر ، لأنهم منهم أقرب وهو عليهم أخطر ، وأنهم في وسائل الضر أدخل وأقدر .\n\u0001\nولا يستقيم أن يكون { من } بياناً للناس إذ لا يطلق اسم { الناس } على ما يشمل الجن ومن زعم ذلك فقد أبْعَدَ .\nوقُدم { الجنة } على { الناس } هنا لأنهم أصل الوسواس كما علمت بخلاف تقديم الإنس على الجن في قوله تعالى : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن } [ الأنعام : 112 ] لأن خُبثاء الناس أشد مُخالطة للأنبياء من الشياطين ، لأن الله عصم أنبياءه من تسلط الشياطين على نفوسهم قال تعالى : { إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين } [ الحجر : 42 ] فإن الله أراد إبلاغ وحيه لأنبيائه فزكّى نفوسهم من خبث وسوسة الشياطين ، ولم يعصمهم من لحاق ضر الناس بهم والكيد لهم لضعف خطره ، قال تعالى : { وإذْ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله والله خير الماركين } [ الأنفال : 30 ] ولكنه ضمن لرسله النجاة من كل ما يقطع إبلاغ الرسالة إلى أن يتم مراد الله .\nوالجنة : اسم جمع جني بياء النسب إلى نوع الجن ، فالجني الواحد من نوع الجن كما يقال : إنسيّ للواحد من الإِنس .\nوتكرير كلمة { الناس } في هذه الآيات المرتين الأوليين باعتبار معنى واحد إظهارٌ في مقام الإِضمار لقصد تأكيد ربوبية الله تعالى ومِلكه وإلهيته للناس كلهم كقوله تعالى : { يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب } [ آل عمران : 78 ] .\nوأما تكريره المرة الثالثة بقوله : { في صدور الناس } فهو إظهار لأجل بُعد المعاد .\nوأما تكريره المرة الرابعة بقوله : { من الجنة والناس } فلأنه بيان لأحد صنفي الذي يوسوس في صدور الناس ، وذلك غير ما صَدْق كلمة { الناس } في المرّات السابقة .\nوالله يكفينا شر الفريقين ، وينفعنا بصالح الثقلين .\nتم تفسير «سورة الناس» وبه تم تفسير القرآن العظيم .\nيقول محمد الطاهر ابن عاشور : قد وفيتُ بما نويت ، وحقق الله ما ارتجيتُ فجئتُ بما سمح به الجُهد من بيان معاني القرآن ودقائق نظامه وخصائص بلاغته ، مما اقتَبس الذهنُ من أقوال الأيمة ، واقتدح من زَنْد لإِنارة الفكر وإلهاب الهمّة ، وقد جئتُ بما أرجو أن أكون وُفِّقْتُ فيه للإِبانة عن حقائقَ مغفوللٍ عنها ، ودقائق ربما جَلَتْ وجوهاً ولم تَجْلُ كُنْهاً ، فإن هذا مَنَال لا يبلغ العقلُ البشري إلى تمامه ، ومن رام ذلك فقد رام والجوزاءُ دون مَرامِهْ .\nوإن كلام رب الناس ، حقيق بأن يُخدم سَعياً على الرأس ، وما أدَّى هذا الحقَّ إلاّ قلَم المفسر يسعَى على القرطاس ، وإن قلمي طالما استَنَّ بشوط فسيح ، وكم زُجر عند الكَلاَللِ والإِعْيَاءِ زَجْر المَنيح ، وإذ قد أتى على التمام فقد حَقَّ له أن يستريح .\n\u0001\nEND OF 034.doc"
+        },
+        {
+          "source_book": "ibn_kathir",
+          "content": "Say: \"I seek refuge with the Lord of An-Nas, (1)\"The King of An-Nas, (2)\"The God of An-Nas, (3)\"From the evil of the whisperer who withdraws. (4)\"Who whispers in the breasts of An-Nas. (5)\"Of Jinn and An-Nas. (6)\n\nThese are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.\n\nIt is confirmed in the Sahih that he (the Prophet ﷺ) said,\n\nمَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ\n\n(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah?\" He replied,\n\nنَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ\n\n(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.)\n\nIt is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet ﷺ, they began walking swiftly. So, the Messenger of Allah ﷺ said,\n\nعَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ\n\n(Slow down! This is Safiyyah bint Huyay!)\n\nThey said, \"Glory be to Allah, O Messenger of Allah!\" He said,\n\nإِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا\n\n(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts – or he said – evil.)\n\nSa'id bin Jubayr reported that Ibn 'Abbas said concerning Allah's statement,\n\nالْوَسْوَاسِ الْخَنَّاسِ\n\n(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.\n\nAl-Mu'tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-'Awfi reported from Ibn 'Abbas;\n\nالْوَسْوَاسِ\n\n(The whisperer.)\n\n\"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and Jinns?\n\nThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.\n\nIbn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns)[referring to Quran 72:6] has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.)?\n\nThen, Allah explains this by saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,\n\nوَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا\n\n(And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.)(6:112)\n\nImam Ahmad recorded that Ibn 'Abbas said, \"A man came to the Prophet ﷺ and said, 'O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly).' The Prophet ﷺ said,\n\nاللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ\n\n(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\"\n\nAbu Dawud and An-Nasa'i also recorded this Hadith.\n\nThis is the end of the Tafsir. All praise and thanks are due to Allah, the Lord of all that exists."
+        },
+        {
+          "source_book": "saadi",
+          "content": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن [لهم] الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.\nفينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.\nوأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.\nوبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+        }
+      ],
+      "irab": "(قُلْ) أمر فاعله مستتر والجملة ابتدائية لا محل لها (أَعُوذُ) مضارع فاعله مستتر (بِرَبِّ) متعلقان بالفعل (النَّاسِ) مضاف إليه والجملة مقول القول."
+    },
+    {
+      "id": 6232,
+      "verse_number": 2,
+      "verse_key": "114:2",
+      "text_uthmani": null,
+      "translations": [
+        {
+          "text": "the King of mankind,",
+          "resource_id": 149
+        },
+        {
+          "text": "The Sovereign of mankind,",
+          "resource_id": 20
+        },
+        {
+          "text": "the Controller of people,",
+          "resource_id": 85
+        }
+      ],
+      "words": [
+        {
+          "id": 932,
+          "position": 1,
+          "audio_url": "wbw/114_002_001.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "مَلِكِ",
+          "text_imlaei": "مَلِكِ",
+          "location": "114:2:1",
+          "translation": {
+            "text": "(The) King",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "maliki",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "maliki",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:malik|ROOT:mlk|MS|GEN",
+              "arabic_root": "م ل ك"
+            }
+          ],
+          "root": "م ل ك"
+        },
+        {
+          "id": 933,
+          "position": 2,
+          "audio_url": "wbw/114_002_002.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلنَّاسِ",
+          "text_imlaei": "النَّاسِ",
+          "location": "114:2:2",
+          "translation": {
+            "text": "(of) mankind",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{l",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "n~aAsi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN",
+              "arabic_root": "ن و س"
+            }
+          ],
+          "root": "ن و س"
+        },
+        {
+          "id": 934,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "text_uthmani": "٢",
+          "text_imlaei": "٢",
+          "location": "114:2:3",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          },
+          "morphology": [],
+          "root": null
+        }
+      ],
+      "tafsirs": [
+        {
+          "source_book": "ibn_ashur",
+          "content": "شابهت فاتحتها فاتحة سورة الفلق إلا أن سورة الفلق تعوُّذ من شرور المخلوقات من حيوان وناس ، وسورة الناس تعوّذ من شرور مخلوقات خفيّة وهي الشياطين .\nوالقول في الأمر بالقول ، وفي المقول ، وفي أن الخطاب للنبيء صلى الله عليه وسلم والمقصود شموله أمته ، كالقول في نظيره من سورة الفلق سواء .\nوعُرِّف { رب } بإضافته إلى { الناس } دون غيرهم من المربوبين لأن الاستعاذة من شر يلقيه الشيطان في قلوب الناس فيَضِلُّون ويُضلون ، فالشر المستعاذ منه مصبه إلى الناس ، فناسب أن يُستحضر المستعاذُ إليه بعنوان أنه رب من يُلْقون الشر ومن يُلْقَى إليهم ليصرف هؤلاء ويدفع عن الآخرين كما يقال لمَولى العبد : يا مولَى فلان كُف عني عبدك .\nوقد رتبت أوصاف الله بالنسبة إلى الناس ترتيباً مدرَّجاً فإن الله خالقهم ، ثم هم غير خارجين عن حكمه إذا شاء أن يتصرف في شؤونهم ، ثم زيد بياناً بوصف إلهيته لهم ليتبين أن ربوبيته لهم وحاكميته فيهم ليست كربوبية بعضهم بعضاً وحاكمية بعضهم في بعض .\nوفي هذا الترتيب إشعار أيضاً بمراتب النظر في معرفة الله تعالى فإن الناظر يعلم بادىء ذي بدء بأن له رباً يسبب ما يشعُر به من وجود نفسه ، ونعمة تركيبه ، ثم يتغلغل في النظر فيَشعر بأن ربه هو المَلِكُ الحقُّ الغني عن الخلق ، ثم يعلم أنه المستحق للعبادة فهو إله الناس كلهم .\nو { ملك الناس } عطف بيان من { رب الناس } وكذلك { إله الناس } فتكرير لفظ { الناس } دون اكتفاء بضميره لأن عطف البيان يقتضي الإِظهار ليكون الاسم المبيِّن ( بكسر الياء ) مستقلاً بنفسه لأن عطف البيان بمنزلة علَم للاسم المبيَّن ( بالفتح ) .\nو { الناس } : اسم جمع للبشر جميعهم أو طائفة منهم ولا يطلق على غيرهم على التحقيق .\nو { الوسواس } : المتكلم بالوسوسة ، وهي الكلام الخفيّ ، قال رُؤبة يصف صائداً في قُتْرتِه\n: ... وَسْوَسَ يَدْعُو مُخلصاً ربَّ الفَلَقْ\nفالوسواس اسم فاعل ويطلق الوسواس بفتح الواو مجازاً على ما يخطر بنفس المرء من الخواطر التي يتوهمها مثل كلام يكلم به نفسه قال عُروة بن أذينة\n: ... وإذا وجَدْت لها وسَاوِسَ سَلوَةٍ\nشفَع الفؤادُ إلى الضمير فسَلَّها ... والتعريف في { الوسواس } تعريف الجنس وإطلاق { الوسواس } على معنييه المجازي والحقيقي يشمل الشياطين التي تلقي في أنفُس الناس الخواطر الشريرة ، قال تعالى : { فوسوس إليه الشيطان } [ طه : 120 ] ، ويشمل الوسواسُ كل من يتكلم كلاماً خفياً من الناس وهم أصحاب المكائد والمؤامرات المقصود منها إلحاق الأذى من اغتيال نفوس أو سرقة أموال أو إغراءٍ بالضلال والإِعراض عن الهدى ، لأن شأن مذاكرة هؤلاء بعضهم مع بعض أن تكون سِراً لئلا يطلع عليها من يريدون الإِيقاعَ به ، وهم الذين يتربصون برسول الله صلى الله عليه وسلم الدوائر ويغرون الناس بأذِيَّتِهِ .\n\u0001\nو { الخناس } : الشديد الخنْس والكثيرُه . والمراد أنه صار عادة له . والخنس والخنوس : الاختفاء . والشيطان يلقب ب { الخناس } لأنه يتصل بعقل الإِنسان وعزمه من غير شعور منه فكأنَّه خنس فيه ، وأهل المكر والكيد والتختل خنّاسون لأنهم يتحينون غفلات الناس ويتسترون بأنواع الحيل لكيلا يشعر الناس بهم .\nفالتعريف في { الخناس } على وزاننِ تعريف موصوفه ، ولأن خواطر الشر يهم بها صاحبها فيطرق ويتردد ويخاف تبعاتها وتزجره النفس اللّوامة ، أو يزَعه وازع الدين أو الحياء أو خوف العقاب عند الله أو عند الناس ثم تعاوده حتى يطمئن لها ويرتاض بها فيصمم على فعلها فيقترفها ، فكأنَّ الشيطان يبدو له ثم يختفي ، ثم يبدو ثم يختفي حتى يتمكن من تدليته بغرور .\nووُصِفَ { الوسواس الخناس } ب { الذي يوسوس في صدور الناس } لتقريب تصوير الوسوسة كي يتقيها المرء إذا اعترته لخفائها ، وذلك بأن بُيِّنَ أنَّ مكان إلقاء الوسوسة هو صدور الناس وبواطنهم فعبّر بها عن الإِحساس النفسي كما قال تعالى : { ولكن تعمى القلوب التي في الصدور } [ الحج : 46 ] وقال تعالى : { إن في صدورهم إلا كبر ما هم ببالغيه } [ غافر : 56 ] . وقال النبي صلى الله عليه وسلم \" الإثم ما حاك في الصدر وتردَّد في القلب \" فغاية الوسواس من وسوسته بثّها في نفس المغرور والمشبوككِ في فخّه ، فوسوسة الشياطين اتصالاتُ جاذبيه النفوس نحو دَاعية الشياطين . وقد قرَّبها النبي صلى الله عليه وسلم في آثار كثيرة بأنواع من التقريب منها : «أنها كالخراطيم يمدها الشيطان إلى قلب الإِنسان» وشبهها مرة بالنفث ، ومرة بالإِبْسَاس . وفي الحديث : \" إن الشيطان يجري من ابن آدم مجرى الدم وإني خشيت أن يقذف في قلوبكما \" .\nوإطلاق فعل { يوسوس } على هذا العمل الشيطاني مجاز إذ ليس للشيطان كلام في باطن الإِنسان . وأما إطلاقه على تسويل الإِنسان لغيره عملَ السوء فهو حقيقة . وتعلّق المجرور من قوله : { في صدور الناس } بفعل { يوسوس } بالنسبة لوسوسة الشيطان تعلق حقيقي ، وأما بالنسبة لوسوسة الناس فهو مجاز عقلي لأن وسوسة الناس سبب لوقوع أثرها في الصدور فكان في كلِّ من فعل { يوسوس } ومتعلِّقه استعمال اللفظين في الحقيقة والمجاز .\nو { مِن } في قوله : { من الجنة والناس } بيانية بينَتْ { الذي يوسوس في صدور الناس } بأنه جنس ينحلّ باعتبار إرادة حقيقته ، ومجازه إلى صنفين : صنف من الجنّة وهو أصله ، وصنف من الناس وما هو إلا تبع وولي للصنف الأول ، وجمَع الله هذين الصنفين في قوله : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن يوحي بعضهم إلى بعض زخرف القول غروراً } [ الأنعام : 112 ] .\nووجه الحاجة إلى هذا البيان خفاءُ ما ينجرّ من وسوسة نوع الإِنسان ، لأن الأمم اعتادوا أن يحذرهم المصلحون من وسوسة الشيطان ، وربما لا يخطر بالبال أن من الوسواس ما هو شر من وسواس الشياطين ، وهو وسوسة أهل نوعهم وهو أشد خطراً وهم بالتعوذ منهم أجدر ، لأنهم منهم أقرب وهو عليهم أخطر ، وأنهم في وسائل الضر أدخل وأقدر .\n\u0001\nولا يستقيم أن يكون { من } بياناً للناس إذ لا يطلق اسم { الناس } على ما يشمل الجن ومن زعم ذلك فقد أبْعَدَ .\nوقُدم { الجنة } على { الناس } هنا لأنهم أصل الوسواس كما علمت بخلاف تقديم الإنس على الجن في قوله تعالى : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن } [ الأنعام : 112 ] لأن خُبثاء الناس أشد مُخالطة للأنبياء من الشياطين ، لأن الله عصم أنبياءه من تسلط الشياطين على نفوسهم قال تعالى : { إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين } [ الحجر : 42 ] فإن الله أراد إبلاغ وحيه لأنبيائه فزكّى نفوسهم من خبث وسوسة الشياطين ، ولم يعصمهم من لحاق ضر الناس بهم والكيد لهم لضعف خطره ، قال تعالى : { وإذْ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله والله خير الماركين } [ الأنفال : 30 ] ولكنه ضمن لرسله النجاة من كل ما يقطع إبلاغ الرسالة إلى أن يتم مراد الله .\nوالجنة : اسم جمع جني بياء النسب إلى نوع الجن ، فالجني الواحد من نوع الجن كما يقال : إنسيّ للواحد من الإِنس .\nوتكرير كلمة { الناس } في هذه الآيات المرتين الأوليين باعتبار معنى واحد إظهارٌ في مقام الإِضمار لقصد تأكيد ربوبية الله تعالى ومِلكه وإلهيته للناس كلهم كقوله تعالى : { يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب } [ آل عمران : 78 ] .\nوأما تكريره المرة الثالثة بقوله : { في صدور الناس } فهو إظهار لأجل بُعد المعاد .\nوأما تكريره المرة الرابعة بقوله : { من الجنة والناس } فلأنه بيان لأحد صنفي الذي يوسوس في صدور الناس ، وذلك غير ما صَدْق كلمة { الناس } في المرّات السابقة .\nوالله يكفينا شر الفريقين ، وينفعنا بصالح الثقلين .\nتم تفسير «سورة الناس» وبه تم تفسير القرآن العظيم .\nيقول محمد الطاهر ابن عاشور : قد وفيتُ بما نويت ، وحقق الله ما ارتجيتُ فجئتُ بما سمح به الجُهد من بيان معاني القرآن ودقائق نظامه وخصائص بلاغته ، مما اقتَبس الذهنُ من أقوال الأيمة ، واقتدح من زَنْد لإِنارة الفكر وإلهاب الهمّة ، وقد جئتُ بما أرجو أن أكون وُفِّقْتُ فيه للإِبانة عن حقائقَ مغفوللٍ عنها ، ودقائق ربما جَلَتْ وجوهاً ولم تَجْلُ كُنْهاً ، فإن هذا مَنَال لا يبلغ العقلُ البشري إلى تمامه ، ومن رام ذلك فقد رام والجوزاءُ دون مَرامِهْ .\nوإن كلام رب الناس ، حقيق بأن يُخدم سَعياً على الرأس ، وما أدَّى هذا الحقَّ إلاّ قلَم المفسر يسعَى على القرطاس ، وإن قلمي طالما استَنَّ بشوط فسيح ، وكم زُجر عند الكَلاَللِ والإِعْيَاءِ زَجْر المَنيح ، وإذ قد أتى على التمام فقد حَقَّ له أن يستريح .\n\u0001\nEND OF 034.doc"
+        },
+        {
+          "source_book": "ibn_kathir",
+          "content": "Say: \"I seek refuge with the Lord of An-Nas, (1)\"The King of An-Nas, (2)\"The God of An-Nas, (3)\"From the evil of the whisperer who withdraws. (4)\"Who whispers in the breasts of An-Nas. (5)\"Of Jinn and An-Nas. (6)\n\nThese are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.\n\nIt is confirmed in the Sahih that he (the Prophet ﷺ) said,\n\nمَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ\n\n(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah?\" He replied,\n\nنَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ\n\n(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.)\n\nIt is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet ﷺ, they began walking swiftly. So, the Messenger of Allah ﷺ said,\n\nعَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ\n\n(Slow down! This is Safiyyah bint Huyay!)\n\nThey said, \"Glory be to Allah, O Messenger of Allah!\" He said,\n\nإِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا\n\n(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts – or he said – evil.)\n\nSa'id bin Jubayr reported that Ibn 'Abbas said concerning Allah's statement,\n\nالْوَسْوَاسِ الْخَنَّاسِ\n\n(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.\n\nAl-Mu'tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-'Awfi reported from Ibn 'Abbas;\n\nالْوَسْوَاسِ\n\n(The whisperer.)\n\n\"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and Jinns?\n\nThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.\n\nIbn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns)[referring to Quran 72:6] has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.)?\n\nThen, Allah explains this by saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,\n\nوَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا\n\n(And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.)(6:112)\n\nImam Ahmad recorded that Ibn 'Abbas said, \"A man came to the Prophet ﷺ and said, 'O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly).' The Prophet ﷺ said,\n\nاللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ\n\n(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\"\n\nAbu Dawud and An-Nasa'i also recorded this Hadith.\n\nThis is the end of the Tafsir. All praise and thanks are due to Allah, the Lord of all that exists."
+        },
+        {
+          "source_book": "saadi",
+          "content": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن [لهم] الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.\nفينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.\nوأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.\nوبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+        }
+      ],
+      "irab": "(مَلِكِ) بدل من رب (النَّاسِ) مضاف إليه."
+    },
+    {
+      "id": 6233,
+      "verse_number": 3,
+      "verse_key": "114:3",
+      "text_uthmani": null,
+      "translations": [
+        {
+          "text": "the God of mankind,",
+          "resource_id": 149
+        },
+        {
+          "text": "The God of mankind,",
+          "resource_id": 20
+        },
+        {
+          "text": "the God of people,",
+          "resource_id": 85
+        }
+      ],
+      "words": [
+        {
+          "id": 2819,
+          "position": 1,
+          "audio_url": "wbw/114_003_001.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "إِلَـٰهِ",
+          "text_imlaei": "إِلَٰهِ",
+          "location": "114:3:1",
+          "translation": {
+            "text": "(The) God",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilāhi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "<ila`hi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:<ila`h|ROOT:Alh|MS|GEN",
+              "arabic_root": "أ ل ه"
+            }
+          ],
+          "root": "أ ل ه"
+        },
+        {
+          "id": 2820,
+          "position": 2,
+          "audio_url": "wbw/114_003_002.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلنَّاسِ",
+          "text_imlaei": "النَّاسِ",
+          "location": "114:3:2",
+          "translation": {
+            "text": "(of) mankind",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{l",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "n~aAsi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN",
+              "arabic_root": "ن و س"
+            }
+          ],
+          "root": "ن و س"
+        },
+        {
+          "id": 2821,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "text_uthmani": "٣",
+          "text_imlaei": "٣",
+          "location": "114:3:3",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          },
+          "morphology": [],
+          "root": null
+        }
+      ],
+      "tafsirs": [
+        {
+          "source_book": "ibn_ashur",
+          "content": "شابهت فاتحتها فاتحة سورة الفلق إلا أن سورة الفلق تعوُّذ من شرور المخلوقات من حيوان وناس ، وسورة الناس تعوّذ من شرور مخلوقات خفيّة وهي الشياطين .\nوالقول في الأمر بالقول ، وفي المقول ، وفي أن الخطاب للنبيء صلى الله عليه وسلم والمقصود شموله أمته ، كالقول في نظيره من سورة الفلق سواء .\nوعُرِّف { رب } بإضافته إلى { الناس } دون غيرهم من المربوبين لأن الاستعاذة من شر يلقيه الشيطان في قلوب الناس فيَضِلُّون ويُضلون ، فالشر المستعاذ منه مصبه إلى الناس ، فناسب أن يُستحضر المستعاذُ إليه بعنوان أنه رب من يُلْقون الشر ومن يُلْقَى إليهم ليصرف هؤلاء ويدفع عن الآخرين كما يقال لمَولى العبد : يا مولَى فلان كُف عني عبدك .\nوقد رتبت أوصاف الله بالنسبة إلى الناس ترتيباً مدرَّجاً فإن الله خالقهم ، ثم هم غير خارجين عن حكمه إذا شاء أن يتصرف في شؤونهم ، ثم زيد بياناً بوصف إلهيته لهم ليتبين أن ربوبيته لهم وحاكميته فيهم ليست كربوبية بعضهم بعضاً وحاكمية بعضهم في بعض .\nوفي هذا الترتيب إشعار أيضاً بمراتب النظر في معرفة الله تعالى فإن الناظر يعلم بادىء ذي بدء بأن له رباً يسبب ما يشعُر به من وجود نفسه ، ونعمة تركيبه ، ثم يتغلغل في النظر فيَشعر بأن ربه هو المَلِكُ الحقُّ الغني عن الخلق ، ثم يعلم أنه المستحق للعبادة فهو إله الناس كلهم .\nو { ملك الناس } عطف بيان من { رب الناس } وكذلك { إله الناس } فتكرير لفظ { الناس } دون اكتفاء بضميره لأن عطف البيان يقتضي الإِظهار ليكون الاسم المبيِّن ( بكسر الياء ) مستقلاً بنفسه لأن عطف البيان بمنزلة علَم للاسم المبيَّن ( بالفتح ) .\nو { الناس } : اسم جمع للبشر جميعهم أو طائفة منهم ولا يطلق على غيرهم على التحقيق .\nو { الوسواس } : المتكلم بالوسوسة ، وهي الكلام الخفيّ ، قال رُؤبة يصف صائداً في قُتْرتِه\n: ... وَسْوَسَ يَدْعُو مُخلصاً ربَّ الفَلَقْ\nفالوسواس اسم فاعل ويطلق الوسواس بفتح الواو مجازاً على ما يخطر بنفس المرء من الخواطر التي يتوهمها مثل كلام يكلم به نفسه قال عُروة بن أذينة\n: ... وإذا وجَدْت لها وسَاوِسَ سَلوَةٍ\nشفَع الفؤادُ إلى الضمير فسَلَّها ... والتعريف في { الوسواس } تعريف الجنس وإطلاق { الوسواس } على معنييه المجازي والحقيقي يشمل الشياطين التي تلقي في أنفُس الناس الخواطر الشريرة ، قال تعالى : { فوسوس إليه الشيطان } [ طه : 120 ] ، ويشمل الوسواسُ كل من يتكلم كلاماً خفياً من الناس وهم أصحاب المكائد والمؤامرات المقصود منها إلحاق الأذى من اغتيال نفوس أو سرقة أموال أو إغراءٍ بالضلال والإِعراض عن الهدى ، لأن شأن مذاكرة هؤلاء بعضهم مع بعض أن تكون سِراً لئلا يطلع عليها من يريدون الإِيقاعَ به ، وهم الذين يتربصون برسول الله صلى الله عليه وسلم الدوائر ويغرون الناس بأذِيَّتِهِ .\n\u0001\nو { الخناس } : الشديد الخنْس والكثيرُه . والمراد أنه صار عادة له . والخنس والخنوس : الاختفاء . والشيطان يلقب ب { الخناس } لأنه يتصل بعقل الإِنسان وعزمه من غير شعور منه فكأنَّه خنس فيه ، وأهل المكر والكيد والتختل خنّاسون لأنهم يتحينون غفلات الناس ويتسترون بأنواع الحيل لكيلا يشعر الناس بهم .\nفالتعريف في { الخناس } على وزاننِ تعريف موصوفه ، ولأن خواطر الشر يهم بها صاحبها فيطرق ويتردد ويخاف تبعاتها وتزجره النفس اللّوامة ، أو يزَعه وازع الدين أو الحياء أو خوف العقاب عند الله أو عند الناس ثم تعاوده حتى يطمئن لها ويرتاض بها فيصمم على فعلها فيقترفها ، فكأنَّ الشيطان يبدو له ثم يختفي ، ثم يبدو ثم يختفي حتى يتمكن من تدليته بغرور .\nووُصِفَ { الوسواس الخناس } ب { الذي يوسوس في صدور الناس } لتقريب تصوير الوسوسة كي يتقيها المرء إذا اعترته لخفائها ، وذلك بأن بُيِّنَ أنَّ مكان إلقاء الوسوسة هو صدور الناس وبواطنهم فعبّر بها عن الإِحساس النفسي كما قال تعالى : { ولكن تعمى القلوب التي في الصدور } [ الحج : 46 ] وقال تعالى : { إن في صدورهم إلا كبر ما هم ببالغيه } [ غافر : 56 ] . وقال النبي صلى الله عليه وسلم \" الإثم ما حاك في الصدر وتردَّد في القلب \" فغاية الوسواس من وسوسته بثّها في نفس المغرور والمشبوككِ في فخّه ، فوسوسة الشياطين اتصالاتُ جاذبيه النفوس نحو دَاعية الشياطين . وقد قرَّبها النبي صلى الله عليه وسلم في آثار كثيرة بأنواع من التقريب منها : «أنها كالخراطيم يمدها الشيطان إلى قلب الإِنسان» وشبهها مرة بالنفث ، ومرة بالإِبْسَاس . وفي الحديث : \" إن الشيطان يجري من ابن آدم مجرى الدم وإني خشيت أن يقذف في قلوبكما \" .\nوإطلاق فعل { يوسوس } على هذا العمل الشيطاني مجاز إذ ليس للشيطان كلام في باطن الإِنسان . وأما إطلاقه على تسويل الإِنسان لغيره عملَ السوء فهو حقيقة . وتعلّق المجرور من قوله : { في صدور الناس } بفعل { يوسوس } بالنسبة لوسوسة الشيطان تعلق حقيقي ، وأما بالنسبة لوسوسة الناس فهو مجاز عقلي لأن وسوسة الناس سبب لوقوع أثرها في الصدور فكان في كلِّ من فعل { يوسوس } ومتعلِّقه استعمال اللفظين في الحقيقة والمجاز .\nو { مِن } في قوله : { من الجنة والناس } بيانية بينَتْ { الذي يوسوس في صدور الناس } بأنه جنس ينحلّ باعتبار إرادة حقيقته ، ومجازه إلى صنفين : صنف من الجنّة وهو أصله ، وصنف من الناس وما هو إلا تبع وولي للصنف الأول ، وجمَع الله هذين الصنفين في قوله : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن يوحي بعضهم إلى بعض زخرف القول غروراً } [ الأنعام : 112 ] .\nووجه الحاجة إلى هذا البيان خفاءُ ما ينجرّ من وسوسة نوع الإِنسان ، لأن الأمم اعتادوا أن يحذرهم المصلحون من وسوسة الشيطان ، وربما لا يخطر بالبال أن من الوسواس ما هو شر من وسواس الشياطين ، وهو وسوسة أهل نوعهم وهو أشد خطراً وهم بالتعوذ منهم أجدر ، لأنهم منهم أقرب وهو عليهم أخطر ، وأنهم في وسائل الضر أدخل وأقدر .\n\u0001\nولا يستقيم أن يكون { من } بياناً للناس إذ لا يطلق اسم { الناس } على ما يشمل الجن ومن زعم ذلك فقد أبْعَدَ .\nوقُدم { الجنة } على { الناس } هنا لأنهم أصل الوسواس كما علمت بخلاف تقديم الإنس على الجن في قوله تعالى : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن } [ الأنعام : 112 ] لأن خُبثاء الناس أشد مُخالطة للأنبياء من الشياطين ، لأن الله عصم أنبياءه من تسلط الشياطين على نفوسهم قال تعالى : { إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين } [ الحجر : 42 ] فإن الله أراد إبلاغ وحيه لأنبيائه فزكّى نفوسهم من خبث وسوسة الشياطين ، ولم يعصمهم من لحاق ضر الناس بهم والكيد لهم لضعف خطره ، قال تعالى : { وإذْ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله والله خير الماركين } [ الأنفال : 30 ] ولكنه ضمن لرسله النجاة من كل ما يقطع إبلاغ الرسالة إلى أن يتم مراد الله .\nوالجنة : اسم جمع جني بياء النسب إلى نوع الجن ، فالجني الواحد من نوع الجن كما يقال : إنسيّ للواحد من الإِنس .\nوتكرير كلمة { الناس } في هذه الآيات المرتين الأوليين باعتبار معنى واحد إظهارٌ في مقام الإِضمار لقصد تأكيد ربوبية الله تعالى ومِلكه وإلهيته للناس كلهم كقوله تعالى : { يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب } [ آل عمران : 78 ] .\nوأما تكريره المرة الثالثة بقوله : { في صدور الناس } فهو إظهار لأجل بُعد المعاد .\nوأما تكريره المرة الرابعة بقوله : { من الجنة والناس } فلأنه بيان لأحد صنفي الذي يوسوس في صدور الناس ، وذلك غير ما صَدْق كلمة { الناس } في المرّات السابقة .\nوالله يكفينا شر الفريقين ، وينفعنا بصالح الثقلين .\nتم تفسير «سورة الناس» وبه تم تفسير القرآن العظيم .\nيقول محمد الطاهر ابن عاشور : قد وفيتُ بما نويت ، وحقق الله ما ارتجيتُ فجئتُ بما سمح به الجُهد من بيان معاني القرآن ودقائق نظامه وخصائص بلاغته ، مما اقتَبس الذهنُ من أقوال الأيمة ، واقتدح من زَنْد لإِنارة الفكر وإلهاب الهمّة ، وقد جئتُ بما أرجو أن أكون وُفِّقْتُ فيه للإِبانة عن حقائقَ مغفوللٍ عنها ، ودقائق ربما جَلَتْ وجوهاً ولم تَجْلُ كُنْهاً ، فإن هذا مَنَال لا يبلغ العقلُ البشري إلى تمامه ، ومن رام ذلك فقد رام والجوزاءُ دون مَرامِهْ .\nوإن كلام رب الناس ، حقيق بأن يُخدم سَعياً على الرأس ، وما أدَّى هذا الحقَّ إلاّ قلَم المفسر يسعَى على القرطاس ، وإن قلمي طالما استَنَّ بشوط فسيح ، وكم زُجر عند الكَلاَللِ والإِعْيَاءِ زَجْر المَنيح ، وإذ قد أتى على التمام فقد حَقَّ له أن يستريح .\n\u0001\nEND OF 034.doc"
+        },
+        {
+          "source_book": "ibn_kathir",
+          "content": "Say: \"I seek refuge with the Lord of An-Nas, (1)\"The King of An-Nas, (2)\"The God of An-Nas, (3)\"From the evil of the whisperer who withdraws. (4)\"Who whispers in the breasts of An-Nas. (5)\"Of Jinn and An-Nas. (6)\n\nThese are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.\n\nIt is confirmed in the Sahih that he (the Prophet ﷺ) said,\n\nمَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ\n\n(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah?\" He replied,\n\nنَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ\n\n(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.)\n\nIt is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet ﷺ, they began walking swiftly. So, the Messenger of Allah ﷺ said,\n\nعَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ\n\n(Slow down! This is Safiyyah bint Huyay!)\n\nThey said, \"Glory be to Allah, O Messenger of Allah!\" He said,\n\nإِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا\n\n(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts – or he said – evil.)\n\nSa'id bin Jubayr reported that Ibn 'Abbas said concerning Allah's statement,\n\nالْوَسْوَاسِ الْخَنَّاسِ\n\n(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.\n\nAl-Mu'tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-'Awfi reported from Ibn 'Abbas;\n\nالْوَسْوَاسِ\n\n(The whisperer.)\n\n\"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and Jinns?\n\nThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.\n\nIbn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns)[referring to Quran 72:6] has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.)?\n\nThen, Allah explains this by saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,\n\nوَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا\n\n(And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.)(6:112)\n\nImam Ahmad recorded that Ibn 'Abbas said, \"A man came to the Prophet ﷺ and said, 'O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly).' The Prophet ﷺ said,\n\nاللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ\n\n(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\"\n\nAbu Dawud and An-Nasa'i also recorded this Hadith.\n\nThis is the end of the Tafsir. All praise and thanks are due to Allah, the Lord of all that exists."
+        },
+        {
+          "source_book": "saadi",
+          "content": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن [لهم] الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.\nفينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.\nوأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.\nوبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+        }
+      ],
+      "irab": "(إِلهِ) بدل من رب (النَّاسِ) مضاف إليه."
+    },
+    {
+      "id": 6234,
+      "verse_number": 4,
+      "verse_key": "114:4",
+      "text_uthmani": null,
+      "translations": [
+        {
+          "text": "from the evil of the sneaky whisperer",
+          "resource_id": 149
+        },
+        {
+          "text": "From the evil of the retreating whisperer<sup foot_note=197832>1</sup> -",
+          "resource_id": 20
+        },
+        {
+          "text": "against the harm of the slinking whisperer––",
+          "resource_id": 85
+        }
+      ],
+      "words": [
+        {
+          "id": 4131,
+          "position": 1,
+          "audio_url": "wbw/114_004_001.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "مِن",
+          "text_imlaei": "مِن",
+          "location": "114:4:1",
+          "translation": {
+            "text": "From",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "min",
+              "tag": "P",
+              "features": "STEM|POS:P|LEM:min",
+              "arabic_root": null
+            }
+          ],
+          "root": null
+        },
+        {
+          "id": 4132,
+          "position": 2,
+          "audio_url": "wbw/114_004_002.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "شَرِّ",
+          "text_imlaei": "شَرِّ",
+          "location": "114:4:2",
+          "translation": {
+            "text": "(the) evil",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "sharri",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "$ar~i",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN",
+              "arabic_root": "ش ر ر"
+            }
+          ],
+          "root": "ش ر ر"
+        },
+        {
+          "id": 4133,
+          "position": 3,
+          "audio_url": "wbw/114_004_003.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلْوَسْوَاسِ",
+          "text_imlaei": "الْوَسْوَاسِ",
+          "location": "114:4:3",
+          "translation": {
+            "text": "(of) the whisperer",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-waswāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{lo",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "wasowaAsi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:wasowaAs|ROOT:wsws|MS|GEN",
+              "arabic_root": "و س و س"
+            }
+          ],
+          "root": "و س و س"
+        },
+        {
+          "id": 4134,
+          "position": 4,
+          "audio_url": "wbw/114_004_004.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلْخَنَّاسِ",
+          "text_imlaei": "الْخَنَّاسِ",
+          "location": "114:4:4",
+          "translation": {
+            "text": "the one who withdraws",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-khanāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{lo",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "xan~aAsi",
+              "tag": "ADJ",
+              "features": "STEM|POS:ADJ|LEM:xan~aAs|ROOT:xns|MS|GEN",
+              "arabic_root": "خ ن س"
+            }
+          ],
+          "root": "خ ن س"
+        },
+        {
+          "id": 4135,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "text_uthmani": "٤",
+          "text_imlaei": "٤",
+          "location": "114:4:5",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          },
+          "morphology": [],
+          "root": null
+        }
+      ],
+      "tafsirs": [
+        {
+          "source_book": "ibn_ashur",
+          "content": "شابهت فاتحتها فاتحة سورة الفلق إلا أن سورة الفلق تعوُّذ من شرور المخلوقات من حيوان وناس ، وسورة الناس تعوّذ من شرور مخلوقات خفيّة وهي الشياطين .\nوالقول في الأمر بالقول ، وفي المقول ، وفي أن الخطاب للنبيء صلى الله عليه وسلم والمقصود شموله أمته ، كالقول في نظيره من سورة الفلق سواء .\nوعُرِّف { رب } بإضافته إلى { الناس } دون غيرهم من المربوبين لأن الاستعاذة من شر يلقيه الشيطان في قلوب الناس فيَضِلُّون ويُضلون ، فالشر المستعاذ منه مصبه إلى الناس ، فناسب أن يُستحضر المستعاذُ إليه بعنوان أنه رب من يُلْقون الشر ومن يُلْقَى إليهم ليصرف هؤلاء ويدفع عن الآخرين كما يقال لمَولى العبد : يا مولَى فلان كُف عني عبدك .\nوقد رتبت أوصاف الله بالنسبة إلى الناس ترتيباً مدرَّجاً فإن الله خالقهم ، ثم هم غير خارجين عن حكمه إذا شاء أن يتصرف في شؤونهم ، ثم زيد بياناً بوصف إلهيته لهم ليتبين أن ربوبيته لهم وحاكميته فيهم ليست كربوبية بعضهم بعضاً وحاكمية بعضهم في بعض .\nوفي هذا الترتيب إشعار أيضاً بمراتب النظر في معرفة الله تعالى فإن الناظر يعلم بادىء ذي بدء بأن له رباً يسبب ما يشعُر به من وجود نفسه ، ونعمة تركيبه ، ثم يتغلغل في النظر فيَشعر بأن ربه هو المَلِكُ الحقُّ الغني عن الخلق ، ثم يعلم أنه المستحق للعبادة فهو إله الناس كلهم .\nو { ملك الناس } عطف بيان من { رب الناس } وكذلك { إله الناس } فتكرير لفظ { الناس } دون اكتفاء بضميره لأن عطف البيان يقتضي الإِظهار ليكون الاسم المبيِّن ( بكسر الياء ) مستقلاً بنفسه لأن عطف البيان بمنزلة علَم للاسم المبيَّن ( بالفتح ) .\nو { الناس } : اسم جمع للبشر جميعهم أو طائفة منهم ولا يطلق على غيرهم على التحقيق .\nو { الوسواس } : المتكلم بالوسوسة ، وهي الكلام الخفيّ ، قال رُؤبة يصف صائداً في قُتْرتِه\n: ... وَسْوَسَ يَدْعُو مُخلصاً ربَّ الفَلَقْ\nفالوسواس اسم فاعل ويطلق الوسواس بفتح الواو مجازاً على ما يخطر بنفس المرء من الخواطر التي يتوهمها مثل كلام يكلم به نفسه قال عُروة بن أذينة\n: ... وإذا وجَدْت لها وسَاوِسَ سَلوَةٍ\nشفَع الفؤادُ إلى الضمير فسَلَّها ... والتعريف في { الوسواس } تعريف الجنس وإطلاق { الوسواس } على معنييه المجازي والحقيقي يشمل الشياطين التي تلقي في أنفُس الناس الخواطر الشريرة ، قال تعالى : { فوسوس إليه الشيطان } [ طه : 120 ] ، ويشمل الوسواسُ كل من يتكلم كلاماً خفياً من الناس وهم أصحاب المكائد والمؤامرات المقصود منها إلحاق الأذى من اغتيال نفوس أو سرقة أموال أو إغراءٍ بالضلال والإِعراض عن الهدى ، لأن شأن مذاكرة هؤلاء بعضهم مع بعض أن تكون سِراً لئلا يطلع عليها من يريدون الإِيقاعَ به ، وهم الذين يتربصون برسول الله صلى الله عليه وسلم الدوائر ويغرون الناس بأذِيَّتِهِ .\n\u0001\nو { الخناس } : الشديد الخنْس والكثيرُه . والمراد أنه صار عادة له . والخنس والخنوس : الاختفاء . والشيطان يلقب ب { الخناس } لأنه يتصل بعقل الإِنسان وعزمه من غير شعور منه فكأنَّه خنس فيه ، وأهل المكر والكيد والتختل خنّاسون لأنهم يتحينون غفلات الناس ويتسترون بأنواع الحيل لكيلا يشعر الناس بهم .\nفالتعريف في { الخناس } على وزاننِ تعريف موصوفه ، ولأن خواطر الشر يهم بها صاحبها فيطرق ويتردد ويخاف تبعاتها وتزجره النفس اللّوامة ، أو يزَعه وازع الدين أو الحياء أو خوف العقاب عند الله أو عند الناس ثم تعاوده حتى يطمئن لها ويرتاض بها فيصمم على فعلها فيقترفها ، فكأنَّ الشيطان يبدو له ثم يختفي ، ثم يبدو ثم يختفي حتى يتمكن من تدليته بغرور .\nووُصِفَ { الوسواس الخناس } ب { الذي يوسوس في صدور الناس } لتقريب تصوير الوسوسة كي يتقيها المرء إذا اعترته لخفائها ، وذلك بأن بُيِّنَ أنَّ مكان إلقاء الوسوسة هو صدور الناس وبواطنهم فعبّر بها عن الإِحساس النفسي كما قال تعالى : { ولكن تعمى القلوب التي في الصدور } [ الحج : 46 ] وقال تعالى : { إن في صدورهم إلا كبر ما هم ببالغيه } [ غافر : 56 ] . وقال النبي صلى الله عليه وسلم \" الإثم ما حاك في الصدر وتردَّد في القلب \" فغاية الوسواس من وسوسته بثّها في نفس المغرور والمشبوككِ في فخّه ، فوسوسة الشياطين اتصالاتُ جاذبيه النفوس نحو دَاعية الشياطين . وقد قرَّبها النبي صلى الله عليه وسلم في آثار كثيرة بأنواع من التقريب منها : «أنها كالخراطيم يمدها الشيطان إلى قلب الإِنسان» وشبهها مرة بالنفث ، ومرة بالإِبْسَاس . وفي الحديث : \" إن الشيطان يجري من ابن آدم مجرى الدم وإني خشيت أن يقذف في قلوبكما \" .\nوإطلاق فعل { يوسوس } على هذا العمل الشيطاني مجاز إذ ليس للشيطان كلام في باطن الإِنسان . وأما إطلاقه على تسويل الإِنسان لغيره عملَ السوء فهو حقيقة . وتعلّق المجرور من قوله : { في صدور الناس } بفعل { يوسوس } بالنسبة لوسوسة الشيطان تعلق حقيقي ، وأما بالنسبة لوسوسة الناس فهو مجاز عقلي لأن وسوسة الناس سبب لوقوع أثرها في الصدور فكان في كلِّ من فعل { يوسوس } ومتعلِّقه استعمال اللفظين في الحقيقة والمجاز .\nو { مِن } في قوله : { من الجنة والناس } بيانية بينَتْ { الذي يوسوس في صدور الناس } بأنه جنس ينحلّ باعتبار إرادة حقيقته ، ومجازه إلى صنفين : صنف من الجنّة وهو أصله ، وصنف من الناس وما هو إلا تبع وولي للصنف الأول ، وجمَع الله هذين الصنفين في قوله : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن يوحي بعضهم إلى بعض زخرف القول غروراً } [ الأنعام : 112 ] .\nووجه الحاجة إلى هذا البيان خفاءُ ما ينجرّ من وسوسة نوع الإِنسان ، لأن الأمم اعتادوا أن يحذرهم المصلحون من وسوسة الشيطان ، وربما لا يخطر بالبال أن من الوسواس ما هو شر من وسواس الشياطين ، وهو وسوسة أهل نوعهم وهو أشد خطراً وهم بالتعوذ منهم أجدر ، لأنهم منهم أقرب وهو عليهم أخطر ، وأنهم في وسائل الضر أدخل وأقدر .\n\u0001\nولا يستقيم أن يكون { من } بياناً للناس إذ لا يطلق اسم { الناس } على ما يشمل الجن ومن زعم ذلك فقد أبْعَدَ .\nوقُدم { الجنة } على { الناس } هنا لأنهم أصل الوسواس كما علمت بخلاف تقديم الإنس على الجن في قوله تعالى : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن } [ الأنعام : 112 ] لأن خُبثاء الناس أشد مُخالطة للأنبياء من الشياطين ، لأن الله عصم أنبياءه من تسلط الشياطين على نفوسهم قال تعالى : { إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين } [ الحجر : 42 ] فإن الله أراد إبلاغ وحيه لأنبيائه فزكّى نفوسهم من خبث وسوسة الشياطين ، ولم يعصمهم من لحاق ضر الناس بهم والكيد لهم لضعف خطره ، قال تعالى : { وإذْ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله والله خير الماركين } [ الأنفال : 30 ] ولكنه ضمن لرسله النجاة من كل ما يقطع إبلاغ الرسالة إلى أن يتم مراد الله .\nوالجنة : اسم جمع جني بياء النسب إلى نوع الجن ، فالجني الواحد من نوع الجن كما يقال : إنسيّ للواحد من الإِنس .\nوتكرير كلمة { الناس } في هذه الآيات المرتين الأوليين باعتبار معنى واحد إظهارٌ في مقام الإِضمار لقصد تأكيد ربوبية الله تعالى ومِلكه وإلهيته للناس كلهم كقوله تعالى : { يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب } [ آل عمران : 78 ] .\nوأما تكريره المرة الثالثة بقوله : { في صدور الناس } فهو إظهار لأجل بُعد المعاد .\nوأما تكريره المرة الرابعة بقوله : { من الجنة والناس } فلأنه بيان لأحد صنفي الذي يوسوس في صدور الناس ، وذلك غير ما صَدْق كلمة { الناس } في المرّات السابقة .\nوالله يكفينا شر الفريقين ، وينفعنا بصالح الثقلين .\nتم تفسير «سورة الناس» وبه تم تفسير القرآن العظيم .\nيقول محمد الطاهر ابن عاشور : قد وفيتُ بما نويت ، وحقق الله ما ارتجيتُ فجئتُ بما سمح به الجُهد من بيان معاني القرآن ودقائق نظامه وخصائص بلاغته ، مما اقتَبس الذهنُ من أقوال الأيمة ، واقتدح من زَنْد لإِنارة الفكر وإلهاب الهمّة ، وقد جئتُ بما أرجو أن أكون وُفِّقْتُ فيه للإِبانة عن حقائقَ مغفوللٍ عنها ، ودقائق ربما جَلَتْ وجوهاً ولم تَجْلُ كُنْهاً ، فإن هذا مَنَال لا يبلغ العقلُ البشري إلى تمامه ، ومن رام ذلك فقد رام والجوزاءُ دون مَرامِهْ .\nوإن كلام رب الناس ، حقيق بأن يُخدم سَعياً على الرأس ، وما أدَّى هذا الحقَّ إلاّ قلَم المفسر يسعَى على القرطاس ، وإن قلمي طالما استَنَّ بشوط فسيح ، وكم زُجر عند الكَلاَللِ والإِعْيَاءِ زَجْر المَنيح ، وإذ قد أتى على التمام فقد حَقَّ له أن يستريح .\n\u0001\nEND OF 034.doc"
+        },
+        {
+          "source_book": "ibn_kathir",
+          "content": "Say: \"I seek refuge with the Lord of An-Nas, (1)\"The King of An-Nas, (2)\"The God of An-Nas, (3)\"From the evil of the whisperer who withdraws. (4)\"Who whispers in the breasts of An-Nas. (5)\"Of Jinn and An-Nas. (6)\n\nThese are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.\n\nIt is confirmed in the Sahih that he (the Prophet ﷺ) said,\n\nمَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ\n\n(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah?\" He replied,\n\nنَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ\n\n(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.)\n\nIt is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet ﷺ, they began walking swiftly. So, the Messenger of Allah ﷺ said,\n\nعَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ\n\n(Slow down! This is Safiyyah bint Huyay!)\n\nThey said, \"Glory be to Allah, O Messenger of Allah!\" He said,\n\nإِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا\n\n(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts – or he said – evil.)\n\nSa'id bin Jubayr reported that Ibn 'Abbas said concerning Allah's statement,\n\nالْوَسْوَاسِ الْخَنَّاسِ\n\n(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.\n\nAl-Mu'tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-'Awfi reported from Ibn 'Abbas;\n\nالْوَسْوَاسِ\n\n(The whisperer.)\n\n\"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and Jinns?\n\nThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.\n\nIbn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns)[referring to Quran 72:6] has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.)?\n\nThen, Allah explains this by saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,\n\nوَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا\n\n(And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.)(6:112)\n\nImam Ahmad recorded that Ibn 'Abbas said, \"A man came to the Prophet ﷺ and said, 'O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly).' The Prophet ﷺ said,\n\nاللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ\n\n(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\"\n\nAbu Dawud and An-Nasa'i also recorded this Hadith.\n\nThis is the end of the Tafsir. All praise and thanks are due to Allah, the Lord of all that exists."
+        },
+        {
+          "source_book": "qurtubi",
+          "content": "سورة الناس\nتَنْبِيهًا عَلَى عِظَمِهِ، وَكَثْرَةِ ضَرَرِهِ. وَالْحَاسِدُ عَدُوُّ نِعْمَةِ اللَّهِ.\nقَالَ بَعْضُ الْحُكَمَاءِ:\nبَارَزَ الْحَاسِدُ رَبَّهُ مِنْ خَمْسَةِ أَوْجُهٍ: أَحَدُهَا- أَنَّهُ أَبْغَضَ كُلَّ نِعْمَةٍ ظَهَرَتْ عَلَى غَيْرِهِ. وَثَانِيهَا- أَنَّهُ سَاخِطٌ لِقِسْمَةِ رَبِّهِ،\nكَأَنَّهُ يَقُولُ:\nلِمَ قَسَمْتَ هَذِهِ الْقِسْمَةَ؟ وَثَالِثُهَا- أَنَّهُ ضَادَّ فِعْلَ اللَّهِ، أَيْ إِنَّ فَضْلَ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ، وَهُوَ يَبْخَلُ بِفَضْلِ اللَّهِ. وَرَابِعُهَا- أَنَّهُ خَذَلَ أَوْلِيَاءِ اللَّهِ، أَوْ يُرِيدُ خِذْلَانَهُمْ وَزَوَالَ النِّعْمَةِ عَنْهُمْ. وَخَامِسُهَا- أَنَّهُ أَعَانَ عَدُوَّهُ إِبْلِيسَ.\nوَقِيلَ:\nالْحَاسِدُ لَا يَنَالُ فِي الْمَجَالِسِ إِلَّا نَدَامَةً، وَلَا يَنَالُ عِنْدَ الْمَلَائِكَةِ إِلَّا لَعْنَةً وَبَغْضَاءَ، وَلَا يَنَالُ فِي الْخَلْوَةِ إِلَّا جَزَعًا وَغَمًّا، وَلَا يَنَالُ فِي الْآخِرَةِ إِلَّا حُزْنًا وَاحْتِرَاقًا، وَلَا يَنَالُ مِنَ اللَّهِ إِلَّا بُعْدًا وَمَقْتًا.\nوَرُوِيَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:\n(ثَلَاثَةٌ لَا يُسْتَجَابُ دُعَاؤُهُمْ: آكِلُ الْحَرَامِ، وَمُكْثِرُ الْغِيبَةِ، وَمَنْ كَانَ فِي قَلْبِهِ غِلٌّ أَوْ حَسَدٌ لِلْمُسْلِمِينَ)\n. وَاللَّهُ سُبْحَانَهُ وَتَعَالَى أَعْلَمُ.\n[تفسير سورة الناس]\nسُورَةُ\n\" النَّاسِ\"\nمِثْلُ\n\" الْفَلَقِ\"\nلِأَنَّهَا إِحْدَى الْمُعَوِّذَتَيْنِ.\nوَرَوَى التِّرْمِذِيُّ عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:\n(لَقَدْ أَنْزَلَ اللَّهُ عَلَيَّ آيَاتٍ لَمْ يُرَ مِثْلَهُنَّ: (قُلْ أَعُوذُ بِرَبِّ النَّاسِ)\nإِلَى آخِرِ السُّورَةِ وَ\n(قُلْ أَعُوذِ بِرَبِّ الْفَلَقِ)\nإِلَى آخِرِ السورة) \".\nقال:\nهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ. وَرَوَاهُ مُسْلِمٌ.\nبِسْمِ اللَّهِ الرَّحْمنِ الرَّحِيمِ\n[سورة الناس\n(١١٤)\n: الآيات ١ الى ٣]\nبِسْمِ اللَّهِ الرَّحْمنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ\n(١)\nمَلِكِ النَّاسِ\n(٢)\nإِلهِ النَّاسِ\n(٣)\nقَوْلُهُ تَعَالَى:\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ أَيْ مَالِكِهِمْ وَمُصْلِحِ أُمُورِهِمْ. وَإِنَّمَا ذَكَرَ أَنَّهُ رَبُّ النَّاسِ،\nوَإِنْ كَانَ رَبًّا لِجَمِيعِ الْخَلْقِ لِأَمْرَيْنِ:\nأَحَدُهُمَا: لِأَنَّ النَّاسَ مُعَظَّمُونَ، فَأَعْلَمَ بِذِكْرِهِمْ أَنَّهُ رَبٌّ لَهُمْ وَإِنْ عُظِّمُوا.\nالثَّانِي:\nلِأَنَّهُ أَمَرَ بِالِاسْتِعَاذَةِ مِنْ شَرِّهِمْ، فَأَعْلَمَ بِذِكْرِهِمْ\n\n=== صفحة 7450 ===\n\n\nتفسير سورة الناس\n\nأنه هو الذي يعيذ منهم.\nإنما قَالَ:\nمَلِكِ النَّاسِ إِلهِ النَّاسِ لِأَنَّ فِي النَّاسِ مُلُوكًا يَذْكُرُ أَنَّهُ مَلِكُهُمْ. وَفِي النَّاسِ مَنْ يَعْبُدُ غَيْرَهُ، فَذَكَرَ أَنَّهُ إِلَهُهُمْ وَمَعْبُودُهُمْ، وَأَنَّهُ الَّذِي يَجِبُ أَنْ يُسْتَعَاذَ بِهِ وَيُلْجَأَ إليه، دون الملوك والعظماء.\n[[سورة الناس\n(١١٤)\n: آية ٤]]\nمِنْ شَرِّ الْوَسْواسِ الْخَنَّاسِ\n(٤)\nيَعْنِي:\nمِنْ شَرِّ الشَّيْطَانِ.\nوَالْمَعْنَى:\nمِنْ شَرِّ ذِي الْوَسْوَاسِ، فَحَذَفَ الْمُضَافَ،\nقَالَهُ الْفَرَّاءُ:\nوَهُوَ\n(بِفَتْحِ الْوَاوِ)\nبِمَعْنَى الِاسْمِ، أَيِ الْمُوَسْوِسِ. وَ\n(بِكَسْرِ الْوَاوِ)\nالْمَصْدَرُ، يَعْنِي الْوَسْوَسَةَ. وَكَذَا الزَّلْزَالُ وَالزِّلْزَالُ.\nوَالْوَسْوَسَةُ:\nحَدِيثُ النَّفْسِ.\nيُقَالُ:\nوَسْوَسَتْ إِلَيْهِمْ نَفْسُهُ وَسْوَسَةً وَوِسْوَسَةً\n(بِكَسْرِ الْوَاوِ)\n.\nوَيُقَالُ لِهَمْسِ الصَّائِدِ وَالْكِلَابِ وَأَصْوَاتِ الْحَلْيِ:\nوَسْوَاسٌ.\nقال ذُو الرُّمَّةِ:\nفَبَاتَ يُشْئِزُهُ ثَأْدٌ وَيُسْهِرُهُ ... تَذَوُّبُ الرِّيحِ وَالْوَسْوَاسُ وَالْهِضَبُ\n«١»\nوَقَالَ الْأَعْشَى:\nتَسْمَعُ لِلْحَلْيِ وَسْوَاسًا إِذَا انْصَرَفَتْ ... كَمَا استعان بريخ عِشْرِقٌ زَجِلُ\n«٢»\nوَقِيلَ:\nإِنَّ الْوَسْوَاسَ الْخَنَّاسَ ابْنٌ لِإِبْلِيسَ، جَاءَ بِهِ إِلَى حَوَّاءَ،\nوَوَضَعَهُ بَيْنَ يَدَيْهَا وَقَالَ:\nاكْفُلِيهِ. فَجَاءَ آدَمُ [عَلَيْهِ السَّلَامُ\n«٣»\n] فَقَالَ: مَا هَذَا [يَا حَوَّاءُ\n«٤»\n]! قَالَتْ: جَاءَ عَدُوُّنَا بِهَذَا وَقَالَ لِي: اكْفُلِيهِ.\nفَقَالَ:\nأَلَمْ أقل لك لا تطيعيه في شي، هُوَ الَّذِي غَرَّنَا حَتَّى وَقَعْنَا فِي الْمَعْصِيَةِ؟ وَعَمَدَ إِلَى الْوَلَدِ فَقَطَعَهُ أَرْبَعَةَ أَرْبَاعٍ، وَعَلَّقَ كُلَّ رُبُعٍ عَلَى شَجَرَةٍ، غَيْظًا لَهُ،\nفَجَاءَ إِبْلِيسُ فَقَالَ:\nيَا حَوَّاءُ، أَيْنَ ابْنِي؟ فَأَخْبَرَتْهُ بِمَا صَنَعَ بِهِ آدَمُ\n[عَلَيْهِ السَّلَامُ]\nفَقَالَ: يَا خَنَّاسُ، فَحَيِيَ فَأَجَابَهُ.\nفَجَاءَ بِهِ إِلَى حَوَّاءَ وَقَالَ:\nاكْفُلِيهِ، فَجَاءَ آدَمُ\n[عَلَيْهِ السَّلَامُ]\nفحرقه بالنار، ودر رَمَادَهُ فِي الْبَحْرِ، فَجَاءَ إِبْلِيسُ\n[عَلَيْهِ اللَّعْنَةُ]\nفَقَالَ: يَا حَوَّاءُ، أَيْنَ ابْنِي؟ فَأَخْبَرَتْهُ بِفِعْلِ آدم إياه، فذهب\n(١). شئز الرجل: قلق من مرض أو هم. والثأد: الندى والقر والامر القبيح. وتذوب الريح: هبوبها من كل وجه وهو مأخوذ من خداع الذئب. والهضب (بكسر الهاء): الأمطار.\n(٢). العشرق (كزبرج): نبت له ورق فإذا يبس طار. ونبت زجل: صوتت فيه الريح.\n(٣). زيادة عن نوادر الأصول للترمذي الحكيم. [ ..... ]\n(٤). زيادة عن نوادر الأصول للترمذي الحكيم.\n\n=== صفحة 7451 ===\n\n\nتفسير سورة الناس\n\nإِلَى الْبَحْرِ،\nفَقَالَ:\nيَا خَنَّاسُ، فَحَيِيَ فَأَجَابَهُ. فَجَاءَ بِهِ إِلَى حَوَّاءَ الثَّالِثَةَ،\nوَقَالَ:\nاكْفُلِيهِ. فَنَظَرَ، إِلَيْهِ آدَمُ، فَذَبَحَهُ وَشَوَاهُ، وَأَكَلَاهُ جَمِيعًا. فَجَاءَ إِبْلِيسُ فَسَأَلَهَا فَأَخْبَرَتْهُ [حَوَّاءُ\n«١»\n].\nفَقَالَ:\nيَا خَنَّاسُ، فَحَيِيَ فَأَجَابَهُ\n[فَجَاءَ بِهِ]\nمِنْ جَوْفِ آدَمَ وَحَوَّاءَ.\nفَقَالَ إِبْلِيسُ:\nهَذَا الَّذِي أَرَدْتُ، وَهَذَا مَسْكَنُكَ فِي صَدْرِ وَلَدِ آدَمَ، فَهُوَ ملتقم قلب ابن آدَمَ مَا دَامَ غَافِلًا يُوَسْوِسُ، فَإِذَا ذَكَرَ اللَّهَ لَفَظَ قَلْبَهُ وَانْخَنَسَ. ذَكَرَ هَذَا الْخَبَرَ التِّرْمِذِيُّ الْحَكِيمُ فِي نَوَادِرِ الْأُصُولِ بِإِسْنَادٍ عَنْ وهب ابن مُنَبِّهٍ. وَمَا أَظُنُّهُ يَصِحُّ، وَاللَّهُ تَعَالَى أَعْلَمُ. ووصف بالخناس لأنه كثير الاختفاء،\nومنه قوله تعالى:\nفَلا أُقْسِمُ بِالْخُنَّسِ\n«٢»\n[التكوير: ١٥]\nيَعْنِي النُّجُومَ، لِاخْتِفَائِهَا بَعْدَ ظُهُورِهَا.\nوَقِيلَ:\nلِأَنَّهُ يَخْنِسُ إِذَا ذَكَرَ الْعَبْدُ اللَّهَ، أَيْ يَتَأَخَّرُ. وَفِي الْخَبَرِ\n[إِنَّ الشَّيْطَانَ جَاثِمٌ عَلَى قَلْبِ ابن آدم، ف إذا غفل وموس، وَإِذَا ذُكِرَ اللَّهُ خَنَسَ]\nأَيْ تَأَخَّرَ وَأَقْصَرَ.\nوَقَالَ قَتَادَةُ:\nالْخَنَّاسِ الشَّيْطَانُ لَهُ خُرْطُومٌ كَخُرْطُومِ الْكَلْبِ فِي صَدْرِ الْإِنْسَانِ، فَإِذَا غَفَلَ الْإِنْسَانُ\n«٣»\nوَسْوَسَ لَهُ، وَإِذَا ذَكَرَ الْعَبْدُ رَبَّهُ خَنَسَ.\nيُقَالُ:\nخَنَسْتُهُ فَخَنَسَ، أَيْ أَخَّرْتُهُ فَتَأَخَّرَ. وَأَخْنَسْتُهُ أَيْضًا. وَمِنْهُ قَوْلُ أَبِي الْعَلَاءِ الْحَضْرَمِيِّ-\nأَنْشَدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:\nوَأَنَّ دحسوا بالشر فاعف تكرما ... وإن خنسوا عند\n«٤»\nالْحَدِيثَ فَلَا تَسَلْ\nالدَّحْسُ:\nالْإِفْسَادُ.\nوَعَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:\n[إِنَّ الشَّيْطَانَ وَاضِعٌ خَطْمَهُ عَلَى قَلْبِ ابْنِ آدَمَ، فَإِذَا ذُكِرَ اللَّهُ خَنَسَ، وَإِذَا نُسِيَ اللَّهُ الْتَقَمَ قَلْبَهُ فَوَسْوَسَ]\n.\nوَقَالَ ابْنُ عَبَّاسٍ:\nإِذَا ذَكَرَ اللَّهَ الْعَبْدُ خَنَسَ مِنْ قَلْبِهِ فَذَهَبَ، وَإِذَا غَفَلَ الْتَقَمَ قَلْبَهُ فَحَدَّثَهُ وَمَنَّاهُ.\nوَقَالَ إِبْرَاهِيمُ التَّيْمِيُّ:\nأَوَّلُ مَا يَبْدُو الْوَسْوَاسُ مِنْ قِبَلِ الْوُضُوءِ.\nوَقِيلَ:\nسُمِّيَ خَنَّاسًا لِأَنَّهُ يَرْجِعُ إِذَا غَفَلَ الْعَبْدُ عَنْ ذِكْرِ اللَّهِ.\nوَالْخَنَسُ:\nالرُّجُوعُ.\nوَقَالَ الرَّاجِزُ:\nوَصَاحِبٍ يَمْتَعِسُ\n«٥»\nامتعاسا ... يزداد إن حييته\n«٦»\nخناسا\n(١). زيادة عن الترمذي الحكيم.\n(٢). آية ١٥ سورة التكوير.\n(٣). في نسخة من الأصل (ابن آدم).\n(٤). في اللسان: (عنك).\n(٥). يمتعس: يتحرك.\n(٦). في بعض الأصول (جتتته) وبعضها (جننته) وفي بعضها بدون إعجام.\n\n=== صفحة 7452 ===\n\n\nتفسير سورة الناس\n\nسورة الناس\nتَنْبِيهًا عَلَى عِظَمِهِ، وَكَثْرَةِ ضَرَرِهِ. وَالْحَاسِدُ عَدُوُّ نِعْمَةِ اللَّهِ.\nقَالَ بَعْضُ الْحُكَمَاءِ:\nبَارَزَ الْحَاسِدُ رَبَّهُ مِنْ خَمْسَةِ أَوْجُهٍ: أَحَدُهَا- أَنَّهُ أَبْغَضَ كُلَّ نِعْمَةٍ ظَهَرَتْ عَلَى غَيْرِهِ. وَثَانِيهَا- أَنَّهُ سَاخِطٌ لِقِسْمَةِ رَبِّهِ،\nكَأَنَّهُ يَقُولُ:\nلِمَ قَسَمْتَ هَذِهِ الْقِسْمَةَ؟ وَثَالِثُهَا- أَنَّهُ ضَادَّ فِعْلَ اللَّهِ، أَيْ إِنَّ فَضْلَ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ، وَهُوَ يَبْخَلُ بِفَضْلِ اللَّهِ. وَرَابِعُهَا- أَنَّهُ خَذَلَ أَوْلِيَاءِ اللَّهِ، أَوْ يُرِيدُ خِذْلَانَهُمْ وَزَوَالَ النِّعْمَةِ عَنْهُمْ. وَخَامِسُهَا- أَنَّهُ أَعَانَ عَدُوَّهُ إِبْلِيسَ.\nوَقِيلَ:\nالْحَاسِدُ لَا يَنَالُ فِي الْمَجَالِسِ إِلَّا نَدَامَةً، وَلَا يَنَالُ عِنْدَ الْمَلَائِكَةِ إِلَّا لَعْنَةً وَبَغْضَاءَ، وَلَا يَنَالُ فِي الْخَلْوَةِ إِلَّا جَزَعًا وَغَمًّا، وَلَا يَنَالُ فِي الْآخِرَةِ إِلَّا حُزْنًا وَاحْتِرَاقًا، وَلَا يَنَالُ مِنَ اللَّهِ إِلَّا بُعْدًا وَمَقْتًا.\nوَرُوِيَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:\n(ثَلَاثَةٌ لَا يُسْتَجَابُ دُعَاؤُهُمْ: آكِلُ الْحَرَامِ، وَمُكْثِرُ الْغِيبَةِ، وَمَنْ كَانَ فِي قَلْبِهِ غِلٌّ أَوْ حَسَدٌ لِلْمُسْلِمِينَ)\n. وَاللَّهُ سُبْحَانَهُ وَتَعَالَى أَعْلَمُ.\n[تفسير سورة الناس]\nسُورَةُ\n\" النَّاسِ\"\nمِثْلُ\n\" الْفَلَقِ\"\nلِأَنَّهَا إِحْدَى الْمُعَوِّذَتَيْنِ.\nوَرَوَى التِّرْمِذِيُّ عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:\n(لَقَدْ أَنْزَلَ اللَّهُ عَلَيَّ آيَاتٍ لَمْ يُرَ مِثْلَهُنَّ: (قُلْ أَعُوذُ بِرَبِّ النَّاسِ)\nإِلَى آخِرِ السُّورَةِ وَ\n(قُلْ أَعُوذِ بِرَبِّ الْفَلَقِ)\nإِلَى آخِرِ السورة) \".\nقال:\nهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ. وَرَوَاهُ مُسْلِمٌ.\nبِسْمِ اللَّهِ الرَّحْمنِ الرَّحِيمِ\n[سورة الناس\n(١١٤)\n: الآيات ١ الى ٣]\nبِسْمِ اللَّهِ الرَّحْمنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ\n(١)\nمَلِكِ النَّاسِ\n(٢)\nإِلهِ النَّاسِ\n(٣)\nقَوْلُهُ تَعَالَى:\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ أَيْ مَالِكِهِمْ وَمُصْلِحِ أُمُورِهِمْ. وَإِنَّمَا ذَكَرَ أَنَّهُ رَبُّ النَّاسِ،\nوَإِنْ كَانَ رَبًّا لِجَمِيعِ الْخَلْقِ لِأَمْرَيْنِ:\nأَحَدُهُمَا: لِأَنَّ النَّاسَ مُعَظَّمُونَ، فَأَعْلَمَ بِذِكْرِهِمْ أَنَّهُ رَبٌّ لَهُمْ وَإِنْ عُظِّمُوا.\nالثَّانِي:\nلِأَنَّهُ أَمَرَ بِالِاسْتِعَاذَةِ مِنْ شَرِّهِمْ، فَأَعْلَمَ بِذِكْرِهِمْ\n\n=== صفحة 7450 ===\n\n\nتفسير سورة الناس\n\nأنه هو الذي يعيذ منهم.\nإنما قَالَ:\nمَلِكِ النَّاسِ إِلهِ النَّاسِ لِأَنَّ فِي النَّاسِ مُلُوكًا يَذْكُرُ أَنَّهُ مَلِكُهُمْ. وَفِي النَّاسِ مَنْ يَعْبُدُ غَيْرَهُ، فَذَكَرَ أَنَّهُ إِلَهُهُمْ وَمَعْبُودُهُمْ، وَأَنَّهُ الَّذِي يَجِبُ أَنْ يُسْتَعَاذَ بِهِ وَيُلْجَأَ إليه، دون الملوك والعظماء.\n[[سورة الناس\n(١١٤)\n: آية ٤]]\nمِنْ شَرِّ الْوَسْواسِ الْخَنَّاسِ\n(٤)\nيَعْنِي:\nمِنْ شَرِّ الشَّيْطَانِ.\nوَالْمَعْنَى:\nمِنْ شَرِّ ذِي الْوَسْوَاسِ، فَحَذَفَ الْمُضَافَ،\nقَالَهُ الْفَرَّاءُ:\nوَهُوَ\n(بِفَتْحِ الْوَاوِ)\nبِمَعْنَى الِاسْمِ، أَيِ الْمُوَسْوِسِ. وَ\n(بِكَسْرِ الْوَاوِ)\nالْمَصْدَرُ، يَعْنِي الْوَسْوَسَةَ. وَكَذَا الزَّلْزَالُ وَالزِّلْزَالُ.\nوَالْوَسْوَسَةُ:\nحَدِيثُ النَّفْسِ.\nيُقَالُ:\nوَسْوَسَتْ إِلَيْهِمْ نَفْسُهُ وَسْوَسَةً وَوِسْوَسَةً\n(بِكَسْرِ الْوَاوِ)\n.\nوَيُقَالُ لِهَمْسِ الصَّائِدِ وَالْكِلَابِ وَأَصْوَاتِ الْحَلْيِ:\nوَسْوَاسٌ.\nقال ذُو الرُّمَّةِ:\nفَبَاتَ يُشْئِزُهُ ثَأْدٌ وَيُسْهِرُهُ ... تَذَوُّبُ الرِّيحِ وَالْوَسْوَاسُ وَالْهِضَبُ\n«١»\nوَقَالَ الْأَعْشَى:\nتَسْمَعُ لِلْحَلْيِ وَسْوَاسًا إِذَا انْصَرَفَتْ ... كَمَا استعان بريخ عِشْرِقٌ زَجِلُ\n«٢»\nوَقِيلَ:\nإِنَّ الْوَسْوَاسَ الْخَنَّاسَ ابْنٌ لِإِبْلِيسَ، جَاءَ بِهِ إِلَى حَوَّاءَ،\nوَوَضَعَهُ بَيْنَ يَدَيْهَا وَقَالَ:\nاكْفُلِيهِ. فَجَاءَ آدَمُ [عَلَيْهِ السَّلَامُ\n«٣»\n] فَقَالَ: مَا هَذَا [يَا حَوَّاءُ\n«٤»\n]! قَالَتْ: جَاءَ عَدُوُّنَا بِهَذَا وَقَالَ لِي: اكْفُلِيهِ.\nفَقَالَ:\nأَلَمْ أقل لك لا تطيعيه في شي، هُوَ الَّذِي غَرَّنَا حَتَّى وَقَعْنَا فِي الْمَعْصِيَةِ؟ وَعَمَدَ إِلَى الْوَلَدِ فَقَطَعَهُ أَرْبَعَةَ أَرْبَاعٍ، وَعَلَّقَ كُلَّ رُبُعٍ عَلَى شَجَرَةٍ، غَيْظًا لَهُ،\nفَجَاءَ إِبْلِيسُ فَقَالَ:\nيَا حَوَّاءُ، أَيْنَ ابْنِي؟ فَأَخْبَرَتْهُ بِمَا صَنَعَ بِهِ آدَمُ\n[عَلَيْهِ السَّلَامُ]\nفَقَالَ: يَا خَنَّاسُ، فَحَيِيَ فَأَجَابَهُ.\nفَجَاءَ بِهِ إِلَى حَوَّاءَ وَقَالَ:\nاكْفُلِيهِ، فَجَاءَ آدَمُ\n[عَلَيْهِ السَّلَامُ]\nفحرقه بالنار، ودر رَمَادَهُ فِي الْبَحْرِ، فَجَاءَ إِبْلِيسُ\n[عَلَيْهِ اللَّعْنَةُ]\nفَقَالَ: يَا حَوَّاءُ، أَيْنَ ابْنِي؟ فَأَخْبَرَتْهُ بِفِعْلِ آدم إياه، فذهب\n(١). شئز الرجل: قلق من مرض أو هم. والثأد: الندى والقر والامر القبيح. وتذوب الريح: هبوبها من كل وجه وهو مأخوذ من خداع الذئب. والهضب (بكسر الهاء): الأمطار.\n(٢). العشرق (كزبرج): نبت له ورق فإذا يبس طار. ونبت زجل: صوتت فيه الريح.\n(٣). زيادة عن نوادر الأصول للترمذي الحكيم. [ ..... ]\n(٤). زيادة عن نوادر الأصول للترمذي الحكيم.\n\n=== صفحة 7451 ===\n\n\nتفسير سورة الناس\n\nإِلَى الْبَحْرِ،\nفَقَالَ:\nيَا خَنَّاسُ، فَحَيِيَ فَأَجَابَهُ. فَجَاءَ بِهِ إِلَى حَوَّاءَ الثَّالِثَةَ،\nوَقَالَ:\nاكْفُلِيهِ. فَنَظَرَ، إِلَيْهِ آدَمُ، فَذَبَحَهُ وَشَوَاهُ، وَأَكَلَاهُ جَمِيعًا. فَجَاءَ إِبْلِيسُ فَسَأَلَهَا فَأَخْبَرَتْهُ [حَوَّاءُ\n«١»\n].\nفَقَالَ:\nيَا خَنَّاسُ، فَحَيِيَ فَأَجَابَهُ\n[فَجَاءَ بِهِ]\nمِنْ جَوْفِ آدَمَ وَحَوَّاءَ.\nفَقَالَ إِبْلِيسُ:\nهَذَا الَّذِي أَرَدْتُ، وَهَذَا مَسْكَنُكَ فِي صَدْرِ وَلَدِ آدَمَ، فَهُوَ ملتقم قلب ابن آدَمَ مَا دَامَ غَافِلًا يُوَسْوِسُ، فَإِذَا ذَكَرَ اللَّهَ لَفَظَ قَلْبَهُ وَانْخَنَسَ. ذَكَرَ هَذَا الْخَبَرَ التِّرْمِذِيُّ الْحَكِيمُ فِي نَوَادِرِ الْأُصُولِ بِإِسْنَادٍ عَنْ وهب ابن مُنَبِّهٍ. وَمَا أَظُنُّهُ يَصِحُّ، وَاللَّهُ تَعَالَى أَعْلَمُ. ووصف بالخناس لأنه كثير الاختفاء،\nومنه قوله تعالى:\nفَلا أُقْسِمُ بِالْخُنَّسِ\n«٢»\n[التكوير: ١٥]\nيَعْنِي النُّجُومَ، لِاخْتِفَائِهَا بَعْدَ ظُهُورِهَا.\nوَقِيلَ:\nلِأَنَّهُ يَخْنِسُ إِذَا ذَكَرَ الْعَبْدُ اللَّهَ، أَيْ يَتَأَخَّرُ. وَفِي الْخَبَرِ\n[إِنَّ الشَّيْطَانَ جَاثِمٌ عَلَى قَلْبِ ابن آدم، ف إذا غفل وموس، وَإِذَا ذُكِرَ اللَّهُ خَنَسَ]\nأَيْ تَأَخَّرَ وَأَقْصَرَ.\nوَقَالَ قَتَادَةُ:\nالْخَنَّاسِ الشَّيْطَانُ لَهُ خُرْطُومٌ كَخُرْطُومِ الْكَلْبِ فِي صَدْرِ الْإِنْسَانِ، فَإِذَا غَفَلَ الْإِنْسَانُ\n«٣»\nوَسْوَسَ لَهُ، وَإِذَا ذَكَرَ الْعَبْدُ رَبَّهُ خَنَسَ.\nيُقَالُ:\nخَنَسْتُهُ فَخَنَسَ، أَيْ أَخَّرْتُهُ فَتَأَخَّرَ. وَأَخْنَسْتُهُ أَيْضًا. وَمِنْهُ قَوْلُ أَبِي الْعَلَاءِ الْحَضْرَمِيِّ-\nأَنْشَدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:\nوَأَنَّ دحسوا بالشر فاعف تكرما ... وإن خنسوا عند\n«٤»\nالْحَدِيثَ فَلَا تَسَلْ\nالدَّحْسُ:\nالْإِفْسَادُ.\nوَعَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:\n[إِنَّ الشَّيْطَانَ وَاضِعٌ خَطْمَهُ عَلَى قَلْبِ ابْنِ آدَمَ، فَإِذَا ذُكِرَ اللَّهُ خَنَسَ، وَإِذَا نُسِيَ اللَّهُ الْتَقَمَ قَلْبَهُ فَوَسْوَسَ]\n.\nوَقَالَ ابْنُ عَبَّاسٍ:\nإِذَا ذَكَرَ اللَّهَ الْعَبْدُ خَنَسَ مِنْ قَلْبِهِ فَذَهَبَ، وَإِذَا غَفَلَ الْتَقَمَ قَلْبَهُ فَحَدَّثَهُ وَمَنَّاهُ.\nوَقَالَ إِبْرَاهِيمُ التَّيْمِيُّ:\nأَوَّلُ مَا يَبْدُو الْوَسْوَاسُ مِنْ قِبَلِ الْوُضُوءِ.\nوَقِيلَ:\nسُمِّيَ خَنَّاسًا لِأَنَّهُ يَرْجِعُ إِذَا غَفَلَ الْعَبْدُ عَنْ ذِكْرِ اللَّهِ.\nوَالْخَنَسُ:\nالرُّجُوعُ.\nوَقَالَ الرَّاجِزُ:\nوَصَاحِبٍ يَمْتَعِسُ\n«٥»\nامتعاسا ... يزداد إن حييته\n«٦»\nخناسا\n(١). زيادة عن الترمذي الحكيم.\n(٢). آية ١٥ سورة التكوير.\n(٣). في نسخة من الأصل (ابن آدم).\n(٤). في اللسان: (عنك).\n(٥). يمتعس: يتحرك.\n(٦). في بعض الأصول (جتتته) وبعضها (جننته) وفي بعضها بدون إعجام.\n\n=== صفحة 7452 ===\n\n\nتفسير سورة الناس"
+        },
+        {
+          "source_book": "saadi",
+          "content": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن [لهم] الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.\nفينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.\nوأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.\nوبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+        }
+      ],
+      "irab": "(مِنْ شَرِّ) الجار والمجرور متعلقان بأعوذ (الْوَسْواسِ) مضاف إليه (الْخَنَّاسِ) بدل من الوسواس."
+    },
+    {
+      "id": 6235,
+      "verse_number": 5,
+      "verse_key": "114:5",
+      "text_uthmani": null,
+      "translations": [
+        {
+          "text": "who whispers into the chests of mankind—",
+          "resource_id": 149
+        },
+        {
+          "text": "Who whispers [evil] into the breasts of mankind -",
+          "resource_id": 20
+        },
+        {
+          "text": "who whispers into the hearts of people––",
+          "resource_id": 85
+        }
+      ],
+      "words": [
+        {
+          "id": 5496,
+          "position": 1,
+          "audio_url": "wbw/114_005_001.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلَّذِى",
+          "text_imlaei": "الَّذِي",
+          "location": "114:5:1",
+          "translation": {
+            "text": "The one who",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alladhī",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{l~a*iY",
+              "tag": "REL",
+              "features": "STEM|POS:REL|LEM:{l~a*iY|MS",
+              "arabic_root": null
+            }
+          ],
+          "root": null
+        },
+        {
+          "id": 5497,
+          "position": 2,
+          "audio_url": "wbw/114_005_002.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "يُوَسْوِسُ",
+          "text_imlaei": "يُوَسْوِسُ",
+          "location": "114:5:2",
+          "translation": {
+            "text": "whispers",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yuwaswisu",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "yuwasowisu",
+              "tag": "V",
+              "features": "STEM|POS:V|IMPF|LEM:wasowasa|ROOT:wsws|3MS",
+              "arabic_root": "و س و س"
+            }
+          ],
+          "root": "و س و س"
+        },
+        {
+          "id": 5498,
+          "position": 3,
+          "audio_url": "wbw/114_005_003.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "فِى",
+          "text_imlaei": "فِي",
+          "location": "114:5:3",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "fiY",
+              "tag": "P",
+              "features": "STEM|POS:P|LEM:fiY",
+              "arabic_root": null
+            }
+          ],
+          "root": null
+        },
+        {
+          "id": 5499,
+          "position": 4,
+          "audio_url": "wbw/114_005_004.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "صُدُورِ",
+          "text_imlaei": "صُدُورِ",
+          "location": "114:5:4",
+          "translation": {
+            "text": "(the) breasts",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ṣudūri",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "Suduwri",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:Sador|ROOT:Sdr|MP|GEN",
+              "arabic_root": "ص د ر"
+            }
+          ],
+          "root": "ص د ر"
+        },
+        {
+          "id": 5500,
+          "position": 5,
+          "audio_url": "wbw/114_005_005.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلنَّاسِ",
+          "text_imlaei": "النَّاسِ",
+          "location": "114:5:5",
+          "translation": {
+            "text": "(of) mankind",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{l",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "n~aAsi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN",
+              "arabic_root": "ن و س"
+            }
+          ],
+          "root": "ن و س"
+        },
+        {
+          "id": 5501,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "text_uthmani": "٥",
+          "text_imlaei": "٥",
+          "location": "114:5:6",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          },
+          "morphology": [],
+          "root": null
+        }
+      ],
+      "tafsirs": [
+        {
+          "source_book": "ibn_ashur",
+          "content": "شابهت فاتحتها فاتحة سورة الفلق إلا أن سورة الفلق تعوُّذ من شرور المخلوقات من حيوان وناس ، وسورة الناس تعوّذ من شرور مخلوقات خفيّة وهي الشياطين .\nوالقول في الأمر بالقول ، وفي المقول ، وفي أن الخطاب للنبيء صلى الله عليه وسلم والمقصود شموله أمته ، كالقول في نظيره من سورة الفلق سواء .\nوعُرِّف { رب } بإضافته إلى { الناس } دون غيرهم من المربوبين لأن الاستعاذة من شر يلقيه الشيطان في قلوب الناس فيَضِلُّون ويُضلون ، فالشر المستعاذ منه مصبه إلى الناس ، فناسب أن يُستحضر المستعاذُ إليه بعنوان أنه رب من يُلْقون الشر ومن يُلْقَى إليهم ليصرف هؤلاء ويدفع عن الآخرين كما يقال لمَولى العبد : يا مولَى فلان كُف عني عبدك .\nوقد رتبت أوصاف الله بالنسبة إلى الناس ترتيباً مدرَّجاً فإن الله خالقهم ، ثم هم غير خارجين عن حكمه إذا شاء أن يتصرف في شؤونهم ، ثم زيد بياناً بوصف إلهيته لهم ليتبين أن ربوبيته لهم وحاكميته فيهم ليست كربوبية بعضهم بعضاً وحاكمية بعضهم في بعض .\nوفي هذا الترتيب إشعار أيضاً بمراتب النظر في معرفة الله تعالى فإن الناظر يعلم بادىء ذي بدء بأن له رباً يسبب ما يشعُر به من وجود نفسه ، ونعمة تركيبه ، ثم يتغلغل في النظر فيَشعر بأن ربه هو المَلِكُ الحقُّ الغني عن الخلق ، ثم يعلم أنه المستحق للعبادة فهو إله الناس كلهم .\nو { ملك الناس } عطف بيان من { رب الناس } وكذلك { إله الناس } فتكرير لفظ { الناس } دون اكتفاء بضميره لأن عطف البيان يقتضي الإِظهار ليكون الاسم المبيِّن ( بكسر الياء ) مستقلاً بنفسه لأن عطف البيان بمنزلة علَم للاسم المبيَّن ( بالفتح ) .\nو { الناس } : اسم جمع للبشر جميعهم أو طائفة منهم ولا يطلق على غيرهم على التحقيق .\nو { الوسواس } : المتكلم بالوسوسة ، وهي الكلام الخفيّ ، قال رُؤبة يصف صائداً في قُتْرتِه\n: ... وَسْوَسَ يَدْعُو مُخلصاً ربَّ الفَلَقْ\nفالوسواس اسم فاعل ويطلق الوسواس بفتح الواو مجازاً على ما يخطر بنفس المرء من الخواطر التي يتوهمها مثل كلام يكلم به نفسه قال عُروة بن أذينة\n: ... وإذا وجَدْت لها وسَاوِسَ سَلوَةٍ\nشفَع الفؤادُ إلى الضمير فسَلَّها ... والتعريف في { الوسواس } تعريف الجنس وإطلاق { الوسواس } على معنييه المجازي والحقيقي يشمل الشياطين التي تلقي في أنفُس الناس الخواطر الشريرة ، قال تعالى : { فوسوس إليه الشيطان } [ طه : 120 ] ، ويشمل الوسواسُ كل من يتكلم كلاماً خفياً من الناس وهم أصحاب المكائد والمؤامرات المقصود منها إلحاق الأذى من اغتيال نفوس أو سرقة أموال أو إغراءٍ بالضلال والإِعراض عن الهدى ، لأن شأن مذاكرة هؤلاء بعضهم مع بعض أن تكون سِراً لئلا يطلع عليها من يريدون الإِيقاعَ به ، وهم الذين يتربصون برسول الله صلى الله عليه وسلم الدوائر ويغرون الناس بأذِيَّتِهِ .\n\u0001\nو { الخناس } : الشديد الخنْس والكثيرُه . والمراد أنه صار عادة له . والخنس والخنوس : الاختفاء . والشيطان يلقب ب { الخناس } لأنه يتصل بعقل الإِنسان وعزمه من غير شعور منه فكأنَّه خنس فيه ، وأهل المكر والكيد والتختل خنّاسون لأنهم يتحينون غفلات الناس ويتسترون بأنواع الحيل لكيلا يشعر الناس بهم .\nفالتعريف في { الخناس } على وزاننِ تعريف موصوفه ، ولأن خواطر الشر يهم بها صاحبها فيطرق ويتردد ويخاف تبعاتها وتزجره النفس اللّوامة ، أو يزَعه وازع الدين أو الحياء أو خوف العقاب عند الله أو عند الناس ثم تعاوده حتى يطمئن لها ويرتاض بها فيصمم على فعلها فيقترفها ، فكأنَّ الشيطان يبدو له ثم يختفي ، ثم يبدو ثم يختفي حتى يتمكن من تدليته بغرور .\nووُصِفَ { الوسواس الخناس } ب { الذي يوسوس في صدور الناس } لتقريب تصوير الوسوسة كي يتقيها المرء إذا اعترته لخفائها ، وذلك بأن بُيِّنَ أنَّ مكان إلقاء الوسوسة هو صدور الناس وبواطنهم فعبّر بها عن الإِحساس النفسي كما قال تعالى : { ولكن تعمى القلوب التي في الصدور } [ الحج : 46 ] وقال تعالى : { إن في صدورهم إلا كبر ما هم ببالغيه } [ غافر : 56 ] . وقال النبي صلى الله عليه وسلم \" الإثم ما حاك في الصدر وتردَّد في القلب \" فغاية الوسواس من وسوسته بثّها في نفس المغرور والمشبوككِ في فخّه ، فوسوسة الشياطين اتصالاتُ جاذبيه النفوس نحو دَاعية الشياطين . وقد قرَّبها النبي صلى الله عليه وسلم في آثار كثيرة بأنواع من التقريب منها : «أنها كالخراطيم يمدها الشيطان إلى قلب الإِنسان» وشبهها مرة بالنفث ، ومرة بالإِبْسَاس . وفي الحديث : \" إن الشيطان يجري من ابن آدم مجرى الدم وإني خشيت أن يقذف في قلوبكما \" .\nوإطلاق فعل { يوسوس } على هذا العمل الشيطاني مجاز إذ ليس للشيطان كلام في باطن الإِنسان . وأما إطلاقه على تسويل الإِنسان لغيره عملَ السوء فهو حقيقة . وتعلّق المجرور من قوله : { في صدور الناس } بفعل { يوسوس } بالنسبة لوسوسة الشيطان تعلق حقيقي ، وأما بالنسبة لوسوسة الناس فهو مجاز عقلي لأن وسوسة الناس سبب لوقوع أثرها في الصدور فكان في كلِّ من فعل { يوسوس } ومتعلِّقه استعمال اللفظين في الحقيقة والمجاز .\nو { مِن } في قوله : { من الجنة والناس } بيانية بينَتْ { الذي يوسوس في صدور الناس } بأنه جنس ينحلّ باعتبار إرادة حقيقته ، ومجازه إلى صنفين : صنف من الجنّة وهو أصله ، وصنف من الناس وما هو إلا تبع وولي للصنف الأول ، وجمَع الله هذين الصنفين في قوله : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن يوحي بعضهم إلى بعض زخرف القول غروراً } [ الأنعام : 112 ] .\nووجه الحاجة إلى هذا البيان خفاءُ ما ينجرّ من وسوسة نوع الإِنسان ، لأن الأمم اعتادوا أن يحذرهم المصلحون من وسوسة الشيطان ، وربما لا يخطر بالبال أن من الوسواس ما هو شر من وسواس الشياطين ، وهو وسوسة أهل نوعهم وهو أشد خطراً وهم بالتعوذ منهم أجدر ، لأنهم منهم أقرب وهو عليهم أخطر ، وأنهم في وسائل الضر أدخل وأقدر .\n\u0001\nولا يستقيم أن يكون { من } بياناً للناس إذ لا يطلق اسم { الناس } على ما يشمل الجن ومن زعم ذلك فقد أبْعَدَ .\nوقُدم { الجنة } على { الناس } هنا لأنهم أصل الوسواس كما علمت بخلاف تقديم الإنس على الجن في قوله تعالى : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن } [ الأنعام : 112 ] لأن خُبثاء الناس أشد مُخالطة للأنبياء من الشياطين ، لأن الله عصم أنبياءه من تسلط الشياطين على نفوسهم قال تعالى : { إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين } [ الحجر : 42 ] فإن الله أراد إبلاغ وحيه لأنبيائه فزكّى نفوسهم من خبث وسوسة الشياطين ، ولم يعصمهم من لحاق ضر الناس بهم والكيد لهم لضعف خطره ، قال تعالى : { وإذْ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله والله خير الماركين } [ الأنفال : 30 ] ولكنه ضمن لرسله النجاة من كل ما يقطع إبلاغ الرسالة إلى أن يتم مراد الله .\nوالجنة : اسم جمع جني بياء النسب إلى نوع الجن ، فالجني الواحد من نوع الجن كما يقال : إنسيّ للواحد من الإِنس .\nوتكرير كلمة { الناس } في هذه الآيات المرتين الأوليين باعتبار معنى واحد إظهارٌ في مقام الإِضمار لقصد تأكيد ربوبية الله تعالى ومِلكه وإلهيته للناس كلهم كقوله تعالى : { يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب } [ آل عمران : 78 ] .\nوأما تكريره المرة الثالثة بقوله : { في صدور الناس } فهو إظهار لأجل بُعد المعاد .\nوأما تكريره المرة الرابعة بقوله : { من الجنة والناس } فلأنه بيان لأحد صنفي الذي يوسوس في صدور الناس ، وذلك غير ما صَدْق كلمة { الناس } في المرّات السابقة .\nوالله يكفينا شر الفريقين ، وينفعنا بصالح الثقلين .\nتم تفسير «سورة الناس» وبه تم تفسير القرآن العظيم .\nيقول محمد الطاهر ابن عاشور : قد وفيتُ بما نويت ، وحقق الله ما ارتجيتُ فجئتُ بما سمح به الجُهد من بيان معاني القرآن ودقائق نظامه وخصائص بلاغته ، مما اقتَبس الذهنُ من أقوال الأيمة ، واقتدح من زَنْد لإِنارة الفكر وإلهاب الهمّة ، وقد جئتُ بما أرجو أن أكون وُفِّقْتُ فيه للإِبانة عن حقائقَ مغفوللٍ عنها ، ودقائق ربما جَلَتْ وجوهاً ولم تَجْلُ كُنْهاً ، فإن هذا مَنَال لا يبلغ العقلُ البشري إلى تمامه ، ومن رام ذلك فقد رام والجوزاءُ دون مَرامِهْ .\nوإن كلام رب الناس ، حقيق بأن يُخدم سَعياً على الرأس ، وما أدَّى هذا الحقَّ إلاّ قلَم المفسر يسعَى على القرطاس ، وإن قلمي طالما استَنَّ بشوط فسيح ، وكم زُجر عند الكَلاَللِ والإِعْيَاءِ زَجْر المَنيح ، وإذ قد أتى على التمام فقد حَقَّ له أن يستريح .\n\u0001\nEND OF 034.doc"
+        },
+        {
+          "source_book": "ibn_kathir",
+          "content": "Say: \"I seek refuge with the Lord of An-Nas, (1)\"The King of An-Nas, (2)\"The God of An-Nas, (3)\"From the evil of the whisperer who withdraws. (4)\"Who whispers in the breasts of An-Nas. (5)\"Of Jinn and An-Nas. (6)\n\nThese are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.\n\nIt is confirmed in the Sahih that he (the Prophet ﷺ) said,\n\nمَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ\n\n(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah?\" He replied,\n\nنَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ\n\n(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.)\n\nIt is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet ﷺ, they began walking swiftly. So, the Messenger of Allah ﷺ said,\n\nعَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ\n\n(Slow down! This is Safiyyah bint Huyay!)\n\nThey said, \"Glory be to Allah, O Messenger of Allah!\" He said,\n\nإِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا\n\n(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts – or he said – evil.)\n\nSa'id bin Jubayr reported that Ibn 'Abbas said concerning Allah's statement,\n\nالْوَسْوَاسِ الْخَنَّاسِ\n\n(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.\n\nAl-Mu'tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-'Awfi reported from Ibn 'Abbas;\n\nالْوَسْوَاسِ\n\n(The whisperer.)\n\n\"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and Jinns?\n\nThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.\n\nIbn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns)[referring to Quran 72:6] has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.)?\n\nThen, Allah explains this by saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,\n\nوَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا\n\n(And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.)(6:112)\n\nImam Ahmad recorded that Ibn 'Abbas said, \"A man came to the Prophet ﷺ and said, 'O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly).' The Prophet ﷺ said,\n\nاللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ\n\n(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\"\n\nAbu Dawud and An-Nasa'i also recorded this Hadith.\n\nThis is the end of the Tafsir. All praise and thanks are due to Allah, the Lord of all that exists."
+        },
+        {
+          "source_book": "qurtubi",
+          "content": "وَقَدْ رَوَى ابْنُ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ تَعَالَى:\nالْوَسْواسِ الْخَنَّاسِ وَجْهَيْنِ: أَحَدُهُمَا- أَنَّهُ الرَّاجِعُ بِالْوَسْوَسَةِ عَنِ الْهُدَى.\nالثَّانِي:\nأَنَّهُ الخارج بالوسوسة من اليقين.\n[[سورة الناس\n(١١٤)\n: آية ٥]]\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n(٥)\nقَالَ مُقَاتِلٌ:\nإِنَّ الشَّيْطَانَ فِي صُورَةِ خِنْزِيرٍ، يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ فِي الْعُرُوق، سَلَّطَهُ اللَّهُ عَلَى ذَلِكَ،\nفَذَلِكَ قَوْلُهُ تَعَالَى:\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ.\nوَفِي الصَّحِيحِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:\n[أَنَّ الشَّيْطَانَ يَجْرِي مِنَ ابْنِ آدَمَ مَجْرَى الدَّمِ]\n. وَهَذَا يُصَحِّحُ مَا قَالَهُ مُقَاتِلٌ.\nوَرَوَى شَهْرُ بْنُ حَوْشَبٍ عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ قَالَ:\nسَأَلْتُ اللَّهَ أَنْ يُرِيَنِي الشَّيْطَانَ وَمَكَانَهُ مِنِ ابْنِ آدَمَ فَرَأَيْتُهُ، يَدَاهُ فِي يَدَيْهِ، وَرِجْلَاهُ فِي رِجْلَيْهِ، وَمَشَاعِبُهُ فِي جَسَدِهِ، غَيْرَ أَنَّ لَهُ خَطْمًا كَخَطْمِ الْكَلْبِ، فَإِذَا ذَكَرَ اللَّهَ خَنَسَ وَنَكَسَ، وَإِذَا سَكَتَ عَنْ ذِكْرِ اللَّهِ أَخَذَ بِقَلْبِهِ. فَعَلَى، مَا وَصَفَ أَبُو ثَعْلَبَةَ أَنَّهُ مُتَشَعِّبٌ فِي الْجَسَدِ، أَيْ فِي كُلِّ عُضْوٍ مِنْهُ شُعْبَةٌ. وَرُوِيَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ أَوْ غَيْرِهِ مِنَ التَّابِعِينَ أَنَّهُ قَالَ- وَقَدْ كَبِرَ سِنُّهُ-: مَا أَمِنْتُ الزِّنَى وَمَا يُؤْمِنُنِي أَنْ يُدْخِلَ الشَّيْطَانُ ذَكَرَهُ فَيُوْتِدَهُ! فَهَذَا الْقَوْلُ يُنَبِّئُكَ أَنَّهُ مُتَشَعِّبٌ فِي الْجَسَدِ، وَهَذَا مَعْنَى قَوْلِ مُقَاتِلٍ.\nوَوَسْوَسَتُهُ:\nهُوَ الدُّعَاءُ لِطَاعَتِهِ بِكَلَامٍ خَفِيٍّ، يَصِلُ مَفْهُومُهُ إِلَى الْقَلْبِ مِنْ غير سماع صوت.\n[[سورة الناس\n(١١٤)\n: آية ٦]]\nمِنَ الْجِنَّةِ وَالنَّاسِ\n(٦)\nأَخْبَرَ أَنَّ الْمُوَسْوِسَ قَدْ يَكُونُ مِنَ النَّاسِ.\nقَالَ الْحَسَنُ:\nهُمَا شَيْطَانَانِ، أَمَّا شَيْطَانُ الْجِنِّ فَيُوَسْوِسُ فِي صُدُورِ النَّاسِ، وَأَمَّا شَيْطَانُ الْإِنْسِ فَيَأْتِي عَلَانِيَةً.\nوَقَالَ قَتَادَةُ:\nإِنَّ مِنَ الْجِنِّ شَيَاطِينَ، وَإِنَّ مِنَ الْإِنْسِ شَيَاطِينَ، فَتَعَوَّذْ بِاللَّهِ مِنْ شَيَاطِينِ الْإِنْسِ وَالْجِنِّ.\nوَرُوِيَ عَنْ أَبِي ذَرٍّ أَنَّهُ قَالَ لِرَجُلٍ:\nهَلْ تَعَوَّذْتَ بِاللَّهِ مِنْ شَيَاطِينِ الْإِنْسِ؟\nفَقَالَ:\nأو من الْإِنْسِ شَيَاطِينُ؟\nقَالَ:\nنَعَمْ،\nلِقَوْلِهِ تَعَالَى:\nوَكَذلِكَ جَعَلْنا لِكُلِّ نَبِيٍّ عَدُوًّا شَياطِينَ\n«١»\nالْإِنْسِ وَالْجِنِّ\n[الانعام: ١١٢]\n... الْآيَةَ. وَذَهَبَ قَوْمٌ إِلَى أَنَّ النَّاسَ هُنَا يُرَادُ بِهِ الْجِنُّ.\nسُمُّوا نَاسًا كَمَا سُمُّوا رجالا في قوله:\nوَأَنَّهُ كانَ رِجالٌ مِنَ\n(١). آية ١١٢ من سورة الانعام.\n\n=== صفحة 7453 ===\n\n\nتفسير سورة الناس\n\nوَقَدْ رَوَى ابْنُ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ تَعَالَى:\nالْوَسْواسِ الْخَنَّاسِ وَجْهَيْنِ: أَحَدُهُمَا- أَنَّهُ الرَّاجِعُ بِالْوَسْوَسَةِ عَنِ الْهُدَى.\nالثَّانِي:\nأَنَّهُ الخارج بالوسوسة من اليقين.\n[[سورة الناس\n(١١٤)\n: آية ٥]]\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n(٥)\nقَالَ مُقَاتِلٌ:\nإِنَّ الشَّيْطَانَ فِي صُورَةِ خِنْزِيرٍ، يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ فِي الْعُرُوق، سَلَّطَهُ اللَّهُ عَلَى ذَلِكَ،\nفَذَلِكَ قَوْلُهُ تَعَالَى:\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ.\nوَفِي الصَّحِيحِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:\n[أَنَّ الشَّيْطَانَ يَجْرِي مِنَ ابْنِ آدَمَ مَجْرَى الدَّمِ]\n. وَهَذَا يُصَحِّحُ مَا قَالَهُ مُقَاتِلٌ.\nوَرَوَى شَهْرُ بْنُ حَوْشَبٍ عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ قَالَ:\nسَأَلْتُ اللَّهَ أَنْ يُرِيَنِي الشَّيْطَانَ وَمَكَانَهُ مِنِ ابْنِ آدَمَ فَرَأَيْتُهُ، يَدَاهُ فِي يَدَيْهِ، وَرِجْلَاهُ فِي رِجْلَيْهِ، وَمَشَاعِبُهُ فِي جَسَدِهِ، غَيْرَ أَنَّ لَهُ خَطْمًا كَخَطْمِ الْكَلْبِ، فَإِذَا ذَكَرَ اللَّهَ خَنَسَ وَنَكَسَ، وَإِذَا سَكَتَ عَنْ ذِكْرِ اللَّهِ أَخَذَ بِقَلْبِهِ. فَعَلَى، مَا وَصَفَ أَبُو ثَعْلَبَةَ أَنَّهُ مُتَشَعِّبٌ فِي الْجَسَدِ، أَيْ فِي كُلِّ عُضْوٍ مِنْهُ شُعْبَةٌ. وَرُوِيَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ أَوْ غَيْرِهِ مِنَ التَّابِعِينَ أَنَّهُ قَالَ- وَقَدْ كَبِرَ سِنُّهُ-: مَا أَمِنْتُ الزِّنَى وَمَا يُؤْمِنُنِي أَنْ يُدْخِلَ الشَّيْطَانُ ذَكَرَهُ فَيُوْتِدَهُ! فَهَذَا الْقَوْلُ يُنَبِّئُكَ أَنَّهُ مُتَشَعِّبٌ فِي الْجَسَدِ، وَهَذَا مَعْنَى قَوْلِ مُقَاتِلٍ.\nوَوَسْوَسَتُهُ:\nهُوَ الدُّعَاءُ لِطَاعَتِهِ بِكَلَامٍ خَفِيٍّ، يَصِلُ مَفْهُومُهُ إِلَى الْقَلْبِ مِنْ غير سماع صوت.\n[[سورة الناس\n(١١٤)\n: آية ٦]]\nمِنَ الْجِنَّةِ وَالنَّاسِ\n(٦)\nأَخْبَرَ أَنَّ الْمُوَسْوِسَ قَدْ يَكُونُ مِنَ النَّاسِ.\nقَالَ الْحَسَنُ:\nهُمَا شَيْطَانَانِ، أَمَّا شَيْطَانُ الْجِنِّ فَيُوَسْوِسُ فِي صُدُورِ النَّاسِ، وَأَمَّا شَيْطَانُ الْإِنْسِ فَيَأْتِي عَلَانِيَةً.\nوَقَالَ قَتَادَةُ:\nإِنَّ مِنَ الْجِنِّ شَيَاطِينَ، وَإِنَّ مِنَ الْإِنْسِ شَيَاطِينَ، فَتَعَوَّذْ بِاللَّهِ مِنْ شَيَاطِينِ الْإِنْسِ وَالْجِنِّ.\nوَرُوِيَ عَنْ أَبِي ذَرٍّ أَنَّهُ قَالَ لِرَجُلٍ:\nهَلْ تَعَوَّذْتَ بِاللَّهِ مِنْ شَيَاطِينِ الْإِنْسِ؟\nفَقَالَ:\nأو من الْإِنْسِ شَيَاطِينُ؟\nقَالَ:\nنَعَمْ،\nلِقَوْلِهِ تَعَالَى:\nوَكَذلِكَ جَعَلْنا لِكُلِّ نَبِيٍّ عَدُوًّا شَياطِينَ\n«١»\nالْإِنْسِ وَالْجِنِّ\n[الانعام: ١١٢]\n... الْآيَةَ. وَذَهَبَ قَوْمٌ إِلَى أَنَّ النَّاسَ هُنَا يُرَادُ بِهِ الْجِنُّ.\nسُمُّوا نَاسًا كَمَا سُمُّوا رجالا في قوله:\nوَأَنَّهُ كانَ رِجالٌ مِنَ\n(١). آية ١١٢ من سورة الانعام.\n\n=== صفحة 7453 ===\n\n\nتفسير سورة الناس"
+        },
+        {
+          "source_book": "saadi",
+          "content": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن [لهم] الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.\nفينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.\nوأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.\nوبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+        }
+      ],
+      "irab": "(الَّذِي) اسم موصول صفة الوسواس (يُوَسْوِسُ) مضارع فاعله مستتر والجملة صلة (فِي صُدُورِ) متعلقان بالفعل (النَّاسِ) مضاف إليه."
+    },
+    {
+      "id": 6236,
+      "verse_number": 6,
+      "verse_key": "114:6",
+      "text_uthmani": null,
+      "translations": [
+        {
+          "text": "<i class=\"s\">(from the whisperers) </i>among the race of unseen beings<sup foot_note=\"81506\">1</sup>and mankind.”",
+          "resource_id": 149
+        },
+        {
+          "text": "From among the jinn and mankind\".<sup foot_note=197833>1</sup>",
+          "resource_id": 20
+        },
+        {
+          "text": "whether they be jinn or people.’",
+          "resource_id": 85
+        }
+      ],
+      "words": [
+        {
+          "id": 6729,
+          "position": 1,
+          "audio_url": "wbw/114_006_001.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "مِنَ",
+          "text_imlaei": "مِنَ",
+          "location": "114:6:1",
+          "translation": {
+            "text": "From",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mina",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "mina",
+              "tag": "P",
+              "features": "STEM|POS:P|LEM:min",
+              "arabic_root": null
+            }
+          ],
+          "root": null
+        },
+        {
+          "id": 6730,
+          "position": 2,
+          "audio_url": "wbw/114_006_002.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "ٱلْجِنَّةِ",
+          "text_imlaei": "الْجِنَّةِ",
+          "location": "114:6:2",
+          "translation": {
+            "text": "the jinn",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-jinati",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "{lo",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "jin~api",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:jin~ap|ROOT:jnn|F|GEN",
+              "arabic_root": "ج ن ن"
+            }
+          ],
+          "root": "ج ن ن"
+        },
+        {
+          "id": 6731,
+          "position": 3,
+          "audio_url": "wbw/114_006_003.mp3",
+          "char_type_name": "word",
+          "text_uthmani": "وَٱلنَّاسِ",
+          "text_imlaei": "وَالنَّاسِ",
+          "location": "114:6:3",
+          "translation": {
+            "text": "and men",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-nāsi",
+            "language_name": "english"
+          },
+          "morphology": [
+            {
+              "part_id": 1,
+              "form": "wa",
+              "tag": "CONJ",
+              "features": "PREFIX|w:CONJ+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 2,
+              "form": "{l",
+              "tag": "DET",
+              "features": "PREFIX|Al+",
+              "arabic_root": null
+            },
+            {
+              "part_id": 3,
+              "form": "n~aAsi",
+              "tag": "N",
+              "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN",
+              "arabic_root": "ن و س"
+            }
+          ],
+          "root": "ن و س"
+        },
+        {
+          "id": 6732,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "text_uthmani": "٦",
+          "text_imlaei": "٦",
+          "location": "114:6:4",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          },
+          "morphology": [],
+          "root": null
+        }
+      ],
+      "tafsirs": [
+        {
+          "source_book": "ibn_ashur",
+          "content": "شابهت فاتحتها فاتحة سورة الفلق إلا أن سورة الفلق تعوُّذ من شرور المخلوقات من حيوان وناس ، وسورة الناس تعوّذ من شرور مخلوقات خفيّة وهي الشياطين .\nوالقول في الأمر بالقول ، وفي المقول ، وفي أن الخطاب للنبيء صلى الله عليه وسلم والمقصود شموله أمته ، كالقول في نظيره من سورة الفلق سواء .\nوعُرِّف { رب } بإضافته إلى { الناس } دون غيرهم من المربوبين لأن الاستعاذة من شر يلقيه الشيطان في قلوب الناس فيَضِلُّون ويُضلون ، فالشر المستعاذ منه مصبه إلى الناس ، فناسب أن يُستحضر المستعاذُ إليه بعنوان أنه رب من يُلْقون الشر ومن يُلْقَى إليهم ليصرف هؤلاء ويدفع عن الآخرين كما يقال لمَولى العبد : يا مولَى فلان كُف عني عبدك .\nوقد رتبت أوصاف الله بالنسبة إلى الناس ترتيباً مدرَّجاً فإن الله خالقهم ، ثم هم غير خارجين عن حكمه إذا شاء أن يتصرف في شؤونهم ، ثم زيد بياناً بوصف إلهيته لهم ليتبين أن ربوبيته لهم وحاكميته فيهم ليست كربوبية بعضهم بعضاً وحاكمية بعضهم في بعض .\nوفي هذا الترتيب إشعار أيضاً بمراتب النظر في معرفة الله تعالى فإن الناظر يعلم بادىء ذي بدء بأن له رباً يسبب ما يشعُر به من وجود نفسه ، ونعمة تركيبه ، ثم يتغلغل في النظر فيَشعر بأن ربه هو المَلِكُ الحقُّ الغني عن الخلق ، ثم يعلم أنه المستحق للعبادة فهو إله الناس كلهم .\nو { ملك الناس } عطف بيان من { رب الناس } وكذلك { إله الناس } فتكرير لفظ { الناس } دون اكتفاء بضميره لأن عطف البيان يقتضي الإِظهار ليكون الاسم المبيِّن ( بكسر الياء ) مستقلاً بنفسه لأن عطف البيان بمنزلة علَم للاسم المبيَّن ( بالفتح ) .\nو { الناس } : اسم جمع للبشر جميعهم أو طائفة منهم ولا يطلق على غيرهم على التحقيق .\nو { الوسواس } : المتكلم بالوسوسة ، وهي الكلام الخفيّ ، قال رُؤبة يصف صائداً في قُتْرتِه\n: ... وَسْوَسَ يَدْعُو مُخلصاً ربَّ الفَلَقْ\nفالوسواس اسم فاعل ويطلق الوسواس بفتح الواو مجازاً على ما يخطر بنفس المرء من الخواطر التي يتوهمها مثل كلام يكلم به نفسه قال عُروة بن أذينة\n: ... وإذا وجَدْت لها وسَاوِسَ سَلوَةٍ\nشفَع الفؤادُ إلى الضمير فسَلَّها ... والتعريف في { الوسواس } تعريف الجنس وإطلاق { الوسواس } على معنييه المجازي والحقيقي يشمل الشياطين التي تلقي في أنفُس الناس الخواطر الشريرة ، قال تعالى : { فوسوس إليه الشيطان } [ طه : 120 ] ، ويشمل الوسواسُ كل من يتكلم كلاماً خفياً من الناس وهم أصحاب المكائد والمؤامرات المقصود منها إلحاق الأذى من اغتيال نفوس أو سرقة أموال أو إغراءٍ بالضلال والإِعراض عن الهدى ، لأن شأن مذاكرة هؤلاء بعضهم مع بعض أن تكون سِراً لئلا يطلع عليها من يريدون الإِيقاعَ به ، وهم الذين يتربصون برسول الله صلى الله عليه وسلم الدوائر ويغرون الناس بأذِيَّتِهِ .\n\u0001\nو { الخناس } : الشديد الخنْس والكثيرُه . والمراد أنه صار عادة له . والخنس والخنوس : الاختفاء . والشيطان يلقب ب { الخناس } لأنه يتصل بعقل الإِنسان وعزمه من غير شعور منه فكأنَّه خنس فيه ، وأهل المكر والكيد والتختل خنّاسون لأنهم يتحينون غفلات الناس ويتسترون بأنواع الحيل لكيلا يشعر الناس بهم .\nفالتعريف في { الخناس } على وزاننِ تعريف موصوفه ، ولأن خواطر الشر يهم بها صاحبها فيطرق ويتردد ويخاف تبعاتها وتزجره النفس اللّوامة ، أو يزَعه وازع الدين أو الحياء أو خوف العقاب عند الله أو عند الناس ثم تعاوده حتى يطمئن لها ويرتاض بها فيصمم على فعلها فيقترفها ، فكأنَّ الشيطان يبدو له ثم يختفي ، ثم يبدو ثم يختفي حتى يتمكن من تدليته بغرور .\nووُصِفَ { الوسواس الخناس } ب { الذي يوسوس في صدور الناس } لتقريب تصوير الوسوسة كي يتقيها المرء إذا اعترته لخفائها ، وذلك بأن بُيِّنَ أنَّ مكان إلقاء الوسوسة هو صدور الناس وبواطنهم فعبّر بها عن الإِحساس النفسي كما قال تعالى : { ولكن تعمى القلوب التي في الصدور } [ الحج : 46 ] وقال تعالى : { إن في صدورهم إلا كبر ما هم ببالغيه } [ غافر : 56 ] . وقال النبي صلى الله عليه وسلم \" الإثم ما حاك في الصدر وتردَّد في القلب \" فغاية الوسواس من وسوسته بثّها في نفس المغرور والمشبوككِ في فخّه ، فوسوسة الشياطين اتصالاتُ جاذبيه النفوس نحو دَاعية الشياطين . وقد قرَّبها النبي صلى الله عليه وسلم في آثار كثيرة بأنواع من التقريب منها : «أنها كالخراطيم يمدها الشيطان إلى قلب الإِنسان» وشبهها مرة بالنفث ، ومرة بالإِبْسَاس . وفي الحديث : \" إن الشيطان يجري من ابن آدم مجرى الدم وإني خشيت أن يقذف في قلوبكما \" .\nوإطلاق فعل { يوسوس } على هذا العمل الشيطاني مجاز إذ ليس للشيطان كلام في باطن الإِنسان . وأما إطلاقه على تسويل الإِنسان لغيره عملَ السوء فهو حقيقة . وتعلّق المجرور من قوله : { في صدور الناس } بفعل { يوسوس } بالنسبة لوسوسة الشيطان تعلق حقيقي ، وأما بالنسبة لوسوسة الناس فهو مجاز عقلي لأن وسوسة الناس سبب لوقوع أثرها في الصدور فكان في كلِّ من فعل { يوسوس } ومتعلِّقه استعمال اللفظين في الحقيقة والمجاز .\nو { مِن } في قوله : { من الجنة والناس } بيانية بينَتْ { الذي يوسوس في صدور الناس } بأنه جنس ينحلّ باعتبار إرادة حقيقته ، ومجازه إلى صنفين : صنف من الجنّة وهو أصله ، وصنف من الناس وما هو إلا تبع وولي للصنف الأول ، وجمَع الله هذين الصنفين في قوله : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن يوحي بعضهم إلى بعض زخرف القول غروراً } [ الأنعام : 112 ] .\nووجه الحاجة إلى هذا البيان خفاءُ ما ينجرّ من وسوسة نوع الإِنسان ، لأن الأمم اعتادوا أن يحذرهم المصلحون من وسوسة الشيطان ، وربما لا يخطر بالبال أن من الوسواس ما هو شر من وسواس الشياطين ، وهو وسوسة أهل نوعهم وهو أشد خطراً وهم بالتعوذ منهم أجدر ، لأنهم منهم أقرب وهو عليهم أخطر ، وأنهم في وسائل الضر أدخل وأقدر .\n\u0001\nولا يستقيم أن يكون { من } بياناً للناس إذ لا يطلق اسم { الناس } على ما يشمل الجن ومن زعم ذلك فقد أبْعَدَ .\nوقُدم { الجنة } على { الناس } هنا لأنهم أصل الوسواس كما علمت بخلاف تقديم الإنس على الجن في قوله تعالى : { وكذلك جعلنا لكل نبيء عدواً شياطين الإنس والجن } [ الأنعام : 112 ] لأن خُبثاء الناس أشد مُخالطة للأنبياء من الشياطين ، لأن الله عصم أنبياءه من تسلط الشياطين على نفوسهم قال تعالى : { إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين } [ الحجر : 42 ] فإن الله أراد إبلاغ وحيه لأنبيائه فزكّى نفوسهم من خبث وسوسة الشياطين ، ولم يعصمهم من لحاق ضر الناس بهم والكيد لهم لضعف خطره ، قال تعالى : { وإذْ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله والله خير الماركين } [ الأنفال : 30 ] ولكنه ضمن لرسله النجاة من كل ما يقطع إبلاغ الرسالة إلى أن يتم مراد الله .\nوالجنة : اسم جمع جني بياء النسب إلى نوع الجن ، فالجني الواحد من نوع الجن كما يقال : إنسيّ للواحد من الإِنس .\nوتكرير كلمة { الناس } في هذه الآيات المرتين الأوليين باعتبار معنى واحد إظهارٌ في مقام الإِضمار لقصد تأكيد ربوبية الله تعالى ومِلكه وإلهيته للناس كلهم كقوله تعالى : { يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب } [ آل عمران : 78 ] .\nوأما تكريره المرة الثالثة بقوله : { في صدور الناس } فهو إظهار لأجل بُعد المعاد .\nوأما تكريره المرة الرابعة بقوله : { من الجنة والناس } فلأنه بيان لأحد صنفي الذي يوسوس في صدور الناس ، وذلك غير ما صَدْق كلمة { الناس } في المرّات السابقة .\nوالله يكفينا شر الفريقين ، وينفعنا بصالح الثقلين .\nتم تفسير «سورة الناس» وبه تم تفسير القرآن العظيم .\nيقول محمد الطاهر ابن عاشور : قد وفيتُ بما نويت ، وحقق الله ما ارتجيتُ فجئتُ بما سمح به الجُهد من بيان معاني القرآن ودقائق نظامه وخصائص بلاغته ، مما اقتَبس الذهنُ من أقوال الأيمة ، واقتدح من زَنْد لإِنارة الفكر وإلهاب الهمّة ، وقد جئتُ بما أرجو أن أكون وُفِّقْتُ فيه للإِبانة عن حقائقَ مغفوللٍ عنها ، ودقائق ربما جَلَتْ وجوهاً ولم تَجْلُ كُنْهاً ، فإن هذا مَنَال لا يبلغ العقلُ البشري إلى تمامه ، ومن رام ذلك فقد رام والجوزاءُ دون مَرامِهْ .\nوإن كلام رب الناس ، حقيق بأن يُخدم سَعياً على الرأس ، وما أدَّى هذا الحقَّ إلاّ قلَم المفسر يسعَى على القرطاس ، وإن قلمي طالما استَنَّ بشوط فسيح ، وكم زُجر عند الكَلاَللِ والإِعْيَاءِ زَجْر المَنيح ، وإذ قد أتى على التمام فقد حَقَّ له أن يستريح .\n\u0001\nEND OF 034.doc"
+        },
+        {
+          "source_book": "ibn_kathir",
+          "content": "Say: \"I seek refuge with the Lord of An-Nas, (1)\"The King of An-Nas, (2)\"The God of An-Nas, (3)\"From the evil of the whisperer who withdraws. (4)\"Who whispers in the breasts of An-Nas. (5)\"Of Jinn and An-Nas. (6)\n\nThese are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.\n\nIt is confirmed in the Sahih that he (the Prophet ﷺ) said,\n\nمَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ\n\n(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah?\" He replied,\n\nنَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ\n\n(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.)\n\nIt is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet ﷺ, they began walking swiftly. So, the Messenger of Allah ﷺ said,\n\nعَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ\n\n(Slow down! This is Safiyyah bint Huyay!)\n\nThey said, \"Glory be to Allah, O Messenger of Allah!\" He said,\n\nإِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا\n\n(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts – or he said – evil.)\n\nSa'id bin Jubayr reported that Ibn 'Abbas said concerning Allah's statement,\n\nالْوَسْوَاسِ الْخَنَّاسِ\n\n(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.\n\nAl-Mu'tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-'Awfi reported from Ibn 'Abbas;\n\nالْوَسْوَاسِ\n\n(The whisperer.)\n\n\"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and Jinns?\n\nThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.\n\nIbn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns)[referring to Quran 72:6] has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,\n\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n\n(Who whispers in the breasts of An-Nas.)?\n\nThen, Allah explains this by saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,\n\nمِنَ الْجِنَّةِ وَالنَّاسِ\n\n(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,\n\nوَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا\n\n(And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.)(6:112)\n\nImam Ahmad recorded that Ibn 'Abbas said, \"A man came to the Prophet ﷺ and said, 'O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly).' The Prophet ﷺ said,\n\nاللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ\n\n(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\"\n\nAbu Dawud and An-Nasa'i also recorded this Hadith.\n\nThis is the end of the Tafsir. All praise and thanks are due to Allah, the Lord of all that exists."
+        },
+        {
+          "source_book": "qurtubi",
+          "content": "الْإِنْسِ يَعُوذُونَ بِرِجالٍ مِنَ الْجِنِّ\n«١»\n[الْجِنِّ: ٦]\n- وَقَوْمًا وَنَفَرًا\n«٢»\n. فَعَلَى هَذَا يَكُونُ وَالنَّاسِ عَطْفًا عَلَى الْجِنَّةِ، وَيَكُونُ التَّكْرِيرُ لِاخْتِلَافِ اللَّفْظَيْنِ.\nوَذُكِرَ عَنْ بَعْضِ الْعَرَبِ أَنَّهُ قَالَ وَهُوَ يُحَدِّثُ:\nجَاءَ قَوْمٌ مِنَ الْجِنِّ فَوَقَفُوا.\nفَقِيلَ:\nمَنْ أَنْتُمْ؟\nفَقَالُوا:\nنَاسٌ مِنَ الْجِنِّ. وَهُوَ مَعْنَى قَوْلِ الْفَرَّاءِ.\nوَقِيلَ:\nالْوَسْوَاسُ هُوَ الشَّيْطَانُ.\nوَقَوْلُهُ:\nمِنَ الْجِنَّةِ بَيَانُ أَنَّهُ مِنَ الْجِنِّ وَالنَّاسِ مَعْطُوفٌ عَلَى الْوَسْوَاسِ.\nوَالْمَعْنَى:\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ مِنْ شَرِّ الْوَسْوَاسِ، الَّذِي هُوَ مِنَ الْجِنَّةِ، وَمِنْ شَرِّ النَّاسِ. فَعَلَى هَذَا أُمِرَ بِأَنْ يَسْتَعِيذَ مِنْ شَرِّ الْإِنْسِ وَالْجِنِّ.\nوَالْجِنَّةُ:\nجَمْعُ جِنِّيٍّ،\nكَمَا يُقَالُ:\nإِنْسٌ وَإِنْسِيٌّ. وَالْهَاءُ لِتَأْنِيثِ الْجَمَاعَةِ.\nوَقِيلَ:\nإِنَّ إِبْلِيسَ يُوَسْوِسُ فِي صُدُورِ الْجِنِّ، كَمَا يُوَسْوِسُ فِي صُدُورِ النَّاسِ. فَعَلَى هَذَا يَكُونُ فِي صُدُورِ النَّاسِ عاما في الجميع. ومِنَ الْجِنَّةِ وَالنَّاسِ بَيَانٌ لِمَا يُوَسْوِسُ فِي صَدْرِهِ.\nوَقِيلَ:\nمَعْنَى مِنْ شَرِّ الْوَسْواسِ أَيِ الْوَسْوَسَةِ الَّتِي تَكُونُ مِنَ الْجِنَّةِ وَالنَّاسِ، وَهُوَ حَدِيثُ النَّفْسِ.\nوَقَدْ ثَبَتَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ:\n[إِنَّ اللَّهَ عَزَّ وَجَلَّ تَجَاوَزَ لِأُمَّتِي عَمَّا حَدَّثَتْ بِهِ أَنْفُسَهَا مَا لَمْ تَعْمَلْ أَوْ تَتَكَلَّمْ بِهِ]\n. رَوَاهُ أَبُو هُرَيْرَةَ، أَخْرَجَهُ مُسْلِمٌ. فَاللَّهُ تَعَالَى أَعْلَمُ بالمراد من ذلك.\n(١). آية ٦ سورة الجن.\n(٢). وذلك في قَوْلُهُ تَعَالَى: (وَإِذْ صَرَفْنا إِلَيْكَ نَفَراً مِنَ الْجِنِّ ... ) آية ٢٩ سورة الأحقاف.\n\n=== صفحة 5607 ===\n\n\nتفسير سورة الصافات\n\nالْإِنْسِ يَعُوذُونَ بِرِجالٍ مِنَ الْجِنِّ\n«١»\n[الْجِنِّ: ٦]\n- وَقَوْمًا وَنَفَرًا\n«٢»\n. فَعَلَى هَذَا يَكُونُ وَالنَّاسِ عَطْفًا عَلَى الْجِنَّةِ، وَيَكُونُ التَّكْرِيرُ لِاخْتِلَافِ اللَّفْظَيْنِ.\nوَذُكِرَ عَنْ بَعْضِ الْعَرَبِ أَنَّهُ قَالَ وَهُوَ يُحَدِّثُ:\nجَاءَ قَوْمٌ مِنَ الْجِنِّ فَوَقَفُوا.\nفَقِيلَ:\nمَنْ أَنْتُمْ؟\nفَقَالُوا:\nنَاسٌ مِنَ الْجِنِّ. وَهُوَ مَعْنَى قَوْلِ الْفَرَّاءِ.\nوَقِيلَ:\nالْوَسْوَاسُ هُوَ الشَّيْطَانُ.\nوَقَوْلُهُ:\nمِنَ الْجِنَّةِ بَيَانُ أَنَّهُ مِنَ الْجِنِّ وَالنَّاسِ مَعْطُوفٌ عَلَى الْوَسْوَاسِ.\nوَالْمَعْنَى:\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ مِنْ شَرِّ الْوَسْوَاسِ، الَّذِي هُوَ مِنَ الْجِنَّةِ، وَمِنْ شَرِّ النَّاسِ. فَعَلَى هَذَا أُمِرَ بِأَنْ يَسْتَعِيذَ مِنْ شَرِّ الْإِنْسِ وَالْجِنِّ.\nوَالْجِنَّةُ:\nجَمْعُ جِنِّيٍّ،\nكَمَا يُقَالُ:\nإِنْسٌ وَإِنْسِيٌّ. وَالْهَاءُ لِتَأْنِيثِ الْجَمَاعَةِ.\nوَقِيلَ:\nإِنَّ إِبْلِيسَ يُوَسْوِسُ فِي صُدُورِ الْجِنِّ، كَمَا يُوَسْوِسُ فِي صُدُورِ النَّاسِ. فَعَلَى هَذَا يَكُونُ فِي صُدُورِ النَّاسِ عاما في الجميع. ومِنَ الْجِنَّةِ وَالنَّاسِ بَيَانٌ لِمَا يُوَسْوِسُ فِي صَدْرِهِ.\nوَقِيلَ:\nمَعْنَى مِنْ شَرِّ الْوَسْواسِ أَيِ الْوَسْوَسَةِ الَّتِي تَكُونُ مِنَ الْجِنَّةِ وَالنَّاسِ، وَهُوَ حَدِيثُ النَّفْسِ.\nوَقَدْ ثَبَتَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ:\n[إِنَّ اللَّهَ عَزَّ وَجَلَّ تَجَاوَزَ لِأُمَّتِي عَمَّا حَدَّثَتْ بِهِ أَنْفُسَهَا مَا لَمْ تَعْمَلْ أَوْ تَتَكَلَّمْ بِهِ]\n. رَوَاهُ أَبُو هُرَيْرَةَ، أَخْرَجَهُ مُسْلِمٌ. فَاللَّهُ تَعَالَى أَعْلَمُ بالمراد من ذلك.\n(١). آية ٦ سورة الجن.\n(٢). وذلك في قَوْلُهُ تَعَالَى: (وَإِذْ صَرَفْنا إِلَيْكَ نَفَراً مِنَ الْجِنِّ ... ) آية ٢٩ سورة الأحقاف.\n\n=== صفحة 5607 ===\n\n\nتفسير\n\nالْإِنْسِ يَعُوذُونَ بِرِجالٍ مِنَ الْجِنِّ\n«١»\n[الْجِنِّ: ٦]\n- وَقَوْمًا وَنَفَرًا\n«٢»\n. فَعَلَى هَذَا يَكُونُ وَالنَّاسِ عَطْفًا عَلَى الْجِنَّةِ، وَيَكُونُ التَّكْرِيرُ لِاخْتِلَافِ اللَّفْظَيْنِ.\nوَذُكِرَ عَنْ بَعْضِ الْعَرَبِ أَنَّهُ قَالَ وَهُوَ يُحَدِّثُ:\nجَاءَ قَوْمٌ مِنَ الْجِنِّ فَوَقَفُوا.\nفَقِيلَ:\nمَنْ أَنْتُمْ؟\nفَقَالُوا:\nنَاسٌ مِنَ الْجِنِّ. وَهُوَ مَعْنَى قَوْلِ الْفَرَّاءِ.\nوَقِيلَ:\nالْوَسْوَاسُ هُوَ الشَّيْطَانُ.\nوَقَوْلُهُ:\nمِنَ الْجِنَّةِ بَيَانُ أَنَّهُ مِنَ الْجِنِّ وَالنَّاسِ مَعْطُوفٌ عَلَى الْوَسْوَاسِ.\nوَالْمَعْنَى:\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ مِنْ شَرِّ الْوَسْوَاسِ، الَّذِي هُوَ مِنَ الْجِنَّةِ، وَمِنْ شَرِّ النَّاسِ. فَعَلَى هَذَا أُمِرَ بِأَنْ يَسْتَعِيذَ مِنْ شَرِّ الْإِنْسِ وَالْجِنِّ.\nوَالْجِنَّةُ:\nجَمْعُ جِنِّيٍّ،\nكَمَا يُقَالُ:\nإِنْسٌ وَإِنْسِيٌّ. وَالْهَاءُ لِتَأْنِيثِ الْجَمَاعَةِ.\nوَقِيلَ:\nإِنَّ إِبْلِيسَ يُوَسْوِسُ فِي صُدُورِ الْجِنِّ، كَمَا يُوَسْوِسُ فِي صُدُورِ النَّاسِ. فَعَلَى هَذَا يَكُونُ فِي صُدُورِ النَّاسِ عاما في الجميع. ومِنَ الْجِنَّةِ وَالنَّاسِ بَيَانٌ لِمَا يُوَسْوِسُ فِي صَدْرِهِ.\nوَقِيلَ:\nمَعْنَى مِنْ شَرِّ الْوَسْواسِ أَيِ الْوَسْوَسَةِ الَّتِي تَكُونُ مِنَ الْجِنَّةِ وَالنَّاسِ، وَهُوَ حَدِيثُ النَّفْسِ.\nوَقَدْ ثَبَتَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ:\n[إِنَّ اللَّهَ عَزَّ وَجَلَّ تَجَاوَزَ لِأُمَّتِي عَمَّا حَدَّثَتْ بِهِ أَنْفُسَهَا مَا لَمْ تَعْمَلْ أَوْ تَتَكَلَّمْ بِهِ]\n. رَوَاهُ أَبُو هُرَيْرَةَ، أَخْرَجَهُ مُسْلِمٌ. فَاللَّهُ تَعَالَى أَعْلَمُ بالمراد من ذلك.\n(١). آية ٦ سورة الجن.\n(٢). وذلك في قَوْلُهُ تَعَالَى: (وَإِذْ صَرَفْنا إِلَيْكَ نَفَراً مِنَ الْجِنِّ ... ) آية ٢٩ سورة الأحقاف."
+        },
+        {
+          "source_book": "saadi",
+          "content": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن [لهم] الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.\nفينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.\nوأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.\nوبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } .\nوالحمد لله رب العالمين أولًا وآخرًا، وظاهرًا وباطنًا.\nونسأله تعالى أن يتم نعمته، وأن يعفو عنا ذنوبًا لنا حالت  بيننا وبين كثير من بركاته، وخطايا وشهوات ذهبت بقلوبنا عن تدبر آياته.\nونرجوه ونأمل منه أن لا يحرمنا خير ما عنده بشر ما عندنا، فإنه لا ييأس من روح الله إلا القوم الكافرون، ولا يقنط من رحمته إلا القوم الضالون.\nوصلى الله وسلم على رسوله محمد وعلى آله وصحبه أجمعين، صلاة وسلامًا دائمين متواصلين أبد الأوقات، والحمد لله الذي بنعمته تتم الصالحات.\nتم تفسير كتاب الله بعونه وحسن توفيقه، على يد جامعه وكاتبه، عبد الرحمن بن ناصر بن عبد الله المعروف بابن سعدي، غفر الله له ولوالديه وجميع المسلمين، وذلك في غرة ربيع الأول من سنة أربع وأربعين وثلثمائة وألف من هجرة محمدً صلى الله عليه وسلم\nتم بحمد الله\nلاتنسونا من دعوه بظهر الغيب"
+        }
+      ],
+      "irab": "(مِنَ الْجِنَّةِ) الجار والمجرور متعلقان بمحذوف حال من فاعل يوسوس (وَالنَّاسِ) معطوف على الجنة.\nتم بعون اللّه تعالى هذا الكتاب والحمد للّه رب العالمين."
+    }
+  ]
+}
