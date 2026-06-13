@@ -2,6 +2,12 @@ import { NextRequest, NextResponse } from 'next/server';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import db from '../../lib/db';
 
+// Support Vercel Neon Integration which uses DATABASE_URL instead of POSTGRES_URL
+if (!process.env.POSTGRES_URL && process.env.DATABASE_URL) {
+  process.env.POSTGRES_URL = process.env.DATABASE_URL;
+}
+
+
 let isPostgresInitialized = false;
 
 async function ensurePostgresTable() {
