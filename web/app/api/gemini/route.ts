@@ -152,7 +152,7 @@ Structure your response exactly as follows:
 
     let summaryText = '';
     let lastError: any = null;
-    const modelsToTry = ['gemini-2.5-flash', 'gemini-1.5-flash'];
+    const modelsToTry = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
 
     for (const modelName of modelsToTry) {
       try {
@@ -297,7 +297,7 @@ ${qurtubiContent}
 
     let summaryText = '';
     let lastError: any = null;
-    const modelsToTry = ['gemini-2.5-flash', 'gemini-1.5-flash'];
+    const modelsToTry = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
 
     for (const modelName of modelsToTry) {
       try {
