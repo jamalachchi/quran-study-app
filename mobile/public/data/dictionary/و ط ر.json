@@ -1,9 +1,22 @@
 {
-  "id": 4444,
   "root": "و ط ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوضم\n\n(وطر) : الواو والطاء والراء: كلمةٌ واحدة. الوَطَر: الحاجَة والنَّهْمَة، لا يُبنَى منه فِعل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوضم\n\n(وطر) : الواو والطاء والراء: كلمةٌ واحدة. الوَطَر: الحاجَة والنَّهْمَة، لا يُبنَى منه فِعل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "عَامًا وَيُحَرِّمُونَهُ عَامًا لِيُواطِئُوا عِدَّةَ مَا حَرَّمَ اللَّهُ they will allow it one year—\nand forbid it one year—in order to conform with the number of\nwhat God has forbidden.\n\nوَطْء waṭʾ [v. n.] trampling, pressure, compulsion, force,\nimpression (73:6) إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا indeed, night prayers\nmake a deeper impression.\n\nمَوْطِئ mawṭiʾ [n. of place] a place where the foot steps,\nfoothold (9:120) وَلَا يَطَئُونَ مَوْطِئًا يَغِيظُ الْكُفَّارَ they do not step in a\nplace that angers the disbelievers.",
+      "definition_english": "عَامًا وَيُحَرِّمُونَهُ عَامًا لِيُواطِئُوا عِدَّةَ مَا حَرَّمَ اللَّهُ they will allow it one year—\nand forbid it one year—in order to conform with the number of\nwhat God has forbidden.\n\nوَطْء waṭʾ [v. n.] trampling, pressure, compulsion, force,\nimpression (73:6) إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا indeed, night prayers\nmake a deeper impression.\n\nمَوْطِئ mawṭiʾ [n. of place] a place where the foot steps,\nfoothold (9:120) وَلَا يَطَئُونَ مَوْطِئًا يَغِيظُ الْكُفَّارَ they do not step in a\nplace that angers the disbelievers."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ṭ–r purpose, goal, desire, want. Of this root, only وَطَر waṭar,\noccurs twice in the Qur’an.\n\nوَطَر waṭar [n.] want, purpose, term (33:37) فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا\nwhen Zayd had formally ended his marriage to her [lit.\ncompleted a purpose from her], We gave her to you in marriage.",
+      "definition_english": "w–ṭ–r purpose, goal, desire, want. Of this root, only وَطَر waṭar,\noccurs twice in the Qur’an.\n\nوَطَر waṭar [n.] want, purpose, term (33:37) فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا\nwhen Zayd had formally ended his marriage to her [lit.\ncompleted a purpose from her], We gave her to you in marriage."
+    }
+  ],
   "occurrences": [
     "33:37:30",
     "33:37:44"

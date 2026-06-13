@@ -1,9 +1,17 @@
 {
-  "id": 4468,
   "root": "و ف ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفق) الواو والفاء والقاف: كلمةٌ تدلُّ على ملاءمة الشيئين. منه الوَفْق: الموافَقة. واتَّفَق الشيئانِ: تقارَبَا وتَلاءَما. ووافَقْتُ فلاناً: صادقْتُه، كأنهما اجتمعا متوافِقَين.\n\nوفل - وفي - وفد - وفر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفق) الواو والفاء والقاف: كلمةٌ تدلُّ على ملاءمة الشيئين. منه الوَفْق: الموافَقة. واتَّفَق الشيئانِ: تقارَبَا وتَلاءَما. ووافَقْتُ فلاناً: صادقْتُه، كأنهما اجتمعا متوافِقَين.\n\nوفل - وفي - وفد - وفر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–f–q to match, to agree with, to be in harmony with; to come\nupon by chance, to occur at the time of something; to succeed, to\nbe right; to be well-guided, to inspire. Of this root, three forms\noccur four times in the Qur’an: يُوَفِّق yuwaffiq once; وِفَاق wifāq\nonce and تَوْفِيق tawfīq twice.\n\nيُوَفِّق yuwaffiq [imperf. of v. II وَفَّق waffaqa, trans.] to effect\nharmony, to bring about reconciliation between parties (4:35) يُوَفِّقِ\nاللَّهُ بَيْنَهُمَا God will bring about a reconciliation between them.\n\nوِفَاق wifāq [v. n./n.] state of being suitable; harmony, accord\n(78:26) جَزَاءً وِفَاقًا a fitting recompense.\n\nتَوْفِيق tawfīq [v. n./n.] 1 act of reconciliation; reconciliation\n(4:62) إِنْ أَرَدْنَا إِلَّا إِحْسَانًا وَتَوْفِيقًا we only wanted to do good and [bring\nabout] reconciliation 2 succeeding; success (11:88) وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ\nand my success is only through God.",
+      "definition_english": "w–f–q to match, to agree with, to be in harmony with; to come\nupon by chance, to occur at the time of something; to succeed, to\nbe right; to be well-guided, to inspire. Of this root, three forms\noccur four times in the Qur’an: يُوَفِّق yuwaffiq once; وِفَاق wifāq\nonce and تَوْفِيق tawfīq twice.\n\nيُوَفِّق yuwaffiq [imperf. of v. II وَفَّق waffaqa, trans.] to effect\nharmony, to bring about reconciliation between parties (4:35) يُوَفِّقِ\nاللَّهُ بَيْنَهُمَا God will bring about a reconciliation between them.\n\nوِفَاق wifāq [v. n./n.] state of being suitable; harmony, accord\n(78:26) جَزَاءً وِفَاقًا a fitting recompense.\n\nتَوْفِيق tawfīq [v. n./n.] 1 act of reconciliation; reconciliation\n(4:62) إِنْ أَرَدْنَا إِلَّا إِحْسَانًا وَتَوْفِيقًا we only wanted to do good and [bring\nabout] reconciliation 2 succeeding; success (11:88) وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ\nand my success is only through God."
+    }
+  ],
   "occurrences": [
     "11:88:29",
     "4:35:15",

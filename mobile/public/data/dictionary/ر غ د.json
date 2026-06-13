@@ -1,9 +1,17 @@
 {
-  "id": 1439,
   "root": "ر غ د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرغد - رغس\n\n(رغد) الراء والغين والدال أصلان: أحدهما أطْيَب العيش، والآخر خِلافُه.\n\nفالأوَّل عيشٌ رَغَِْد ورغِيد. أي طيِّبٌ واسع. وقد أَرغَدَ القومُ، إذا أخصَبُوا. ويقال إنَّ الرَّغيدةَ في بعض اللغات الزُّبدة . وأرغَدَ الرّجلُ ماشِيتَه، إذا تركَها وسَوْمَها.\n\nوالأصل الآخر المُرْغَادُّ: الذي تَغَيَّرَ حالُه في جِسمه ضعفاً. ومن ذلك المُرْغَادُّ: الشّاكُّ في رأيه لا يَدرِي كيف يُصْدِرُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرغد - رغس\n\n(رغد) الراء والغين والدال أصلان: أحدهما أطْيَب العيش، والآخر خِلافُه.\n\nفالأوَّل عيشٌ رَغَِْد ورغِيد. أي طيِّبٌ واسع. وقد أَرغَدَ القومُ، إذا أخصَبُوا. ويقال إنَّ الرَّغيدةَ في بعض اللغات الزُّبدة . وأرغَدَ الرّجلُ ماشِيتَه، إذا تركَها وسَوْمَها.\n\nوالأصل الآخر المُرْغَادُّ: الذي تَغَيَّرَ حالُه في جِسمه ضعفاً. ومن ذلك المُرْغَادُّ: الشّاكُّ في رأيه لا يَدرِي كيف يُصْدِرُه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–gh–d meadow, garden; easy living, affluence, to live in comfort, to be pleasant and carefree (of living); to be weak, to be strained. Of this root, رَغَد raghad occurs three times in the Qur’an.\nرَغَد raghad [quasi-act. part., used adverbially] plentifully, abundantly (2:35) وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا and both of you eat freely therein as you will.",
+      "definition_english": "r–gh–d meadow, garden; easy living, affluence, to live in comfort, to be pleasant and carefree (of living); to be weak, to be strained. Of this root, رَغَد raghad occurs three times in the Qur’an.\nرَغَد raghad [quasi-act. part., used adverbially] plentifully, abundantly (2:35) وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا and both of you eat freely therein as you will."
+    }
+  ],
   "occurrences": [
     "16:112:10",
     "2:35:9",

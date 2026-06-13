@@ -1,8 +1,11 @@
 {
-  "id": 1158,
   "root": "د ع ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعث) الدال والعين والثاء كلمةٌ واحدة وهي الدِّعْثُ* وهو الحقد.\n\nدعج - دعد - دعر - دعز - دعس - دعص",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعث) الدال والعين والثاء كلمةٌ واحدة وهي الدِّعْثُ* وهو الحقد.\n\nدعج - دعد - دعر - دعز - دعس - دعص",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

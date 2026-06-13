@@ -1,9 +1,17 @@
 {
-  "id": 295,
   "root": "ب ط ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبطخ\n\n(بطش) الباء والطاء والشين أصلٌ واحد، وهو أخذ الشيء بقَهْر وغَلبةٍ وقُوّة. قال الله تعالى: ] إنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ [ [البروج 12]. ويَدٌ باطشة.\n\n(باب الباء والظاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبطخ\n\n(بطش) الباء والطاء والشين أصلٌ واحد، وهو أخذ الشيء بقَهْر وغَلبةٍ وقُوّة. قال الله تعالى: ] إنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ [ [البروج 12]. ويَدٌ باطشة.\n\n(باب الباء والظاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-ṭ-sh force, attack, to seize with violence, to assault, to\nbatter. Of this root, three forms occur 10 times in the Qur’an: بَطَشَ\nbaṭasha five times; بَطْش baṭsh three times and بَطْشَة baṭshatun\ntwice.\n\nبَطَشَ baṭasha i/u [v. intrans. with prep. بِ; v. n. بَطْش baṭsh] to\nstrike down, to assault (28:19) فَلَمَّا أَنْ أَرَادَ أَنْ يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا\nas he was about to assault the one who was an enemy to both of\nthem.\n\nبَطْشَة baṭshatun [n. of unit] onslaught, a fierce attack (44:16)\nيَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَى إِنَّا مُنْتَقِمُونَ and [We will exact retribution] on the\nDay We inflict the mightiest onslaught.",
+      "definition_english": "b-ṭ-sh force, attack, to seize with violence, to assault, to\nbatter. Of this root, three forms occur 10 times in the Qur’an: بَطَشَ\nbaṭasha five times; بَطْش baṭsh three times and بَطْشَة baṭshatun\ntwice.\n\nبَطَشَ baṭasha i/u [v. intrans. with prep. بِ; v. n. بَطْش baṭsh] to\nstrike down, to assault (28:19) فَلَمَّا أَنْ أَرَادَ أَنْ يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا\nas he was about to assault the one who was an enemy to both of\nthem.\n\nبَطْشَة baṭshatun [n. of unit] onslaught, a fierce attack (44:16)\nيَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَى إِنَّا مُنْتَقِمُونَ and [We will exact retribution] on the\nDay We inflict the mightiest onslaught."
+    }
+  ],
   "occurrences": [
     "26:130:2",
     "26:130:3",

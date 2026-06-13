@@ -1,9 +1,17 @@
 {
-  "id": 509,
   "root": "ث ق ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثفي - ثفر\n\n(ثقب) الثاء والقاف والباء كلمةٌ واحدة، وهو أن ينفُذَ الشيء. يقال ثقَبْتُ الشيءَ أثقُبُه ثَقْباً. والثَّاقب في قوله تعالى: ] النَّجْمُ الثَّاقِبُ [ [الطارق 3]. قالوا: هو نجم ينفُذ السَّمواتِ كلَّها نورُه . ويقال ثَقَبْت النار إذا ذَكَّيْتَها، وذلك الشيء ثُقْبَةٌ وذُكْوَة. وإنما قيل ذلك لأنّ ضوءها ينفُذ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثفي - ثفر\n\n(ثقب) الثاء والقاف والباء كلمةٌ واحدة، وهو أن ينفُذَ الشيء. يقال ثقَبْتُ الشيءَ أثقُبُه ثَقْباً. والثَّاقب في قوله تعالى: ] النَّجْمُ الثَّاقِبُ [ [الطارق 3]. قالوا: هو نجم ينفُذ السَّمواتِ كلَّها نورُه . ويقال ثَقَبْت النار إذا ذَكَّيْتَها، وذلك الشيء ثُقْبَةٌ وذُكْوَة. وإنما قيل ذلك لأنّ ضوءها ينفُذ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–q–b to bore, to perforate, to puncture, to pierce a hole; to\nheighten; to kindle, to light, to shine up. Of this root, ثَاقِب thāqib\noccurs twice in the Qur’an.\n\nثَاقِب thāqib [act. part.] piercing, piercing bright (37:10) إِلَّا مَنْ\nخَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ except for he who snatches away a\nfragment, and he is pursued by a piercing flame.",
+      "definition_english": "th–q–b to bore, to perforate, to puncture, to pierce a hole; to\nheighten; to kindle, to light, to shine up. Of this root, ثَاقِب thāqib\noccurs twice in the Qur’an.\n\nثَاقِب thāqib [act. part.] piercing, piercing bright (37:10) إِلَّا مَنْ\nخَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ except for he who snatches away a\nfragment, and he is pursued by a piercing flame."
+    }
+  ],
   "occurrences": [
     "37:10:7",
     "86:3:2"

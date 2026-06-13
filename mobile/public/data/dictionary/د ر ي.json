@@ -1,9 +1,17 @@
 {
-  "id": 1143,
   "root": "د ر ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدره - دري\n\n(دري) الدال والراء والحرف المعتلّ والمهموز. أمّا الذي ليس بمهموزٍ فأصلان: أحدهما قَصْد الشيء واعتمادُهُ طلَباً، والآخَر حِدَّةٌ تكون في الشَّيء. وأمّا المهموز فأصلٌ واحد، وهو دَفْع الشَّيء.\n\nفالأول قولُهم: ادّرَى بنُو فلانٍ مكانَ كذا، أي اعتمدوه بغَزْوٍ أو غارة قال:\n\nمُعَلَّقةَ الكنائنِ تَدَّرِينا\n\nأتتنا عامرٌ من أرض رَامٍ\n\nوالدّرِيَّة: الدّابّة التي يَستَتِرُ بها الذي يَرمِي الصَّيدَ ليصيده. يقال منه دَرَيت وادَّرَيْت. قال الأخطل:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدره - دري\n\n(دري) الدال والراء والحرف المعتلّ والمهموز. أمّا الذي ليس بمهموزٍ فأصلان: أحدهما قَصْد الشيء واعتمادُهُ طلَباً، والآخَر حِدَّةٌ تكون في الشَّيء. وأمّا المهموز فأصلٌ واحد، وهو دَفْع الشَّيء.\n\nفالأول قولُهم: ادّرَى بنُو فلانٍ مكانَ كذا، أي اعتمدوه بغَزْوٍ أو غارة قال:\n\nمُعَلَّقةَ الكنائنِ تَدَّرِينا\n\nأتتنا عامرٌ من أرض رَامٍ\n\nوالدّرِيَّة: الدّابّة التي يَستَتِرُ بها الذي يَرمِي الصَّيدَ ليصيده. يقال منه دَرَيت وادَّرَيْت. قال الأخطل:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–r–y to know, to comprehend, to understand; to inform, to\nteach; to disguise, a hideout; to act furtively; to deal gently, to\nplacate, to comb. Of this root, two forms occur 29 times in the\nQur’an: أَدْرِي ʾadrī 12 times and أَدْرَى ʾadrā 17 times.\n\nأَدْرِي ʾadrī [imperf. of v. دَرَى darā, trans.] to know (72:10) وَأَنَّا لَا\nنَدْرِي أَشَرٌّ أُرِيدَ بِمَن فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا and so we do not know\n\n306 د/س/ر\n\nwhether evil is intended for those who are on the earth, or\nwhether their Lord intends for them guidance.\n\nأَدْرَى ʾadrā [v. IV, trans.] to cause to know: (10:16) قُل لَّوْ شَاءَ اللهُ\nمَا تَلَوْتُهُ عَلَيْكُمْ وَلَا أَدْرَاكُم بِهِ say, ‘If God had so willed, I would not have\nrecited it to you, nor would He have brought it to your\nknowledge’; *(69:3) وَمَا أَدْرَاكَ مَا ...! how will you come to\ncomprehend what such-and-such is!",
+      "definition_english": "d–r–y to know, to comprehend, to understand; to inform, to\nteach; to disguise, a hideout; to act furtively; to deal gently, to\nplacate, to comb. Of this root, two forms occur 29 times in the\nQur’an: أَدْرِي ʾadrī 12 times and أَدْرَى ʾadrā 17 times.\n\nأَدْرِي ʾadrī [imperf. of v. دَرَى darā, trans.] to know (72:10) وَأَنَّا لَا\nنَدْرِي أَشَرٌّ أُرِيدَ بِمَن فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا and so we do not know\n\n306 د/س/ر\n\nwhether evil is intended for those who are on the earth, or\nwhether their Lord intends for them guidance.\n\nأَدْرَى ʾadrā [v. IV, trans.] to cause to know: (10:16) قُل لَّوْ شَاءَ اللهُ\nمَا تَلَوْتُهُ عَلَيْكُمْ وَلَا أَدْرَاكُم بِهِ say, ‘If God had so willed, I would not have\nrecited it to you, nor would He have brought it to your\nknowledge’; *(69:3) وَمَا أَدْرَاكَ مَا ...! how will you come to\ncomprehend what such-and-such is!"
+    }
+  ],
   "occurrences": [
     "101:10:2",
     "101:3:2",

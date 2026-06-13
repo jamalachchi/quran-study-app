@@ -1,9 +1,17 @@
 {
-  "id": 2829,
   "root": "غ س ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرب\n\n(غسل) الغين والسين واللام أصلٌ صحيح يدلُّ على تطهيرِ الشّيء وتنقِيَته. يقال: غَسَلتُ الشَّيءَ غَسْلاً. والغُسْل الاسم. والغَسُول: ما يُغْسَل به الرَّأس من خِطْميٍّ أو غيره. قال:\n\nعليَّ حرامٌ لا يَمَسُّنِيَ الغِسْلُ\n\nفيا لَيْلَ إنَّ الغِسْلَ ما دُمْتِ أيِّماً\n\nويقال: فحلٌ غُسَلَة، إذا كثُر ضِرابُه ولم يُلْقِح. والغِسْلينُ المذكور في كتاب الله تعالى، يقال إنَّه ما يَنْغسلُ من أبدان الكفّار في النار.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرب\n\n(غسل) الغين والسين واللام أصلٌ صحيح يدلُّ على تطهيرِ الشّيء وتنقِيَته. يقال: غَسَلتُ الشَّيءَ غَسْلاً. والغُسْل الاسم. والغَسُول: ما يُغْسَل به الرَّأس من خِطْميٍّ أو غيره. قال:\n\nعليَّ حرامٌ لا يَمَسُّنِيَ الغِسْلُ\n\nفيا لَيْلَ إنَّ الغِسْلَ ما دُمْتِ أيِّماً\n\nويقال: فحلٌ غُسَلَة، إذا كثُر ضِرابُه ولم يُلْقِح. والغِسْلينُ المذكور في كتاب الله تعالى، يقال إنَّه ما يَنْغسلُ من أبدان الكفّار في النار.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "غ/س/ل gh–s–l washing, dirty water left after washing, to wash, to\nbathe, washed clothes, bath, washing place, filth. Of this root,\nfour forms occur once each in the Qur’an: اغْسِلُوا ighsilū; تَغْتَسِلُوا\ntaghtasilū; مُغْتَسَل mughtasal and غِسْلِين ghislīn.\n\nاغْسِل ighsil [imper. of v. trans.] [jur.] wash, carry out the\nablution in the prescribed manner (5:6) فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى\nالْمَرَافِقِ wash your faces and your arms [lit. hands].\n\nتَغْتَسِل taghtasil [imperf. of v. IV. intrans.] [jur.] to wash\noneself, to perform ritual body washing in the prescribed manner\n(4:43) وَلَا جُنُبًا [...] حَتَّى تَغْتَسِلُوا nor [should you pray] when you are\nin the state of being junub (q.v.) [...] until you have bathed.\n\nمُغْتَسَل mughtasal [n. of place/n.] a place for washing or bathing,\nwater in which to bathe (38:42) هَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ this is cool\n[water] for bathing in and for drinking/as a drink.\n\nغِسْلِين ghislīn [n.] filth, pus (69:36) وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ and no\nfood [for him] but of filth.",
+      "definition_english": "غ/س/ل gh–s–l washing, dirty water left after washing, to wash, to\nbathe, washed clothes, bath, washing place, filth. Of this root,\nfour forms occur once each in the Qur’an: اغْسِلُوا ighsilū; تَغْتَسِلُوا\ntaghtasilū; مُغْتَسَل mughtasal and غِسْلِين ghislīn.\n\nاغْسِل ighsil [imper. of v. trans.] [jur.] wash, carry out the\nablution in the prescribed manner (5:6) فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى\nالْمَرَافِقِ wash your faces and your arms [lit. hands].\n\nتَغْتَسِل taghtasil [imperf. of v. IV. intrans.] [jur.] to wash\noneself, to perform ritual body washing in the prescribed manner\n(4:43) وَلَا جُنُبًا [...] حَتَّى تَغْتَسِلُوا nor [should you pray] when you are\nin the state of being junub (q.v.) [...] until you have bathed.\n\nمُغْتَسَل mughtasal [n. of place/n.] a place for washing or bathing,\nwater in which to bathe (38:42) هَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ this is cool\n[water] for bathing in and for drinking/as a drink.\n\nغِسْلِين ghislīn [n.] filth, pus (69:36) وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ and no\nfood [for him] but of filth."
+    }
+  ],
   "occurrences": [
     "38:42:4",
     "4:43:19",

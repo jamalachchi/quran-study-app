@@ -1,9 +1,17 @@
 {
-  "id": 3518,
   "root": "ل ح د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لحد) اللام والحاء والدال أصلٌ يدلُّ على ميلٍ عن استقامةٍ. يقال: ألْحَدَ الرّجلُ، إذ مال عن طريقةِ الحقِّ والإيمان. وسمِّي اللَّحدُ لأنّه مائلٌ في أحد جانِبَيِ الجَدَث. يقال: لحَدْت الميِّتَ وألحدت. والمُلْتَحَد: الملجأ، سمِّي بذلك لأنَّ اللاجئ يميل إليه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لحد) اللام والحاء والدال أصلٌ يدلُّ على ميلٍ عن استقامةٍ. يقال: ألْحَدَ الرّجلُ، إذ مال عن طريقةِ الحقِّ والإيمان. وسمِّي اللَّحدُ لأنّه مائلٌ في أحد جانِبَيِ الجَدَث. يقال: لحَدْت الميِّتَ وألحدت. والمُلْتَحَد: الملجأ، سمِّي بذلك لأنَّ اللاجئ يميل إليه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–ḥ–d shelf in one side of a grave, to bury on such a shelf; to\ndeviate, to stray from the straight course, deviant; to object to, to\ncontradict, to profane, to violate; place of refuge, to seek refuge.\nOf this root, three forms occur six times in the Qur’an: يُلْحِدُونَ\nyulḥidūn three times; إِلْحَاد ʾilḥād once and مُلْتَحَد multaḥad twice.\n\nيُلْحِد yulḥid [imperf. of v. IV أَلْحَدَ ʾalḥada, intrans.] 1 to allude to,\nto insinuate (16:103) لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ the language of the\nperson they allude to is foreign 2 to distort, to pervert (41:40)\nإِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا those who distort Our\nrevelations are not hidden from Us.\n\nإِلْحَاد ʾilḥād [v. n./n.] profaning, desecrating, violating (22:25)\nوَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ and whoever intends to violate it [the Sacred\nMosque] with wrongdoing.\n\nمُلْتَحَد multaḥad [n. of place] place of refuge, sanctuary (72:22)\nقُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا say, ‘No one will\nprotect me from God, and I will not find away from Him any\nrefuge.’",
+      "definition_english": "l–ḥ–d shelf in one side of a grave, to bury on such a shelf; to\ndeviate, to stray from the straight course, deviant; to object to, to\ncontradict, to profane, to violate; place of refuge, to seek refuge.\nOf this root, three forms occur six times in the Qur’an: يُلْحِدُونَ\nyulḥidūn three times; إِلْحَاد ʾilḥād once and مُلْتَحَد multaḥad twice.\n\nيُلْحِد yulḥid [imperf. of v. IV أَلْحَدَ ʾalḥada, intrans.] 1 to allude to,\nto insinuate (16:103) لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ the language of the\nperson they allude to is foreign 2 to distort, to pervert (41:40)\nإِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا those who distort Our\nrevelations are not hidden from Us.\n\nإِلْحَاد ʾilḥād [v. n./n.] profaning, desecrating, violating (22:25)\nوَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ and whoever intends to violate it [the Sacred\nMosque] with wrongdoing.\n\nمُلْتَحَد multaḥad [n. of place] place of refuge, sanctuary (72:22)\nقُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا say, ‘No one will\nprotect me from God, and I will not find away from Him any\nrefuge.’"
+    }
+  ],
   "occurrences": [
     "16:103:10",
     "18:27:15",

@@ -1,9 +1,22 @@
 {
-  "id": 3574,
   "root": "ل غ و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلعو - لعب\n\n(لغو) اللام والغين والحرف المعتل أصلانِ صحيحان، أحدهما يدلُّ على الشَّيءِ لا يُعتدُّ به، والآخَر على اللَّهَج بالشَّيء.\n\nفالأوَّل اللَّغْو: ما لا يُعتَدُّ به من أولادِ الإبلِ في الدِّيَة. قال العبديّ :\n\nلَغْواً وعُرْضَ المائةِ الجَلمدِ\n\nأو مائةٍ تُجعلُ أولادها\n\nيقال منه لغَا يلْغُو لَغْواً. وذلك في لَغْو الأيمان. واللَّغا هو اللَّغو بعينهِ. قال الله تعالى: ] لا يُؤَاخِذُكُمُ اللهُ بِاللَّغْوِ في أَيْمَانِكُمْ [ [البقرة 225، المائدة 89]، أي ما لَمْ تَعقِدوه بقلوبكم. والفقهاء يقولون: هو قولُ الرّجل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلعو - لعب\n\n(لغو) اللام والغين والحرف المعتل أصلانِ صحيحان، أحدهما يدلُّ على الشَّيءِ لا يُعتدُّ به، والآخَر على اللَّهَج بالشَّيء.\n\nفالأوَّل اللَّغْو: ما لا يُعتَدُّ به من أولادِ الإبلِ في الدِّيَة. قال العبديّ :\n\nلَغْواً وعُرْضَ المائةِ الجَلمدِ\n\nأو مائةٍ تُجعلُ أولادها\n\nيقال منه لغَا يلْغُو لَغْواً. وذلك في لَغْو الأيمان. واللَّغا هو اللَّغو بعينهِ. قال الله تعالى: ] لا يُؤَاخِذُكُمُ اللهُ بِاللَّغْوِ في أَيْمَانِكُمْ [ [البقرة 225، المائدة 89]، أي ما لَمْ تَعقِدوه بقلوبكم. والفقهاء يقولون: هو قولُ الرّجل",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "لَعَنَ laʿana a [v. trans.] to reject, to curse (29:25) ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ\nبَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًا on the Day of Resurrection, you will\ndisown one another and reject one another.\n\nلُعِنَ luʿina [pass. v.] to be rejected, to be cursed (24:23) إِنَّ الَّذِينَ\nيَرْمُونَ الْمُحْصَنَاتِ الْغَافِلَاتِ الْمُؤْمِنَاتِ لُعِنُوا فِي الدُّنْيَا وَالْآخِرَةِ those who accuse\nunaware, believing, chaste women are cursed, in this life and the\nnext.\n\nلَعْن laʿn [v. n.] the act of cursing, rejecting (33:68) رَبَّنَا آتِهِمْ\nضِعْفَيْنِ مِنَ الْعَذَابِ وَلْعَنْهُمْ لَعْنًا كَبِيرًا Lord, give them twice the punishment\nand curse them with a mighty cursing.\n\nلَعْنَة laʿnatun [n.] curse, rejection (13:25) أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ\nالدَّارِ for them there will be a curse and a dreadful abode.\n\nلَاعِنُونَ lāʿinūn [pl. of act. part. لَاعِن lāʿin] those who curse,\nreject (2:159) أُولَٰئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ God curses/rejects them,\nand so will others who curse/reject.\n\nمَلْعُونِين malʿūnīn [pl. of pass. part. مَلْعُون malʿūn] accursed,\nthose who are cursed/rejected (33:61) مَلْعُونِينَ أَيْنَمَا ثُقِفُوا they will be\ncursed/rejected wherever they are found.\n\nمَلْعُونَة malʿūnatun [fem. pass. part.] accursed, one who is\nsubjected to cursing/rejection (17:60) وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ as\nwas the cursed tree [mentioned] in the Qur’an.",
+      "definition_english": "لَعَنَ laʿana a [v. trans.] to reject, to curse (29:25) ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ\nبَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًا on the Day of Resurrection, you will\ndisown one another and reject one another.\n\nلُعِنَ luʿina [pass. v.] to be rejected, to be cursed (24:23) إِنَّ الَّذِينَ\nيَرْمُونَ الْمُحْصَنَاتِ الْغَافِلَاتِ الْمُؤْمِنَاتِ لُعِنُوا فِي الدُّنْيَا وَالْآخِرَةِ those who accuse\nunaware, believing, chaste women are cursed, in this life and the\nnext.\n\nلَعْن laʿn [v. n.] the act of cursing, rejecting (33:68) رَبَّنَا آتِهِمْ\nضِعْفَيْنِ مِنَ الْعَذَابِ وَلْعَنْهُمْ لَعْنًا كَبِيرًا Lord, give them twice the punishment\nand curse them with a mighty cursing.\n\nلَعْنَة laʿnatun [n.] curse, rejection (13:25) أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ\nالدَّارِ for them there will be a curse and a dreadful abode.\n\nلَاعِنُونَ lāʿinūn [pl. of act. part. لَاعِن lāʿin] those who curse,\nreject (2:159) أُولَٰئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ God curses/rejects them,\nand so will others who curse/reject.\n\nمَلْعُونِين malʿūnīn [pl. of pass. part. مَلْعُون malʿūn] accursed,\nthose who are cursed/rejected (33:61) مَلْعُونِينَ أَيْنَمَا ثُقِفُوا they will be\ncursed/rejected wherever they are found.\n\nمَلْعُونَة malʿūnatun [fem. pass. part.] accursed, one who is\nsubjected to cursing/rejection (17:60) وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ as\nwas the cursed tree [mentioned] in the Qur’an."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–gh–w to speak, language, dialect, idiom, useless idle talk,\nchatter, nonsense, outrageous talk; to cancel, void; to digress. Of\nthis root, three forms occur 11 times in the Qur’an: إِلْغَاء ilghaw\nonce; لَغْو laghw nine times and لَاغِيَة lāghiyatun once.\n\n844",
+      "definition_english": "l–gh–w to speak, language, dialect, idiom, useless idle talk,\nchatter, nonsense, outrageous talk; to cancel, void; to digress. Of\nthis root, three forms occur 11 times in the Qur’an: إِلْغَاء ilghaw\nonce; لَغْو laghw nine times and لَاغِيَة lāghiyatun once.\n\n844"
+    }
+  ],
   "occurrences": [
     "19:62:4",
     "23:3:4",

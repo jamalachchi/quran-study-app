@@ -1,9 +1,17 @@
 {
-  "id": 3083,
   "root": "ق ن ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقنب\n\n(قنت) القاف والنون والتاء أصلٌ صحيحٌ يدلُّ على طاعةٍ وخيرٍ في دين، لا يعدو هذا الباب. والأصل فيه الطَّاعة، يقال: قَنَتَ يَقْنُتُ قُنوتاً. ثمَّ سمِّي كلُّ استقامةٍ في طريقِ الدِّين قُنُوتاً، وقيل لطُولِ القِيام في الصَّلاةِ قُنُوت، وسمِّي السُّكوتُ في الصَّلاة والإقبالُ عليها قُنوتاً. قال الله تعالى: ] وقُومُوا للهِ قَانِتِينَ [ [البقرة 238].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقنب\n\n(قنت) القاف والنون والتاء أصلٌ صحيحٌ يدلُّ على طاعةٍ وخيرٍ في دين، لا يعدو هذا الباب. والأصل فيه الطَّاعة، يقال: قَنَتَ يَقْنُتُ قُنوتاً. ثمَّ سمِّي كلُّ استقامةٍ في طريقِ الدِّين قُنُوتاً، وقيل لطُولِ القِيام في الصَّلاةِ قُنُوت، وسمِّي السُّكوتُ في الصَّلاة والإقبالُ عليها قُنوتاً. قال الله تعالى: ] وقُومُوا للهِ قَانِتِينَ [ [البقرة 238].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–n–t to stop talking; to be obedient, submissive, humble\n(before God), devoutness, piety, to ask God in prayer, to pray. Of\nthis root, four forms occur 13 times in the Qur’an: يَقْنُت yaqnut\ntwice; قَانِت qānit twice; قَانِتَات qānitāt three times and قَانِتُون qānitūn\nsix times.\n\nيَقْنُت yaqnut [imperf. of v. intrans.] 1 to be obedient (33:31) وَمَنْ\nيَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ whosoever of you\nsubmits to God and His Messenger and does right, We shall give\nher twice her reward 2 to devote oneself to God (3:43) يَامَرْيَمُ اقْنُتِي\nلِرَبِّكِ وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ Mary, devote yourself to your Lord,\nprostrate yourself in worship and bow down with those who bow.\n\n777",
+      "definition_english": "q–n–t to stop talking; to be obedient, submissive, humble\n(before God), devoutness, piety, to ask God in prayer, to pray. Of\nthis root, four forms occur 13 times in the Qur’an: يَقْنُت yaqnut\ntwice; قَانِت qānit twice; قَانِتَات qānitāt three times and قَانِتُون qānitūn\nsix times.\n\nيَقْنُت yaqnut [imperf. of v. intrans.] 1 to be obedient (33:31) وَمَنْ\nيَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ whosoever of you\nsubmits to God and His Messenger and does right, We shall give\nher twice her reward 2 to devote oneself to God (3:43) يَامَرْيَمُ اقْنُتِي\nلِرَبِّكِ وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ Mary, devote yourself to your Lord,\nprostrate yourself in worship and bow down with those who bow.\n\n777"
+    }
+  ],
   "occurrences": [
     "16:120:5",
     "2:116:14",

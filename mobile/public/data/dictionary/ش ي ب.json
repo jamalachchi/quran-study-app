@@ -1,9 +1,22 @@
 {
-  "id": 2048,
   "root": "ش ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشيب\n\nقد طَرَّقَتْ ناقتُهم بإنسانْ\n\nإِنَّ بَنِي فزارةَ بنِ ذُبيانْ\n\nمُشَيَّأٍ أعجِبْ بِخَلْقِ الرَّحمن\n\n(شيب) الشين والياء والباء. هذا يقرب من باب الشين والواو والباء، وهما يتقاربان جميعاً في اختلاط الشّيء بالشيء. من ذلك الشَّيب: شَيب الرأس؛ يقال شاب يَشيب. قال الكسائيّ: شيّب الحُزنُ رأَسَه وبرأسه، وأشابَ الحُزْن رأسَه وبرأْسه. والرجل إِذا شابَ فهو أَشْيَب. والشِّيب: الجبال يسقُط عليها الثلج، وهو من الشَّيْب. وقال الشاعر:\n\nوليسَ المشيبُ عليها معيبا\n\nشيوخٌ تَشِيب إِذا ما شتَت\n\nيريد الجبال إِذا ابيضَّت من الثلج. ووجدت في تفسير شعر عبيد في قوله:\n\n* والشَّيبُ شَينٌ لمن يشِيبُ *\n\nأنَّ الشَّيب والمَشِيب واحد. قال: وقال الأصمعيّ: الشَّيب: بياض الشَّعر، والمشيبُ: دخولُ الرَّجُل في حدِّ الشِّيبِ من الرِّجال ذوي الكِبَر والشَّيب. وقال أيضاً في هذا الموضع: قال ابن السّكّيت في قول عديٍّ:\n\n* والرأسُ قد شابَهُ المَشِيبُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشيب\n\nقد طَرَّقَتْ ناقتُهم بإنسانْ\n\nإِنَّ بَنِي فزارةَ بنِ ذُبيانْ\n\nمُشَيَّأٍ أعجِبْ بِخَلْقِ الرَّحمن\n\n(شيب) الشين والياء والباء. هذا يقرب من باب الشين والواو والباء، وهما يتقاربان جميعاً في اختلاط الشّيء بالشيء. من ذلك الشَّيب: شَيب الرأس؛ يقال شاب يَشيب. قال الكسائيّ: شيّب الحُزنُ رأَسَه وبرأسه، وأشابَ الحُزْن رأسَه وبرأْسه. والرجل إِذا شابَ فهو أَشْيَب. والشِّيب: الجبال يسقُط عليها الثلج، وهو من الشَّيْب. وقال الشاعر:\n\nوليسَ المشيبُ عليها معيبا\n\nشيوخٌ تَشِيب إِذا ما شتَت\n\nيريد الجبال إِذا ابيضَّت من الثلج. ووجدت في تفسير شعر عبيد في قوله:\n\n* والشَّيبُ شَينٌ لمن يشِيبُ *\n\nأنَّ الشَّيب والمَشِيب واحد. قال: وقال الأصمعيّ: الشَّيب: بياض الشَّعر، والمشيبُ: دخولُ الرَّجُل في حدِّ الشِّيبِ من الرِّجال ذوي الكِبَر والشَّيب. وقال أيضاً في هذا الموضع: قال ابن السّكّيت في قول عديٍّ:\n\n* والرأسُ قد شابَهُ المَشِيبُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "had not made you stand firm, you would almost have inclined\ntowards them a little.",
+      "definition_english": "had not made you stand firm, you would almost have inclined\ntowards them a little."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–y–b to become white-haired, greyness or whiteness of\nhair. Of this root, three forms occur once each in the Qurʾan: شَيْبًا\nshayban; شِيبًا shīban and شَيْبَةً shaybatan.\n\nشَيْبًا shayban [v. n.] greying of hair (19:4) وَاشْتَعَلَ الرَّأْسُ شَيْبًا and\n[my] head has become aflame with greyness.\n\nشِيبًا shīban [pl. of n./quasi-act. part. أَشْيَب ʾashyab and, perhaps,\nof act. part. شَائِب shāʾib] grey-haired persons (73:17) فَكَيْفَ تَتَّقُونَ إِنْ\nكَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا so how can you, if you disbelieve, guard\nagainst a Day which will turn children grey-haired?\n\nشَيْبَةً shaybatan [v. n.] being grey-haired, greying of the hair\n(30:54) ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً then He appoints after strength\nweakness and greying of hair.",
+      "definition_english": "sh–y–b to become white-haired, greyness or whiteness of\nhair. Of this root, three forms occur once each in the Qurʾan: شَيْبًا\nshayban; شِيبًا shīban and شَيْبَةً shaybatan.\n\nشَيْبًا shayban [v. n.] greying of hair (19:4) وَاشْتَعَلَ الرَّأْسُ شَيْبًا and\n[my] head has become aflame with greyness.\n\nشِيبًا shīban [pl. of n./quasi-act. part. أَشْيَب ʾashyab and, perhaps,\nof act. part. شَائِب shāʾib] grey-haired persons (73:17) فَكَيْفَ تَتَّقُونَ إِنْ\nكَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا so how can you, if you disbelieve, guard\nagainst a Day which will turn children grey-haired?\n\nشَيْبَةً shaybatan [v. n.] being grey-haired, greying of the hair\n(30:54) ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً then He appoints after strength\nweakness and greying of hair."
+    }
+  ],
   "occurrences": [
     "19:4:9",
     "30:54:18",

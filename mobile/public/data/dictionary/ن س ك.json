@@ -1,9 +1,17 @@
 {
-  "id": 3990,
   "root": "ن س ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنزل - نزه\n\n(نسك) النون والسين والكاف أصلٌ صحيح يدلُّ على عِبادةٍ وتقرُّب إلى الله تعالى. ورجلٌ ناسك. والذَّبيحة التي تَتقرَّب بها إلى الله نَسِيكة. والمَنْسَِك: الموضع يذبَح فيه النَّسائِك، ولا يكون ذلك إلاَّ في القُرْبان. وزعم ناسٌ أنَّ المَنسَِك : المكان يألفه. وفيه نظر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنزل - نزه\n\n(نسك) النون والسين والكاف أصلٌ صحيح يدلُّ على عِبادةٍ وتقرُّب إلى الله تعالى. ورجلٌ ناسك. والذَّبيحة التي تَتقرَّب بها إلى الله نَسِيكة. والمَنْسَِك: الموضع يذبَح فيه النَّسائِك، ولا يكون ذلك إلاَّ في القُرْبان. وزعم ناسٌ أنَّ المَنسَِك : المكان يألفه. وفيه نظر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–s–k green meadows; nuggets of gold and silver; sacrifice,\nritual, act of worship; hermit, to live the life of an ascetic, to be\npious. Of this root, four forms occur seven times in the Qur’an:\nنَاسِك nāsik once; نُسُك nusuk twice; مَنْسَك mansak twice and مَنَاسِك\nmanāsik twice.\n\nنَاسِك nāsik [act. part.] one performing holy rites (22:67) لِكُلِّ أُمَّةٍ\nجَعَلْنَا مَنْسَكًا هُمْ نَاسِكُوهُ for every community We have appointed acts of\ndevotion for them to perform.\n\n935",
+      "definition_english": "n–s–k green meadows; nuggets of gold and silver; sacrifice,\nritual, act of worship; hermit, to live the life of an ascetic, to be\npious. Of this root, four forms occur seven times in the Qur’an:\nنَاسِك nāsik once; نُسُك nusuk twice; مَنْسَك mansak twice and مَنَاسِك\nmanāsik twice.\n\nنَاسِك nāsik [act. part.] one performing holy rites (22:67) لِكُلِّ أُمَّةٍ\nجَعَلْنَا مَنْسَكًا هُمْ نَاسِكُوهُ for every community We have appointed acts of\ndevotion for them to perform.\n\n935"
+    }
+  ],
   "occurrences": [
     "22:34:4",
     "22:67:4",

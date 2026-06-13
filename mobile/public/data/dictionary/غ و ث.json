@@ -1,9 +1,22 @@
 {
-  "id": 2781,
   "root": "غ و ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغوث\n\nوافيتُ إِذْ رُفِعَت وعَزَّ مُدامُها\n\nقد بِتُّ سامِرَها وغايَةِ تاجرٍ\n\nثم سميِّت نهايةُ الشَّيء غايةً. وهذا من المحمول على غيرِه، إِنِّما سميت غايةً بغاية الحرب، وهي الرّاية، لأنَّه يُنْتَهَى إليها كما يَرجِع القومُ إلى رايَتِهم في الحرب.\n\nوالأصل الآخر: قولهم: غَوِيَ الفَصيلُ، إذا أكثر من شُربِ اللّبَن ففَسَد جوفُه. والمصدر الغَوَى. قال:\n\nبَرازِئِها دَرّاً ولا ميِّتٍ غَوَى\n\nمُعطَّفةُ الأثناء ليس فصيلُها\n\n(غوث) الغين والواو والثاء كلمةٌ واحدة، وهي الغوث من الإغاثة، وهي الإغاثة والنُّصرة عند الشِّدة. وغَوْثٌ: قبيلة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغوث\n\nوافيتُ إِذْ رُفِعَت وعَزَّ مُدامُها\n\nقد بِتُّ سامِرَها وغايَةِ تاجرٍ\n\nثم سميِّت نهايةُ الشَّيء غايةً. وهذا من المحمول على غيرِه، إِنِّما سميت غايةً بغاية الحرب، وهي الرّاية، لأنَّه يُنْتَهَى إليها كما يَرجِع القومُ إلى رايَتِهم في الحرب.\n\nوالأصل الآخر: قولهم: غَوِيَ الفَصيلُ، إذا أكثر من شُربِ اللّبَن ففَسَد جوفُه. والمصدر الغَوَى. قال:\n\nبَرازِئِها دَرّاً ولا ميِّتٍ غَوَى\n\nمُعطَّفةُ الأثناء ليس فصيلُها\n\n(غوث) الغين والواو والثاء كلمةٌ واحدة، وهي الغوث من الإغاثة، وهي الإغاثة والنُّصرة عند الشِّدة. وغَوْثٌ: قبيلة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "without others *(10:68) الْغَنِيُّ [an attribute of God] the Self-Sufficient One.\nمُغْنُون mughnūn [pl. of act. part. مُغْنٍ mughnī.] one who suffices in taking the place of another, someone protecting another against something (40:47) فَهَلْ أَنْتُمْ مُغْنُونَ عَنَّا نَصِيبًا مِنَ النَّارِ so will you take our place [stand in for us] in bearing a share of the Fire? (or, will you protect us from some of the Fire?)",
+      "definition_english": "without others *(10:68) الْغَنِيُّ [an attribute of God] the Self-Sufficient One.\nمُغْنُون mughnūn [pl. of act. part. مُغْنٍ mughnī.] one who suffices in taking the place of another, someone protecting another against something (40:47) فَهَلْ أَنْتُمْ مُغْنُونَ عَنَّا نَصِيبًا مِنَ النَّارِ so will you take our place [stand in for us] in bearing a share of the Fire? (or, will you protect us from some of the Fire?)"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–w–th to go to the aid of, to call for assistance, cry for assistance. Considering the uncertainty surrounding w (و) and y (ي) when they function as radicals, there is a connection and a degree of overlapping between this root and the root غ/ي/ث gh–y–th (q.v.) resulting in classifying يُغَاث yughāth under غ/ي/ث gh–y–th but classifying يُغَاثُوا yughāthū here. Of this root, two forms occur five times in the Qurʾan: يُغَاثُوا yughāthū once and إِسْتَغَاثَ ʾistaghātha four times.\nيُغَاث yughāth [imperf. of the pass. v. IV أُغِيث ʾughītha] to be succoured, to be bailed out, to be relieved (18:29) وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ and if they cry for help they will be relieved with water like molten metal/tar, that scalds the faces.\n\nإِسْتَغَاثَ ʾistaghātha [v. X] I [intrans.] to cry for help (18:29) وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ and if they call for relief they will be relieved with water like molten metal/tar, that scalds the faces II [trans.] to cry to someone for help (28:15) فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ so one of his own people cried out to him for help.",
+      "definition_english": "gh–w–th to go to the aid of, to call for assistance, cry for assistance. Considering the uncertainty surrounding w (و) and y (ي) when they function as radicals, there is a connection and a degree of overlapping between this root and the root غ/ي/ث gh–y–th (q.v.) resulting in classifying يُغَاث yughāth under غ/ي/ث gh–y–th but classifying يُغَاثُوا yughāthū here. Of this root, two forms occur five times in the Qurʾan: يُغَاثُوا yughāthū once and إِسْتَغَاثَ ʾistaghātha four times.\nيُغَاث yughāth [imperf. of the pass. v. IV أُغِيث ʾughītha] to be succoured, to be bailed out, to be relieved (18:29) وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ and if they cry for help they will be relieved with water like molten metal/tar, that scalds the faces.\n\nإِسْتَغَاثَ ʾistaghātha [v. X] I [intrans.] to cry for help (18:29) وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ and if they call for relief they will be relieved with water like molten metal/tar, that scalds the faces II [trans.] to cry to someone for help (28:15) فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ so one of his own people cried out to him for help."
+    }
+  ],
   "occurrences": [
     "18:29:19",
     "18:29:20",

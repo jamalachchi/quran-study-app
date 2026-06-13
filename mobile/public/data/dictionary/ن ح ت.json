@@ -1,9 +1,17 @@
 {
-  "id": 3951,
   "root": "ن ح ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنحو\n\n(نحت) النون والحاء والتاء كلمة تدل على نَجْرِ شيءٍ وتسويتهِ بحديدة. ونَحَتَ النَّجَّار الخشبةَ ينحَتُها نحتاً. والنَّحيتة: الطَّبيعة، يريدون الحالةَ التي نُحِت عليها الإنسان، كالغريزة التي غُرِز عليها الإنسان. وما سقط من المنحوت نُحاتَةٌ.\n\nنخر - نخس نخش\n\n(باب النون والخاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنحو\n\n(نحت) النون والحاء والتاء كلمة تدل على نَجْرِ شيءٍ وتسويتهِ بحديدة. ونَحَتَ النَّجَّار الخشبةَ ينحَتُها نحتاً. والنَّحيتة: الطَّبيعة، يريدون الحالةَ التي نُحِت عليها الإنسان، كالغريزة التي غُرِز عليها الإنسان. وما سقط من المنحوت نُحاتَةٌ.\n\nنخر - نخس نخش\n\n(باب النون والخاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ḥ–t to hew, to carve, to quarry, to chisel, to hollow,\nsplinters; disposition, character. Of this root, يَنْحِتُ yanḥit, appears\nfour times in the Qur’an.\n\nيَنْحِتُ yanḥit [imperf. of v. نَحَتَ naḥata, trans.] 1 to hollow out,\nto hew out (7:74) وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا and hewing the mountains into\nhouses 2 to chisel, to carve into shape, to sculpt (37:95) أَتَعْبُدُونَ مَا\nتَنْحِتُونَ do you worship what you carve [with your own hands]?",
+      "definition_english": "n–ḥ–t to hew, to carve, to quarry, to chisel, to hollow,\nsplinters; disposition, character. Of this root, يَنْحِتُ yanḥit, appears\nfour times in the Qur’an.\n\nيَنْحِتُ yanḥit [imperf. of v. نَحَتَ naḥata, trans.] 1 to hollow out,\nto hew out (7:74) وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا and hewing the mountains into\nhouses 2 to chisel, to carve into shape, to sculpt (37:95) أَتَعْبُدُونَ مَا\nتَنْحِتُونَ do you worship what you carve [with your own hands]?"
+    }
+  ],
   "occurrences": [
     "15:82:2",
     "26:149:1",

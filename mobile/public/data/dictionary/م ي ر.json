@@ -1,9 +1,22 @@
 {
-  "id": 3649,
   "root": "م ي ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nميد\n\n(مير) الميم والياء والراء أصلٌ صحيح، هو المَيْر، ومِرْت مَيْراً. والمِيَرة: الطعام له إلى بلده . وقالوا: ما عنده خَيْرٌ ولا مَيْر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nميد\n\n(مير) الميم والياء والراء أصلٌ صحيح، هو المَيْر، ومِرْت مَيْراً. والمِيَرة: الطعام له إلى بلده . وقالوا: ما عنده خَيْرٌ ولا مَيْر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "times and أموال ʾamwāl 61 times.\nمال māl [n., pl. أموال ʾamwāl] riches, property, wealth,\npossessions, camels, livestock (18:46) الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا\nwealth and children are the attractions of this worldly life.",
+      "definition_english": "times and أموال ʾamwāl 61 times.\nمال māl [n., pl. أموال ʾamwāl] riches, property, wealth,\npossessions, camels, livestock (18:46) الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا\nwealth and children are the attractions of this worldly life."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–y–r food stock, provision, to provide with food, to keep\nwell-stocked/supplied with food; to melt down. Of this root, only\nنمير namīr occurs once in the Qur’an.\n\nنمير namīr [imperf. of v. مارَ māra, trans.] to provide with food,\nto stock with provisions (12:65) وَنَمِيرُ أَهْلَنَا and we will get\n\n908",
+      "definition_english": "m–y–r food stock, provision, to provide with food, to keep\nwell-stocked/supplied with food; to melt down. Of this root, only\nنمير namīr occurs once in the Qur’an.\n\nنمير namīr [imperf. of v. مارَ māra, trans.] to provide with food,\nto stock with provisions (12:65) وَنَمِيرُ أَهْلَنَا and we will get\n\n908"
+    }
+  ],
   "occurrences": [
     "12:65:16"
   ]

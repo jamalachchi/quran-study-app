@@ -1,9 +1,17 @@
 {
-  "id": 4499,
   "root": "و ك ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوقف\n\n(وكز) الواو والكاف والزاء بناءٌ صحيح؛ يقال وكَزَه: طعَنَه. ووكَزه: ضَربه بجُمْع كفِّه . [و] وَكَزَه: دَفَعه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوقف\n\n(وكز) الواو والكاف والزاء بناءٌ صحيح؛ يقال وكَزَه: طعَنَه. ووكَزه: ضَربه بجُمْع كفِّه . [و] وَكَزَه: دَفَعه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–k–z to strike or poke with the fist, to slap, to thrust, to spur;\nto break; (of a snake) to bite. Of this root, وَكَز wakaza, occurs\nonce in the Qur’an.\n\nوَكَز wakaza i [v. trans.] to punch, to strike with one’s fist\n(28:15) فَوَكَزَهُ مُوسَى فَقَضَى عَلَيْهِ so Moses struck him [with his fist]\nand killed him.",
+      "definition_english": "w–k–z to strike or poke with the fist, to slap, to thrust, to spur;\nto break; (of a snake) to bite. Of this root, وَكَز wakaza, occurs\nonce in the Qur’an.\n\nوَكَز wakaza i [v. trans.] to punch, to strike with one’s fist\n(28:15) فَوَكَزَهُ مُوسَى فَقَضَى عَلَيْهِ so Moses struck him [with his fist]\nand killed him."
+    }
+  ],
   "occurrences": [
     "28:15:26"
   ]

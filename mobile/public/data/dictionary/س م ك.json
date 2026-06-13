@@ -1,9 +1,17 @@
 {
-  "id": 1820,
   "root": "س م ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسمط\n\n(سمك) السين والميم والكاف أصلٌ واحدٌ يدلُّ على العُلُوِّ. يقال سَمَك، إذا ارتفَعَ. والمسموكات: السماوات. ويقال سَمَكَ في الدَّرَج. واسمُكْ، أي اعْلُ. وسَنَامٌ سامك، أي عالٍ. والمِسْمَاك: ما سَمَكْتَ به البيتَ. قال ذو الرّمة:\n\nسَقْبَانِ لم يتقشَّرْ عنهما النَّجَبُ\n\nكأنَّ رِجلَيْهِ مِسماكانِ مِنْ عشَرٍ\n\nوالسِّماك نجم. ومما شذَّ عن الباب وباين الأصل: السَّمَك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسمط\n\n(سمك) السين والميم والكاف أصلٌ واحدٌ يدلُّ على العُلُوِّ. يقال سَمَك، إذا ارتفَعَ. والمسموكات: السماوات. ويقال سَمَكَ في الدَّرَج. واسمُكْ، أي اعْلُ. وسَنَامٌ سامك، أي عالٍ. والمِسْمَاك: ما سَمَكْتَ به البيتَ. قال ذو الرّمة:\n\nسَقْبَانِ لم يتقشَّرْ عنهما النَّجَبُ\n\nكأنَّ رِجلَيْهِ مِسماكانِ مِنْ عشَرٍ\n\nوالسِّماك نجم. ومما شذَّ عن الباب وباين الأصل: السَّمَك.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–m–k height, loftiness; building, support, roofing; fish. Of this root, only سمكها samkahā occurs once in the Qurʾan.\nسمك samk [n.] elevation, height (79:28) رَفَعَ سَمْكَهَا فَسَوَّىٰهَا raising it high and perfecting it.",
+      "definition_english": "s–m–k height, loftiness; building, support, roofing; fish. Of this root, only سمكها samkahā occurs once in the Qurʾan.\nسمك samk [n.] elevation, height (79:28) رَفَعَ سَمْكَهَا فَسَوَّىٰهَا raising it high and perfecting it."
+    }
+  ],
   "occurrences": [
     "79:28:2"
   ]

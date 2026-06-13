@@ -1,9 +1,17 @@
 {
-  "id": 3491,
   "root": "ل ب ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلاه - لأو\n\n(لبث) اللام والباء والثاء حرف يدلُّ على تمكُّث. يقال: لَبِثَ بالمكان: أقام. قال الله تعالى: ] لَمْ يَلْبَثُوا إلاَّ سَاعَةً مِنْ نَهَارٍ [ [يونس 45، الأحقاف 35].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلاه - لأو\n\n(لبث) اللام والباء والثاء حرف يدلُّ على تمكُّث. يقال: لَبِثَ بالمكان: أقام. قال الله تعالى: ] لَمْ يَلْبَثُوا إلاَّ سَاعَةً مِنْ نَهَارٍ [ [يونس 45، الأحقاف 35].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–b–th to stay, to be slow, to tarry, to be late in coming, to\nabide, stopover, lingering; mixture. Of this root, three forms\noccur 31 times in the Qur’an: لَبِثَ labitha 29 times; لَابِثِين lābithīn\nonce and تَلَبَّثُوا talabbathū once.\n\nلَبِثَ labitha a [v. intrans.] to remain, to stay, to tarry (18:19) كَمْ\nلَبِثْتُمْ ‘How long have you remained?’ They said, ‘We remained a\nday or part of a day’; * مَا لَبِثَ أَنْ ‘no sooner … than’, ‘without\ndelay’, ‘straight away’ (11:69) فَمَا لَبِثَ أَنْ جَاءَ بِعِجْلٍ حَنِيذٍ and without\ndelay he brought in a roasted calf.\n\nلَابِثِين lābithīn [pl. of act. part. لَابِث lābith] those who tarry,\nthose who remain in a place, those who spend time in a place\n(78:21–3) إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا لِّلطَّاغِينَ مَآبًا لَّابِثِينَ فِيهَا أَحْقَابًا\nHell lies in wait, a home for transgressors, there to abide for a\nlong, long time.\n\nتَلَبَّثَ talabbatha [v. V. intrans.] to seek to tarry, to hesitate\n(33:14) وَمَا تَلَبَّثُوا بِهَا إِلَّا يَسِيرًا and would have hesitated over it but\n\n835",
+      "definition_english": "l–b–th to stay, to be slow, to tarry, to be late in coming, to\nabide, stopover, lingering; mixture. Of this root, three forms\noccur 31 times in the Qur’an: لَبِثَ labitha 29 times; لَابِثِين lābithīn\nonce and تَلَبَّثُوا talabbathū once.\n\nلَبِثَ labitha a [v. intrans.] to remain, to stay, to tarry (18:19) كَمْ\nلَبِثْتُمْ ‘How long have you remained?’ They said, ‘We remained a\nday or part of a day’; * مَا لَبِثَ أَنْ ‘no sooner … than’, ‘without\ndelay’, ‘straight away’ (11:69) فَمَا لَبِثَ أَنْ جَاءَ بِعِجْلٍ حَنِيذٍ and without\ndelay he brought in a roasted calf.\n\nلَابِثِين lābithīn [pl. of act. part. لَابِث lābith] those who tarry,\nthose who remain in a place, those who spend time in a place\n(78:21–3) إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا لِّلطَّاغِينَ مَآبًا لَّابِثِينَ فِيهَا أَحْقَابًا\nHell lies in wait, a home for transgressors, there to abide for a\nlong, long time.\n\nتَلَبَّثَ talabbatha [v. V. intrans.] to seek to tarry, to hesitate\n(33:14) وَمَا تَلَبَّثُوا بِهَا إِلَّا يَسِيرًا and would have hesitated over it but\n\n835"
+    }
+  ],
   "occurrences": [
     "10:16:12",
     "10:45:5",

@@ -1,9 +1,17 @@
 {
-  "id": 3292,
   "root": "ك ن ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كنز) الكاف والنون والزاء أُصَيلٌ صحيح يدلُّ على تجمُّع في شيء. من ذلك ناقة كِنَازُ اللَّحم، أي مجتمِعة. وكَنَزت التَّمْرَ في وعائه أكنِزُه. وكنَزت الكنْزَ أكنِزه. ويقولون في كَنْز التَّمر: هو زمن الكَنَاز. قال ابن السِّكِّيت: لم يُسمَع هذا إلاَّ بالفتح، أي إنَّه ليس هذا مما جاء على فِعال وفَعال كجِداد وجَداد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كنز) الكاف والنون والزاء أُصَيلٌ صحيح يدلُّ على تجمُّع في شيء. من ذلك ناقة كِنَازُ اللَّحم، أي مجتمِعة. وكَنَزت التَّمْرَ في وعائه أكنِزُه. وكنَزت الكنْزَ أكنِزه. ويقولون في كَنْز التَّمر: هو زمن الكَنَاز. قال ابن السِّكِّيت: لم يُسمَع هذا إلاَّ بالفتح، أي إنَّه ليس هذا مما جاء على فِعال وفَعال كجِداد وجَداد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–n–z treasure, buried valuables; to fill up a water skin, to\namass, to hoard. Of this root, three forms occur nine times in the\nQur’an: كَنَزَ kanaza three times; كَنْز kanz four times and كُنُوز kunūz\ntwice.\n\nكَنَزَ kanaza i [v. trans.] to stock up treasure, to hoard (9:34) وَالَّذِينَ\nيَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا فِي سَبِيلِ اللَّهِ those who hoard gold and\nsilver and do not spend them in the way of God.\n\nكَنْز kanz [n.; pl. كُنُوز kunūz] treasure (18:82) وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا\nas for the wall, it belonged to two\nyoung orphans in the town and beneath it was a treasure that\nbelonged to them.",
+      "definition_english": "k–n–z treasure, buried valuables; to fill up a water skin, to\namass, to hoard. Of this root, three forms occur nine times in the\nQur’an: كَنَزَ kanaza three times; كَنْز kanz four times and كُنُوز kunūz\ntwice.\n\nكَنَزَ kanaza i [v. trans.] to stock up treasure, to hoard (9:34) وَالَّذِينَ\nيَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا فِي سَبِيلِ اللَّهِ those who hoard gold and\nsilver and do not spend them in the way of God.\n\nكَنْز kanz [n.; pl. كُنُوز kunūz] treasure (18:82) وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا\nas for the wall, it belonged to two\nyoung orphans in the town and beneath it was a treasure that\nbelonged to them."
+    }
+  ],
   "occurrences": [
     "11:12:15",
     "18:82:10",

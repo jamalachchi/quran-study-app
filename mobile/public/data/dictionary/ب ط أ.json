@@ -1,8 +1,21 @@
 {
-  "id": 291,
   "root": "ب ط أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبطأ - بطح\n\nحَرَجٌ في مِرْفَقَيْها كالفَتَلْ\n\nقَدْ تَبَطَّنْتُ وتَحْتي جَسْرَةٌ\n\n(بطأ) الباء والطاء والهمزة أصلٌ واحد وهو البُطْء في الأمر. أبطأ إبطاءً وبُطْأً ، ورجلٌ بَطِيءٌ وقومٌ بِطَاءٌ. قال:\n\nرددت على بِطَائها من سِراعِها\n\nومبثوثةٍ بَثَّ الدّبا مُسَبْطرة",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبطأ - بطح\n\nحَرَجٌ في مِرْفَقَيْها كالفَتَلْ\n\nقَدْ تَبَطَّنْتُ وتَحْتي جَسْرَةٌ\n\n(بطأ) الباء والطاء والهمزة أصلٌ واحد وهو البُطْء في الأمر. أبطأ إبطاءً وبُطْأً ، ورجلٌ بَطِيءٌ وقومٌ بِطَاءٌ. قال:\n\nرددت على بِطَائها من سِراعِها\n\nومبثوثةٍ بَثَّ الدّبا مُسَبْطرة",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "97\n",
+      "definition_english": "97\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-ṭ-ʾ this root denotes the single concept of slowness, of which\nonly يُبَطِّئُ yubaṭṭiʾ occurs 11 times in the Qur’an.\n\nيُبَطِّئُ yubaṭṭiʾ [imperf. of v. II بَطَّأَ baṭṭaʾa, intrans./trans.] to\nhold back, to lag behind, also to cause someone to lag behind or\nhold back (4:72) وَإِنَّ مِنْكُمْ لَمَنْ لَيُبَطِّئَنَّ and among you are the ones\nwho lag behind [also interpreted as: who urge others to lag\nbehind].",
+      "definition_english": "b-ṭ-ʾ this root denotes the single concept of slowness, of which\nonly يُبَطِّئُ yubaṭṭiʾ occurs 11 times in the Qur’an.\n\nيُبَطِّئُ yubaṭṭiʾ [imperf. of v. II بَطَّأَ baṭṭaʾa, intrans./trans.] to\nhold back, to lag behind, also to cause someone to lag behind or\nhold back (4:72) وَإِنَّ مِنْكُمْ لَمَنْ لَيُبَطِّئَنَّ and among you are the ones\nwho lag behind [also interpreted as: who urge others to lag\nbehind]."
+    }
+  ],
   "occurrences": []
 }

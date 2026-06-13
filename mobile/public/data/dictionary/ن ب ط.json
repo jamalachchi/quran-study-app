@@ -1,9 +1,17 @@
 {
-  "id": 3903,
   "root": "ن ب ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنبت\n\n(نبط) النون والباء والطاء كلمةٌ تدلُّ على استخراج شيء. واستنبَطْتُ الماءَ: استخرجتُه، والماء نَفْسُه إذا استُخرِجَ نَبَط. ويقال: إنَّ النَّبَط سُمُّوا به لاستنباطهم المِياه. ومن المحمول على هذا النُّبْطة: بياضٌ يكون تحت إبط الفرس. وفرسٌ أنْبَطُ، كأنَّ ذلك البياضَ مشبَّه بماءٍ نبط.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنبت\n\n(نبط) النون والباء والطاء كلمةٌ تدلُّ على استخراج شيء. واستنبَطْتُ الماءَ: استخرجتُه، والماء نَفْسُه إذا استُخرِجَ نَبَط. ويقال: إنَّ النَّبَط سُمُّوا به لاستنباطهم المِياه. ومن المحمول على هذا النُّبْطة: بياضٌ يكون تحت إبط الفرس. وفرسٌ أنْبَطُ، كأنَّ ذلك البياضَ مشبَّه بماءٍ نبط.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–b–ṭ first water obtained from a newly dug well; to elicit, to\ndeduce; to well out, to issue; the innermost part; Nabateans, to\nlive like, or to claim to be, a Nabatean. Of this root, اِسْتَنْبَطَ\nʾistanbaṭa, occurs once in the Qur’an.\n\nاِسْتَنْبَطَ ʾistanbaṭa [v. X, trans.] to deduce, to interpret (4:83) وَلَوْ\nرَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُولِي الْأَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ had they\nreferred it to the Messenger and those in authority among them,\nthose [capable of] interpreting it would have comprehended it.",
+      "definition_english": "n–b–ṭ first water obtained from a newly dug well; to elicit, to\ndeduce; to well out, to issue; the innermost part; Nabateans, to\nlive like, or to claim to be, a Nabatean. Of this root, اِسْتَنْبَطَ\nʾistanbaṭa, occurs once in the Qur’an.\n\nاِسْتَنْبَطَ ʾistanbaṭa [v. X, trans.] to deduce, to interpret (4:83) وَلَوْ\nرَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُولِي الْأَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ had they\nreferred it to the Messenger and those in authority among them,\nthose [capable of] interpreting it would have comprehended it."
+    }
+  ],
   "occurrences": [
     "4:83:20"
   ]

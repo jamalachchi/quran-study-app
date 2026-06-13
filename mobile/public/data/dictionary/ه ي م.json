@@ -1,9 +1,22 @@
 {
-  "id": 4171,
   "root": "ه ي م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هيم) الهاء والياء والميم كلمةٌ تدلُّ على عطشٍ شديد. فالهَيَمان: العَطَش. والهِيمُ: الإبل العِطاش، والهِيمُ: الرِّمال التي تَبْتَلِع الماء. والهُيام: داءٌ يأخذُ الإبلَ عند عطَشِها فتَهِيم في الأرض لا تَرعَوِي. وبه سمِّي العاشق الهَيْمانَ، كأنَّه جُنَّ من العِشْق فذَهَب على وجهه [على] غير قصد. والهَيْماء: المَفازَةُ لا ماءَ بها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هيم) الهاء والياء والميم كلمةٌ تدلُّ على عطشٍ شديد. فالهَيَمان: العَطَش. والهِيمُ: الإبل العِطاش، والهِيمُ: الرِّمال التي تَبْتَلِع الماء. والهُيام: داءٌ يأخذُ الإبلَ عند عطَشِها فتَهِيم في الأرض لا تَرعَوِي. وبه سمِّي العاشق الهَيْمانَ، كأنَّه جُنَّ من العِشْق فذَهَب على وجهه [على] غير قصد. والهَيْماء: المَفازَةُ لا ماءَ بها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "securely bolted the doors and said, ‘Here, I’m yours’ and he\nreplied, God forbid [lit. I seek refuge with God]!’",
+      "definition_english": "securely bolted the doors and said, ‘Here, I’m yours’ and he\nreplied, God forbid [lit. I seek refuge with God]!’"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–m to wander about aimlessly, to be confused, to be\nbewildered, to be puzzled, to be robbed of the senses; to be\ninfatuated, to be enchanted, to be carried away; to be demented\nby thirst, a waterless desert. Of this root, two forms occur once\neach in the Qur’an: يَهِيم yahīm and هِيم hīm.\n\nيَهِيم yahīm [imperf. of v. هَامَ hāma, intrans.] to wander about, to\nroam, to drift, to ramble senselessly (26:225) أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ\nيَهِيمُونَ do you not see how they meander around every subject [lit.\nin every valley]?\n\nهِيم hīm [pl. of act. part. أَهْيَم ʾahyam or هَائِم hāʾim] (of camels)\nconfused or demented (through thirst) (56:55) فَشَارِبُونَ شُرْبَ الْهِيمِ\ndrinking [it] like the drinking of thirst-demented camels.",
+      "definition_english": "h–y–m to wander about aimlessly, to be confused, to be\nbewildered, to be puzzled, to be robbed of the senses; to be\ninfatuated, to be enchanted, to be carried away; to be demented\nby thirst, a waterless desert. Of this root, two forms occur once\neach in the Qur’an: يَهِيم yahīm and هِيم hīm.\n\nيَهِيم yahīm [imperf. of v. هَامَ hāma, intrans.] to wander about, to\nroam, to drift, to ramble senselessly (26:225) أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ\nيَهِيمُونَ do you not see how they meander around every subject [lit.\nin every valley]?\n\nهِيم hīm [pl. of act. part. أَهْيَم ʾahyam or هَائِم hāʾim] (of camels)\nconfused or demented (through thirst) (56:55) فَشَارِبُونَ شُرْبَ الْهِيمِ\ndrinking [it] like the drinking of thirst-demented camels."
+    }
+  ],
   "occurrences": [
     "26:225:7",
     "56:55:3"

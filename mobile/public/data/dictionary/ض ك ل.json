@@ -1,8 +1,11 @@
 {
-  "id": 2300,
   "root": "ض ك ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضغز - ضفن\n\n(ضكل) الضاد والكاف واللام. يقولون: إنَّ الضَّيْكَل: العُرْيان.\n\n(باب الضاد واللام وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضغز - ضفن\n\n(ضكل) الضاد والكاف واللام. يقولون: إنَّ الضَّيْكَل: العُرْيان.\n\n(باب الضاد واللام وما يثلثهما)",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

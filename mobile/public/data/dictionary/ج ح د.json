@@ -1,9 +1,22 @@
 {
-  "id": 567,
   "root": "ج ح د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجث - جحد\n\n(جحد) الجيم والحاء والدال أصلٌ يدلُّ على قِلّة الخير. يُقال عامٌ جَحِدٌ قليل المطر. ورجل جَحِْدٌ فقير، وقد جَحِدَ وأَجْحَدَ. قال ابن دُريد: والجَحْد من كلِّ شيءٍ القِلّة. قال الشاعر:\n\n* ولَنْ يَرَى ما عاش إلاّ جَحْدا *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجث - جحد\n\n(جحد) الجيم والحاء والدال أصلٌ يدلُّ على قِلّة الخير. يُقال عامٌ جَحِدٌ قليل المطر. ورجل جَحِْدٌ فقير، وقد جَحِدَ وأَجْحَدَ. قال ابن دُريد: والجَحْد من كلِّ شيءٍ القِلّة. قال الشاعر:\n\n* ولَنْ يَرَى ما عاش إلاّ جَحْدا *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "45, Meccan sura, so-named because of the reference in verse 28 to the ‘kneeling posture’ of all on the Day of Judgement.\nجِثِيّ jithiyy [pl. of act. part. جَاثٍ jāthī] kneeling down, humbled, vanquished (19:68) فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا so by your Lord We shall gather them together with the devils, and then set them around Hell, kneeling.",
+      "definition_english": "45, Meccan sura, so-named because of the reference in verse 28 to the ‘kneeling posture’ of all on the Day of Judgement.\nجِثِيّ jithiyy [pl. of act. part. جَاثٍ jāthī] kneeling down, humbled, vanquished (19:68) فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا so by your Lord We shall gather them together with the devils, and then set them around Hell, kneeling."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–ḥ–d barren land, stifled plants, (of plants) to fail to grow properly; to deny, to disown, to reject; to become penniless, paucity. Of this root, جَحَدَ jaḥada occurs 12 times in the Qurʾan.\nجَحَدَ jaḥada a [v. trans. and intrans. occurring with or without بِـ] to absolutely reject, give the lie to or categorically deny (something whilst knowing or not knowing it to be true) (27:14) وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا they denied them absolutely, out of wickedness and arrogance, even though their souls acknowledged them as true.",
+      "definition_english": "j–ḥ–d barren land, stifled plants, (of plants) to fail to grow properly; to deny, to disown, to reject; to become penniless, paucity. Of this root, جَحَدَ jaḥada occurs 12 times in the Qurʾan.\nجَحَدَ jaḥada a [v. trans. and intrans. occurring with or without بِـ] to absolutely reject, give the lie to or categorically deny (something whilst knowing or not knowing it to be true) (27:14) وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا they denied them absolutely, out of wickedness and arrogance, even though their souls acknowledged them as true."
+    }
+  ],
   "occurrences": [
     "11:59:3",
     "16:71:22",

@@ -1,9 +1,17 @@
 {
-  "id": 485,
   "root": "ث خ ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثجر - ثجل\n\n(ثخن) الثاء والخاء والنون يدلُّ على رَزَانة الشيءِ في ثِقَل. تقول ثَخُنَ الشيءُ ثَخَانَةً. والرّجُل الحليمُ الرّزِين ثَخِين. والثّوْب المكتنز اللُّحْمة والسَّدَى من جَوْدةِ نَسجه ثَخين. وقد أثْخَنْته أي أثْقَلْته، قال الله تعالى: ] حَتَّى يُثْخِنَ في الأَرْضِ [ [الأنفال 67] وذلك أنّ القتيلَ قد أُثْقِل حتى لا حَرَاكَ به. وتركتُه مُثْخَناً، أي وَقِيذاً . وقال قومٌ: يقال للأعزل الذي لا سِلاحَ معه: ثخين؛ وهو قياسُ الباب، لأنّ حركتَه تَقِلُّ، خوفاً على نَفْسه.\n\nثدي - ثدق - ثدم - ثدن\n\n(باب الثاء والدال وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثجر - ثجل\n\n(ثخن) الثاء والخاء والنون يدلُّ على رَزَانة الشيءِ في ثِقَل. تقول ثَخُنَ الشيءُ ثَخَانَةً. والرّجُل الحليمُ الرّزِين ثَخِين. والثّوْب المكتنز اللُّحْمة والسَّدَى من جَوْدةِ نَسجه ثَخين. وقد أثْخَنْته أي أثْقَلْته، قال الله تعالى: ] حَتَّى يُثْخِنَ في الأَرْضِ [ [الأنفال 67] وذلك أنّ القتيلَ قد أُثْقِل حتى لا حَرَاكَ به. وتركتُه مُثْخَناً، أي وَقِيذاً . وقال قومٌ: يقال للأعزل الذي لا سِلاحَ معه: ثخين؛ وهو قياسُ الباب، لأنّ حركتَه تَقِلُّ، خوفاً على نَفْسه.\n\nثدي - ثدق - ثدم - ثدن\n\n(باب الثاء والدال وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–kh–n thickness, solidity; to do something to the utmost; to\nwear out, to exhaust, to weaken, conquer; to be solemn, to be\novercome with strain. Of this root, أَثْخَنَ ʾathkhana occurs twice in\nthe Qur’an.\n\nأَثْخَنَ ʾathkhana [v. II] I [intrans. with فِي] to battle strenuously,\nto gain victory (8:67) مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَى حَتَّى يُثْخِنَ فِي الْأَرْضِ it\nis not for a prophet to take captives before he has successfully\nbattled in the land II [trans.] to overcome, to vanquish, to\noverpower, to rout (47:4) فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّى إِذَا\nأَثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ when you meet the disbelievers [in battle],\nstrike their necks until, when you have routed them, tie fast the\nbonds.",
+      "definition_english": "th–kh–n thickness, solidity; to do something to the utmost; to\nwear out, to exhaust, to weaken, conquer; to be solemn, to be\novercome with strain. Of this root, أَثْخَنَ ʾathkhana occurs twice in\nthe Qur’an.\n\nأَثْخَنَ ʾathkhana [v. II] I [intrans. with فِي] to battle strenuously,\nto gain victory (8:67) مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَى حَتَّى يُثْخِنَ فِي الْأَرْضِ it\nis not for a prophet to take captives before he has successfully\nbattled in the land II [trans.] to overcome, to vanquish, to\noverpower, to rout (47:4) فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّى إِذَا\nأَثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ when you meet the disbelievers [in battle],\nstrike their necks until, when you have routed them, tie fast the\nbonds."
+    }
+  ],
   "occurrences": [
     "47:4:9",
     "8:67:9"

@@ -1,9 +1,17 @@
 {
-  "id": 4011,
   "root": "ن ش ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنشر - نشز\n\n(نشز) النون والشين والزاء أصلٌ صحيح يدلُّ على ارتفاعٍ وعُلوّ. والنّشَز: المكان العالي المرتفِع. والنّشْز والنُّشُوز: الارتفاع، ثم استعير فقيل\n\nنشس نصع - نصف\n\nنَشَزَت المرأةُ: استَصعَبتْ على بَعلِها، وكذلك نَشَزَ بعلُها: جفاها وضرَبَهَا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنشر - نشز\n\n(نشز) النون والشين والزاء أصلٌ صحيح يدلُّ على ارتفاعٍ وعُلوّ. والنّشَز: المكان العالي المرتفِع. والنّشْز والنُّشُوز: الارتفاع، ثم استعير فقيل\n\nنشس نصع - نصف\n\nنَشَزَت المرأةُ: استَصعَبتْ على بَعلِها، وكذلك نَشَزَ بعلُها: جفاها وضرَبَهَا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–sh–z high ground, elevation, protrusion, to stand out, to be\ndiscordant, to be rebellious; to be perverted. Of this root, three\nforms occur five times in the Qur’an: اُنْشُز ʾunshuz twice; أَنْشَزَ\nʾanshaza once and نُشُوز nushūz twice.\n\nاُنْشُز ʾunshuz [imper. of v. نَشَزَ nashaza] rise up, give up your\nplace (58:11) يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ\nلَكُمْ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا you who believe!–if it is said to you, ‘Make\nroom!’ in assemblies, then make room, and God will make room\nfor you, and if it is said, ‘Give up your seat!’, then give up your\nseat.\n\nنُنْشِز nunshiz [imperf. of v. IV أَنْشَزَ ʾanshaza, trans.] to raise, to\nretrieve, to reassemble, to bring back to life (2:259) وَانْظُرْ إِلَى الْعِظَامِ\nكَيْفَ نُنْشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا and look at the bones: [see] how We\nretrieve them and clothe them with flesh!\n\nنُشُوز nushūz [v. n.] [jur.] discordant behaviour towards a\nspouse, being contrary or antagonistic in dealing with a spouse\n(4:128) وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا and if a woman\nfears/experiences from her husband antagonism, discord or\nalienation.",
+      "definition_english": "n–sh–z high ground, elevation, protrusion, to stand out, to be\ndiscordant, to be rebellious; to be perverted. Of this root, three\nforms occur five times in the Qur’an: اُنْشُز ʾunshuz twice; أَنْشَزَ\nʾanshaza once and نُشُوز nushūz twice.\n\nاُنْشُز ʾunshuz [imper. of v. نَشَزَ nashaza] rise up, give up your\nplace (58:11) يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ\nلَكُمْ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا you who believe!–if it is said to you, ‘Make\nroom!’ in assemblies, then make room, and God will make room\nfor you, and if it is said, ‘Give up your seat!’, then give up your\nseat.\n\nنُنْشِز nunshiz [imperf. of v. IV أَنْشَزَ ʾanshaza, trans.] to raise, to\nretrieve, to reassemble, to bring back to life (2:259) وَانْظُرْ إِلَى الْعِظَامِ\nكَيْفَ نُنْشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا and look at the bones: [see] how We\nretrieve them and clothe them with flesh!\n\nنُشُوز nushūz [v. n.] [jur.] discordant behaviour towards a\nspouse, being contrary or antagonistic in dealing with a spouse\n(4:128) وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا and if a woman\nfears/experiences from her husband antagonism, discord or\nalienation."
+    }
+  ],
   "occurrences": [
     "2:259:53",
     "4:128:6",

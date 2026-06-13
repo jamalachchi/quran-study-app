@@ -1,9 +1,17 @@
 {
-  "id": 4337,
   "root": "و ث ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وثن) الواو والثاء والنون. كلمةٌ واحدة، هي الوَثَن واحد الأوثان: حِجارةٌ كانت تُعْبَد. وأصلها قولهم استَوْثَنَ الشّيءُ: قَوِيَ. وأوْثَنَ فلانٌ الحِمْلَ: كَثَّره. وأوثَنْتُ له: أعطيتُه جزيلاً.\n\nوثأ - وثب - وجح - وجد",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وثن) الواو والثاء والنون. كلمةٌ واحدة، هي الوَثَن واحد الأوثان: حِجارةٌ كانت تُعْبَد. وأصلها قولهم استَوْثَنَ الشّيءُ: قَوِيَ. وأوْثَنَ فلانٌ الحِمْلَ: كَثَّره. وأوثَنْتُ له: أعطيتُه جزيلاً.\n\nوثأ - وثب - وجح - وجد",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–th–n staying firm, being constant, (of land) being rained on,\nhaving great wealth, (of women) being endowed with literary\ntalent, being an idol, being an object of worship. (There is a great\ndegree of overlap between derivatives of this root and the root",
+      "definition_english": "w–th–n staying firm, being constant, (of land) being rained on,\nhaving great wealth, (of women) being endowed with literary\ntalent, being an idol, being an object of worship. (There is a great\ndegree of overlap between derivatives of this root and the root"
+    }
+  ],
   "occurrences": [
     "22:30:21",
     "29:17:6",

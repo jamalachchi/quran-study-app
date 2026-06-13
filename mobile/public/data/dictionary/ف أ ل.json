@@ -1,8 +1,11 @@
 {
-  "id": 2935,
   "root": "ف أ ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفيض\n\n(فأل) الفاء والألف واللام. الفأل: ما يُتفاءَل به.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفيض\n\n(فأل) الفاء والألف واللام. الفأل: ما يُتفاءَل به.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

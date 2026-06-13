@@ -1,9 +1,22 @@
 {
-  "id": 4480,
   "root": "و ق ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وقب) الواو والقاف والباء: كلمةٌ تدلُّ على غَيبةِ شيءٍ في مَغَاب. يقال وَقب الشَّيءُ: دخَلَ في وَقْبة، وهي كالنُّقْرة في الشَّيء. ووقَبَتْ عيْناه: غارتا. [و] وقَبَ الشَّيءُ: نَزَلَ ووَقَع. قال الله تعالى: ] ومِنْ شَرِّ غَاسِقٍ إذَا وَقَبَ [ [الفلق 3]، قالوا: هو اللَّيل إذا نَزَل. وأمَّا قولُهم: إنَّ الوَقْب هو الأحمَقُ فهو من الإبدال، والأصل وَغْب، وقد ذَكَرناه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وقب) الواو والقاف والباء: كلمةٌ تدلُّ على غَيبةِ شيءٍ في مَغَاب. يقال وَقب الشَّيءُ: دخَلَ في وَقْبة، وهي كالنُّقْرة في الشَّيء. ووقَبَتْ عيْناه: غارتا. [و] وقَبَ الشَّيءُ: نَزَلَ ووَقَع. قال الله تعالى: ] ومِنْ شَرِّ غَاسِقٍ إذَا وَقَبَ [ [الفلق 3]، قالوا: هو اللَّيل إذا نَزَل. وأمَّا قولُهم: إنَّ الوَقْب هو الأحمَقُ فهو من الإبدال، والأصل وَغْب، وقد ذَكَرناه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "agreement, ones who fulfil a promise (2:177) وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا\nعَاهَدُوا and those who keep their promises whenever they make\nthem.\n\nمُتَوَفِّي mutawaffī [act. part.] (of God) recaller, reclaimer, one\nwho reclaims someone at the end of their allotted timespan,\nCompleter (of life) (3:55) إِذْ قَالَ اللَّهُ يَاعِيسَى إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ when\nGod said, ‘Jesus, I am recalling you and raising you up to Me.’",
+      "definition_english": "agreement, ones who fulfil a promise (2:177) وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا\nعَاهَدُوا and those who keep their promises whenever they make\nthem.\n\nمُتَوَفِّي mutawaffī [act. part.] (of God) recaller, reclaimer, one\nwho reclaims someone at the end of their allotted timespan,\nCompleter (of life) (3:55) إِذْ قَالَ اللَّهُ يَاعِيسَى إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ when\nGod said, ‘Jesus, I am recalling you and raising you up to Me.’"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–q–b holes in the rock where rainwater collects; foolish\nperson; heavy drinker; to sink in, to subside; to disappear, to\ndarken. Of this root, وَقَب waqaba, occurs once in the Qur’an.\n\nوَقَب waqaba i [v. intrans.] to enter, to cover with darkness, to\nprevail (113:3) وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ and of the evil of the dark night\n[also interpreted as: darkness, the moon, or the Pleiades] when it\nprevails.",
+      "definition_english": "w–q–b holes in the rock where rainwater collects; foolish\nperson; heavy drinker; to sink in, to subside; to disappear, to\ndarken. Of this root, وَقَب waqaba, occurs once in the Qur’an.\n\nوَقَب waqaba i [v. intrans.] to enter, to cover with darkness, to\nprevail (113:3) وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ and of the evil of the dark night\n[also interpreted as: darkness, the moon, or the Pleiades] when it\nprevails."
+    }
+  ],
   "occurrences": [
     "113:3:5"
   ]

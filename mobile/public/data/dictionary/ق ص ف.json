@@ -1,9 +1,17 @@
 {
-  "id": 3199,
   "root": "ق ص ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقصع- قصف\n\n(قصف) القاف والصاد والفاء أصلٌ صحيحٌ يدلُّ على كسرٍ لشيء. ولا يُخْلِف هذا القياسُ. يقال: قصَفت الرِّيحُ السفينةَ في البحر. وريحٌ قاصف . والقَصِف: السَّريع الانكِسار. والقَصِيف: هشيم الشَّجر. ومنه قولُهم: انقصفوا عنه، إذا تركوه. وهو مستعار. والأقْصَف: الذي انكسرت ثَنِيَّتُه من النِّصف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقصع- قصف\n\n(قصف) القاف والصاد والفاء أصلٌ صحيحٌ يدلُّ على كسرٍ لشيء. ولا يُخْلِف هذا القياسُ. يقال: قصَفت الرِّيحُ السفينةَ في البحر. وريحٌ قاصف . والقَصِف: السَّريع الانكِسار. والقَصِيف: هشيم الشَّجر. ومنه قولُهم: انقصفوا عنه، إذا تركوه. وهو مستعار. والأقْصَف: الذي انكسرت ثَنِيَّتُه من النِّصف.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–ṣ–f to break, to shatter, to smash, to snap; to thunder, to\nrumble, thunder, gale, storm; to rush in, to crowd. Of this root,\nقَاصِف qāṣif occurs once in the Qur’an.\n\nقَاصِف qāṣif [act. part.] hurricane, gale, storm (17:69) فَيُرْسِلَ\nعَلَيْكُمْ قَاصِفًا مِنَ الرِّيحِ فَيُغْرِقَكُمْ بِمَا كَفَرْتُمْ and send against you a gale\nof wind and drown you for your ungratefulness.",
+      "definition_english": "q–ṣ–f to break, to shatter, to smash, to snap; to thunder, to\nrumble, thunder, gale, storm; to rush in, to crowd. Of this root,\nقَاصِف qāṣif occurs once in the Qur’an.\n\nقَاصِف qāṣif [act. part.] hurricane, gale, storm (17:69) فَيُرْسِلَ\nعَلَيْكُمْ قَاصِفًا مِنَ الرِّيحِ فَيُغْرِقَكُمْ بِمَا كَفَرْتُمْ and send against you a gale\nof wind and drown you for your ungratefulness."
+    }
+  ],
   "occurrences": [
     "17:69:10"
   ]

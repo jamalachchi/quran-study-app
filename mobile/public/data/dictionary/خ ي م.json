@@ -1,9 +1,17 @@
 {
-  "id": 1088,
   "root": "خ ي م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخيم\n\nوقال الشمّاخ:\n\nعَرَابَةَ فاشرَقِي بدَمِ الوَتينِ\n\nإذا بلّغْتِنِي وحَمَلْتِ رَحْلي\n\nويقال تخيَّلت السَّماء، إذا تهيّأَتْ للمطَر، ولابدّ أنْ يكون عند ذلك تغيُّرُ لونٍ. والمَخيلة: السَّحابة . والمخيلة : التي تَعِد بمَطَرٍ. فأمّا قولهم خَيَّلْتُ على الرّجُل تَخييلاً، إذا وجَّهتَ التّهمَة إليه، فهو من ذلك؛ لأنّه يقال: يشبه أن يكون كذا يُخَيَّلُ إليّ أنّه كذا، ومنه تخيَّلْت عليه تخيُّلاً، إذا تفَرَّسْتَ فيه .\n\n(خيم) الخاء والياء والميم أصلٌ واحد يدلُّ على الإقامة والثَّبات. فالخَيْمة معروفة؛ والخَيْم: عيدانٌ تُبنَى عليها الخَيْمة. قال:\n\n* فلم يَبْقَ إلاّ آلُ خيْمٍ مُنَضَّدٍ *\n\nويقال خَيَّم بالمكان: أقامَ به. ولذلك سمِّيت الخَيْمة. والخِيم: السجِيَّة، بكسر الخاء، لأنّ الإنسانَ يُبنَى عليها ويكون مرجعُه أبداً إليها.\n\nومن الباب قولُهم للجبان خائم، لأنَّه من جُبنِه لا حَرَاك به. ويقال قد خَامَ يَخِيم. فأمّا قولُه:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخيم\n\nوقال الشمّاخ:\n\nعَرَابَةَ فاشرَقِي بدَمِ الوَتينِ\n\nإذا بلّغْتِنِي وحَمَلْتِ رَحْلي\n\nويقال تخيَّلت السَّماء، إذا تهيّأَتْ للمطَر، ولابدّ أنْ يكون عند ذلك تغيُّرُ لونٍ. والمَخيلة: السَّحابة . والمخيلة : التي تَعِد بمَطَرٍ. فأمّا قولهم خَيَّلْتُ على الرّجُل تَخييلاً، إذا وجَّهتَ التّهمَة إليه، فهو من ذلك؛ لأنّه يقال: يشبه أن يكون كذا يُخَيَّلُ إليّ أنّه كذا، ومنه تخيَّلْت عليه تخيُّلاً، إذا تفَرَّسْتَ فيه .\n\n(خيم) الخاء والياء والميم أصلٌ واحد يدلُّ على الإقامة والثَّبات. فالخَيْمة معروفة؛ والخَيْم: عيدانٌ تُبنَى عليها الخَيْمة. قال:\n\n* فلم يَبْقَ إلاّ آلُ خيْمٍ مُنَضَّدٍ *\n\nويقال خَيَّم بالمكان: أقامَ به. ولذلك سمِّيت الخَيْمة. والخِيم: السجِيَّة، بكسر الخاء، لأنّ الإنسانَ يُبنَى عليها ويكون مرجعُه أبداً إليها.\n\nومن الباب قولُهم للجبان خائم، لأنَّه من جُبنِه لا حَرَاك به. ويقال قد خَامَ يَخِيم. فأمّا قولُه:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-y-m tent, woollen tent of Bedouins, a dwelling, to settle in\na place; to hold back; to be secure; personal disposition. Of this\nroot, خِيَام khiyām occurs once in the Qurʾān.\n\nخِيَام khiyām [pl. of n. خَيْم khaym] tents, pavilions, canopies;\n\n295 خ/ي/م\n\ncamel-litters in which women travel *(55:72) حُورٌ مَّقْصُورَاتٌ فِى ٱلْخِيَامِ\ndark-eyed maidens, treasured, highly valued [lit. sheltered] in\npavilions.\n\n296 د / dāl\n\nٱلدَّال ʾal-dāl the eighth letter of the alphabet; it represents a voiced\ndento-alveolar plosive sound.",
+      "definition_english": "kh-y-m tent, woollen tent of Bedouins, a dwelling, to settle in\na place; to hold back; to be secure; personal disposition. Of this\nroot, خِيَام khiyām occurs once in the Qurʾān.\n\nخِيَام khiyām [pl. of n. خَيْم khaym] tents, pavilions, canopies;\n\n295 خ/ي/م\n\ncamel-litters in which women travel *(55:72) حُورٌ مَّقْصُورَاتٌ فِى ٱلْخِيَامِ\ndark-eyed maidens, treasured, highly valued [lit. sheltered] in\npavilions.\n\n296 د / dāl\n\nٱلدَّال ʾal-dāl the eighth letter of the alphabet; it represents a voiced\ndento-alveolar plosive sound."
+    }
+  ],
   "occurrences": [
     "55:72:4"
   ]

@@ -1,8 +1,11 @@
 {
-  "id": 3115,
   "root": "ق ي ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقوم\n\n(قيح) القاف والياء والحاء كلمة. قاح [الجُرحُ ] يَقِيح، وهو مِدّةٌ لا يخالطها دمٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقوم\n\n(قيح) القاف والياء والحاء كلمة. قاح [الجُرحُ ] يَقِيح، وهو مِدّةٌ لا يخالطها دمٌ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,8 +1,11 @@
 {
-  "id": 2942,
   "root": "ف ت ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفتخ - فتر\n\n(فتش) الفاء والتاء والشين كلمةٌ واحدة تدلُّ على بحثٍ عن شيء. تقول: فتَشْت فَتْشاً، وفتّشت تفتيشا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفتخ - فتر\n\n(فتش) الفاء والتاء والشين كلمةٌ واحدة تدلُّ على بحثٍ عن شيء. تقول: فتَشْت فَتْشاً، وفتّشت تفتيشا.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

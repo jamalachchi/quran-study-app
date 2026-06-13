@@ -1,9 +1,17 @@
 {
-  "id": 2263,
   "root": "ص ر خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصرب - صرح\n\n(صرخ) الصاد والراء والخاء أُصَيلٌ يدلُّ على صوتٍ رفيع. من ذلك الصُّراخ، يقال صَرَخ يَصرُخ، وهو إذا صوّت. ويقال الصَّارخ: المستغيث، والصارخ: المغيث، ويقال بل المُغيث مُصرِخ؛ لقوله تعالى في قصة من قال: ] ما أَنَا بِمُصرِخِكم وما أنتم بِمُصْرِخِيَّ [ [إبراهيم 22].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصرب - صرح\n\n(صرخ) الصاد والراء والخاء أُصَيلٌ يدلُّ على صوتٍ رفيع. من ذلك الصُّراخ، يقال صَرَخ يَصرُخ، وهو إذا صوّت. ويقال الصَّارخ: المستغيث، والصارخ: المغيث، ويقال بل المُغيث مُصرِخ؛ لقوله تعالى في قصة من قال: ] ما أَنَا بِمُصرِخِكم وما أنتم بِمُصْرِخِيَّ [ [إبراهيم 22].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–r–kh to scream, shriek, to call for help, yell, loud cry. Of this root, four forms occur 25 times in the Qurʾan: يَسْتَصْرِخُ yastaṣrikh once; يَصْطَرِخُونَ yaṣṭarikhūn 11 times; صَرِيخ ṣarīkh 11 times and مُصْرِخ muṣrikh twice.\nيَسْتَصْرِخُ yastaṣrikh [imperf. of v. X, trans.] to cry to someone for help (28:18) فَإِذَا الَّذِي اسْتَنصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ and there it was, the one who had sought his help the day before, was [again] crying\n\n521",
+      "definition_english": "ṣ–r–kh to scream, shriek, to call for help, yell, loud cry. Of this root, four forms occur 25 times in the Qurʾan: يَسْتَصْرِخُ yastaṣrikh once; يَصْطَرِخُونَ yaṣṭarikhūn 11 times; صَرِيخ ṣarīkh 11 times and مُصْرِخ muṣrikh twice.\nيَسْتَصْرِخُ yastaṣrikh [imperf. of v. X, trans.] to cry to someone for help (28:18) فَإِذَا الَّذِي اسْتَنصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ and there it was, the one who had sought his help the day before, was [again] crying\n\n521"
+    }
+  ],
   "occurrences": [
     "14:22:30",
     "14:22:33",

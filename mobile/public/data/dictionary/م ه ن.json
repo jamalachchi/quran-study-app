@@ -1,9 +1,17 @@
 {
-  "id": 3633,
   "root": "م ه ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمهن - موت\n\n(مهن) الميم والهاء والنون أصلٌ صحيح يدلُّ على احتقارٍ وحَقَارةٍ في الشيء. منه قولهم مَهِينٌ، أي حقير. والمَهانة: الحَقَارَة، وهو مَهينٌ بيِّنُ المَهانة. ومن الباب المهْن: الخِدْمة، والمِهْنة. والماهِن: الخادم. ومَهَنْت الثّوْب: جذبته وثوبٌ مَمْهُون. وربما قالوا: مَهَنْتُ الإبلَ: حلبتُها.\n\n(باب الميم والواو وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمهن - موت\n\n(مهن) الميم والهاء والنون أصلٌ صحيح يدلُّ على احتقارٍ وحَقَارةٍ في الشيء. منه قولهم مَهِينٌ، أي حقير. والمَهانة: الحَقَارَة، وهو مَهينٌ بيِّنُ المَهانة. ومن الباب المهْن: الخِدْمة، والمِهْنة. والماهِن: الخادم. ومَهَنْت الثّوْب: جذبته وثوبٌ مَمْهُون. وربما قالوا: مَهَنْتُ الإبلَ: حلبتُها.\n\n(باب الميم والواو وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–h–n to serve, a servant; profession, vocation; to weaken; to\ndegrade, to treat in a humiliating manner; vile, contemptible,\ninsignificant. Of this root, مَهِين mahīn occurs four times in the\nQur’an.\n\nمَهِين mahīn [pass. part.] 1 contemptible, despicable (68:10) وَلَا\nتُطِعْ كُلَّ حَلَّافٍ مَهِينٍ and do not yield to any contemptible swearer 2\ncheap, paltry, worthless; nauseating (32:8) ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ\nمَهِينٍ then He fashioned his descendants/seed from an extract of\nworthless fluid.\n\nمُهَان muhān (see ه/و/ن h–w–n).",
+      "definition_english": "m–h–n to serve, a servant; profession, vocation; to weaken; to\ndegrade, to treat in a humiliating manner; vile, contemptible,\ninsignificant. Of this root, مَهِين mahīn occurs four times in the\nQur’an.\n\nمَهِين mahīn [pass. part.] 1 contemptible, despicable (68:10) وَلَا\nتُطِعْ كُلَّ حَلَّافٍ مَهِينٍ and do not yield to any contemptible swearer 2\ncheap, paltry, worthless; nauseating (32:8) ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ\nمَهِينٍ then He fashioned his descendants/seed from an extract of\nworthless fluid.\n\nمُهَان muhān (see ه/و/ن h–w–n)."
+    }
+  ],
   "occurrences": [
     "32:8:8",
     "43:52:8",

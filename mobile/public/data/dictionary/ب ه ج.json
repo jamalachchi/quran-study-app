@@ -1,9 +1,22 @@
 {
-  "id": 352,
   "root": "ب ه ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبنو\n\n(بهج) الباء والهاء والجيم أصلٌ واحد، وهو السرور والنَّضْرة، يقال نباتٌ بهيجٌ، أي ناضِرٌ حَسَن. قال الله تعالى: ] وَأَنْبَتْنَا فيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ [ [ق 7]. والابتهاج السُّرورُ من ذلك أيضاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبنو\n\n(بهج) الباء والهاء والجيم أصلٌ واحد، وهو السرور والنَّضْرة، يقال نباتٌ بهيجٌ، أي ناضِرٌ حَسَن. قال الله تعالى: ] وَأَنْبَتْنَا فيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ [ [ق 7]. والابتهاج السُّرورُ من ذلك أيضاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "brothers.’\nاِبْنَة ibnata [n. fem.; dual اِبْنَتَان ʾibnatān, with 1st pers. sing. suffix ي (ī) > اِبْنَتَيَّ ʾibnatayya; pl. بَنَات banāt] daughter (28:27) إِنِّي أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ I would like to marry you to one of these two daughters of mine.",
+      "definition_english": "brothers.’\nاِبْنَة ibnata [n. fem.; dual اِبْنَتَان ʾibnatān, with 1st pers. sing. suffix ي (ī) > اِبْنَتَيَّ ʾibnatayya; pl. بَنَات banāt] daughter (28:27) إِنِّي أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ I would like to marry you to one of these two daughters of mine."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–h–j delight; freshness; verdancy; to please, to make merry. Of this root, two forms occur three times in the Qur’an: بَهْجَة bahjatun once and بَهِيج bahīj twice.\n118",
+      "definition_english": "b–h–j delight; freshness; verdancy; to please, to make merry. Of this root, two forms occur three times in the Qur’an: بَهْجَة bahjatun once and بَهِيج bahīj twice.\n118"
+    }
+  ],
   "occurrences": [
     "22:5:69",
     "27:60:14",

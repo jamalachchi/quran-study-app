@@ -1,8 +1,11 @@
 {
-  "id": 420,
   "root": "ت ر ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتره - ترب\n\n(ترج) التاء والراء والجيم لا شيء فيه إلاّ \"تَرْج\"، وهو موضع. والأتْرُج معروف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتره - ترب\n\n(ترج) التاء والراء والجيم لا شيء فيه إلاّ \"تَرْج\"، وهو موضع. والأتْرُج معروف.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

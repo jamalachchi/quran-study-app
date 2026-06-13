@@ -1,9 +1,17 @@
 {
-  "id": 2874,
   "root": "ف ق ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفز\n\n(فقر) الفاء والقاف والراء أَصلٌ صحيح يدلُّ على انفراجٍ في شيء، من عضوٍ أو غير ذلك. من ذلك: الفَقَار للظَّهر، الواحدة فَقَارةٌ، سمِّيت للحُزُوز والفُصول التي بينها . والفقير: المكسور فَقَارِ الظَّهر. وقال أهل اللُّغة: منه اشتُقَّ اسمُ الفقير، وكأنه مكسورُ فَقَار الظَّهر، من ذِلَّتِهِ ومَسْكَنتِه. ومن ذلك:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفز\n\n(فقر) الفاء والقاف والراء أَصلٌ صحيح يدلُّ على انفراجٍ في شيء، من عضوٍ أو غير ذلك. من ذلك: الفَقَار للظَّهر، الواحدة فَقَارةٌ، سمِّيت للحُزُوز والفُصول التي بينها . والفقير: المكسور فَقَارِ الظَّهر. وقال أهل اللُّغة: منه اشتُقَّ اسمُ الفقير، وكأنه مكسورُ فَقَار الظَّهر، من ذِلَّتِهِ ومَسْكَنتِه. ومن ذلك:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–q–r vertebra; breaking of vertebra; calamity; want, to lack\nsomething, poverty, the poor, needy. Of this root, four forms\noccur 14 times in the Qur’an: فَقْر faqr once; فَقِير faqīr five times;\nفُقَرَاء fuqarāʾ seven times and فَاقِرَة fāqiratun once.\n\n719",
+      "definition_english": "f–q–r vertebra; breaking of vertebra; calamity; want, to lack\nsomething, poverty, the poor, needy. Of this root, four forms\noccur 14 times in the Qur’an: فَقْر faqr once; فَقِير faqīr five times;\nفُقَرَاء fuqarāʾ seven times and فَاقِرَة fāqiratun once.\n\n719"
+    }
+  ],
   "occurrences": [
     "22:28:20",
     "24:32:10",

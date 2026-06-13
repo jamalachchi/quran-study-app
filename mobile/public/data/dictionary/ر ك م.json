@@ -1,9 +1,17 @@
 {
-  "id": 1468,
   "root": "ر ك م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرقط - رقع\n\n(ركم) الراء والكاف والميم أصلٌ واحدٌ يدلُّ على [تجمُّع] الشيء. تقول ركَمت الشيء: ألقَيت بعضَه على بعض. وسحاب مُرْتكمٌ ورُكام. والرُّكمة: الطِّين المجمُوع. ومُرْتَكَم الطريق: سَنَنُه؛ لأنّ المارة تَرْتَكِمُ فيه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرقط - رقع\n\n(ركم) الراء والكاف والميم أصلٌ واحدٌ يدلُّ على [تجمُّع] الشيء. تقول ركَمت الشيء: ألقَيت بعضَه على بعض. وسحاب مُرْتكمٌ ورُكام. والرُّكمة: الطِّين المجمُوع. ومُرْتَكَم الطريق: سَنَنُه؛ لأنّ المارة تَرْتَكِمُ فيه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-k-m heap, to heap up, to gather, to hoard, to pile up; large herd; middle of the road. Of this root, three forms occur once each in the Qur’an: يَرْكُمُ yarkum; مَرْكُوم markūm and رُكَام rukām.\nيَرْكُمُ yarkum [imperf. of v. رَكَمَ rakama, trans.] to pile up, to heap up, to gather together (8:37) وَيَجْعَلَ الْخَبِيثَ بَعْضَهُ عَلَى بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي جَهَنَّمَ and He places the bad on top of one another—heaps them all up together—and puts them in Hell.\n\n382 ر/ك/ن\n\nمَرْكُوم markūm [pass. part.] heaped up, piled up, stacked up (52:44) وَإِن يَرَوْا كِسْفًا مِّنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَّرْكُومٌ and [even] if they were to see a piece of heaven falling down, they would say, ‘[Just] stacked-up layers of clouds.’\n\nرُكَام rukām [quasi-act./pass. part.] something in piles or in layers; heaped (24:43) أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا do you not see that God drives the clouds, then gathers them together, then makes them into a heap … ?",
+      "definition_english": "r-k-m heap, to heap up, to gather, to hoard, to pile up; large herd; middle of the road. Of this root, three forms occur once each in the Qur’an: يَرْكُمُ yarkum; مَرْكُوم markūm and رُكَام rukām.\nيَرْكُمُ yarkum [imperf. of v. رَكَمَ rakama, trans.] to pile up, to heap up, to gather together (8:37) وَيَجْعَلَ الْخَبِيثَ بَعْضَهُ عَلَى بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي جَهَنَّمَ and He places the bad on top of one another—heaps them all up together—and puts them in Hell.\n\n382 ر/ك/ن\n\nمَرْكُوم markūm [pass. part.] heaped up, piled up, stacked up (52:44) وَإِن يَرَوْا كِسْفًا مِّنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَّرْكُومٌ and [even] if they were to see a piece of heaven falling down, they would say, ‘[Just] stacked-up layers of clouds.’\n\nرُكَام rukām [quasi-act./pass. part.] something in piles or in layers; heaped (24:43) أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا do you not see that God drives the clouds, then gathers them together, then makes them into a heap … ?"
+    }
+  ],
   "occurrences": [
     "24:43:12",
     "52:44:9",

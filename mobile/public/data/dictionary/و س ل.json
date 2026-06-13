@@ -1,9 +1,17 @@
 {
-  "id": 4408,
   "root": "و س ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوسل - وسم\n\n(وسل) الواو والسين واللام: كلمتانِ متباينتانِ جِدَّاً.\n\nالأولى الرَّغْبة والطَّلَب. يقال وَسَلَ، إذا رَغِب. و[الواسِل: الراغب إلى الله عزَّ وجل، وهو في ] قول لبيد:\n\n* بلى كلُّ ذي دينٍ إلى اللهِ وَاسِلُ *\n\nومن ذلك القياس الوَسِيلة.\n\nوالأخرى السَّرِقة: يقال: أخَذَ إبلَه توسُّلاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوسل - وسم\n\n(وسل) الواو والسين واللام: كلمتانِ متباينتانِ جِدَّاً.\n\nالأولى الرَّغْبة والطَّلَب. يقال وَسَلَ، إذا رَغِب. و[الواسِل: الراغب إلى الله عزَّ وجل، وهو في ] قول لبيد:\n\n* بلى كلُّ ذي دينٍ إلى اللهِ وَاسِلُ *\n\nومن ذلك القياس الوَسِيلة.\n\nوالأخرى السَّرِقة: يقال: أخَذَ إبلَه توسُّلاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–s–l linkage, means, medium, device; rank, station;\nproximity; to ingratiate oneself; to implore. Of this root, وَسِيلَة\nwasīlatun, occurs twice in the Qur’an.\n\nوَسِيلَة wasīlatun [n.] linkage; proximity, way (17:57) يَبْتَغُونَ إِلَى\nرَبِّهِمُ الْوَسِيلَةَ they seek a way to their Lord.",
+      "definition_english": "w–s–l linkage, means, medium, device; rank, station;\nproximity; to ingratiate oneself; to implore. Of this root, وَسِيلَة\nwasīlatun, occurs twice in the Qur’an.\n\nوَسِيلَة wasīlatun [n.] linkage; proximity, way (17:57) يَبْتَغُونَ إِلَى\nرَبِّهِمُ الْوَسِيلَةَ they seek a way to their Lord."
+    }
+  ],
   "occurrences": [
     "17:57:7",
     "5:35:8"

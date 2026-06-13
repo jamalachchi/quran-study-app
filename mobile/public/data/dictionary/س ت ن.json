@@ -1,8 +1,11 @@
 {
-  "id": 1886,
   "root": "س ت ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nستر - ستن\n\n(ستن) السين والتاء والنون ليس بأصل يتفرَّع، لأنَّه نبت، ويقال لـه الأسْتَنُ. وفيه يقول النابغة:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nستر - ستن\n\n(ستن) السين والتاء والنون ليس بأصل يتفرَّع، لأنَّه نبت، ويقال لـه الأسْتَنُ. وفيه يقول النابغة:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

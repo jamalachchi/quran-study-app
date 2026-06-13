@@ -1,9 +1,17 @@
 {
-  "id": 4537,
   "root": "و ه ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهن) الواو والهاء والنون: كلمتانِ تدلُّ إحداهما على ضَعف، والأخرى على زمان.\n\nفالأولى: وَهَنَ الشيءُ يَهِن وَهْناً: ضَعُف، وأوْهَنْتُه أنا. ومن هذا الواهِنَةُ: القُصَيرَى من الأضلاع، وهي أسفَلُها. قال أبو بكر : الواهِنة: داءٌ يصيب الإنسان في أخدَعَيه . والوَهْنانة: المرأة القليلة الحركة، الثقيلةُ القيامِ والقُعودِ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهن) الواو والهاء والنون: كلمتانِ تدلُّ إحداهما على ضَعف، والأخرى على زمان.\n\nفالأولى: وَهَنَ الشيءُ يَهِن وَهْناً: ضَعُف، وأوْهَنْتُه أنا. ومن هذا الواهِنَةُ: القُصَيرَى من الأضلاع، وهي أسفَلُها. قال أبو بكر : الواهِنة: داءٌ يصيب الإنسان في أخدَعَيه . والوَهْنانة: المرأة القليلة الحركة، الثقيلةُ القيامِ والقُعودِ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–h–n to be weak, to be feeble, to be infirm, to be languid, to\nbe lethargic; the last hours of the night. Of this root, four forms\noccur nine times in the Qur’an: وَهَن wahanā five times; وَهْن wahn\ntwice; أَوْهَن ʾawhan once and مُوهِن mūhin once.\n\nوَهَن wahana i [v. intrans.] 1 to become feeble, to weaken\n(19:4) إِنِّي وَهَنَ الْعَظْمُ مِنِّي the bones within me have weakened 2 to\ntire, to become reticent, to become faint-hearted (4:104) وَلَا تَهِنُوا فِي\nابْتِغَاءِ الْقَوْمِ do not be faint-hearted in pursuing the enemy.\n\nوَهْن wahn [v. n.] weakness, feebleness (31:14) حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَى\nوَهْنٍ his mother carried him, [with weakness upon weakness]\nweakening increasingly.\n\nأَوْهَن ʾawhan [elat.] weaker/weakest, more/most fragile or frail\n(29:41) وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ but the frailest of [all] houses is\nthe house of the spider.\n\nمُوهِن mūhin [act. part.] one that causes weakness (8:18) وَأَنَّ اللَّهَ\nمُوهِنٌ كَيْدِ الْكَافِرِينَ and God will weaken the disbelievers’ designs.",
+      "definition_english": "w–h–n to be weak, to be feeble, to be infirm, to be languid, to\nbe lethargic; the last hours of the night. Of this root, four forms\noccur nine times in the Qur’an: وَهَن wahanā five times; وَهْن wahn\ntwice; أَوْهَن ʾawhan once and مُوهِن mūhin once.\n\nوَهَن wahana i [v. intrans.] 1 to become feeble, to weaken\n(19:4) إِنِّي وَهَنَ الْعَظْمُ مِنِّي the bones within me have weakened 2 to\ntire, to become reticent, to become faint-hearted (4:104) وَلَا تَهِنُوا فِي\nابْتِغَاءِ الْقَوْمِ do not be faint-hearted in pursuing the enemy.\n\nوَهْن wahn [v. n.] weakness, feebleness (31:14) حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَى\nوَهْنٍ his mother carried him, [with weakness upon weakness]\nweakening increasingly.\n\nأَوْهَن ʾawhan [elat.] weaker/weakest, more/most fragile or frail\n(29:41) وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ but the frailest of [all] houses is\nthe house of the spider.\n\nمُوهِن mūhin [act. part.] one that causes weakness (8:18) وَأَنَّ اللَّهَ\nمُوهِنٌ كَيْدِ الْكَافِرِينَ and God will weaken the disbelievers’ designs."
+    }
+  ],
   "occurrences": [
     "19:4:4",
     "29:41:13",

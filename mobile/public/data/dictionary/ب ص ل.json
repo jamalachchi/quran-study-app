@@ -1,9 +1,17 @@
 {
-  "id": 285,
   "root": "ب ص ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبصط - بصع\n\n(بصل) الباء والصاد واللام أصلٌ واحدٌ. والبصل معروف، وبه شَبَّهَ لَبيدٌ البَيضَ فقال:\n\nقُرْدُمانِيّاً وتَرْكاً كالبَصَلْ\n\nفَخْمَةٌ ذَفْرَاءَ تُرْتَى بالعُرَى",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبصط - بصع\n\n(بصل) الباء والصاد واللام أصلٌ واحدٌ. والبصل معروف، وبه شَبَّهَ لَبيدٌ البَيضَ فقال:\n\nقُرْدُمانِيّاً وتَرْكاً كالبَصَلْ\n\nفَخْمَةٌ ذَفْرَاءَ تُرْتَى بالعُرَى",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-ṣ-l onion, multi-layered. Of this root, بَصَل baṣal occurs\nonce in the Qur’an.\n\nبَصَل baṣal [coll. n.] onion (2:61) وَبَصَلِهَا some of what the\nearth produces, its herbs and its cucumbers, its garlic, its lentils\nand its onions.",
+      "definition_english": "b-ṣ-l onion, multi-layered. Of this root, بَصَل baṣal occurs\nonce in the Qur’an.\n\nبَصَل baṣal [coll. n.] onion (2:61) وَبَصَلِهَا some of what the\nearth produces, its herbs and its cucumbers, its garlic, its lentils\nand its onions."
+    }
+  ],
   "occurrences": [
     "2:61:22"
   ]

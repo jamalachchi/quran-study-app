@@ -1,9 +1,17 @@
 {
-  "id": 1791,
   "root": "س ك ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسقع - سقف\n\n(سكب) السين والكاف والباء أصلٌ يدلُّ على صبّ الشيء. تقول: سكب الماء يسكبه. وفرسٌ سَكْبٌ، أي ذرِيعٌ، كأنّه يسكُبُ عدْوَه سكبا، وذلك كتسميتهم إيّاه بحراً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسقع - سقف\n\n(سكب) السين والكاف والباء أصلٌ يدلُّ على صبّ الشيء. تقول: سكب الماء يسكبه. وفرسٌ سَكْبٌ، أي ذرِيعٌ، كأنّه يسكُبُ عدْوَه سكبا، وذلك كتسميتهم إيّاه بحراً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–k–b pouring out of liquid, flowing forth. Of this root, only مسكوب maskūb occurs once in the Qurʾan.\nمسكوب maskūb [pass. part.] poured out, made to flow (56:31) وماء مسكوب and water made to flow.",
+      "definition_english": "s–k–b pouring out of liquid, flowing forth. Of this root, only مسكوب maskūb occurs once in the Qurʾan.\nمسكوب maskūb [pass. part.] poured out, made to flow (56:31) وماء مسكوب and water made to flow."
+    }
+  ],
   "occurrences": [
     "56:31:2"
   ]

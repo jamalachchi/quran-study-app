@@ -1,9 +1,22 @@
 {
-  "id": 4351,
   "root": "و ج ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوجي - وجب\n\n(وجب) الواو والجيم والباء: أصلٌ واحد، يدلُّ على سُقوط الشيء ووُقوعِه، ثم يتفرَّع. ووَجَب البيعُ وُجوباً: حَقَّ ووَقَع. ووَجَب الميِّت: سقَط، والقتِيلُ واجب. وفي الحديث: \"فإذا وجَبَ فلا تَبكِيَنَّ باكية\"، أي إذا ماتَ . وقال الله في النَّسائك: ] فَإذَا وَجَبَتْ جُنُوبُها [ [الحج 26]. قال قيس:\n\nعن السَّلْمِ حَتَّى كان أوَّلَ واجبِ\n\nأطاعتْ بنو عوفٍ أميراً نهاهُمُ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوجي - وجب\n\n(وجب) الواو والجيم والباء: أصلٌ واحد، يدلُّ على سُقوط الشيء ووُقوعِه، ثم يتفرَّع. ووَجَب البيعُ وُجوباً: حَقَّ ووَقَع. ووَجَب الميِّت: سقَط، والقتِيلُ واجب. وفي الحديث: \"فإذا وجَبَ فلا تَبكِيَنَّ باكية\"، أي إذا ماتَ . وقال الله في النَّسائك: ] فَإذَا وَجَبَتْ جُنُوبُها [ [الحج 26]. قال قيس:\n\nعن السَّلْمِ حَتَّى كان أوَّلَ واجبِ\n\nأطاعتْ بنو عوفٍ أميراً نهاهُمُ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "He bound you to Himself.\nيُوثِق yūthiq [imperf. of v. IV أَوْثَق ʾawthaqa, trans.] to tie up, to\nbind, to shackle (89:26) وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ and no one binds [with]\nhis/His binding (or, [the guards of the Fire] will bind none with a\nbinding similar to his).\n\nوَثَاق wathāq I [n.] shackles, bonds, fetters (47:4) حَتَّى إِذَا أَثْخَنْتُمُوهُمْ\nفَشُدُّوا الْوَثَاقَ until you have routed them, [then] tie fast their bonds\nII [v. n.] (the act of) tying up (89:26) وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ and no one\nbinds [with] his/His binding (or, [the guards of the Fire] will bind\nnone with a binding similar to his).\n\nوُثْقَى wuthqā [fem. elat.] most firm, most secure, most solemn\n(31:22) وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى\nwhoever surrenders his face [himself] to God while doing good\nwork, has grasped the firmest handhold.\n\nمَوْثِق mawthiq [v. n./n.] pledging, swearing an oath; a pledge,\ncovenant, oath (12:66) لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّى تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ never will\nI send him with you, until you have given me a pledge by God.\n\nمِيثَاق mīthāq [n.] a pledge, covenant, pact (2:84) وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا\nتَسْفِكُونَ دِمَاءَكُمْ remember when We accepted your pledge [that] you\nwould not shed one another’s blood (or, that you would not\ncommit what causes you to be killed).",
+      "definition_english": "He bound you to Himself.\nيُوثِق yūthiq [imperf. of v. IV أَوْثَق ʾawthaqa, trans.] to tie up, to\nbind, to shackle (89:26) وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ and no one binds [with]\nhis/His binding (or, [the guards of the Fire] will bind none with a\nbinding similar to his).\n\nوَثَاق wathāq I [n.] shackles, bonds, fetters (47:4) حَتَّى إِذَا أَثْخَنْتُمُوهُمْ\nفَشُدُّوا الْوَثَاقَ until you have routed them, [then] tie fast their bonds\nII [v. n.] (the act of) tying up (89:26) وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ and no one\nbinds [with] his/His binding (or, [the guards of the Fire] will bind\nnone with a binding similar to his).\n\nوُثْقَى wuthqā [fem. elat.] most firm, most secure, most solemn\n(31:22) وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى\nwhoever surrenders his face [himself] to God while doing good\nwork, has grasped the firmest handhold.\n\nمَوْثِق mawthiq [v. n./n.] pledging, swearing an oath; a pledge,\ncovenant, oath (12:66) لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّى تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ never will\nI send him with you, until you have given me a pledge by God.\n\nمِيثَاق mīthāq [n.] a pledge, covenant, pact (2:84) وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا\nتَسْفِكُونَ دِمَاءَكُمْ remember when We accepted your pledge [that] you\nwould not shed one another’s blood (or, that you would not\ncommit what causes you to be killed)."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–j–b a loud thud, (of the heart) to beat strongly; to fall down,\nto fall dead; to become due, (of the sun) to set, to reach the\nappropriate time. Of this root, وَجَب wajaba, occurs once in the\nQur’an.\n\n1012",
+      "definition_english": "w–j–b a loud thud, (of the heart) to beat strongly; to fall down,\nto fall dead; to become due, (of the sun) to set, to reach the\nappropriate time. Of this root, وَجَب wajaba, occurs once in the\nQur’an.\n\n1012"
+    }
+  ],
   "occurrences": [
     "22:36:16"
   ]

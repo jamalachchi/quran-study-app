@@ -1,9 +1,17 @@
 {
-  "id": 726,
   "root": "ج ث م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجبأ\n\n(جثم) الجيم والثاء والميم أصلٌ صحيح يدلُّ على تجمُّع الشيء. فالجُثْمان: شخص الإنسان. وجَثَم، إذا لَطِئ بالأرض. وجَثَم الطّائر يَجْثُِمُ. وفي الحديث: \"نهى عن المُجَثَّمة\"، وهي المصبورة على الموت.\n\n(باب ما جاء من كلام العرب على أكثر من ثلاثة أحرف أوله جيم)\n\nوذلك على أضرب:\n\nفمنه ما نُحِت من كلمتين صحيحتي المعنى، مطّردتَيِ القياس. ومنه ما أصله كلمةٌ واحدة وقد أُلحِق بالرُّباعي والخماسي بزيادةٍ تدخله. ومنه ما يوضع كذا وَضْعا. وسنفسر ذلك إن شاء الله تعالى.\n\nفمن المنحوت قولهم للباقي من أصل السَّعَفة إذا قُطِعت (جُذمُور) . قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجبأ\n\n(جثم) الجيم والثاء والميم أصلٌ صحيح يدلُّ على تجمُّع الشيء. فالجُثْمان: شخص الإنسان. وجَثَم، إذا لَطِئ بالأرض. وجَثَم الطّائر يَجْثُِمُ. وفي الحديث: \"نهى عن المُجَثَّمة\"، وهي المصبورة على الموت.\n\n(باب ما جاء من كلام العرب على أكثر من ثلاثة أحرف أوله جيم)\n\nوذلك على أضرب:\n\nفمنه ما نُحِت من كلمتين صحيحتي المعنى، مطّردتَيِ القياس. ومنه ما أصله كلمةٌ واحدة وقد أُلحِق بالرُّباعي والخماسي بزيادةٍ تدخله. ومنه ما يوضع كذا وَضْعا. وسنفسر ذلك إن شاء الله تعالى.\n\nفمن المنحوت قولهم للباقي من أصل السَّعَفة إذا قُطِعت (جُذمُور) . قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–th–m body, corpse; structure; to crouch, to lie down on one’s chest, to lie face down; to be heavily laden. Of this root, جَاثِمِينَ jāthimīn occurs five times in the Qurʾan.\nجَاثِمِينَ jāthimīn [pl. of act. part. جَاثِم jāthim] crouching, lying flat, lying on their faces; strewn about motionless (29:37) فَكَذَّبُوهُ فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ they rejected him and so the earthquake overtook them and by the morning, they were lying dead in their homes.",
+      "definition_english": "j–th–m body, corpse; structure; to crouch, to lie down on one’s chest, to lie face down; to be heavily laden. Of this root, جَاثِمِينَ jāthimīn occurs five times in the Qurʾan.\nجَاثِمِينَ jāthimīn [pl. of act. part. جَاثِم jāthim] crouching, lying flat, lying on their faces; strewn about motionless (29:37) فَكَذَّبُوهُ فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ they rejected him and so the earthquake overtook them and by the morning, they were lying dead in their homes."
+    }
+  ],
   "occurrences": [
     "11:67:8",
     "11:94:18",

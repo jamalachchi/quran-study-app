@@ -1,9 +1,17 @@
 {
-  "id": 2622,
   "root": "ع ت د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعتد\n\nالباب: عبأت الطِّيب *وفَرَّقوا بين ذلك وبين الجيش، فقالوا: عَبَّيْت الكتِيبةَ أُعبِّيها تعبيَةً، إذا هيّأتَها. وقد قالوا: عَبأت الجيش أيضاً، ذكرها ابنُ الأعرابي. وقال في عَبَأت الطِّيب:\n\nعبيراً باتَ تَعبؤه عروسُ\n\nكأنَّ بصدرِه وبمَنْكِبيه\n\nوالعَباءة: ضَربٌ من الأكسِية. وقياسُه صحيح؛ لأنّه يشتمل على لابسه ويجمعُه. والله أعلم بالصواب.\n\n(باب العين والتاء وما يثلثهما)\n\n(عتد) العين والتاء والدال أصلٌ واحدٌ يدلُّ على حضورٍ وقُرب. قال الخليل: تقول عَتُدَ الشّيءُ، وهو يعتُد عَتاداً، فهو عَتيدٌ حاضر. قال: ومن ذلك سمِّيت العتيدة: التي يكون فيها الطِّيب والأدهان. ويقال للشَّيء المعْتَد: إنّه لعتيد، وقد أعتدْناه، وهيَأناه لأمرٍ إنْ حَزَب. وجمع العَتَاد عُتُدٌ وأعْتِدة. قال النّابغة:\n\nطَلُوبِ الأعادِي واضحٍ غيرِ خاملِ\n\nعَتَادَ امرئٍ لا ينقُضُ البُعدُ هَمَّه\n\nقال الخليل: يقولون هذا الفرس عَتَدٌ، أي مُعَدّ متى شاء صاحبهُ رَكِبَه، الذَّكرُ والأنثى فيه سواء. قال سلامة بن جندل:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعتد\n\nالباب: عبأت الطِّيب *وفَرَّقوا بين ذلك وبين الجيش، فقالوا: عَبَّيْت الكتِيبةَ أُعبِّيها تعبيَةً، إذا هيّأتَها. وقد قالوا: عَبأت الجيش أيضاً، ذكرها ابنُ الأعرابي. وقال في عَبَأت الطِّيب:\n\nعبيراً باتَ تَعبؤه عروسُ\n\nكأنَّ بصدرِه وبمَنْكِبيه\n\nوالعَباءة: ضَربٌ من الأكسِية. وقياسُه صحيح؛ لأنّه يشتمل على لابسه ويجمعُه. والله أعلم بالصواب.\n\n(باب العين والتاء وما يثلثهما)\n\n(عتد) العين والتاء والدال أصلٌ واحدٌ يدلُّ على حضورٍ وقُرب. قال الخليل: تقول عَتُدَ الشّيءُ، وهو يعتُد عَتاداً، فهو عَتيدٌ حاضر. قال: ومن ذلك سمِّيت العتيدة: التي يكون فيها الطِّيب والأدهان. ويقال للشَّيء المعْتَد: إنّه لعتيد، وقد أعتدْناه، وهيَأناه لأمرٍ إنْ حَزَب. وجمع العَتَاد عُتُدٌ وأعْتِدة. قال النّابغة:\n\nطَلُوبِ الأعادِي واضحٍ غيرِ خاملِ\n\nعَتَادَ امرئٍ لا ينقُضُ البُعدُ هَمَّه\n\nقال الخليل: يقولون هذا الفرس عَتَدٌ، أي مُعَدّ متى شاء صاحبهُ رَكِبَه، الذَّكرُ والأنثى فيه سواء. قال سلامة بن جندل:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "c-t-d container for personal valuables, war materials including horses kept at the ready, to prepare, to be ready; to treasure. Of this root, two forms occur 16 times in the Qurʾan: أعتد ʾactada 14 times and عتيد catīd twice.\nأعتد ʾactada [v. IV, trans.] to prepare, to keep in store for (18:29) إنا أعتدنا للظالمين نارا We have prepared for the unjust ones Fire.\n\nعتيد catīd [quasi-act. part.] at hand, attentive, ready (50:18) ما يلفظ من قول إلا لديه رقيب عتيد he utters not a single word but there is by him an ever-attentive observer.",
+      "definition_english": "c-t-d container for personal valuables, war materials including horses kept at the ready, to prepare, to be ready; to treasure. Of this root, two forms occur 16 times in the Qurʾan: أعتد ʾactada 14 times and عتيد catīd twice.\nأعتد ʾactada [v. IV, trans.] to prepare, to keep in store for (18:29) إنا أعتدنا للظالمين نارا We have prepared for the unjust ones Fire.\n\nعتيد catīd [quasi-act. part.] at hand, attentive, ready (50:18) ما يلفظ من قول إلا لديه رقيب عتيد he utters not a single word but there is by him an ever-attentive observer."
+    }
+  ],
   "occurrences": [
     "12:31:6",
     "17:10:6",

@@ -1,8 +1,11 @@
 {
-  "id": 3759,
   "root": "م ص ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمصع - مصل\n\n(مصت) الميم والصاد والتاء. ذكر ابن دريدٍ المصت مثل المَصْد: الجِماع، سواء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمصع - مصل\n\n(مصت) الميم والصاد والتاء. ذكر ابن دريدٍ المصت مثل المَصْد: الجِماع، سواء.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

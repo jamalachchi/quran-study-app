@@ -1,9 +1,17 @@
 {
-  "id": 205,
   "root": "ب ت ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبه - ببّ\n\n(بتر) الباء والتاء والراء أصلٌ واحد، وهو القطع قبل أن تتمَّه. والسيفُ الباتر القَطَّاع. ويقال للرجُل الذي لا عقِب له أَبتَر. وكلُّ من انقطع من الخَيْر أثرُه فهو أَبْتَر. وخطب زيادٌ خطبتَه البتراء لأنّه لم يفتتِحْها بحمدِ الله تعالى والصلاة على النبي صلى الله عليه وسلم. ورجلٌ أُباتِرٌ: يقطع رَحِمَه يبترها. قال :\n\nبتع - بتك - بتل\n\n* على قَطْعِ ذِي القُرْبَى أَحَذُّ أُباتِرُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبه - ببّ\n\n(بتر) الباء والتاء والراء أصلٌ واحد، وهو القطع قبل أن تتمَّه. والسيفُ الباتر القَطَّاع. ويقال للرجُل الذي لا عقِب له أَبتَر. وكلُّ من انقطع من الخَيْر أثرُه فهو أَبْتَر. وخطب زيادٌ خطبتَه البتراء لأنّه لم يفتتِحْها بحمدِ الله تعالى والصلاة على النبي صلى الله عليه وسلم. ورجلٌ أُباتِرٌ: يقطع رَحِمَه يبترها. قال :\n\nبتع - بتك - بتل\n\n* على قَطْعِ ذِي القُرْبَى أَحَذُّ أُباتِرُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–t–r to cut off the tail, to have no descendants, to be\ndestitute; to be sharp, to be sharp-witted. Of this root, أَبْتَر ʾabtar,\noccurs once in the Qurʾan.\n\nأَبْتَر ʾabtar [quasi-act. part.] destitute, one [whose bloodline is]\ncut off, one with no male descendants, (108:3) إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ the\none who hates you is [the] destitute [one] (or, without\ndescendants) [not you].",
+      "definition_english": "b–t–r to cut off the tail, to have no descendants, to be\ndestitute; to be sharp, to be sharp-witted. Of this root, أَبْتَر ʾabtar,\noccurs once in the Qurʾan.\n\nأَبْتَر ʾabtar [quasi-act. part.] destitute, one [whose bloodline is]\ncut off, one with no male descendants, (108:3) إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ the\none who hates you is [the] destitute [one] (or, without\ndescendants) [not you]."
+    }
+  ],
   "occurrences": [
     "108:3:4"
   ]

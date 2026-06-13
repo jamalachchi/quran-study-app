@@ -1,9 +1,22 @@
 {
-  "id": 3483,
   "root": "ل ي ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(ليل) اللام والياء واللام كلمة، وهي اللَّيل: خِلافُ النهار. يقال ليلةٌ ولَيْلات. وأمَّا اللَّيالي .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(ليل) اللام والياء واللام كلمة، وهي اللَّيل: خِلافُ النهار. يقال ليلةٌ ولَيْلات. وأمَّا اللَّيالي .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "لَوَّوْا lawwaw [v. II, trans.] to twist several times, to cause to be\ncrooked *(63:5) لَوَّوْا رُءُوسَهُمْ they resisted, they showed disdain [lit.\nthey twisted their heads].\n\nلَيّ layy [v. n. used adverbially] twisting *(4:46) لَيًّا بِأَلْسِنَتِهِمْ\ndistorting with their tongues, distorting the words.",
+      "definition_english": "لَوَّوْا lawwaw [v. II, trans.] to twist several times, to cause to be\ncrooked *(63:5) لَوَّوْا رُءُوسَهُمْ they resisted, they showed disdain [lit.\nthey twisted their heads].\n\nلَيّ layy [v. n. used adverbially] twisting *(4:46) لَيًّا بِأَلْسِنَتِهِمْ\ndistorting with their tongues, distorting the words."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–y–l night, night-time, one night, to enter night-time. Of this\nroot, four forms occur 92 times in the Qur’an: اللَّيْل ʾal-layl 74\ntimes; لَيْل layl five times; لَيْلَة laylatun nine times and لَيَالِي layālī\n\nfour times.\n\nٱلَّيْل ʾal-layl [n.] 1 night as opposed to day (41:37) وَمِنْ آيَاتِهِ اللَّيْلُ\nوَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ and of His signs are the night and the day, the\nsun and the moon 2 the darkness of night (6:76) فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَىٰ\nكَوْكَبًا when the night grew dark above him he saw a star 3 span of\nthe night, night-time (73:2) قُمِ اللَّيْلَ إِلَّا قَلِيلًا keep vigil throughout the\nnight, all but a small part of it.\n\nلَيْل layl [n. used adverbially] by night (17:1) سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ\nلَيْلًا glory be to Him who made His servant travel by night; *(71:5)\nإِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا I called my people [night and day]\ncontinuously, all the time; * الليل name of Sura 92, Meccan sura,\nso-named because of the reference in verse 1 to the ‘Night’.\n\nلَيْلَة laylatun [fem. n., pl. لَيَالِي layālī] a night (44:3) إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ\nمُّبَارَكَةٍ We have sent it down on a blessed night!; *(97:1) لَيْلَةُ الْقَدْر\n(see ٱلْقَدْر ʾal-qadr); *(89:2) لَيَالٍ عَشْر layālin ʿashr [ten nights].\nOpinions differ as to the meaning of this: the last ten days of the\nmonth of رَمَضَان Ramaḍān (in which لَيْلَةُ الْقَدْر laylatu’l-qadr (q.v.),\nmay fall, the first ten days of the month of ذُو الْحِجَّة dhū’l-Hijjati\nduring which the pilgrimage takes place, or the first ten days of\nthe month of الْمُحَرَّم ʾal-Muḥarram, which is the first month in the\nIslamic calendar.",
+      "definition_english": "l–y–l night, night-time, one night, to enter night-time. Of this\nroot, four forms occur 92 times in the Qur’an: اللَّيْل ʾal-layl 74\ntimes; لَيْل layl five times; لَيْلَة laylatun nine times and لَيَالِي layālī\n\nfour times.\n\nٱلَّيْل ʾal-layl [n.] 1 night as opposed to day (41:37) وَمِنْ آيَاتِهِ اللَّيْلُ\nوَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ and of His signs are the night and the day, the\nsun and the moon 2 the darkness of night (6:76) فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَىٰ\nكَوْكَبًا when the night grew dark above him he saw a star 3 span of\nthe night, night-time (73:2) قُمِ اللَّيْلَ إِلَّا قَلِيلًا keep vigil throughout the\nnight, all but a small part of it.\n\nلَيْل layl [n. used adverbially] by night (17:1) سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ\nلَيْلًا glory be to Him who made His servant travel by night; *(71:5)\nإِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا I called my people [night and day]\ncontinuously, all the time; * الليل name of Sura 92, Meccan sura,\nso-named because of the reference in verse 1 to the ‘Night’.\n\nلَيْلَة laylatun [fem. n., pl. لَيَالِي layālī] a night (44:3) إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ\nمُّبَارَكَةٍ We have sent it down on a blessed night!; *(97:1) لَيْلَةُ الْقَدْر\n(see ٱلْقَدْر ʾal-qadr); *(89:2) لَيَالٍ عَشْر layālin ʿashr [ten nights].\nOpinions differ as to the meaning of this: the last ten days of the\nmonth of رَمَضَان Ramaḍān (in which لَيْلَةُ الْقَدْر laylatu’l-qadr (q.v.),\nmay fall, the first ten days of the month of ذُو الْحِجَّة dhū’l-Hijjati\nduring which the pilgrimage takes place, or the first ten days of\nthe month of الْمُحَرَّم ʾal-Muḥarram, which is the first month in the\nIslamic calendar."
+    }
+  ],
   "occurrences": [
     "10:24:30",
     "10:27:20",

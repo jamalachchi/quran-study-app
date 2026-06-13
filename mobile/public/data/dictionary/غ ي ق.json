@@ -1,8 +1,11 @@
 {
-  "id": 2793,
   "root": "غ ي ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغير\n\n(غيق) الغين والياء والقاف كلمةٌ واحدة. يقولون: غَيَّق في رأيه تغييقاً: اختلط فيه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغير\n\n(غيق) الغين والياء والقاف كلمةٌ واحدة. يقولون: غَيَّق في رأيه تغييقاً: اختلط فيه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

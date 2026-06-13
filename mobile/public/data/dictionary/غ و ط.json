@@ -1,9 +1,17 @@
 {
-  "id": 2785,
   "root": "غ و ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغوج - غور\n\n(غوط) الغين والواو والطاء أصلٌ صحيح يدلُّ على اطمئنانٍ وغَور. من ذلك الغائط: المطمئِنُّ من الأرض، والجمع غِيطان وأغواط. وغُوطَة دِمَشْقَ يقالُ إنها مِن هذا، كأنها أرضٌ منخفضة. وربما قالوا: انغاطَ العُودُ ، إذا تثَنَّى، وإذا تثنى فقد انخفَضَ، وقياسُه صحيح.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغوج - غور\n\n(غوط) الغين والواو والطاء أصلٌ صحيح يدلُّ على اطمئنانٍ وغَور. من ذلك الغائط: المطمئِنُّ من الأرض، والجمع غِيطان وأغواط. وغُوطَة دِمَشْقَ يقالُ إنها مِن هذا، كأنها أرضٌ منخفضة. وربما قالوا: انغاطَ العُودُ ، إذا تثَنَّى، وإذا تثنى فقد انخفَضَ، وقياسُه صحيح.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–w–ṭ valley, lowland, to dig, to go deep in the ground, to relieve oneself; a place full of thick intertwined trees. Of this root, only الْغَائِط ʾal-ghāʾiṭ occurs twice in the Qurʾan.\nغَائِط ghāʾiṭ [act. part. used as n. of place] a hollow low place in the open ground *(5:6) جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ one of you has just relieved himself [lit. one of you returned from the low land].",
+      "definition_english": "gh–w–ṭ valley, lowland, to dig, to go deep in the ground, to relieve oneself; a place full of thick intertwined trees. Of this root, only الْغَائِط ʾal-ghāʾiṭ occurs twice in the Qurʾan.\nغَائِط ghāʾiṭ [act. part. used as n. of place] a hollow low place in the open ground *(5:6) جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ one of you has just relieved himself [lit. one of you returned from the low land]."
+    }
+  ],
   "occurrences": [
     "4:43:31",
     "5:6:33"

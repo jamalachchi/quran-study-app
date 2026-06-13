@@ -1,9 +1,17 @@
 {
-  "id": 1834,
   "root": "س ن م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسنه - سني\n\n(سنم) السين والنون والميم أصلٌ واحد، يدلُّ على العلوّ والارتفاع.فالسَّنَام معروف. وتسنَّمت: علَوت. وناقة سَنِمَةٌ: عظيمة السَّنام. وأسنمتُ النارَ : أعلَيْتُ لهبَها. وأَسْنُمَةُ: موضع.\n\n(باب السين والهاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسنه - سني\n\n(سنم) السين والنون والميم أصلٌ واحد، يدلُّ على العلوّ والارتفاع.فالسَّنَام معروف. وتسنَّمت: علَوت. وناقة سَنِمَةٌ: عظيمة السَّنام. وأسنمتُ النارَ : أعلَيْتُ لهبَها. وأَسْنُمَةُ: موضع.\n\n(باب السين والهاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–n–m to be high, to rise, to be the top part, camel hump. Of this root, only تسنيم tasnīm occurs once in the Qurʾan.\nتسنيم tasnīm [n./v. n.] as a noun, it is said to be a name for a water spring in Paradise; as a verbal noun, it is said to mean being high or in a high place (83:27) وَمِزَاجُهُۥ مِن تَسْنِيمٍ and mixed with the water of Tasnim [also: it is composed of all that is most exalting].",
+      "definition_english": "s–n–m to be high, to rise, to be the top part, camel hump. Of this root, only تسنيم tasnīm occurs once in the Qurʾan.\nتسنيم tasnīm [n./v. n.] as a noun, it is said to be a name for a water spring in Paradise; as a verbal noun, it is said to mean being high or in a high place (83:27) وَمِزَاجُهُۥ مِن تَسْنِيمٍ and mixed with the water of Tasnim [also: it is composed of all that is most exalting]."
+    }
+  ],
   "occurrences": [
     "83:27:3"
   ]

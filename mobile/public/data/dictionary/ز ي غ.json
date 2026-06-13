@@ -1,9 +1,17 @@
 {
-  "id": 1710,
   "root": "ز ي غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزول - زون\n\n(زيغ) الزاء والياء والغين أصلٌ يدل على مَيَل الشيء. يقال زاغ يَزيغُ زَيْغاً.\n\nزيم زيل زين\n\nوالتَّزَيُّغ: التَّمايُل ، وقوم زاغَةٌ، أي زائغون، وزاغَت الشمس، وذلك إذا مالت وفاء الفيء . وقال الله جلَّ ثناؤه: ] فَلَمَّا زَاغُوا أَزَاغَ اللهُ قُلُوبَهُمْ [ [الصف 5 ]، فأمَّا قولهم: تزيّغت المرأةُ، فهذا من باب الإبدال، وهي نونٌ أبدلت غيناً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزول - زون\n\n(زيغ) الزاء والياء والغين أصلٌ يدل على مَيَل الشيء. يقال زاغ يَزيغُ زَيْغاً.\n\nزيم زيل زين\n\nوالتَّزَيُّغ: التَّمايُل ، وقوم زاغَةٌ، أي زائغون، وزاغَت الشمس، وذلك إذا مالت وفاء الفيء . وقال الله جلَّ ثناؤه: ] فَلَمَّا زَاغُوا أَزَاغَ اللهُ قُلُوبَهُمْ [ [الصف 5 ]، فأمَّا قولهم: تزيّغت المرأةُ، فهذا من باب الإبدال، وهي نونٌ أبدلت غيناً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-y-gh to deviate, to turn aside, to swerve, to turn away. Of\nthis root, three forms occur nine times in the Qurʾan: زَاغَ zāgha\nsix times; أَزَاغَ ʾazāgha twice and زَيْغ zaygh once.\n\nزَاغَ zāgha i [v. intrans.] 1 to deviate, to turn away (61:5) فَلَمَّا\nزَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ when they went astray, God led their hearts\nastray 2 to go wild, (of eyes) to fail to focus, to roll [with fear]\n(33:10) وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ when the eyes strayed\n[with fear], and hearts rose into the throats.\n\nأَزَاغَ ʾazāgha [v. IV, trans.] to cause to deviate, to cause to turn\naway (3:8) رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا our Lord, cause not our\nhearts to swerve after You have guided us.\n\nزَيْغ zaygh [n.] deviation, perversity (3:7) فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ\nفَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ as for those in whose hearts is\nperversity, they, desiring dissension, pursue the ambiguous in it\n[the Book].",
+      "definition_english": "z-y-gh to deviate, to turn aside, to swerve, to turn away. Of\nthis root, three forms occur nine times in the Qurʾan: زَاغَ zāgha\nsix times; أَزَاغَ ʾazāgha twice and زَيْغ zaygh once.\n\nزَاغَ zāgha i [v. intrans.] 1 to deviate, to turn away (61:5) فَلَمَّا\nزَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ when they went astray, God led their hearts\nastray 2 to go wild, (of eyes) to fail to focus, to roll [with fear]\n(33:10) وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ when the eyes strayed\n[with fear], and hearts rose into the throats.\n\nأَزَاغَ ʾazāgha [v. IV, trans.] to cause to deviate, to cause to turn\naway (3:8) رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا our Lord, cause not our\nhearts to swerve after You have guided us.\n\nزَيْغ zaygh [n.] deviation, perversity (3:7) فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ\nفَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ as for those in whose hearts is\nperversity, they, desiring dissension, pursue the ambiguous in it\n[the Book]."
+    }
+  ],
   "occurrences": [
     "33:10:9",
     "34:12:20",

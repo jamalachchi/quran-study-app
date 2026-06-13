@@ -1,9 +1,22 @@
 {
-  "id": 4042,
   "root": "ن ع ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنعق - نعل\n\n(نعل) النون والعين واللام أُصَيلٌ يدلُّ على اطمئنانٍ في الشيء وتسفُّل. منه النَّعْل المعروفة، لأنها في أسفل القَدَم. ورجلٌ ناعل ذو نعل، ومُنْتَعِلٌ أيضاً. وأنْعَلْتُ الدّابّة. ولا يقال نَعَلْتُ. وحِمار الوحشِ ناعلٌ لصَلابةِ حافرِه. والنَّعْلُ للسَّيفِ: ما يكون أسفَلَ قِرَابِهِ من حديدٍ، أو فِضّة. [قال]:\n\nترى سَيفَه لا يَنصُفُ السّاقَ نعلُهُ\n\nأجَلْ [لا] وإنْ كانت طِوالاً مَحامِلُه\n\nوفرسٌ مُنْعَلٌ: بياضُه في أسفل رُسْغِه على الأشْعَر لا يَعدُوه. والنَّعْل: عَقَبٌ يُلْبَسُ ظَهْرَ السِّيَةِ من القوس. والنَّعل من الأرض: موضعٌ، يقال هي الحَرَّة، ويقال إنَّه لا يُنبِتُ شيئاً. قال الخليل: والنَّعل: الذّليل من الرِّجال الذي يُوطَأ كما يُوطَأ النَّعل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنعق - نعل\n\n(نعل) النون والعين واللام أُصَيلٌ يدلُّ على اطمئنانٍ في الشيء وتسفُّل. منه النَّعْل المعروفة، لأنها في أسفل القَدَم. ورجلٌ ناعل ذو نعل، ومُنْتَعِلٌ أيضاً. وأنْعَلْتُ الدّابّة. ولا يقال نَعَلْتُ. وحِمار الوحشِ ناعلٌ لصَلابةِ حافرِه. والنَّعْلُ للسَّيفِ: ما يكون أسفَلَ قِرَابِهِ من حديدٍ، أو فِضّة. [قال]:\n\nترى سَيفَه لا يَنصُفُ السّاقَ نعلُهُ\n\nأجَلْ [لا] وإنْ كانت طِوالاً مَحامِلُه\n\nوفرسٌ مُنْعَلٌ: بياضُه في أسفل رُسْغِه على الأشْعَر لا يَعدُوه. والنَّعْل: عَقَبٌ يُلْبَسُ ظَهْرَ السِّيَةِ من القوس. والنَّعل من الأرض: موضعٌ، يقال هي الحَرَّة، ويقال إنَّه لا يُنبِتُ شيئاً. قال الخليل: والنَّعل: الذّليل من الرِّجال الذي يُوطَأ كما يُوطَأ النَّعل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مُنْتَظِرِين muntaẓirīn [pl. of act. part. مُنْتَظِر muntaẓir] one who\nawaits (10:20) إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ the unseen\nbelongs only to God, so wait–I am, with you, one of those waiting.",
+      "definition_english": "مُنْتَظِرِين muntaẓirīn [pl. of act. part. مُنْتَظِر muntaẓir] one who\nawaits (10:20) إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ the unseen\nbelongs only to God, so wait–I am, with you, one of those waiting."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ʿ–l footwear, horseshoe, camelshoe, to have thick hard feet,\nto have hooves, to travel on foot, hard and stony piece of barren\nland; calamities. Of this root, نَعْلَيْكَ naʿlayka, occurs once in the\nQur’an.\n\nنَعْلَيْن naʿlayn [dual of n. نَعْل naʿl (a shoe or a pair of shoes)] a\npair of shoes (20:12) إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى I am\nyour Lord, so take off [both] your shoes; you are in the sacred\n\nvalley, Ṭuwā.",
+      "definition_english": "n–ʿ–l footwear, horseshoe, camelshoe, to have thick hard feet,\nto have hooves, to travel on foot, hard and stony piece of barren\nland; calamities. Of this root, نَعْلَيْكَ naʿlayka, occurs once in the\nQur’an.\n\nنَعْلَيْن naʿlayn [dual of n. نَعْل naʿl (a shoe or a pair of shoes)] a\npair of shoes (20:12) إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى I am\nyour Lord, so take off [both] your shoes; you are in the sacred\n\nvalley, Ṭuwā."
+    }
+  ],
   "occurrences": [
     "20:12:5"
   ]

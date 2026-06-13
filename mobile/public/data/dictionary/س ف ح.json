@@ -1,9 +1,17 @@
 {
-  "id": 1776,
   "root": "س ف ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسفح - سفد\n\nومن الباب: السَّفا، وهو تُراب القَبر. قال:\n\nورَهْنُ السّفا غَمْرُ الطبيعة ماجدُ\n\nوحالَ السّفا بيني وبينكِ والعِدَا\n\nوالسَّفاءُ، مهموز: السَّفَه والطَّيش. قال:\n\nسافَهونا بغِرّة وسَفَاءِ\n\nكم أزلّتْ أرماحُنا من سفيهٍ\n\n(سفح) السين والفاء والحاء أصلٌ واحدٌ يدلُّ على إِراقة شيء. يقال سفح الدّمَ، إذا صبَّه. وسفح الدّم: هَرَاقه. والسِّفاح: صبُّ الماء بلا عَقد نكاح، فهو كالشيء يُسفَح ضَياعاً. والسَّفّاح: رجلٌ من رؤساء العرب ، سَفَح الماء في غزوةٍ غزاها فسُمّي سفَّاحاً. وأمَّا سَفْح الجبل فهو من باب الإبدال، والأصل فيه صَفح، وقد ذُكر في بابه. والسَّفيح: أحد السِّهام الثلاثة التي لا أنصباءَ لها، وهو شاذٌّ عن الأصل الذي ذكرناه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسفح - سفد\n\nومن الباب: السَّفا، وهو تُراب القَبر. قال:\n\nورَهْنُ السّفا غَمْرُ الطبيعة ماجدُ\n\nوحالَ السّفا بيني وبينكِ والعِدَا\n\nوالسَّفاءُ، مهموز: السَّفَه والطَّيش. قال:\n\nسافَهونا بغِرّة وسَفَاءِ\n\nكم أزلّتْ أرماحُنا من سفيهٍ\n\n(سفح) السين والفاء والحاء أصلٌ واحدٌ يدلُّ على إِراقة شيء. يقال سفح الدّمَ، إذا صبَّه. وسفح الدّم: هَرَاقه. والسِّفاح: صبُّ الماء بلا عَقد نكاح، فهو كالشيء يُسفَح ضَياعاً. والسَّفّاح: رجلٌ من رؤساء العرب ، سَفَح الماء في غزوةٍ غزاها فسُمّي سفَّاحاً. وأمَّا سَفْح الجبل فهو من باب الإبدال، والأصل فيه صَفح، وقد ذُكر في بابه. والسَّفيح: أحد السِّهام الثلاثة التي لا أنصباءَ لها، وهو شاذٌّ عن الأصل الذي ذكرناه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-f-ḥ base, bottom or lower part of a mountain; side of a mountain along which rain water pounds down unchecked; pouring down of water, spilling of blood; fornication. Of this root, three forms occur four times in the Qur’an: مَسْفُوحًا masfūḥan once; مُسافِحِينَ musāfiḥīn twice and مُسافِحات musāfiḥāt once.\nمَسْفُوح masfūḥ [pass. part.] spilt, shed, poured forth (6:145) قُلْ لا أَجِدُ فِي ما أُوحِيَ إِلَيَّ مُحَرَّمًا عَلى طاعِمٍ يَطْعَمُهُ إِلاَّ أَنْ يَكُونَ مَيْتَةً أَوْ دَمًا مَسْفُوحًا ... say, ‘I do not find, in what has been revealed to me any that is forbidden to anyone [an eater] to eat, unless it be an unslaughtered dead animal, or spilt blood ...’\n\nمُسافِحِينَ musāfiḥīn [pl. of act. part. مُسافِح musāfiḥ, fem. pl. مُسافِحات musāfiḥāt] ones who commit acts of fornication, adulterers (4:25) فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَناتٍ غَيْرَ مُسافِحاتٍ so marry them with the consent of their people and give them their dowries in accordance with the norms [taking them] in wedlock, not as adulteresses.",
+      "definition_english": "s-f-ḥ base, bottom or lower part of a mountain; side of a mountain along which rain water pounds down unchecked; pouring down of water, spilling of blood; fornication. Of this root, three forms occur four times in the Qur’an: مَسْفُوحًا masfūḥan once; مُسافِحِينَ musāfiḥīn twice and مُسافِحات musāfiḥāt once.\nمَسْفُوح masfūḥ [pass. part.] spilt, shed, poured forth (6:145) قُلْ لا أَجِدُ فِي ما أُوحِيَ إِلَيَّ مُحَرَّمًا عَلى طاعِمٍ يَطْعَمُهُ إِلاَّ أَنْ يَكُونَ مَيْتَةً أَوْ دَمًا مَسْفُوحًا ... say, ‘I do not find, in what has been revealed to me any that is forbidden to anyone [an eater] to eat, unless it be an unslaughtered dead animal, or spilt blood ...’\n\nمُسافِحِينَ musāfiḥīn [pl. of act. part. مُسافِح musāfiḥ, fem. pl. مُسافِحات musāfiḥāt] ones who commit acts of fornication, adulterers (4:25) فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَناتٍ غَيْرَ مُسافِحاتٍ so marry them with the consent of their people and give them their dowries in accordance with the norms [taking them] in wedlock, not as adulteresses."
+    }
+  ],
   "occurrences": [
     "4:24:21",
     "4:25:31",

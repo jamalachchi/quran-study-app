@@ -1,9 +1,22 @@
 {
-  "id": 162,
   "root": "أ و ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأهن - أوي\n\n(أوي) الهمزة والواو والياء أصلان: أحدهما التجمُّع، والثاني الإشفاق. قال الخليل: يقال أوَى الرّجلُ إلى منزله وآوَى غَيرَه أُوِيّاً وإيواءً. ويقال أوَى إواءً أيضاً. والأُوِيُّ أحسن. قال الله تعالى: ] إذْ أَوَى الْفِتْيَةُ إلى الكَهْفِ [ [الكهف 10]، وقال: ] وَآوَيْنَاهُمَا إلى رَبْوَةٍ [ [المؤمنون 50]. والمأوَى: مكانُ كلِّ شيءٍ يُأوى إليه ليلاً أو نهاراً. وأوَت الإبلُ إلى أهلها تأوِي أُوِيّاً فهي آوِيةٌ. قال",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأهن - أوي\n\n(أوي) الهمزة والواو والياء أصلان: أحدهما التجمُّع، والثاني الإشفاق. قال الخليل: يقال أوَى الرّجلُ إلى منزله وآوَى غَيرَه أُوِيّاً وإيواءً. ويقال أوَى إواءً أيضاً. والأُوِيُّ أحسن. قال الله تعالى: ] إذْ أَوَى الْفِتْيَةُ إلى الكَهْفِ [ [الكهف 10]، وقال: ] وَآوَيْنَاهُمَا إلى رَبْوَةٍ [ [المؤمنون 50]. والمأوَى: مكانُ كلِّ شيءٍ يُأوى إليه ليلاً أو نهاراً. وأوَت الإبلُ إلى أهلها تأوِي أُوِيّاً فهي آوِيةٌ. قال",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾawwāh occurs twice in the Qurʾan.\nأَوَّاه ʾawwāh [intens. act. part.] given to expressing sorrows, tender hearted, compassionate (9:114) إِنَّ إِبْرَٰهِيمَ لَأَوَّاهٌ حَلِيمٌ Abraham was tender hearted and forbearing.",
+      "definition_english": "ʾawwāh occurs twice in the Qurʾan.\nأَوَّاه ʾawwāh [intens. act. part.] given to expressing sorrows, tender hearted, compassionate (9:114) إِنَّ إِبْرَٰهِيمَ لَأَوَّاهٌ حَلِيمٌ Abraham was tender hearted and forbearing."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–w–y shelter, refuge, abode, to repair to a place of refuge, to accommodate, to shelter, to show kindness. Of this root, three forms occur 36 times in the Qurʾan: أَوَى ʾawā five times; ءَاوَى ʾāwā nine times and مَأْوَى maʾwā 22 times.\nأَوَى ʾawā I [v. intrans. (also trans.)] to take refuge, to repair, to shelter (18:10) إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ when the young men took refuge in the cave.\n\nءَاوَى ʾāwā [v. IV, trans.] 1 to shelter someone, to protect (8:26) فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ but He gave you refuge and strengthened you with His help 2 [with إِلَى] to take to oneself (33:51) تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ you may put off whomsoever you wish of them and take to yourself whomsoever you wish.\n\nمَأْوَى maʾwā [n. of place/v. n.] abode, home, place of retreat, dwelling/abiding, staying, destination (32:19) أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ as for those who believe and do good deeds, to them are the gardens of retreat.\n\nإِي ʾī positive-response particle (حرف جواب), carrying with it great emphasis, occurring once in the Qurʾan, ‘yes’, ‘indeed’ (10:53) إِي وَرَبِّى إِنَّهُۥ لَحَقٌّ yes indeed!, by my Lord!–it is true.",
+      "definition_english": "ʾ–w–y shelter, refuge, abode, to repair to a place of refuge, to accommodate, to shelter, to show kindness. Of this root, three forms occur 36 times in the Qurʾan: أَوَى ʾawā five times; ءَاوَى ʾāwā nine times and مَأْوَى maʾwā 22 times.\nأَوَى ʾawā I [v. intrans. (also trans.)] to take refuge, to repair, to shelter (18:10) إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ when the young men took refuge in the cave.\n\nءَاوَى ʾāwā [v. IV, trans.] 1 to shelter someone, to protect (8:26) فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ but He gave you refuge and strengthened you with His help 2 [with إِلَى] to take to oneself (33:51) تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ you may put off whomsoever you wish of them and take to yourself whomsoever you wish.\n\nمَأْوَى maʾwā [n. of place/v. n.] abode, home, place of retreat, dwelling/abiding, staying, destination (32:19) أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ as for those who believe and do good deeds, to them are the gardens of retreat.\n\nإِي ʾī positive-response particle (حرف جواب), carrying with it great emphasis, occurring once in the Qurʾan, ‘yes’, ‘indeed’ (10:53) إِي وَرَبِّى إِنَّهُۥ لَحَقٌّ yes indeed!, by my Lord!–it is true."
+    }
+  ],
   "occurrences": [
     "10:8:2",
     "11:43:2",

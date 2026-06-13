@@ -1,8 +1,11 @@
 {
-  "id": 1768,
   "root": "س غ م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسعر\n\n(سغم) السين والغين والميم ليس بشيء. على أنّهم يقولون للسغِل سَغِم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسعر\n\n(سغم) السين والغين والميم ليس بشيء. على أنّهم يقولون للسغِل سَغِم.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

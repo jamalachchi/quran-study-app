@@ -1,8 +1,11 @@
 {
-  "id": 4186,
   "root": "ه ب غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هبغ) الهاء والباء والغين. هَبَغَ هُبُوغاً: نامَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هبغ) الهاء والباء والغين. هَبَغَ هُبُوغاً: نامَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

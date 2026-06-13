@@ -1,8 +1,11 @@
 {
-  "id": 2221,
   "root": "ص ي أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصوك - صوم\n\n(صيأ) الصاد والياء والهمزة. يقال صيَّأت رأسي تصييئاً، إِذا بَلَلْتَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصوك - صوم\n\n(صيأ) الصاد والياء والهمزة. يقال صيَّأت رأسي تصييئاً، إِذا بَلَلْتَه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

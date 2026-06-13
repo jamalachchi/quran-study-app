@@ -1,9 +1,17 @@
 {
-  "id": 3171,
   "root": "ق ر ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقرط - قرع\n\n(قرع) القاف والراء والعين معظمُ البابِ ضربُ الشيء. يقال قَرَعْتُ الشيءَ أقرَعُه: ضربتُه. ومُقارَعة الأبطال: قَرعُ بعضِهم بعضاً. والقَريع: الفَحْل، لأنَّه يَقرع الناقة. والإقراع والمُقارَعة: هي المساهمَة. وسمِّيت بذلك لأنَّها شيءٌ كأنَّه يُضرَب. وقارعتُ فلاناً فقرعتُه، أي أصابتني القُرعةُ دونَه. والقارعة: الشَّديدة من شدائد الدهر؛ وسمِّيت بذلك لأنَّها تقرع الناس، أي تضربُهم بشدَّتها. والقارعة: القِيامةُ، لأنَّها تَضرِبُ وتُصيب النَّاسَ بإقراعها. وقوارِعُ القرآن: الآياتُ التي مَن قَرأها لم يُصِبْه فزَع. وكأنها واللهُ أعلمُ- سمِّيت بذلك",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقرط - قرع\n\n(قرع) القاف والراء والعين معظمُ البابِ ضربُ الشيء. يقال قَرَعْتُ الشيءَ أقرَعُه: ضربتُه. ومُقارَعة الأبطال: قَرعُ بعضِهم بعضاً. والقَريع: الفَحْل، لأنَّه يَقرع الناقة. والإقراع والمُقارَعة: هي المساهمَة. وسمِّيت بذلك لأنَّها شيءٌ كأنَّه يُضرَب. وقارعتُ فلاناً فقرعتُه، أي أصابتني القُرعةُ دونَه. والقارعة: الشَّديدة من شدائد الدهر؛ وسمِّيت بذلك لأنَّها تقرع الناس، أي تضربُهم بشدَّتها. والقارعة: القِيامةُ، لأنَّها تَضرِبُ وتُصيب النَّاسَ بإقراعها. وقوارِعُ القرآن: الآياتُ التي مَن قَرأها لم يُصِبْه فزَع. وكأنها واللهُ أعلمُ- سمِّيت بذلك",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–r–ʿ boldness; to knock, to strike; to reproach; to fight; to cast a lot, calamity, disaster and adversity; pumpkin. Of this root, قَارِعَة qāriʿatun occurs five times in the Qur’an.\nقَارِعَة qāriʿatun I [act. part.] 1 calamity, disaster, affliction (13:31) وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ as for those who disbelieve, disaster will not cease to strike them, because of what they do II [n.] the crashing blow (epithet of the Day of Judgement) (69:4) كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ the people of Thamūd and ʿād denied the coming of the Day of Judgement [lit. crashing blow]; * القارعة name of Sura 101, Meccan sura, so-named because of the reference in verse 1 to the ‘Crashing Blow’.",
+      "definition_english": "q–r–ʿ boldness; to knock, to strike; to reproach; to fight; to cast a lot, calamity, disaster and adversity; pumpkin. Of this root, قَارِعَة qāriʿatun occurs five times in the Qur’an.\nقَارِعَة qāriʿatun I [act. part.] 1 calamity, disaster, affliction (13:31) وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ as for those who disbelieve, disaster will not cease to strike them, because of what they do II [n.] the crashing blow (epithet of the Day of Judgement) (69:4) كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ the people of Thamūd and ʿād denied the coming of the Day of Judgement [lit. crashing blow]; * القارعة name of Sura 101, Meccan sura, so-named because of the reference in verse 1 to the ‘Crashing Blow’."
+    }
+  ],
   "occurrences": [
     "101:1:1",
     "101:2:2",

@@ -1,9 +1,17 @@
 {
-  "id": 2431,
   "root": "ط ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطوط\n\n(طيب) الطاء والياء والباء أصلٌ واحد صحيحٌ يدلُّ على خلافِ الخَبيث. من ذلك الطيِّب: ضدّ الخبيث. يقال سبيّ طِيبَةٌ، أي طيِّبٌ. والاستطابة: الاستنجاء؛ لأنَّ الرجل يطيِّب نفسَه مما عليه من الخُبث بالاستنجاء. ونهى رسول الله * صلى الله عليه وآله أن يَستَطِيب الرَّجُل بيمينه. والأطيبانِ: الأكل والنِّكاح. وطَيْبَة مدينة الرسول صلى الله عليه وآله. ويقال: هذا طعام مَطْيَبةٌ للنَّفْس. والطَّيِّب:الحلال، والطَّاب: الطِّيب: قال:\n\nمُقابَلَ الأعراقِ في الطَّابِ الطَّابْ\n\nبين أبي العاص وآلِ الخطّابْ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطوط\n\n(طيب) الطاء والياء والباء أصلٌ واحد صحيحٌ يدلُّ على خلافِ الخَبيث. من ذلك الطيِّب: ضدّ الخبيث. يقال سبيّ طِيبَةٌ، أي طيِّبٌ. والاستطابة: الاستنجاء؛ لأنَّ الرجل يطيِّب نفسَه مما عليه من الخُبث بالاستنجاء. ونهى رسول الله * صلى الله عليه وآله أن يَستَطِيب الرَّجُل بيمينه. والأطيبانِ: الأكل والنِّكاح. وطَيْبَة مدينة الرسول صلى الله عليه وآله. ويقال: هذا طعام مَطْيَبةٌ للنَّفْس. والطَّيِّب:الحلال، والطَّاب: الطِّيب: قال:\n\nمُقابَلَ الأعراقِ في الطَّابِ الطَّابْ\n\nبين أبي العاص وآلِ الخطّابْ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṭ-y-b to be good, to be agreeable, to be willing, to mollify; to be wholesome, to become ripe; to regain health; to be fragrant, fragrance, perfume. It has been suggested by some scholars that the derivative طُوبَى ṭūbā is linked to a corresponding Syriac and a common Semitic root. Other scholars attribute the derivative طُوبَى\n581",
+      "definition_english": "ṭ-y-b to be good, to be agreeable, to be willing, to mollify; to be wholesome, to become ripe; to regain health; to be fragrant, fragrance, perfume. It has been suggested by some scholars that the derivative طُوبَى ṭūbā is linked to a corresponding Syriac and a common Semitic root. Other scholars attribute the derivative طُوبَى\n581"
+    }
+  ],
   "occurrences": [
     "10:22:15",
     "10:93:9",

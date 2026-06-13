@@ -1,9 +1,17 @@
 {
-  "id": 3089,
   "root": "ق ن ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقنب\n\n(قنط) القاف والنون والطاء كلمةٌ صحيحة تدلُّ على اليأس من الشَّيء. يقال: قَنَط يَقْنِط، وقَنِطَ يقْنَط. قال الله تعالى: ] وَمَنْ يَقْنَِطُ مِنْ رَحْمَةِ رَبِّهِ إلاَّ الضَّالُّون [ [الحجر 56].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقنب\n\n(قنط) القاف والنون والطاء كلمةٌ صحيحة تدلُّ على اليأس من الشَّيء. يقال: قَنَط يَقْنِط، وقَنِطَ يقْنَط. قال الله تعالى: ] وَمَنْ يَقْنَِطُ مِنْ رَحْمَةِ رَبِّهِ إلاَّ الضَّالُّون [ [الحجر 56].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–n–ṭ despair, to fall into despair, to be despondent. Of this\nroot, three forms occur six times in the Qur’an: قَنَط qanaṭa four\ntimes; قَانِطِين qāniṭīn once and قَنُوط qanūṭ once.\n\nقَنَط qanaṭa a [v. intrans.] to despair (39:53) قُلْ يَاعِبَادِيَ الَّذِينَ أَسْرَفُوا\nعَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ say, ‘[God says] My servants, who\nhave been excessive [in sinning] against themselves, do not\ndespair of God’s mercy.’\n\nقَانِطُون qāniṭūn [pl. of act. part. قَانِط qāniṭ] one who is in despair\n(15:55) قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُنْ مِنَ الْقَانِطِينَ they said, ‘We have given\nyou the good news in truth, so do not be one of the despairing.’\n\nقَنُوط qanūṭ [intens. act. part.] one who is in utter despair, in\nutter despondence (41:49) لَا يَسْأَمُ الْإِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ الشَّرُّ\nفَيَئُوسٌ قَنُوطٌ man never tires of praying for good, but if evil touches\nhim, then he is hopeless, despondent.",
+      "definition_english": "q–n–ṭ despair, to fall into despair, to be despondent. Of this\nroot, three forms occur six times in the Qur’an: قَنَط qanaṭa four\ntimes; قَانِطِين qāniṭīn once and قَنُوط qanūṭ once.\n\nقَنَط qanaṭa a [v. intrans.] to despair (39:53) قُلْ يَاعِبَادِيَ الَّذِينَ أَسْرَفُوا\nعَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ say, ‘[God says] My servants, who\nhave been excessive [in sinning] against themselves, do not\ndespair of God’s mercy.’\n\nقَانِطُون qāniṭūn [pl. of act. part. قَانِط qāniṭ] one who is in despair\n(15:55) قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُنْ مِنَ الْقَانِطِينَ they said, ‘We have given\nyou the good news in truth, so do not be one of the despairing.’\n\nقَنُوط qanūṭ [intens. act. part.] one who is in utter despair, in\nutter despondence (41:49) لَا يَسْأَمُ الْإِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ الشَّرُّ\nفَيَئُوسٌ قَنُوطٌ man never tires of praying for good, but if evil touches\nhim, then he is hopeless, despondent."
+    }
+  ],
   "occurrences": [
     "15:55:7",
     "15:56:3",

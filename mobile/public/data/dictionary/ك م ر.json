@@ -1,8 +1,11 @@
 {
-  "id": 3281,
   "root": "ك م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كمر) الكاف والميم والراء كلمةٌ، يقولون: رجلٌ مكمور، وهو الذي يُصِيب الخاتِنُ طرَف كَمَرتِه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كمر) الكاف والميم والراء كلمةٌ، يقولون: رجلٌ مكمور، وهو الذي يُصِيب الخاتِنُ طرَف كَمَرتِه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

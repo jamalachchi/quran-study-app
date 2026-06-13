@@ -1,9 +1,17 @@
 {
-  "id": 903,
   "root": "ح ي ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حين) الحاء والياء والنون أصلٌ واحد، ثم يحمل عليه، والأصل الزمان. فالحِينُ الزَّمان قليلُه وكثيرُه. ويقال عامَلْتُ فلاناً [مُحَايَنَةً ]، من الحِين. وأحيَنْتُ بالمكان : أقمتُ به حيناً. وحاز حِينُ كذا، أي قرُب. قال:\n\nمن الدّهر ما حانت ولا حان حِينُها\n\nوإنَّ سُلُوِّي عن جميلٍ لَساعةٌ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حين) الحاء والياء والنون أصلٌ واحد، ثم يحمل عليه، والأصل الزمان. فالحِينُ الزَّمان قليلُه وكثيرُه. ويقال عامَلْتُ فلاناً [مُحَايَنَةً ]، من الحِين. وأحيَنْتُ بالمكان : أقمتُ به حيناً. وحاز حِينُ كذا، أي قرُب. قال:\n\nمن الدّهر ما حانت ولا حان حِينُها\n\nوإنَّ سُلُوِّي عن جميلٍ لَساعةٌ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–n time, period, a certain time; to approach, to draw near, to watch out for, to await the opportunity, to fix a regular time. Of this root, two forms occur 35 times in the Qur’an: حِين ḥīn 34 times and حِينَئِذٍ ḥīnaʾidhin once.\nحِين ḥīn a nominal used in the Qur’an as either a free unit or the first or second part in construct (إضافة): I [as a free unit] time, point in time, period of time (76:1) هَلْ أَتَى عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا has there ever come a point in time when man was not something insignificant, non-existent [lit. worthy of being mentioned/remembered]; (2:36) وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ on earth you will have a place to settle in and livelihood for a time II [in construct (إضافة)] 1 [as the first part] ‘at the time of’, ‘when’, ‘while’ with the second part a) as a noun (28:15) وَدَخَلَ الْمَدِينَةَ عَلَى حِينِ غَفْلَةٍ مِنْ أَهْلِهَا and he entered the city at a moment of heedlessness from its people b) as a clause (5:101) وَإِنْ تَسْأَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ but if you ask about them while the Qur’an is being revealed they will be made known to you 2 [as the second part of a construct] a while, span of time, regular period of time (14:25) تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا yielding its fruit every season by its Lord’s leave.",
+      "definition_english": "h–y–n time, period, a certain time; to approach, to draw near, to watch out for, to await the opportunity, to fix a regular time. Of this root, two forms occur 35 times in the Qur’an: حِين ḥīn 34 times and حِينَئِذٍ ḥīnaʾidhin once.\nحِين ḥīn a nominal used in the Qur’an as either a free unit or the first or second part in construct (إضافة): I [as a free unit] time, point in time, period of time (76:1) هَلْ أَتَى عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا has there ever come a point in time when man was not something insignificant, non-existent [lit. worthy of being mentioned/remembered]; (2:36) وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ on earth you will have a place to settle in and livelihood for a time II [in construct (إضافة)] 1 [as the first part] ‘at the time of’, ‘when’, ‘while’ with the second part a) as a noun (28:15) وَدَخَلَ الْمَدِينَةَ عَلَى حِينِ غَفْلَةٍ مِنْ أَهْلِهَا and he entered the city at a moment of heedlessness from its people b) as a clause (5:101) وَإِنْ تَسْأَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ but if you ask about them while the Qur’an is being revealed they will be made known to you 2 [as the second part of a construct] a while, span of time, regular period of time (14:25) تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا yielding its fruit every season by its Lord’s leave."
+    }
+  ],
   "occurrences": [
     "10:98:21",
     "11:5:8",

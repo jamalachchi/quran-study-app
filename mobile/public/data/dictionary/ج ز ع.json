@@ -1,9 +1,17 @@
 {
-  "id": 610,
   "root": "ج ز ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجزع - جزل\n\n(باب الجيم والزاء وما يثلثهما)\n\n(جزع) الجيم والزاء والعين أصلان: أحدهما الانقطاع، والآخر جوهرٌ من الجواهر.\n\nفأمّا الأول فيقولون جَزَعْتُ الرّملة إذا قطعتَها؛ ومنه: جِزْعُ الوادي، وهو الموضع الذي يَقطعُه من أحد جانبَيه إلى الجانب؛ ويقال هو مُنْعَطَفه. فإنْ كان كذا فلأنّه انقَطع عن الاستواء فانعرج. والجزَع: نَقِيض الصّبر، وهو انقطاعُ المُنَّة عن حَمْل ما نزل . و[الجُِِزْعة ] هي القليل من الماء، وهو قياس الباب.\n\nوأمّا الآخَر فالجَِزْع، وهو الخرَزُ المعروف. ويقال بُسْرَةٌ مُجزَّعَةٌ، إذا بَلَغَ الإرطابُ نِصْفها، وتُشْبِه حينئذٍ الجَِزْع .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجزع - جزل\n\n(باب الجيم والزاء وما يثلثهما)\n\n(جزع) الجيم والزاء والعين أصلان: أحدهما الانقطاع، والآخر جوهرٌ من الجواهر.\n\nفأمّا الأول فيقولون جَزَعْتُ الرّملة إذا قطعتَها؛ ومنه: جِزْعُ الوادي، وهو الموضع الذي يَقطعُه من أحد جانبَيه إلى الجانب؛ ويقال هو مُنْعَطَفه. فإنْ كان كذا فلأنّه انقَطع عن الاستواء فانعرج. والجزَع: نَقِيض الصّبر، وهو انقطاعُ المُنَّة عن حَمْل ما نزل . و[الجُِِزْعة ] هي القليل من الماء، وهو قياس الباب.\n\nوأمّا الآخَر فالجَِزْع، وهو الخرَزُ المعروف. ويقال بُسْرَةٌ مُجزَّعَةٌ، إذا بَلَغَ الإرطابُ نِصْفها، وتُشْبِه حينئذٍ الجَِزْع .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–z–ʿ to break into two, to traverse, to divide up; anxiety, shock, to be distressed, to be disturbed. Of this root, two forms occur once each in the Qurʾan: جَزِعَ jaziʿa and جَزُوع jazūʿ.\nجَزِعَ jaziʿa a [v. intrans.] to become anxious, distressed, disturbed (14:21) سَوَاءٌ عَلَيْنَا أَجَزِعْنَا أَمْ صَبَرْنَا مَا لَنَا مِنْ مَحِيصٍ it is the same for us [now], whether we show distress or bear with patience: for us there is no escape.\n\nجَزُوع jazūʿ [intens. act. part.] given to collapsing under stress, prone to anxiety, fretful (70:20) إِذَا مَسَّهُ الشَّرُّ جَزُوعًا he becomes overly anxious when misfortune touches him.",
+      "definition_english": "j–z–ʿ to break into two, to traverse, to divide up; anxiety, shock, to be distressed, to be disturbed. Of this root, two forms occur once each in the Qurʾan: جَزِعَ jaziʿa and جَزُوع jazūʿ.\nجَزِعَ jaziʿa a [v. intrans.] to become anxious, distressed, disturbed (14:21) سَوَاءٌ عَلَيْنَا أَجَزِعْنَا أَمْ صَبَرْنَا مَا لَنَا مِنْ مَحِيصٍ it is the same for us [now], whether we show distress or bear with patience: for us there is no escape.\n\nجَزُوع jazūʿ [intens. act. part.] given to collapsing under stress, prone to anxiety, fretful (70:20) إِذَا مَسَّهُ الشَّرُّ جَزُوعًا he becomes overly anxious when misfortune touches him."
+    }
+  ],
   "occurrences": [
     "14:21:28",
     "70:20:4"

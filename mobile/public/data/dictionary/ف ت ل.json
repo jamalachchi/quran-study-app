@@ -1,9 +1,22 @@
 {
-  "id": 2945,
   "root": "ف ت ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفتل - فتن\n\nلا مَهْرَ أغلَى من عليٍّ وإنْ غَلاَ\n\nولا فَتْكَ إلاّ دُونَ فتكِ ابن مُلْجِم\n\n(فتل) الفاء والتاء واللام أصلٌ صحيح يدلُّ على ليِّ شيء. من ذلك: فتَلت الحبلَ وغيرَه. والفَتيل: ما يكون في شِقِّ النَّواة كأنّه قد فتِل. قال:\n\nثمَّ لا يرزَأ العدوَّ فَتِيلا\n\nيَجمع الجَيش ذا الألوفِ ويَغزُو\n\nويقال: بل الفَتيل ما يُفتَل بين الإصبَعَين. والفَتَل: تباعُد الذِّراعين عن جنْبَيِ البعير، كأنَّهما لُوِيا لَيّا وفُتِلا حتى لُوِيا. قال طَرَفة:\n\nتمرُّ بسَلْمَىْ دالجٍ متشدِّدِ\n\nلها عضُدانِ أفْتَلاَنِ كأنَّها\n\nومن أمثالهم: \"فلان يَفْتِل في ذِرْوةِ فُلانٍ\"، أي يدور من وراء خَديعته.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفتل - فتن\n\nلا مَهْرَ أغلَى من عليٍّ وإنْ غَلاَ\n\nولا فَتْكَ إلاّ دُونَ فتكِ ابن مُلْجِم\n\n(فتل) الفاء والتاء واللام أصلٌ صحيح يدلُّ على ليِّ شيء. من ذلك: فتَلت الحبلَ وغيرَه. والفَتيل: ما يكون في شِقِّ النَّواة كأنّه قد فتِل. قال:\n\nثمَّ لا يرزَأ العدوَّ فَتِيلا\n\nيَجمع الجَيش ذا الألوفِ ويَغزُو\n\nويقال: بل الفَتيل ما يُفتَل بين الإصبَعَين. والفَتَل: تباعُد الذِّراعين عن جنْبَيِ البعير، كأنَّهما لُوِيا لَيّا وفُتِلا حتى لُوِيا. قال طَرَفة:\n\nتمرُّ بسَلْمَىْ دالجٍ متشدِّدِ\n\nلها عضُدانِ أفْتَلاَنِ كأنَّها\n\nومن أمثالهم: \"فلان يَفْتِل في ذِرْوةِ فُلانٍ\"، أي يدور من وراء خَديعته.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "فَتَقَ fataqa u [v. trans.] to split apart, to slit open (21:30) أَوَلَمْ يَرَ\nالَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا have those who\ndisbelieve not considered that the heavens and the earth were\n[once/originally] a multi-layered mass and We split them?",
+      "definition_english": "فَتَقَ fataqa u [v. trans.] to split apart, to slit open (21:30) أَوَلَمْ يَرَ\nالَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا have those who\ndisbelieve not considered that the heavens and the earth were\n[once/originally] a multi-layered mass and We split them?"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–t–l to twist together, to entwine; twine, cord, thin rope. Of\nthis root, فَتِيل fatīl, occurs once in the Qur’an.\n\nفَتِيل fatīl [n.] twine, string, thread, a cord-like fibre found in the\ngroove of a date stone *(9:49) لَا يُظْلَمُونَ فَتِيلًا they will not be denied\nan iota [lit. as much as a piece of fibre from a date stone] of\njustice.",
+      "definition_english": "f–t–l to twist together, to entwine; twine, cord, thin rope. Of\nthis root, فَتِيل fatīl, occurs once in the Qur’an.\n\nفَتِيل fatīl [n.] twine, string, thread, a cord-like fibre found in the\ngroove of a date stone *(9:49) لَا يُظْلَمُونَ فَتِيلًا they will not be denied\nan iota [lit. as much as a piece of fibre from a date stone] of\njustice."
+    }
+  ],
   "occurrences": [
     "17:71:15",
     "4:49:14",

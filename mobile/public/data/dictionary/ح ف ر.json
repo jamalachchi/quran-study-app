@@ -1,9 +1,17 @@
 {
-  "id": 822,
   "root": "ح ف ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحفي\n\n(حفر) الحاء والفاء والراء أصلان: أحدهُما حَفْر الشّيء، وهو قلعه سُفْلا؛ والآخَر أوَّل الأمر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحفي\n\n(حفر) الحاء والفاء والراء أصلان: أحدهُما حَفْر الشّيء، وهو قلعه سُفْلا؛ والآخَر أوَّل الأمر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ-f-r hoof; to dig, to carve, to engrave, hole in the ground, pit; to expose; to return to the original state, a former state; to emaciate. Of this root, two forms occur once each in the Qurʾan: حُفْرَةٌ ḥufratun and حَافِرَةٌ ḥāfiratun.\nحُفْرَةٌ ḥufratun [n.] pit (3:103) وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا and you were on the brink of a pit of the Fire and He saved you from it.\n\nحَافِرَةٌ ḥāfiratun [n./act. part. fem.] original state, original or former condition (79:10–11) يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ أَإِذَا كُنَّا عِظَامًا نَّخِرَةً they say, ‘What?, shall we be brought back to the original state [life], after we have turned into decayed bones?’",
+      "definition_english": "ḥ-f-r hoof; to dig, to carve, to engrave, hole in the ground, pit; to expose; to return to the original state, a former state; to emaciate. Of this root, two forms occur once each in the Qurʾan: حُفْرَةٌ ḥufratun and حَافِرَةٌ ḥāfiratun.\nحُفْرَةٌ ḥufratun [n.] pit (3:103) وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا and you were on the brink of a pit of the Fire and He saved you from it.\n\nحَافِرَةٌ ḥāfiratun [n./act. part. fem.] original state, original or former condition (79:10–11) يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ أَإِذَا كُنَّا عِظَامًا نَّخِرَةً they say, ‘What?, shall we be brought back to the original state [life], after we have turned into decayed bones?’"
+    }
+  ],
   "occurrences": [
     "3:103:23",
     "79:10:5"

@@ -1,9 +1,17 @@
 {
-  "id": 912,
   "root": "ح ب ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحبس\n\n(حبك) الحاء والباء والكاف أصل منقاسٌ مطّرِد؛ وهو إحكام الشَّيء في امتدادٍ واطِّراد. يقال بعيرٌ مَحْبُوكُ القَرَى، أي قويُّه. ومن الاحتباك الاحتباء، وهو شد الإزار؛ وهو قياس الباب.\n\nوحُبُك السماء في قوله تعالى: ] وَالسَّمَاءِ ذَاتِ الْحُبُكِ [ [الذاريات 7]، فقال قومٌ: ذاتِ الخَلْق الحَسن المُحْكَم. وقال آخرون: الحُبُك الطرائق، الواحدة حَبِيكة. ويراد بالطّرائِق طرائِق النُّجوم.\n\nويقال كساءٌ مُحَبَّكٌ، أي مخطَّط.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحبس\n\n(حبك) الحاء والباء والكاف أصل منقاسٌ مطّرِد؛ وهو إحكام الشَّيء في امتدادٍ واطِّراد. يقال بعيرٌ مَحْبُوكُ القَرَى، أي قويُّه. ومن الاحتباك الاحتباء، وهو شد الإزار؛ وهو قياس الباب.\n\nوحُبُك السماء في قوله تعالى: ] وَالسَّمَاءِ ذَاتِ الْحُبُكِ [ [الذاريات 7]، فقال قومٌ: ذاتِ الخَلْق الحَسن المُحْكَم. وقال آخرون: الحُبُك الطرائق، الواحدة حَبِيكة. ويراد بالطّرائِق طرائِق النُّجوم.\n\nويقال كساءٌ مُحَبَّكٌ، أي مخطَّط.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ–b–k knot, belt, girdle; to weave tightly, to braid; track, lines,\n189\n\nحَبَّى\n\ntrails of ships, wake, orbits of stars and planets. Of this root, حُبُك ḥubuk occurs once in the Qurʾan.\n\nحُبُك ḥubuk [pl. of n. حِبَاك ḥibāk] trails, orbits (51:7) وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ by the sky with its many orbits.",
+      "definition_english": "ḥ–b–k knot, belt, girdle; to weave tightly, to braid; track, lines,\n189\n\nحَبَّى\n\ntrails of ships, wake, orbits of stars and planets. Of this root, حُبُك ḥubuk occurs once in the Qurʾan.\n\nحُبُك ḥubuk [pl. of n. حِبَاك ḥibāk] trails, orbits (51:7) وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ by the sky with its many orbits."
+    }
+  ],
   "occurrences": [
     "51:7:3"
   ]

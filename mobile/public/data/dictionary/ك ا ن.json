@@ -1,8 +1,11 @@
 {
-  "id": 3324,
   "root": "ك ا ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كان) الكاف والألف والنون. يقولون: كَأَن، أي اشتدَّ، وكأنتُ: اشتددت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كان) الكاف والألف والنون. يقولون: كَأَن، أي اشتدَّ، وكأنتُ: اشتددت.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

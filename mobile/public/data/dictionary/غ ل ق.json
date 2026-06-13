@@ -1,9 +1,17 @@
 {
-  "id": 2762,
   "root": "غ ل ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغلب\n\n(غلق) الغين واللام والقاف أصلٌ واحد صحيح يدلُّ على نُشوبِ شيءٍ في شيء. من ذلك الغَلَق، يقال منه: أغلقتُ البابَ فهو مُغْلَق. وغَلِقَ الرهنُ في",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغلب\n\n(غلق) الغين واللام والقاف أصلٌ واحد صحيح يدلُّ على نُشوبِ شيءٍ في شيء. من ذلك الغَلَق، يقال منه: أغلقتُ البابَ فهو مُغْلَق. وغَلِقَ الرهنُ في",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–l–q to close, to shut, to lock, to bolt; to be impatient, to be dumbfounded. Of this root, only غَلَّقَت ghallaqat occurs once in the Qurʾan.\nغَلَّقَ ghallaqa [v. II, trans.] to shut tightly, to shut several things (12:23) وَغَلَّقَتِ الْأَبْوَابَ she bolted the doors.",
+      "definition_english": "gh–l–q to close, to shut, to lock, to bolt; to be impatient, to be dumbfounded. Of this root, only غَلَّقَت ghallaqat occurs once in the Qurʾan.\nغَلَّقَ ghallaqa [v. II, trans.] to shut tightly, to shut several things (12:23) وَغَلَّقَتِ الْأَبْوَابَ she bolted the doors."
+    }
+  ],
   "occurrences": [
     "12:23:8"
   ]

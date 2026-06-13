@@ -1,9 +1,17 @@
 {
-  "id": 4371,
   "root": "و د ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوحم - وحي\n\n(ودق) الواو والدال والقاف: كلمةٌ تدلُّ على إتيانٍ وأنَسَة. يقال وَدَقْتُ به، إذا أنِسْتَ به وَدْقاً. والمَوْدِق: المأتَى والمكان الذي تقِفُ فيه آنِساً. ومَوْدِق الظَّبْي: المكان يقِف فيه إذا تناوَلَ الشَّجرة. ومنه قوله:\n\n* تُعفّي بذيل المِرْط إذ جئتُ مَوْدِقي *\n\nومنه أتَانٌ وَدِيقٌ، إذا أرادت الفحل، وبها وِدَاقٌ كأنَّها تأنس إليه وتستأنسه. والوَدْق: المَطَر، لأنَّه يَدِقُّ، أي يجيء من السَّماء.\n\nودك - ودن - وده - ودي\n\nومما شذَّ عن الباب الوَدَق: نُقَطٌ حُمر تخرجُ في العين، الواحدة وَدَقة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوحم - وحي\n\n(ودق) الواو والدال والقاف: كلمةٌ تدلُّ على إتيانٍ وأنَسَة. يقال وَدَقْتُ به، إذا أنِسْتَ به وَدْقاً. والمَوْدِق: المأتَى والمكان الذي تقِفُ فيه آنِساً. ومَوْدِق الظَّبْي: المكان يقِف فيه إذا تناوَلَ الشَّجرة. ومنه قوله:\n\n* تُعفّي بذيل المِرْط إذ جئتُ مَوْدِقي *\n\nومنه أتَانٌ وَدِيقٌ، إذا أرادت الفحل، وبها وِدَاقٌ كأنَّها تأنس إليه وتستأنسه. والوَدْق: المَطَر، لأنَّه يَدِقُّ، أي يجيء من السَّماء.\n\nودك - ودن - وده - ودي\n\nومما شذَّ عن الباب الوَدَق: نُقَطٌ حُمر تخرجُ في العين، الواحدة وَدَقة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "و/د/ق w–d–q rain; war; midday heat; a barrier, to approach, to offer\nhospitality; (of the stomach) to sag. Of this root, وَدْق wadq, occurs\ntwice in the Qur’an.\n\nوَدْق wadq [coll. n.] rain (24:43) أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ\nثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ do you not see that God drives\nthe clouds, then gathers them together, then makes them into a\nheap, then you see the rain coming out from within [the heap of\ngathered clouds]?",
+      "definition_english": "و/د/ق w–d–q rain; war; midday heat; a barrier, to approach, to offer\nhospitality; (of the stomach) to sag. Of this root, وَدْق wadq, occurs\ntwice in the Qur’an.\n\nوَدْق wadq [coll. n.] rain (24:43) أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ\nثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ do you not see that God drives\nthe clouds, then gathers them together, then makes them into a\nheap, then you see the rain coming out from within [the heap of\ngathered clouds]?"
+    }
+  ],
   "occurrences": [
     "24:43:14",
     "30:48:15"

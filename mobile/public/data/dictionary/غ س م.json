@@ -1,8 +1,11 @@
 {
-  "id": 2832,
   "root": "غ س م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرب\n\n(غسم) الغيم والسين والميم ليس بشيء. وربَّما قالوا الغَسَم، الظُّلْمة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرب\n\n(غسم) الغيم والسين والميم ليس بشيء. وربَّما قالوا الغَسَم، الظُّلْمة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

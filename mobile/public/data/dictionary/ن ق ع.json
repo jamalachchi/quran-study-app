@@ -1,9 +1,17 @@
 {
-  "id": 4097,
   "root": "ن ق ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنقز\n\n(نقع) النون والقاف والعين أصلانِ صحيحان: أحدهما يدلُّ على استقرارِ شيءٍ كالمائعِ في قراره، والآخر على صوتٍ من الأصوات.\n\nفالأوّل نَقَع الماء في مَنْقعه: استقرّ. واستَنْقع الشيءُ في الماء. والنَّقُوع:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنقز\n\n(نقع) النون والقاف والعين أصلانِ صحيحان: أحدهما يدلُّ على استقرارِ شيءٍ كالمائعِ في قراره، والآخر على صوتٍ من الأصوات.\n\nفالأوّل نَقَع الماء في مَنْقعه: استقرّ. واستَنْقع الشيءُ في الماء. والنَّقُوع:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–q–ʿ stagnant water, swamp, quagmire, (of water) to collect,\nto soak, to quench one’s thirst; dust storm, (of dust) to rise and\nfloat, to raise one’s voice and shout, to turn pale from fright or\nsickness. Of this root, نَقْع naqʿ, occurs once in the Qur’an.\n\nنَقْع naqʿ [n.] clouds of dust (100:3–4) فَالْمُغِيرَاتِ صُبْحًا فَأَثَرْنَ بِهِ نَقْعًا\n[the chargers] raiding at dawn and raising clouds of dust.",
+      "definition_english": "n–q–ʿ stagnant water, swamp, quagmire, (of water) to collect,\nto soak, to quench one’s thirst; dust storm, (of dust) to rise and\nfloat, to raise one’s voice and shout, to turn pale from fright or\nsickness. Of this root, نَقْع naqʿ, occurs once in the Qur’an.\n\nنَقْع naqʿ [n.] clouds of dust (100:3–4) فَالْمُغِيرَاتِ صُبْحًا فَأَثَرْنَ بِهِ نَقْعًا\n[the chargers] raiding at dawn and raising clouds of dust."
+    }
+  ],
   "occurrences": [
     "100:4:3"
   ]

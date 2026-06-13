@@ -1,9 +1,17 @@
 {
-  "id": 1332,
   "root": "ذ و د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذوب - ذوق\n\n(ذود) الذال والواو والدال أصلان: أحدهما تنْحِية الشّيء عن الشيء، والآخَر جماعةُ الإبل. ومحتملٌ أن يكون البابان راجعَينِ إلى أصل واحد.\n\nفالأوّل قولهم: ذُدْت فلاناً عن الشيء أَذُودُه ذَوْداً، وذُدْت إبِلي أذودُها ذَوداً وذِيادا. ويقال أذَدْتُ فلاناً: أعنتُه على ذِياد إبلِه.\n\nوالأصل* الآخر الذَّوْد من النَّعَم. قال أبو زيد: الذَّود من الثلاثة إلى العشرة.\n\n{باب الذال والياء وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذوب - ذوق\n\n(ذود) الذال والواو والدال أصلان: أحدهما تنْحِية الشّيء عن الشيء، والآخَر جماعةُ الإبل. ومحتملٌ أن يكون البابان راجعَينِ إلى أصل واحد.\n\nفالأوّل قولهم: ذُدْت فلاناً عن الشيء أَذُودُه ذَوْداً، وذُدْت إبِلي أذودُها ذَوداً وذِيادا. ويقال أذَدْتُ فلاناً: أعنتُه على ذِياد إبلِه.\n\nوالأصل* الآخر الذَّوْد من النَّعَم. قال أبو زيد: الذَّود من الثلاثة إلى العشرة.\n\n{باب الذال والياء وما يثلثهما}",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–w–d horns; tongue; to keep off, to drive off, to keep away, defender; a small herd of camels (between two and nine). Of this root, only تَذُودَانِ tadhūdān occurs once in the Qur’an.\nتَذُود tadhūd [imperf. of v. ذَادَ dhāda, trans.] to keep back, to drive off (28:23) وَوَجَدَ مِن دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ and he found, at a distance from them, two women keeping back [their herd].",
+      "definition_english": "dh–w–d horns; tongue; to keep off, to drive off, to keep away, defender; a small herd of camels (between two and nine). Of this root, only تَذُودَانِ tadhūdān occurs once in the Qur’an.\nتَذُود tadhūd [imperf. of v. ذَادَ dhāda, trans.] to keep back, to drive off (28:23) وَوَجَدَ مِن دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ and he found, at a distance from them, two women keeping back [their herd]."
+    }
+  ],
   "occurrences": [
     "28:23:15"
   ]

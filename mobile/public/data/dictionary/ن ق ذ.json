@@ -1,9 +1,17 @@
 {
-  "id": 4089,
   "root": "ن ق ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنقث\n\n(نقذ) النون والقاف والذال أصلٌ صحيح يدلُّ على استخلاصِ شيءٍ. وأنقذتُه منه: خَلَّصته. وفرسٌ نقيذٌ: أُخِذ من قومٍ آخَرين، وأفراسٌ نقائذ. وكلُّ ما أنقَذْتَه فهو نَقَذٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنقث\n\n(نقذ) النون والقاف والذال أصلٌ صحيح يدلُّ على استخلاصِ شيءٍ. وأنقذتُه منه: خَلَّصته. وفرسٌ نقيذٌ: أُخِذ من قومٍ آخَرين، وأفراسٌ نقائذ. وكلُّ ما أنقَذْتَه فهو نَقَذٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–q–dh to escape, to save, to rescue, to deliver, to retrieve, a\nhorse taken from the enemy. Of this root, three forms occur five\ntimes in the Qur’an: أَنْقَذَ ʾanqadha three times; يُنْقَذ yunqadh once\nand يَسْتَنْقِذ yastanqidh once.\n\nأَنْقَذَ ʾanqadha [v. IV trans.] 1 to spare, to protect from (3:103)\nوَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا and you were on the brink of a\npit of Fire and He saved you from it 2 to bail (someone) out, to\nfree, to release (39:19) أَفَأَنْتَ تُنْقِذُ مَنْ فِي النَّارِ can you [Prophet]\nrescue those [already] in the Fire?\n\nيُنْقَذ yunqadh [imperf. pass. of v. IV] to be saved, to be rescued\n(36:43) وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ and if We willed, We\nwould drown them, and there would be no help for them, and they\nwould not be rescued.\n\nيَسْتَنْقِذ yastanqidh [imperf. of v. X اِسْتَنْقَذَ ʾistanqadha, trans.] to\nretrieve, to recover (22:73) وَإِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ and if\nthe flies robbed them of something, they could not rescue it from\nthem.\n\n959",
+      "definition_english": "n–q–dh to escape, to save, to rescue, to deliver, to retrieve, a\nhorse taken from the enemy. Of this root, three forms occur five\ntimes in the Qur’an: أَنْقَذَ ʾanqadha three times; يُنْقَذ yunqadh once\nand يَسْتَنْقِذ yastanqidh once.\n\nأَنْقَذَ ʾanqadha [v. IV trans.] 1 to spare, to protect from (3:103)\nوَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا and you were on the brink of a\npit of Fire and He saved you from it 2 to bail (someone) out, to\nfree, to release (39:19) أَفَأَنْتَ تُنْقِذُ مَنْ فِي النَّارِ can you [Prophet]\nrescue those [already] in the Fire?\n\nيُنْقَذ yunqadh [imperf. pass. of v. IV] to be saved, to be rescued\n(36:43) وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ and if We willed, We\nwould drown them, and there would be no help for them, and they\nwould not be rescued.\n\nيَسْتَنْقِذ yastanqidh [imperf. of v. X اِسْتَنْقَذَ ʾistanqadha, trans.] to\nretrieve, to recover (22:73) وَإِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ and if\nthe flies robbed them of something, they could not rescue it from\nthem.\n\n959"
+    }
+  ],
   "occurrences": [
     "22:73:24",
     "36:23:15",

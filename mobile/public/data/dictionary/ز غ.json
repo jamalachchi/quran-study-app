@@ -1,8 +1,11 @@
 {
-  "id": 1622,
   "root": "ز غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\n(زغ) الزاء والغين ليس بشيء. ويقولون: الزغزغة: السُّخْرِيَة.\n\nزف - زق زل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\n(زغ) الزاء والغين ليس بشيء. ويقولون: الزغزغة: السُّخْرِيَة.\n\nزف - زق زل",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

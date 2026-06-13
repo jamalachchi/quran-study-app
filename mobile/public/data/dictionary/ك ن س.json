@@ -1,9 +1,17 @@
 {
-  "id": 3293,
   "root": "ك ن س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كنس) الكاف والنون والسين أصلانِ صحيحان، أحدهما يدلُّ على سَفْر شيءٍ عن وجهِ شيء، وهو كَشْفُه. والأصل الآخر يدلُّ على استخفاء.\n\nفالأوَّل: كَنْس البيتِ، وهو سَفْرُ التُّرَابِ عن وجه أرضه. والمِكْنسة: آلة الكنْس. والكُناسَة: ما يكنَس.\n\nوالأصل الآخر: الكِناس: بيتُ الظَّبي. والكانس: الظبي يَدْخُل كِناسَه.\n\nوالكُنَّس: الكواكب تَكْنِسُ في بُروجها كما تَدخُل الظِّباءُ في كِناسها. قال أبو* عبيدة: تَكنِس في المَغيب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كنس) الكاف والنون والسين أصلانِ صحيحان، أحدهما يدلُّ على سَفْر شيءٍ عن وجهِ شيء، وهو كَشْفُه. والأصل الآخر يدلُّ على استخفاء.\n\nفالأوَّل: كَنْس البيتِ، وهو سَفْرُ التُّرَابِ عن وجه أرضه. والمِكْنسة: آلة الكنْس. والكُناسَة: ما يكنَس.\n\nوالأصل الآخر: الكِناس: بيتُ الظَّبي. والكانس: الظبي يَدْخُل كِناسَه.\n\nوالكُنَّس: الكواكب تَكْنِسُ في بُروجها كما تَدخُل الظِّباءُ في كِناسها. قال أبو* عبيدة: تَكنِس في المَغيب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–n–s den, lair, (of a deer) to hide in its shelter, a deer in its\nshelter; receding stars; to sweep; church, synagogue. Of this root,\nكُنَّس kunnas occurs once in the Qur’an.\n\nكُنَّس kunnas [pl. of quasi-act. part. كَانِس kānis] (those) retreating\ninto their homes, setting along a course of their own (81:16) الْجَوَارِ\nالْكُنَّس the runners, the sinkers [the rising, orbiting, setting celestial\nbodies].",
+      "definition_english": "k–n–s den, lair, (of a deer) to hide in its shelter, a deer in its\nshelter; receding stars; to sweep; church, synagogue. Of this root,\nكُنَّس kunnas occurs once in the Qur’an.\n\nكُنَّس kunnas [pl. of quasi-act. part. كَانِس kānis] (those) retreating\ninto their homes, setting along a course of their own (81:16) الْجَوَارِ\nالْكُنَّس the runners, the sinkers [the rising, orbiting, setting celestial\nbodies]."
+    }
+  ],
   "occurrences": [
     "81:16:2"
   ]

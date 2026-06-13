@@ -1,8 +1,16 @@
 {
-  "id": 2337,
   "root": "ض أ ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضيف\n\n(ضأن) الضاد والهمزة والنون أُصَيلٌ صحيح، وهو بعض الأنعام. من ذلك الضأن. يقال أَضْأَنَ الرجلُ، إِذا كَثُرَ ضأنُهُ. والضائنة الواحدة من الضأن. وحكى بعضُهم: فلانٌ ضائن البطنِ: مسترخِيهِ.\n\n(باب الضاد والباء وما يثلثهما )",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضيف\n\n(ضأن) الضاد والهمزة والنون أُصَيلٌ صحيح، وهو بعض الأنعام. من ذلك الضأن. يقال أَضْأَنَ الرجلُ، إِذا كَثُرَ ضأنُهُ. والضائنة الواحدة من الضأن. وحكى بعضُهم: فلانٌ ضائن البطنِ: مسترخِيهِ.\n\n(باب الضاد والباء وما يثلثهما )",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-ʾ-n sheep, to have plenty of sheep; weak, spineless male.\nOf this root, ضَأْن ḍaʾn, occurs once in the Qur’an.\n\nضَأْن ḍaʾn [coll. n.] sheep (6:143) ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ\nالْمَعْزِ اثْنَيْنِ eight [animals in] pairs: two of the sheep and two of the\ngoats.",
+      "definition_english": "ḍ-ʾ-n sheep, to have plenty of sheep; weak, spineless male.\nOf this root, ضَأْن ḍaʾn, occurs once in the Qur’an.\n\nضَأْن ḍaʾn [coll. n.] sheep (6:143) ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ\nالْمَعْزِ اثْنَيْنِ eight [animals in] pairs: two of the sheep and two of the\ngoats."
+    }
+  ],
   "occurrences": []
 }

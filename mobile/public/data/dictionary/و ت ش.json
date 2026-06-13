@@ -1,8 +1,11 @@
 {
-  "id": 4329,
   "root": "و ت ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وتش) الواو والتاء والشين. الوَتْش: القليل الرُّذالُ من كلِّ شيء. والله أعلم بالصَّواب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وتش) الواو والتاء والشين. الوَتْش: القليل الرُّذالُ من كلِّ شيء. والله أعلم بالصَّواب.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

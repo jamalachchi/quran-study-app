@@ -1,9 +1,17 @@
 {
-  "id": 1788,
   "root": "س ق ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسقع - سقف\n\n(سقف) السين والقاف والفاء أصل يدلُّ على ارتفاعٍ في إطلال وانحناء. من ذلك السقف سقف البيت، لأنه عالٍ مُطلٌّ. والسقيفة: الصُّفّة. والسقيفة: كلُّ لوحٍ عريض في بناء إذا ظهر من حائط. والسَّماء سقفٌ، قال الله تعالى: ] وجَعَلْنَا السَّماءَ سَقْفاً مَحْفُوظاً [ [الأنبياء 32]. ومن الباب الأسْقَفُ من الرِّجال، وهو الطويل المنحني؛ يقال أسقَفُ بيِّنُ السقَف. والله أعلم بالصواب.\n\nسكم سكن سكب\n\n(باب السين والكاف وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسقع - سقف\n\n(سقف) السين والقاف والفاء أصل يدلُّ على ارتفاعٍ في إطلال وانحناء. من ذلك السقف سقف البيت، لأنه عالٍ مُطلٌّ. والسقيفة: الصُّفّة. والسقيفة: كلُّ لوحٍ عريض في بناء إذا ظهر من حائط. والسَّماء سقفٌ، قال الله تعالى: ] وجَعَلْنَا السَّماءَ سَقْفاً مَحْفُوظاً [ [الأنبياء 32]. ومن الباب الأسْقَفُ من الرِّجال، وهو الطويل المنحني؛ يقال أسقَفُ بيِّنُ السقَف. والله أعلم بالصواب.\n\nسكم سكن سكب\n\n(باب السين والكاف وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–q–f roof, ceiling, covering, roofing, thatching; (of a man) to be tall and bent. Of this root, two forms occur four times in the Qurʾan: سقف saqf three times and سقف suquf once.\n442\n\nسقف saqf [n.; pl. سقف [[unclear: suquf]] and سقوف suqūf] roof, canopy (21:32) وجعلنا السماء سقفا محفوظا and We made the sky a well-secured canopy.",
+      "definition_english": "s–q–f roof, ceiling, covering, roofing, thatching; (of a man) to be tall and bent. Of this root, two forms occur four times in the Qurʾan: سقف saqf three times and سقف suquf once.\n442\n\nسقف saqf [n.; pl. سقف [[unclear: suquf]] and سقوف suqūf] roof, canopy (21:32) وجعلنا السماء سقفا محفوظا and We made the sky a well-secured canopy."
+    }
+  ],
   "occurrences": [
     "16:26:13",
     "21:32:3",

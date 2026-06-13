@@ -1,9 +1,22 @@
 {
-  "id": 2362,
   "root": "ض ر ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضري - ضرب\n\n(ضرب) الضاد والراء والباء أصلٌ واحدٌ، ثم يُستعار ويحمل عليه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضري - ضرب\n\n(ضرب) الضاد والراء والباء أصلٌ واحدٌ، ثم يُستعار ويحمل عليه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "يَوْمَئِذٍ مُسْفِرَةٌ ضَاحِكَةٌ مُسْتَبْشِرَةٌ some faces on that day will be beaming,\nlaughing and rejoicing.",
+      "definition_english": "يَوْمَئِذٍ مُسْفِرَةٌ ضَاحِكَةٌ مُسْتَبْشِرَةٌ some faces on that day will be beaming,\nlaughing and rejoicing."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-r-b beating, striking, to battle, to sting; to travel, to go fast;\nto appear; type; white honey; head, a muscular person, to sire. Of\nthis root, three forms occur 58 times in the Qur’an: ضَرَبَ ḍaraba\n49 times; ضُرِبَ ḍuriba six times and ضَرْب ḍarb three times.\n\nضَرَبَ ḍaraba i [v. trans., passive ضُرِبَ ḍuriba] 1 to beat (47:27)\n\n548",
+      "definition_english": "ḍ-r-b beating, striking, to battle, to sting; to travel, to go fast;\nto appear; type; white honey; head, a muscular person, to sire. Of\nthis root, three forms occur 58 times in the Qur’an: ضَرَبَ ḍaraba\n49 times; ضُرِبَ ḍuriba six times and ضَرْب ḍarb three times.\n\nضَرَبَ ḍaraba i [v. trans., passive ضُرِبَ ḍuriba] 1 to beat (47:27)\n\n548"
+    }
+  ],
   "occurrences": [
     "13:17:24",
     "13:17:40",

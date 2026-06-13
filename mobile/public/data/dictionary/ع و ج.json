@@ -1,9 +1,17 @@
 {
-  "id": 2589,
   "root": "ع و ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعوج\n\nويروى: \"عوراتهم\". وقال أيضاً، أنشده الخليل:\n\nفهلاَّ شدَدتَ العَقد أو بِتَّ طاويا\n\nولم تَفْرِج العَوّا كما تُفْرَج القُلْبُ\n\nجمع قَليب.\n\nومن باب العُواء قولهم للراعي: قد عَاعَى يُعاعِي عاعاةً . [قال]:\n\n* ولم أستعِرْها من مُعَاعٍ وناعِق *\n\n(عوج) العين والواو والجيم أصلٌ صحيح يدلُّ على مَيَلٍ في الشَّيء أو مَيْل، وفروعُه ترجع إليه.\n\nقال الخليل: العَوْج: عطفُ رأسِ البعير بالزِّمام أو الخِطام. والمرأة تَعُوج رأسَها إلى ضجيعها. قال ذُو الرُّمَّة:\n\nخليليّ عُوجَا بارَكَ الله فيكما\n\nعلى دارميٍّ من صُدور الرَّكائبِ\n\nوقال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعوج\n\nويروى: \"عوراتهم\". وقال أيضاً، أنشده الخليل:\n\nفهلاَّ شدَدتَ العَقد أو بِتَّ طاويا\n\nولم تَفْرِج العَوّا كما تُفْرَج القُلْبُ\n\nجمع قَليب.\n\nومن باب العُواء قولهم للراعي: قد عَاعَى يُعاعِي عاعاةً . [قال]:\n\n* ولم أستعِرْها من مُعَاعٍ وناعِق *\n\n(عوج) العين والواو والجيم أصلٌ صحيح يدلُّ على مَيَلٍ في الشَّيء أو مَيْل، وفروعُه ترجع إليه.\n\nقال الخليل: العَوْج: عطفُ رأسِ البعير بالزِّمام أو الخِطام. والمرأة تَعُوج رأسَها إلى ضجيعها. قال ذُو الرُّمَّة:\n\nخليليّ عُوجَا بارَكَ الله فيكما\n\nعلى دارميٍّ من صُدور الرَّكائبِ\n\nوقال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–w–j ivory, to be crooked, to be curved/twisted around, to\nbend up, to twist, to lean to; to divert. Of this root, only عِوَج ʿiwaj\noccurs nine times in the Qur’an.\n\nعِوَج ʿiwaj [v. n./n.] 1 crookedness (18:1) أَنْزَلَ عَلَى عَبْدِهِ الْكِتَابَ وَلَمْ\nيَجْعَلْ لَهُ عِوَجًا who sent down the Book to His servant and made it\nfree of crookedness 2 jutting up, peak (20:107) لَا تَرَى فِيهَا عِوَجًا وَلَا\nأَمْتًا with no peak or trough in it for you to see 3 deviation, straying\naway (20:108) يَوْمَئِذٍ يَتَّبِعُونَ الدَّاعِيَ لَا عِوَجَ لَهُ on that Day, they will\nfollow the summoner, from whom there will be no escape (or, who\nmakes no exception in calling to all) 4 distortion (39:28) قُرْآنًا عَرَبِيًّا\nغَيْرَ ذِي عِوَجٍ an Arabic Qur’an, free from any distortion.",
+      "definition_english": "ʿ–w–j ivory, to be crooked, to be curved/twisted around, to\nbend up, to twist, to lean to; to divert. Of this root, only عِوَج ʿiwaj\noccurs nine times in the Qur’an.\n\nعِوَج ʿiwaj [v. n./n.] 1 crookedness (18:1) أَنْزَلَ عَلَى عَبْدِهِ الْكِتَابَ وَلَمْ\nيَجْعَلْ لَهُ عِوَجًا who sent down the Book to His servant and made it\nfree of crookedness 2 jutting up, peak (20:107) لَا تَرَى فِيهَا عِوَجًا وَلَا\nأَمْتًا with no peak or trough in it for you to see 3 deviation, straying\naway (20:108) يَوْمَئِذٍ يَتَّبِعُونَ الدَّاعِيَ لَا عِوَجَ لَهُ on that Day, they will\nfollow the summoner, from whom there will be no escape (or, who\nmakes no exception in calling to all) 4 distortion (39:28) قُرْآنًا عَرَبِيًّا\nغَيْرَ ذِي عِوَجٍ an Arabic Qur’an, free from any distortion."
+    }
+  ],
   "occurrences": [
     "11:19:7",
     "14:3:12",

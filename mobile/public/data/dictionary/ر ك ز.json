@@ -1,9 +1,17 @@
 {
-  "id": 1474,
   "root": "ر ك ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nركب\n\n(ركز) الراء والكاف والزاء أصلان: أحدهما إثبات شيءٍ في شيء يذهب سُفْلاً، والآخر صَوت.\n\nفالأول: رَكَزْتُ الرُّمحَ رَكْزاً. ومَرْكَز الجند: الموضع الذي أُلزِمُوه. ويقال ارتكَزَ الرّجُل على قوسه، إذا وضَعَ سِيَتَها بالأرض ثمّ اعتمَدَ عليها. ومن الباب: الرِّكَاز، وهو المال المدفون في الجاهليّة، وهو من قياسِه؛ لأنّ صاحبَه\n\nركس - ركض - ركع\n\nرَكَزَه. وقال قوم: الرِّكاز المعْدِن. وأركَزَ الرّجُلُ: وجَدَ الرِّكاز. فإِن كان هذا صحيحاً فهو مُستعار. والمرتَكِز: يابس الحشيش الذي تكسَّرَ ورَقُه وتطايَرَ. ومعناه أنَّه ذَهَب منه ما ذهبَ وارتكز هذا، أي ثَبَت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nركب\n\n(ركز) الراء والكاف والزاء أصلان: أحدهما إثبات شيءٍ في شيء يذهب سُفْلاً، والآخر صَوت.\n\nفالأول: رَكَزْتُ الرُّمحَ رَكْزاً. ومَرْكَز الجند: الموضع الذي أُلزِمُوه. ويقال ارتكَزَ الرّجُل على قوسه، إذا وضَعَ سِيَتَها بالأرض ثمّ اعتمَدَ عليها. ومن الباب: الرِّكَاز، وهو المال المدفون في الجاهليّة، وهو من قياسِه؛ لأنّ صاحبَه\n\nركس - ركض - ركع\n\nرَكَزَه. وقال قوم: الرِّكاز المعْدِن. وأركَزَ الرّجُلُ: وجَدَ الرِّكاز. فإِن كان هذا صحيحاً فهو مُستعار. والمرتَكِز: يابس الحشيش الذي تكسَّرَ ورَقُه وتطايَرَ. ومعناه أنَّه ذَهَب منه ما ذهبَ وارتكز هذا، أي ثَبَت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-k-z mysterious sound, low indistinct sound, whisper; to stick, to fix a pole in the ground; mineral deposits, gum; fixing point, position; brains, control. Of this root, رِكْز rikz occurs once in the Qur’an.\nرِكْز rikz [n.] whisper, whimper, weak indistinct sound (19:98) وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا how many a generation We have destroyed before them!, do you perceive a single one of them [now], or hear from them so much as a whisper?",
+      "definition_english": "r-k-z mysterious sound, low indistinct sound, whisper; to stick, to fix a pole in the ground; mineral deposits, gum; fixing point, position; brains, control. Of this root, رِكْز rikz occurs once in the Qur’an.\nرِكْز rikz [n.] whisper, whimper, weak indistinct sound (19:98) وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا how many a generation We have destroyed before them!, do you perceive a single one of them [now], or hear from them so much as a whisper?"
+    }
+  ],
   "occurrences": [
     "19:98:14"
   ]

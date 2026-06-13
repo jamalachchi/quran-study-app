@@ -1,9 +1,17 @@
 {
-  "id": 3994,
   "root": "ن س ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنسب\n\nومما شذَّ عن الباب النَّسْءُ: بَدء السِّمَنِ في الدّوابِّ. قال أبو ذؤيب:\n\nفقَدْ مارَ فيها نَسؤُها واقترارُها\n\nبها أبَلَتْ شهرَيْ ربيعٍ كِلَيهما\n\nوالنَّسِيء: الحليب يُصبُّ عليه الماء. تقول منه: نَسَأْتُ، وهو النَّسْءُ أيضاً في شعر عروة:\n\nعُداةُ الله من كَذِبٍ وزُورِ\n\nسَقَوني النَّسْءَ ثم تكنَّفُوني\n\n(نسب) النون والسين والباء كلمةٌ واحدة قياسُها اتِّصال شيءٍ بشيء. منه النّسَب، سمِّي لاتِّصاله وللاتِّصالِ به. تقول: نَسَبْتُ أنْسُِبُ. وهو نَسِيبُ فلانٍ. ومنه النَّسيبُ في الشِّعر إلى المرأة، كأنَّه ذِكْرٌ يتَّصِل بها؛ ولا يكون",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنسب\n\nومما شذَّ عن الباب النَّسْءُ: بَدء السِّمَنِ في الدّوابِّ. قال أبو ذؤيب:\n\nفقَدْ مارَ فيها نَسؤُها واقترارُها\n\nبها أبَلَتْ شهرَيْ ربيعٍ كِلَيهما\n\nوالنَّسِيء: الحليب يُصبُّ عليه الماء. تقول منه: نَسَأْتُ، وهو النَّسْءُ أيضاً في شعر عروة:\n\nعُداةُ الله من كَذِبٍ وزُورِ\n\nسَقَوني النَّسْءَ ثم تكنَّفُوني\n\n(نسب) النون والسين والباء كلمةٌ واحدة قياسُها اتِّصال شيءٍ بشيء. منه النّسَب، سمِّي لاتِّصاله وللاتِّصالِ به. تقول: نَسَبْتُ أنْسُِبُ. وهو نَسِيبُ فلانٍ. ومنه النَّسيبُ في الشِّعر إلى المرأة، كأنَّه ذِكْرٌ يتَّصِل بها؛ ولا يكون",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–s–b kinship, lineage, relationship through marriage,\nrelative; to be equal, to be suitable, to match; a clearly-marked\nstraight road. Of this root, two forms occur three times in the\nQur’an: نَسَب nasab twice and أَنْسَاب ʾansāb once.\n\nنَسَب nasab [n., pl. أَنْسَاب ʾansāb] lineage, paternal kinship,\nblood relation (as opposed to صِهْر ṣihr, relationship through\nmarriage) (25:54) وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا وَصِهْرًا and He it\nis who created from water a human being, then made him kin by\nblood and by marriage.",
+      "definition_english": "n–s–b kinship, lineage, relationship through marriage,\nrelative; to be equal, to be suitable, to match; a clearly-marked\nstraight road. Of this root, two forms occur three times in the\nQur’an: نَسَب nasab twice and أَنْسَاب ʾansāb once.\n\nنَسَب nasab [n., pl. أَنْسَاب ʾansāb] lineage, paternal kinship,\nblood relation (as opposed to صِهْر ṣihr, relationship through\nmarriage) (25:54) وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا وَصِهْرًا and He it\nis who created from water a human being, then made him kin by\nblood and by marriage."
+    }
+  ],
   "occurrences": [
     "23:101:6",
     "25:54:8",

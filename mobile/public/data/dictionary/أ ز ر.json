@@ -1,9 +1,22 @@
 {
-  "id": 96,
   "root": "أ ز ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأزب\n\n(أزر) الهمزة والزاء والراء أصل واحد، وهو القوّة والشدّة، يقال تأزّر النّبت، إذا قوي واشتدّ. أنشدنا عليُّ بن إبراهيم القطّان قال: أملى علينا ثعلب:\n\nتأَزّر فيه النَّبْتُ حتّى تخَايَلَتْ\n\nرُبَاهُ وحتى ما تَُرى الشَّاءُ َ نُوَّما\n\nيصف كثرةَ النّبات وأنّ الشاءَ تنام فيه فلا تُرى. والأزْرُ: القوّة، قال البَعِيث:\n\nشدَدْتُ لـه أَزْرِي بمِرَّةِ حازِمٍ\n\nعلى مَوْقِعٍ مِنْ أمْرِهِ مُتَفاقِمِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأزب\n\n(أزر) الهمزة والزاء والراء أصل واحد، وهو القوّة والشدّة، يقال تأزّر النّبت، إذا قوي واشتدّ. أنشدنا عليُّ بن إبراهيم القطّان قال: أملى علينا ثعلب:\n\nتأَزّر فيه النَّبْتُ حتّى تخَايَلَتْ\n\nرُبَاهُ وحتى ما تَُرى الشَّاءُ َ نُوَّما\n\nيصف كثرةَ النّبات وأنّ الشاءَ تنام فيه فلا تُرى. والأزْرُ: القوّة، قال البَعِيث:\n\nشدَدْتُ لـه أَزْرِي بمِرَّةِ حازِمٍ\n\nعلى مَوْقِعٍ مِنْ أمْرِهِ مُتَفاقِمِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "legendary capital city of ʿād (q.v.) (89:6–7) أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ\nإِرَمَ ذَاتِ الْعِمَادِ have you considered how your Lord dealt with the\npeople of ʿād, of ʾiram, the city of lofty pillars!\n\nThe place is also linked with the Prophet Hūd, who was sent to\nthe people of ʿād. A number of classical commentators also speak\nof ʾiram in the context of a tribe.",
+      "definition_english": "legendary capital city of ʿād (q.v.) (89:6–7) أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ\nإِرَمَ ذَاتِ الْعِمَادِ have you considered how your Lord dealt with the\npeople of ʿād, of ʾiram, the city of lofty pillars!\n\nThe place is also linked with the Prophet Hūd, who was sent to\nthe people of ʿād. A number of classical commentators also speak\nof ʾiram in the context of a tribe."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–z–r back; strength; to encompass; wrap, loin cloth; to support,\nto brace, to back up. Of this root, two forms occur once each in\nthe Qur’an: آزَرَ ʾāzara and أَزْر ʾazr.\n\nآزَرَ ʾāzara [v. IV, trans.] to back up, to prop up, to bolster, to\nstrengthen (48:29) كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ\nlike a seed that puts forth its shoot, and strengthens it, and grows thick,\nand rises straight upon its stalks.\n\nأَزْر ʾazr [v. n./n.] power, strength, capability (20:31) اشْدُدْ بِهِ أَزْرِي\naugment my strength through him.\n\nآزَر ʾāzar (see alphabetically أ/ز/ر ʾ–z–r).",
+      "definition_english": "ʾ–z–r back; strength; to encompass; wrap, loin cloth; to support,\nto brace, to back up. Of this root, two forms occur once each in\nthe Qur’an: آزَرَ ʾāzara and أَزْر ʾazr.\n\nآزَرَ ʾāzara [v. IV, trans.] to back up, to prop up, to bolster, to\nstrengthen (48:29) كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ\nlike a seed that puts forth its shoot, and strengthens it, and grows thick,\nand rises straight upon its stalks.\n\nأَزْر ʾazr [v. n./n.] power, strength, capability (20:31) اشْدُدْ بِهِ أَزْرِي\naugment my strength through him.\n\nآزَر ʾāzar (see alphabetically أ/ز/ر ʾ–z–r)."
+    }
+  ],
   "occurrences": [
     "20:31:3",
     "48:29:35"

@@ -1,9 +1,22 @@
 {
-  "id": 780,
   "root": "ح ز ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحرذ - حزق\n\n(حزن) الحاء والزاء والنون أصلٌ واحد، وهو خشونة الشيء وشِدّةٌ فيه. فمن ذلكَ الحَزْن، وهو ما غلُظ من الأرض. والحُزْن معروف، يقال حَزَنَنِي الشيءُ يحزُنُني؛ وقد قالوا أحزَنني. وحُزَانتك: أهلُك ومن تتحزَّن له.\n\n(حزو/ي) الحاء والزاء والحرف المعتل أصلٌ قليل الكَلِم، وهو الارتفاع. يقال حَزَا السّرابُ الشيءَ يحزُوهُ، إذا رفعَه. ومنه حَزَوْتُ الشيءَ وحَزَيته إذا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحرذ - حزق\n\n(حزن) الحاء والزاء والنون أصلٌ واحد، وهو خشونة الشيء وشِدّةٌ فيه. فمن ذلكَ الحَزْن، وهو ما غلُظ من الأرض. والحُزْن معروف، يقال حَزَنَنِي الشيءُ يحزُنُني؛ وقد قالوا أحزَنني. وحُزَانتك: أهلُك ومن تتحزَّن له.\n\n(حزو/ي) الحاء والزاء والحرف المعتل أصلٌ قليل الكَلِم، وهو الارتفاع. يقال حَزَا السّرابُ الشيءَ يحزُوهُ، إذا رفعَه. ومنه حَزَوْتُ الشيءَ وحَزَيته إذا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "named because of the reference in verses 9–27 to the story of the\n‘Joint Forces’ that besieged Medina.",
+      "definition_english": "named because of the reference in verses 9–27 to the story of the\n‘Joint Forces’ that besieged Medina."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–z–n rocks, boulders, rocky hard-going terrain; to cause\nhardship, to distress; to afflict; to become sad, to grieve, sadness;\nresponsibility. Of this root, four forms occur 42 times in the\nQurʾan: تَحْزَنْ taḥzan 23 times; يَحْزُن yaḥzun nine times; حُزْن ḥuzn\ntwice and حَزَن ḥazan three times.\n\nتَحْزَنْ taḥzan [imperf. of v. حَزِنَ ḥazina, intrans.] to become sad,\nto grieve, to worry (9:40) إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا\nthe second of two when the two of them were in the cave,\nwhen he [Muḥammad] said to his companion [ʾabū Bakr], ‘Don’t\nworry, God is with us.’\n\nيَحْزُن yaḥzun [imperf. of v. حَزَنَ ḥazana, trans.] to sadden, to\ncause someone to grieve, to cause unrest (58:10) إِنَّمَا النَّجْوَىٰ مِنَ الشَّيْطَانِ\nلِيَحْزُنَ الَّذِينَ آمَنُوا furtive conversation is the work of Satan,\ndesigned to cause grief to the believers.\n\nحُزْن ḥuzn [v. n.; n.] sadness, grief, sorrow (12:84) وَابْيَضَّتْ عَيْنَاهُ مِنَ\nالْحُزْنِ and his eyes went blind (or, became flooded with tears) out\nof grief.\n\nحَزَن ḥazan [v. n./n. used adverbially] sadness; grieving (9:92)\nتَوَلَّوْا وَأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَنًا أَلَّا يَجِدُوا مَا يُنفِقُونَ they turned away with\ntheir eyes overflowing with tears, grieving that they had no\nresources to pay [for a mount].",
+      "definition_english": "h–z–n rocks, boulders, rocky hard-going terrain; to cause\nhardship, to distress; to afflict; to become sad, to grieve, sadness;\nresponsibility. Of this root, four forms occur 42 times in the\nQurʾan: تَحْزَنْ taḥzan 23 times; يَحْزُن yaḥzun nine times; حُزْن ḥuzn\ntwice and حَزَن ḥazan three times.\n\nتَحْزَنْ taḥzan [imperf. of v. حَزِنَ ḥazina, intrans.] to become sad,\nto grieve, to worry (9:40) إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا\nthe second of two when the two of them were in the cave,\nwhen he [Muḥammad] said to his companion [ʾabū Bakr], ‘Don’t\nworry, God is with us.’\n\nيَحْزُن yaḥzun [imperf. of v. حَزَنَ ḥazana, trans.] to sadden, to\ncause someone to grieve, to cause unrest (58:10) إِنَّمَا النَّجْوَىٰ مِنَ الشَّيْطَانِ\nلِيَحْزُنَ الَّذِينَ آمَنُوا furtive conversation is the work of Satan,\ndesigned to cause grief to the believers.\n\nحُزْن ḥuzn [v. n.; n.] sadness, grief, sorrow (12:84) وَابْيَضَّتْ عَيْنَاهُ مِنَ\nالْحُزْنِ and his eyes went blind (or, became flooded with tears) out\nof grief.\n\nحَزَن ḥazan [v. n./n. used adverbially] sadness; grieving (9:92)\nتَوَلَّوْا وَأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَنًا أَلَّا يَجِدُوا مَا يُنفِقُونَ they turned away with\ntheir eyes overflowing with tears, grieving that they had no\nresources to pay [for a mount]."
+    }
+  ],
   "occurrences": [
     "10:62:10",
     "10:65:2",

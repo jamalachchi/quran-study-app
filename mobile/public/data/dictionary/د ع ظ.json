@@ -1,8 +1,11 @@
 {
-  "id": 1166,
   "root": "د ع ظ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعظ) الدال والعين والظاء ليس بشيء. ويقولون: الدَّعظ: النِّكاح .\n\n{باب الدال والغين وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعظ) الدال والعين والظاء ليس بشيء. ويقولون: الدَّعظ: النِّكاح .\n\n{باب الدال والغين وما يثلثهما}",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 1687,
   "root": "ز ه ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزهد\n\n(زهر) الزاء والهاء والراء أصلٌ واحدٌ يدلُّ على حُسنٍ وضِياء وصفاء. من ذلك الزُّهَرة: النجم. ومنه الزَّهْر، وهو *نَور كلِّ نبات؛ يقال أزهر النّبات. وكان بعضهم يقول: النّور الأبيضُ، والزّهر الأصفر، وزَهْرَة الدُّنيا: حُسْنها. والأزهر: القمر. ويقال زَهَرَت النّارُ: أضاءت، ويقولون: زَهَرَتْ بك ناري.\n\nومما شذّ عن هذا الأصل قولُهم: ازدهرتُ بالشيء، إذا احتفظتَ به. وقال رسول الله صلى الله عليه وآله وسلم لأبي قَتادة في الإناء الذي أعطاه: \"ازْدَهِرْ بِهِ فإنَّ له شأناً\"، يريد احتفظ به . وممكنٌ أن يُحمَل هذا على الأصل أيضاً؛ لأنه إذا احتفظ به فكأنّه من حيثُ استحسنه. وقال:\n\n* كما ازْدَهَرَت *\n\nولعل المِزْهَر الذي هو العُود محمولٌ على ما ذكرنَاه من الأصل؛ لأنّه قريب منه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزهد\n\n(زهر) الزاء والهاء والراء أصلٌ واحدٌ يدلُّ على حُسنٍ وضِياء وصفاء. من ذلك الزُّهَرة: النجم. ومنه الزَّهْر، وهو *نَور كلِّ نبات؛ يقال أزهر النّبات. وكان بعضهم يقول: النّور الأبيضُ، والزّهر الأصفر، وزَهْرَة الدُّنيا: حُسْنها. والأزهر: القمر. ويقال زَهَرَت النّارُ: أضاءت، ويقولون: زَهَرَتْ بك ناري.\n\nومما شذّ عن هذا الأصل قولُهم: ازدهرتُ بالشيء، إذا احتفظتَ به. وقال رسول الله صلى الله عليه وآله وسلم لأبي قَتادة في الإناء الذي أعطاه: \"ازْدَهِرْ بِهِ فإنَّ له شأناً\"، يريد احتفظ به . وممكنٌ أن يُحمَل هذا على الأصل أيضاً؛ لأنه إذا احتفظ به فكأنّه من حيثُ استحسنه. وقال:\n\n* كما ازْدَهَرَت *\n\nولعل المِزْهَر الذي هو العُود محمولٌ على ما ذكرنَاه من الأصل؛ لأنّه قريب منه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-h-r to flower, blossom; to be bright, to shine, to be radiant.\nOf this root, only زَهْرَة zahratun occurs once in the Qurʾan.\n\nزَهْرَة zahratun [n.] flower, blossom; finest part of a thing,\ngoodness; splendour, finery, beauty (20:131) وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا\nمَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا and do not gaze longingly at what\nWe have given some of them to enjoy [of] the finery (or,\nabundance of good things) of this present life.",
+      "definition_english": "z-h-r to flower, blossom; to be bright, to shine, to be radiant.\nOf this root, only زَهْرَة zahratun occurs once in the Qurʾan.\n\nزَهْرَة zahratun [n.] flower, blossom; finest part of a thing,\ngoodness; splendour, finery, beauty (20:131) وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا\nمَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا and do not gaze longingly at what\nWe have given some of them to enjoy [of] the finery (or,\nabundance of good things) of this present life."
+    }
+  ],
   "occurrences": [
     "20:131:10"
   ]

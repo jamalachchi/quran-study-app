@@ -1,9 +1,17 @@
 {
-  "id": 324,
   "root": "ب ك ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبكت - بكر\n\n(بكر) الباء والكاف والراء أصلٌ واحدٌ يرجع إليه فرعان هما منه. فالأوّل أوّلُ الشيء وبَدْؤُه. والثاني مشتقٌّ منه، والثالث تشبيه. فالأول البُكرة وهي الغَداة، والجمع البُكَر. والتبكير والبُكور والابتكار المُضِيُّ في ذلك الوقت. والإبكار: البُكْرَة ، كما أنّ الإصباح اسمُ الصُّبح. وباكَرْتُ الشيء إذا بكَرْتَ عليه.\n\nقال أبو زيد: أبكرتُ الوِرْدَ إبكاراً، وأبكرتُ الغَدَاءَ، وبكَرْتُ على الحاجة وأبكَرْتُ غيري، بَكَرْتُ وأبكرْتُ. ويقال رجلٌ بَُِكْرٌ صاحب بُكورٍ. كما يقال حَذُِر . قال الخليل: غيثٌ باكُورٌ وهو المبكّر في أول الوَسمِيّ، وهو أيضاً السّاري في أول اللّيْل وأول النهار. قال:\n\nوتَهادَتْها مَدَاليجُ بُكُرْ\n\nجَرَّتِ الرِّيحُ بها عُثْنُونَها\n\nيقال: سحابةٌ مِدْلاجٌ بَكُورٌ. ويقال بكّرَتِ الأمطارُ تبكيراً وبَكَرَتْ بُكُوراً، إذا تقدَّمَت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبكت - بكر\n\n(بكر) الباء والكاف والراء أصلٌ واحدٌ يرجع إليه فرعان هما منه. فالأوّل أوّلُ الشيء وبَدْؤُه. والثاني مشتقٌّ منه، والثالث تشبيه. فالأول البُكرة وهي الغَداة، والجمع البُكَر. والتبكير والبُكور والابتكار المُضِيُّ في ذلك الوقت. والإبكار: البُكْرَة ، كما أنّ الإصباح اسمُ الصُّبح. وباكَرْتُ الشيء إذا بكَرْتَ عليه.\n\nقال أبو زيد: أبكرتُ الوِرْدَ إبكاراً، وأبكرتُ الغَدَاءَ، وبكَرْتُ على الحاجة وأبكَرْتُ غيري، بَكَرْتُ وأبكرْتُ. ويقال رجلٌ بَُِكْرٌ صاحب بُكورٍ. كما يقال حَذُِر . قال الخليل: غيثٌ باكُورٌ وهو المبكّر في أول الوَسمِيّ، وهو أيضاً السّاري في أول اللّيْل وأول النهار. قال:\n\nوتَهادَتْها مَدَاليجُ بُكُرْ\n\nجَرَّتِ الرِّيحُ بها عُثْنُونَها\n\nيقال: سحابةٌ مِدْلاجٌ بَكُورٌ. ويقال بكّرَتِ الأمطارُ تبكيراً وبَكَرَتْ بُكُوراً، إذا تقدَّمَت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-k-r morrow; beginning of the day, early time, to do\nsomething early in the day; first fruits; virgin, firstborn,\noutstanding deed. Of this root, four forms occur 12 times in the\nQurʾan: بِكْر bikr once; أَبْكَار ʾabkār twice; بُكْرَة bukratun seven times\nand إِبْكَار ʾibkār twice.\n\nبِكْر bikr [quasi-act. part., pl. أَبْكَار ʾabkār] 1 virgin (56:35–6) إِنَّا\nأَنْشَأْنَاهُنَّ إِنْشَاءً فَجَعَلْنَاهُنَّ أَبْكَارًا We have created them as a new creation,\nand made them virgins 2 (of animals) young, having given birth\nonly once (2:68) إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَٰلِكَ He says\nit is a cow which should be neither too old nor too young, but\ninbetween.\n\nبُكْرَة bukratan [n., used adverbially] in the early morning, at\ndaybreak (54:38) وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّ and a remaining\nchastisement came to them early in the morning; *(25:5) بُكْرَةً\nوَأَصِيلًا morning and evening; *(19:11) بُكْرَةً وَعَشِيًّا day and night,\nconstantly.\n\n109 ب/ك/ي\n\nإِبْكَار ʾibkār [v. n./n.] act of beginning one’s day *(3:41) بِالْعَشِيِّ\nوَالْإِبْكَارِ in the evening and at dawn, at dusk and dawn (i.e.,\nconstantly).",
+      "definition_english": "b-k-r morrow; beginning of the day, early time, to do\nsomething early in the day; first fruits; virgin, firstborn,\noutstanding deed. Of this root, four forms occur 12 times in the\nQurʾan: بِكْر bikr once; أَبْكَار ʾabkār twice; بُكْرَة bukratun seven times\nand إِبْكَار ʾibkār twice.\n\nبِكْر bikr [quasi-act. part., pl. أَبْكَار ʾabkār] 1 virgin (56:35–6) إِنَّا\nأَنْشَأْنَاهُنَّ إِنْشَاءً فَجَعَلْنَاهُنَّ أَبْكَارًا We have created them as a new creation,\nand made them virgins 2 (of animals) young, having given birth\nonly once (2:68) إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَٰلِكَ He says\nit is a cow which should be neither too old nor too young, but\ninbetween.\n\nبُكْرَة bukratan [n., used adverbially] in the early morning, at\ndaybreak (54:38) وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّ and a remaining\nchastisement came to them early in the morning; *(25:5) بُكْرَةً\nوَأَصِيلًا morning and evening; *(19:11) بُكْرَةً وَعَشِيًّا day and night,\nconstantly.\n\n109 ب/ك/ي\n\nإِبْكَار ʾibkār [v. n./n.] act of beginning one’s day *(3:41) بِالْعَشِيِّ\nوَالْإِبْكَارِ in the evening and at dawn, at dusk and dawn (i.e.,\nconstantly)."
+    }
+  ],
   "occurrences": [
     "19:11:10",
     "19:62:10",

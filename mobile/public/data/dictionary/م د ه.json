@@ -1,8 +1,11 @@
 {
-  "id": 3704,
   "root": "م د ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمخج - مدر\n\n(مده) الميم والدال والهاء ليس بأصلٍ، لأنّ هاءه عن حاء، التَّمَدُّح والتَّمَدُّه. ومَدَهته. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمخج - مدر\n\n(مده) الميم والدال والهاء ليس بأصلٍ، لأنّ هاءه عن حاء، التَّمَدُّح والتَّمَدُّه. ومَدَهته. قال:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

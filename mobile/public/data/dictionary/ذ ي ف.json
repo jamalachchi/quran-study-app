@@ -1,8 +1,11 @@
 {
-  "id": 1336,
   "root": "ذ ي ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذيف - ذيل\n\n(ذيف) الذال والياء والفاء كلمةٌ واحدة لا قياس لها، وهي الذَِّيفان وهو السمُّ القاتل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذيف - ذيل\n\n(ذيف) الذال والياء والفاء كلمةٌ واحدة لا قياس لها، وهي الذَِّيفان وهو السمُّ القاتل.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

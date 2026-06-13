@@ -1,9 +1,17 @@
 {
-  "id": 598,
   "root": "ج ر ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجرع - جرف\n\n(جرف) الجيم والراء والفاء أصلٌ واحدٌ، هو أخْذ الشيءِ كلِّه هَبْشاً. يقال: جَرَفْتُ الشيءَ جَرْفاً، إذا ذهبْتَ به كلِّه. وسيفٌ جُرَافٌ يُذْهِبُ كلَّ شيء. والجُرُْف المكان يأكله السيل. وجَرَّفَ الدهرُ مالَه*: اجتاحه. ومال مُجَرَّف. ورجل جُرَافٌ نُكَحَةٌ، كأنّه يجرِف ذلك جرْفاً. ومن الباب: الجُرْفَة: أنْ تُقَْطَع من فخذِ البعير جلدَةٌ وتُجْمَع على فَخِذه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجرع - جرف\n\n(جرف) الجيم والراء والفاء أصلٌ واحدٌ، هو أخْذ الشيءِ كلِّه هَبْشاً. يقال: جَرَفْتُ الشيءَ جَرْفاً، إذا ذهبْتَ به كلِّه. وسيفٌ جُرَافٌ يُذْهِبُ كلَّ شيء. والجُرُْف المكان يأكله السيل. وجَرَّفَ الدهرُ مالَه*: اجتاحه. ومال مُجَرَّف. ورجل جُرَافٌ نُكَحَةٌ، كأنّه يجرِف ذلك جرْفاً. ومن الباب: الجُرْفَة: أنْ تُقَْطَع من فخذِ البعير جلدَةٌ وتُجْمَع على فَخِذه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–r–f cliff, precipice, undercut bank, slippery mountainside; to sweep away, to wash away, to shovel away. Of this root, جُرُف juruf occurs once in the Qurʾan.\nجُرُف juruf [n.] overhang, precipice, overhanging cliff أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ ... (9:109) is the one who founds his building on the brink of a crumbling precipice that will tumble down into the Fire of Hell, taking him with it ...?",
+      "definition_english": "j–r–f cliff, precipice, undercut bank, slippery mountainside; to sweep away, to wash away, to shovel away. Of this root, جُرُف juruf occurs once in the Qurʾan.\nجُرُف juruf [n.] overhang, precipice, overhanging cliff أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ ... (9:109) is the one who founds his building on the brink of a crumbling precipice that will tumble down into the Fire of Hell, taking him with it ...?"
+    }
+  ],
   "occurrences": [
     "9:109:16"
   ]

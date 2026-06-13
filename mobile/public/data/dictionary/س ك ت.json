@@ -1,9 +1,17 @@
 {
-  "id": 1792,
   "root": "س ك ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسكت - سكر\n\n(سكت) السين والكاف والتاء يدلُّ على خِلاف الكلام. تقول: سكت يَسْكُت سكوتاً، ورجلٌ سِكِّيت. ورماه بُسكاتَة، أي بما أسكته. وسَكَت الغضبُ، بمعنى سكن. والسُّكْتَةُ: ما أسكتَّ به *الصبيّ. فأمّا السُّكيت فإنه من الخيل العاشر عند جريها في السّباق. ويمكن أن يكون سمِّي سُكَيتاً لأنَّ صاحبَه يسكت عن الافتخار، كما يقال أجَرَّه كذا، إذا منعه من الافتخار، وكأنَّه جَرَّ لسانَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسكت - سكر\n\n(سكت) السين والكاف والتاء يدلُّ على خِلاف الكلام. تقول: سكت يَسْكُت سكوتاً، ورجلٌ سِكِّيت. ورماه بُسكاتَة، أي بما أسكته. وسَكَت الغضبُ، بمعنى سكن. والسُّكْتَةُ: ما أسكتَّ به *الصبيّ. فأمّا السُّكيت فإنه من الخيل العاشر عند جريها في السّباق. ويمكن أن يكون سمِّي سُكَيتاً لأنَّ صاحبَه يسكت عن الافتخار، كما يقال أجَرَّه كذا، إذا منعه من الافتخار، وكأنَّه جَرَّ لسانَه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–k–t being silent, becoming silent, silence, to stop talking, to stop moving; to abate. Of this root, only سكت sakata occurs once in the Qurʾan.\nسكت sakata u [v. intrans. with prep. عن] to let go of, to calm down, to abate (7:154) ولما سكت عن موسى الغضب أخذ الألواح then when anger let go of Moses, he picked up the Tablets.",
+      "definition_english": "s–k–t being silent, becoming silent, silence, to stop talking, to stop moving; to abate. Of this root, only سكت sakata occurs once in the Qurʾan.\nسكت sakata u [v. intrans. with prep. عن] to let go of, to calm down, to abate (7:154) ولما سكت عن موسى الغضب أخذ الألواح then when anger let go of Moses, he picked up the Tablets."
+    }
+  ],
   "occurrences": [
     "7:154:2"
   ]

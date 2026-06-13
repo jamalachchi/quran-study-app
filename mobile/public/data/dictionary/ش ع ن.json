@@ -1,8 +1,11 @@
 {
-  "id": 1972,
   "root": "ش ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشظف - شظم\n\n(شعن) الشين والعين والنون كلمة. يقولون: هو مُشْعَانُّ الرأس، إذا كان ثائر الرأس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشظف - شظم\n\n(شعن) الشين والعين والنون كلمة. يقولون: هو مُشْعَانُّ الرأس، إذا كان ثائر الرأس.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

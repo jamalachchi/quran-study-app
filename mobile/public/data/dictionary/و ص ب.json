@@ -1,9 +1,17 @@
 {
-  "id": 4431,
   "root": "و ص ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوصم - وصي\n\n(وصب) الواو والصاد والباء: كلمةٌ تدلُّ على دَوامِ شيء. ووَصَبَ الشَّيءُ وصوباً: دام. ووَصَبَ الدِّينُ: وَجَب. ومَفَازةٌ واصِبة: بعيدةٌ لا غايةَ لها. وفي كتاب الله تعالى: ] وَلَهُمْ عَذَابٌ وَاصِبٌ [ [الصافات 9]، أي دائم. والوَصَب: المرضُ المُلازم الدَّائم. رجلٌ وصِبٌ ومُوَصَّبٌ: دائم الأوصاب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوصم - وصي\n\n(وصب) الواو والصاد والباء: كلمةٌ تدلُّ على دَوامِ شيء. ووَصَبَ الشَّيءُ وصوباً: دام. ووَصَبَ الدِّينُ: وَجَب. ومَفَازةٌ واصِبة: بعيدةٌ لا غايةَ لها. وفي كتاب الله تعالى: ] وَلَهُمْ عَذَابٌ وَاصِبٌ [ [الصافات 9]، أي دائم. والوَصَب: المرضُ المُلازم الدَّائم. رجلٌ وصِبٌ ومُوَصَّبٌ: دائم الأوصاب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ṣ–b pain, illness, extreme fatigue; lasting, permanent; to\nnurse; to persist. Of this root, وَاصِب wāṣib, occurs twice in the\nQur’an.\n\nوَاصِب wāṣib [act. part.] lasting, constant, forever (37:9) وَلَهُمْ عَذَابٌ\nوَاصِبٌ for them will be perpetual torment.",
+      "definition_english": "w–ṣ–b pain, illness, extreme fatigue; lasting, permanent; to\nnurse; to persist. Of this root, وَاصِب wāṣib, occurs twice in the\nQur’an.\n\nوَاصِب wāṣib [act. part.] lasting, constant, forever (37:9) وَلَهُمْ عَذَابٌ\nوَاصِبٌ for them will be perpetual torment."
+    }
+  ],
   "occurrences": [
     "16:52:8",
     "37:9:4"

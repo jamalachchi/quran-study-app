@@ -1,8 +1,11 @@
 {
-  "id": 2929,
   "root": "ف ي ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفيض\n\n(فيف) الفاء والياء والفاء كلمةٌ. الفَيف والفَيفاء: المَفَازة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفيض\n\n(فيف) الفاء والياء والفاء كلمةٌ. الفَيف والفَيفاء: المَفَازة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

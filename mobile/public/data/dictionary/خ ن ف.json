@@ -1,8 +1,11 @@
 {
-  "id": 1061,
   "root": "خ ن ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخنب\n\n(خنف) الخاء والنون والفاء أصلٌ واحد يدلُّ على مَيَلٍ ولِين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخنب\n\n(خنف) الخاء والنون والفاء أصلٌ واحد يدلُّ على مَيَلٍ ولِين.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

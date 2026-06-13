@@ -1,9 +1,17 @@
 {
-  "id": 3584,
   "root": "ل ف ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلغب\n\n(لفح) اللام والفاء والحاء كلمةٌ واحدة. يقال: لفَحَتْه النار بحرّها والسَّمومُ، إذا أصابه حَرُّها فتغيَّرَ وجهُهُ. [وأمّا] قولهم: لَفَحَه بالسَّيف لَفْحَةً: ضربه ضربةً خفيفة، فإنّ الأصل فيه النون، هو نَفَحَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلغب\n\n(لفح) اللام والفاء والحاء كلمةٌ واحدة. يقال: لفَحَتْه النار بحرّها والسَّمومُ، إذا أصابه حَرُّها فتغيَّرَ وجهُهُ. [وأمّا] قولهم: لَفَحَه بالسَّيف لَفْحَةً: ضربه ضربةً خفيفة، فإنّ الأصل فيه النون، هو نَفَحَه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–f–ḥ heat of a fire, fire, glare of a fire; to scorch, to burn, to\nsear, to tan; to strike lightly. Of this root, only تَلْفَح talfaḥ occurs\nonce in the Qur’an.\n\nتَلْفَح talfaḥ [imperf. of v., trans.] to scorch, to burn (23:104) تَلْفَحُ\nوُجُوهَهُمُ النَّارُ the Fire will scorch their faces.\n\n845",
+      "definition_english": "l–f–ḥ heat of a fire, fire, glare of a fire; to scorch, to burn, to\nsear, to tan; to strike lightly. Of this root, only تَلْفَح talfaḥ occurs\nonce in the Qur’an.\n\nتَلْفَح talfaḥ [imperf. of v., trans.] to scorch, to burn (23:104) تَلْفَحُ\nوُجُوهَهُمُ النَّارُ the Fire will scorch their faces.\n\n845"
+    }
+  ],
   "occurrences": [
     "23:104:1"
   ]

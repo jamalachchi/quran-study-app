@@ -1,9 +1,12 @@
 {
-  "id": 713,
   "root": "ج ب ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جبت) الجيم والباء والتاء كلمةٌ واحدة. الجِبْت: السّاحر، ويقال الكاهن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جبت) الجيم والباء والتاء كلمةٌ واحدة. الجِبْت: السّاحر، ويقال الكاهن.",
+      "definition_english": null
+    }
+  ],
   "occurrences": [
     "4:51:10"
   ]

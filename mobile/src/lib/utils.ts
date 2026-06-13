@@ -8,7 +8,8 @@ export const RECITERS = [
 ];
 
 export const PART_OF_SPEECH_MAP: Record<string, string> = {
-  N: "Noun (إسم)",
+  // Core Parts of Speech
+  N: "Noun (اسم)",
   PN: "Proper Noun (اسم علم)",
   PRON: "Personal Pronoun (ضمير)",
   DEM: "Demonstrative Pronoun (اسم إشارة)",
@@ -17,30 +18,104 @@ export const PART_OF_SPEECH_MAP: Record<string, string> = {
   V: "Verb (فعل)",
   P: "Preposition (حرف جر)",
   CONJ: "Conjunction (حرف عطف)",
-  DET: "Determiner (Definite Article الـ)",
-  NEG: "Negative Particle (حرف نفي)",
+  DET: "Determiner (أداة تعريف)",
   NUM: "Numeral (عدد)",
   T: "Time Adverb (ظرف زمان)",
   LOC: "Location Adverb (ظرف مكان)",
-  INTG: "Interrogative Particle (حرف استفهام)",
-  VOC: "Vocative Particle (حرف نداء)",
+
+  // Particles
   ACC: "Accusative Particle (حرف نصب)",
-  SUB: "Subordinating Conjunction (حرف مصدري)",
-  COND: "Conditional Particle (حرف شرط)",
-  EMPH: "Emphatic Lām (لام التوكيد)",
-  IMPV: "Imperative Lām (لام الأمر)",
-  PRP: "Purpose Lām (لام التعليل)",
-  FUT: "Future Particle (حرف استقبال)",
-  PREV: "Preventive Particle (حرف كافّ)",
-  INC: "Inceptive Particle (حرف ابتداء)",
-  EXH: "Exhortation Particle (حرف تحضيض)",
-  EXP: "Explanation Particle (حرف تفسير)",
-  RET: "Restrictive Particle (حرف حصر)",
-  RES: "Resumption Particle (حرف استئناف)",
+  AMD: "Amendative Particle (حرف استدراك)",
+  ANS: "Answer Particle (حرف جواب)",
+  AVR: "Aversion Particle (حرف ردع)",
+  CAUS: "Causative Particle (حرف سببية)",
+  CERT: "Particle of Certainty (حرف تحقيق)",
+  CIRC: "Circumstantial Particle (حرف حال)",
   COM: "Comitative Particle (واو المعية)",
+  COND: "Conditional Particle (حرف شرط)",
+  EMPH: "Emphatic Lām / Particle (حرف توكيد)",
   EQ: "Equative Particle (همزة التسوية)",
-  SUR: "Surprise Particle (حرف فجاءة)"
+  EXH: "Exhortation Particle (حرف تحضيض)",
+  EXL: "Exclamation Particle (حرف استفتاح/تعجب)",
+  EXP: "Explanation Particle (حرف تفسير)",
+  FUT: "Future Particle (حرف استقبال)",
+  IMPN: "Imperative Verbal Noun (اسم فعل أمر)",
+  IMPV: "Imperative Lām (لام الأمر)",
+  INC: "Inceptive Particle (حرف ابتداء)",
+  INL: "Quranic Initials / Muqatta'at (حروف مقطعة)",
+  INT: "Interpretation Particle (حرف تفسير)",
+  INTG: "Interrogative Particle (حرف استفهام)",
+  NEG: "Negative Particle (حرف نفي)",
+  PREV: "Preventive Particle (حرف كافّ)",
+  PRO: "Prohibition Particle (حرف نهي)",
+  PRP: "Purpose Lām (لام التعليل)",
+  REM: "Resumption Particle (حرف استئناف)",
+  RES: "Restriction Particle (حرف حصر)",
+  RET: "Restrictive Particle (حرف حصر)",
+  RSLT: "Result Particle (حرف رابط لجواب الشرط)",
+  SUB: "Subordinating Conjunction (حرف مصدري)",
+  SUP: "Supplemental Particle (حرف زائد)",
+  SUR: "Surprise Particle (حرف فجاءة)",
+  VOC: "Vocative Particle (حرف نداء)"
 };
+
+export const BUCKWALTER_MAP: Record<string, string> = {
+  'A': 'ا',
+  'b': 'ب',
+  't': 'ت',
+  'v': 'ث',
+  'j': 'ج',
+  'H': 'ح',
+  'x': 'خ',
+  'd': 'د',
+  '*': 'ذ',
+  'r': 'ر',
+  'z': 'ز',
+  's': 'س',
+  '$': 'ش',
+  'S': 'ص',
+  'D': 'ض',
+  'T': 'ط',
+  'Z': 'ظ',
+  'E': 'ع',
+  'g': 'غ',
+  'f': 'ف',
+  'q': 'ق',
+  'k': 'ك',
+  'l': 'ل',
+  'm': 'م',
+  'n': 'ن',
+  'h': 'ه',
+  'w': 'و',
+  'y': 'ي',
+  'Y': 'ى',
+  'p': 'ة',
+  '&': 'ؤ',
+  '<': 'إ',
+  '>': 'أ',
+  '}': 'ئ',
+  '|': 'آ',
+  '{': 'ٱ', // alif wasla
+  '~': 'ّ', // shadda
+  'F': 'ً', // tanween fatha
+  'N': 'ٌ', // tanween damma
+  'K': 'ٍ', // tanween kasra
+  'a': 'َ', // fatha
+  'u': 'ُ', // damma
+  'i': 'ِ', // kasra
+  'o': 'ْ', // sukoon
+  '`': 'ٰ', // dagger alif
+  '#': 'ِ',
+  ' ': ' '
+};
+
+export function buckwalterToArabic(bwStr: string): string {
+  if (!bwStr) return bwStr;
+  return bwStr
+    .split('')
+    .map(char => BUCKWALTER_MAP[char] || char)
+    .join('');
+}
 
 export const FEATURE_EXPLANATIONS: Record<string, { label: string; desc: string }> = {
   M: { label: "Gender", desc: "Masculine (مذكر)" },
@@ -82,11 +157,15 @@ export function parseFeatureString(featuresStr: string, tag: string) {
     }
     if (part.startsWith("POS:")) continue;
     if (part.startsWith("LEM:")) {
-      explanations.push({ label: "Lemma", value: part.substring(4) });
+      const rawLemma = part.substring(4);
+      const arabicLemma = buckwalterToArabic(rawLemma);
+      explanations.push({ label: "Lemma", value: `${arabicLemma} (${rawLemma})` });
       continue;
     }
     if (part.startsWith("ROOT:")) {
-      explanations.push({ label: "Root letters", value: part.substring(5).split('').join(' ') });
+      const rawRoot = part.substring(5);
+      const arabicRoot = buckwalterToArabic(rawRoot).split('').join(' ');
+      explanations.push({ label: "Root letters", value: `${arabicRoot} (${rawRoot})` });
       continue;
     }
     if (part.startsWith("PRON:")) {

@@ -1,9 +1,22 @@
 {
-  "id": 4014,
   "root": "ن ص ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنشر - نشز\n\n(نصف) النون والصاد والفاء أصلانِ صحيحان: أحدهما يدلُّ على شَطْر الشَّيء، والأخرى على جنسٍ من الخِدمة والاستعمال.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنشر - نشز\n\n(نصف) النون والصاد والفاء أصلانِ صحيحان: أحدهما يدلُّ على شَطْر الشَّيء، والأخرى على جنسٍ من الخِدمة والاستعمال.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "110, Medinan sura, so-named because of the reference in verse 1\nto God’s ‘Help’.\n\nنَاصِر nāṣir [act. part., pl. نَاصِرُون nāṣirūn and أَنْصَار ʾanṣār] one\ngiving assistance against an adversary (61:14) كُونُوا أَنْصَارَ اللَّهِ be\nGod’s helpers; *(9:100) الْمُهَاجِرِينَ وَالْأَنْصَارِ the Emigrants and the\nHelpers (the early Meccan Muslims who migrated from hostile\nMecca to Yathrib–subsequently called Medina–and who became\nknown as the Emigrants were well-received by the Medinan\nMuslims who became known as the Helpers).\n\nنَصِير naṣīr [intens. act. part.] staunch supporter, unwavering\nhelper (4:75) وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا appoint for\nus a protector from your side and appoint for us a helper from\nyour side.\n\nمَنْصُور manṣūr [pass. part., pl. مَنْصُورُون manṣūrūn] one who is\naided, assisted (17:33) إِنَّهُ كَانَ مَنْصُورًا he is already aided [by God].\n\nمُنْتَصِر muntaṣir [act. part., pl. مُنْتَصِرُون muntaṣirūn] one capable\nof defending himself (18:43) وَلَمْ تَكُنْ لَهُ فِئَةٌ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ\nمُنْتَصِرًا he had no forces to help him other than God–he could not\n[even] help himself.\n\nنَصْرَانِيّ naṣrāniyy [n., pl. نَصَارَىٰ naṣārā] Christian (5:69) إِنَّ الَّذِينَ\nآمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئُونَ وَالنَّصَارَىٰ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا\nفَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ those who believe [in the Message of\nIslam], the Jews, the Sabians and the Christians–all those who\nbelieve in God and the Last Day and do good deeds–there shall\nbe no fear for them nor will they grieve.",
+      "definition_english": "110, Medinan sura, so-named because of the reference in verse 1\nto God’s ‘Help’.\n\nنَاصِر nāṣir [act. part., pl. نَاصِرُون nāṣirūn and أَنْصَار ʾanṣār] one\ngiving assistance against an adversary (61:14) كُونُوا أَنْصَارَ اللَّهِ be\nGod’s helpers; *(9:100) الْمُهَاجِرِينَ وَالْأَنْصَارِ the Emigrants and the\nHelpers (the early Meccan Muslims who migrated from hostile\nMecca to Yathrib–subsequently called Medina–and who became\nknown as the Emigrants were well-received by the Medinan\nMuslims who became known as the Helpers).\n\nنَصِير naṣīr [intens. act. part.] staunch supporter, unwavering\nhelper (4:75) وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا appoint for\nus a protector from your side and appoint for us a helper from\nyour side.\n\nمَنْصُور manṣūr [pass. part., pl. مَنْصُورُون manṣūrūn] one who is\naided, assisted (17:33) إِنَّهُ كَانَ مَنْصُورًا he is already aided [by God].\n\nمُنْتَصِر muntaṣir [act. part., pl. مُنْتَصِرُون muntaṣirūn] one capable\nof defending himself (18:43) وَلَمْ تَكُنْ لَهُ فِئَةٌ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ\nمُنْتَصِرًا he had no forces to help him other than God–he could not\n[even] help himself.\n\nنَصْرَانِيّ naṣrāniyy [n., pl. نَصَارَىٰ naṣārā] Christian (5:69) إِنَّ الَّذِينَ\nآمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئُونَ وَالنَّصَارَىٰ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا\nفَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ those who believe [in the Message of\nIslam], the Jews, the Sabians and the Christians–all those who\nbelieve in God and the Last Day and do good deeds–there shall\nbe no fear for them nor will they grieve."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ṣ–f half, to halve, middle; justice; to be of good\ncountenance; veil; rivulet leading into a valley. Of this root, نِصْف\nniṣf, occurs seven times in the Qur’an.\n\nنِصْف niṣf [n.] half (73:20) إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ\nوَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ [Prophet] your Lord knows that you\n[sometimes] stay up [praying] nearly two thirds of the night, and\n[sometimes] half the night, and [sometimes] a third of the night,\nas do a party of those with you.\n\n945",
+      "definition_english": "n–ṣ–f half, to halve, middle; justice; to be of good\ncountenance; veil; rivulet leading into a valley. Of this root, نِصْف\nniṣf, occurs seven times in the Qur’an.\n\nنِصْف niṣf [n.] half (73:20) إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ\nوَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ [Prophet] your Lord knows that you\n[sometimes] stay up [praying] nearly two thirds of the night, and\n[sometimes] half the night, and [sometimes] a third of the night,\nas do a party of those with you.\n\n945"
+    }
+  ],
   "occurrences": [
     "2:237:11",
     "4:11:22",

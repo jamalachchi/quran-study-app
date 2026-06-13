@@ -1,8 +1,16 @@
 {
-  "id": 111,
   "root": "أ ص د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأصد - أصر\n\nفالأصيل بعد العَشِيّ وجمعه أصُلٌ وآصالٌ. و[يقال] أصيلٌ وأصيلَةٌ، والجمع أصائل. قال :\n\nلعَمْري لأَنْت البيتُ أُكرِمُ أهْلَهُ\n\nوأقْعُدُ في أفيَائِهِ بالأصائلِ\n\n(أصد) الهمزة والصاد والدال، شيء يشتمل على الشيء. يقولون للحظيرة أصيدةٌ، سمّيت بذلك لاشتمالها على ما فيها. ومن ذلك الأُصْدة، وهو قميصٌ صغير يلبسه الصبايا، ويقال صَبِيّةٌ ذات مُؤَصَّد. قال:\n\nتعلّقت ليلَى وهي ذات مؤَصَّدٍ\n\nولم يَبْدُ [للأتراب] من ثديها حَجْم",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأصد - أصر\n\nفالأصيل بعد العَشِيّ وجمعه أصُلٌ وآصالٌ. و[يقال] أصيلٌ وأصيلَةٌ، والجمع أصائل. قال :\n\nلعَمْري لأَنْت البيتُ أُكرِمُ أهْلَهُ\n\nوأقْعُدُ في أفيَائِهِ بالأصائلِ\n\n(أصد) الهمزة والصاد والدال، شيء يشتمل على الشيء. يقولون للحظيرة أصيدةٌ، سمّيت بذلك لاشتمالها على ما فيها. ومن ذلك الأُصْدة، وهو قميصٌ صغير يلبسه الصبايا، ويقال صَبِيّةٌ ذات مُؤَصَّد. قال:\n\nتعلّقت ليلَى وهي ذات مؤَصَّدٍ\n\nولم يَبْدُ [للأتراب] من ثديها حَجْم",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "أ/ص/د ʾ–ṣ–d (this root overlaps with root و/ص/د w–ṣ–d because of the\ndialectal difference in pronouncing hamza as a pure vowel)\nsleeveless undergarment, to wear such a garment; animal pen;\ncourtyard; to shut tightly. Of this root, مُؤْصَدَة muʾṣadatun occurs\ntwice in the Qur’an.\n\nمُؤْصَدَة muʾṣadatun (also مُوصَدَة mūṣadatun) [pass. part.] closed,\nshut, engulfing (104:8) إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ it is closed on them.",
+      "definition_english": "أ/ص/د ʾ–ṣ–d (this root overlaps with root و/ص/د w–ṣ–d because of the\ndialectal difference in pronouncing hamza as a pure vowel)\nsleeveless undergarment, to wear such a garment; animal pen;\ncourtyard; to shut tightly. Of this root, مُؤْصَدَة muʾṣadatun occurs\ntwice in the Qur’an.\n\nمُؤْصَدَة muʾṣadatun (also مُوصَدَة mūṣadatun) [pass. part.] closed,\nshut, engulfing (104:8) إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ it is closed on them."
+    }
+  ],
   "occurrences": []
 }

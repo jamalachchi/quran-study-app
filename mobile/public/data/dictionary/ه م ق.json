@@ -1,8 +1,11 @@
 {
-  "id": 4287,
   "root": "ه م ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهمس - همش\n\n(همق) الهاء والميم والقاف: كلمة واحدة. يقولون: كَلأٌ هَمِقٌ: هَشٌّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهمس - همش\n\n(همق) الهاء والميم والقاف: كلمة واحدة. يقولون: كَلأٌ هَمِقٌ: هَشٌّ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

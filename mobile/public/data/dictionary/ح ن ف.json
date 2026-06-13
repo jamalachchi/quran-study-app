@@ -1,9 +1,17 @@
 {
-  "id": 872,
   "root": "ح ن ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحنج - حنذ\n\n(حنف) الحاء والنون والفاء أصلٌ مستقيم، وهو المَيَل. يقال للذي يمشي على ظُهور قدمَيه أحْنَفُ. وقال قومٌ- وأراه الأصحَّ- إنّ الحَنَفَ اعوجاجٌ في الرجل إلى داخل. ورجل أحنف، أي مائل الرِّجْلين، وذلك يكون بأن تتدانى صدورُ قدمَيه ويتباعد عقِباه. والحنيف: المائل إلى الدين المستقيم. قال الله تعالى:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحنج - حنذ\n\n(حنف) الحاء والنون والفاء أصلٌ مستقيم، وهو المَيَل. يقال للذي يمشي على ظُهور قدمَيه أحْنَفُ. وقال قومٌ- وأراه الأصحَّ- إنّ الحَنَفَ اعوجاجٌ في الرجل إلى داخل. ورجل أحنف، أي مائل الرِّجْلين، وذلك يكون بأن تتدانى صدورُ قدمَيه ويتباعد عقِباه. والحنيف: المائل إلى الدين المستقيم. قال الله تعالى:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ–n–f inclination of the toes to one side, to incline, to deviate,\nto abandon common practices and beliefs, to incline towards the\nright religion, the true religion. Of this root, two forms occur 12\ntimes in the Qurʾan: حَنِيف ḥanīf 10 times and حُنَفَاء ḥunafāʾ twice.\n\nحَنِيف ḥanīf [quasi-act. part.; pl. حُنَفَاء ḥunafāʾ] inclined towards\n[God], inclined away [from false deities] and so considered\nupright (6:161) دِينًا قِيَمًا مِّلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ an upright\nreligion, the faith of Abraham, an upright man, he was not one of\nthe polytheists.’\nḤanīf is also used to describe the ascetic monotheists of\nMecca who refused idolatry and its practices. One of their\npractices, followed by Muḥammad was taḥannuf: to retreat\nduring Ramadan and it was during one such retreat that he\nreceived the first revelation of the Qurʾan.",
+      "definition_english": "ḥ–n–f inclination of the toes to one side, to incline, to deviate,\nto abandon common practices and beliefs, to incline towards the\nright religion, the true religion. Of this root, two forms occur 12\ntimes in the Qurʾan: حَنِيف ḥanīf 10 times and حُنَفَاء ḥunafāʾ twice.\n\nحَنِيف ḥanīf [quasi-act. part.; pl. حُنَفَاء ḥunafāʾ] inclined towards\n[God], inclined away [from false deities] and so considered\nupright (6:161) دِينًا قِيَمًا مِّلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ an upright\nreligion, the faith of Abraham, an upright man, he was not one of\nthe polytheists.’\nḤanīf is also used to describe the ascetic monotheists of\nMecca who refused idolatry and its practices. One of their\npractices, followed by Muḥammad was taḥannuf: to retreat\nduring Ramadan and it was during one such retreat that he\nreceived the first revelation of the Qurʾan."
+    }
+  ],
   "occurrences": [
     "10:105:5",
     "16:120:7",

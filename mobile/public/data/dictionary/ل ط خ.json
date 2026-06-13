@@ -1,8 +1,11 @@
 {
-  "id": 3564,
   "root": "ل ط خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلسب\n\n(لطخ) اللام والطاء والخاء أُصَيلٌ واحدٌ يدلُّ على عَرِّ شيء بشيء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلسب\n\n(لطخ) اللام والطاء والخاء أُصَيلٌ واحدٌ يدلُّ على عَرِّ شيء بشيء.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

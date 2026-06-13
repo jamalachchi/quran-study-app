@@ -1,9 +1,17 @@
 {
-  "id": 1782,
   "root": "س ق م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسفر\n\n(سقم) السين والقاف والميم أصلٌ واحد، وهو المرض: يقال سُقْمٌ وسَقَمٌ وسَقامٌ، ثلاثُ لغات.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسفر\n\n(سقم) السين والقاف والميم أصلٌ واحد، وهو المرض: يقال سُقْمٌ وسَقَمٌ وسَقامٌ، ثلاثُ لغات.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–q–m sickness, to be sick, to be ill-disposed, to be troubled. Of this root, only سقيم saqīm occurs once in the Qurʾan.\nسقيم saqīm [quasi-act. part.] sick, ill-disposed (37:89) فقال إني سقيم He said, ‘I am ill, or, sick at heart’ (or, ‘I am troubled [because of your worshipping of idols]’).",
+      "definition_english": "s–q–m sickness, to be sick, to be ill-disposed, to be troubled. Of this root, only سقيم saqīm occurs once in the Qurʾan.\nسقيم saqīm [quasi-act. part.] sick, ill-disposed (37:89) فقال إني سقيم He said, ‘I am ill, or, sick at heart’ (or, ‘I am troubled [because of your worshipping of idols]’)."
+    }
+  ],
   "occurrences": [
     "37:145:4",
     "37:89:3"

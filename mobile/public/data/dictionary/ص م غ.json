@@ -1,8 +1,11 @@
 {
-  "id": 2192,
   "root": "ص م غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصلق\n\n(صمغ) الصاد والميم والغين كلمةٌ واحدة، هي الصَّمغ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصلق\n\n(صمغ) الصاد والميم والغين كلمةٌ واحدة، هي الصَّمغ .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,8 +1,11 @@
 {
-  "id": 518,
   "root": "ث ل ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثلث - ثلج\n\n(ثلط) الثاء واللام والطاء كلمةٌ واحدة، وهو ثَلْطُ البعير والبقرة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثلث - ثلج\n\n(ثلط) الثاء واللام والطاء كلمةٌ واحدة، وهو ثَلْطُ البعير والبقرة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

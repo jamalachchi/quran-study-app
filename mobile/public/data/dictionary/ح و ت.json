@@ -1,9 +1,17 @@
 {
-  "id": 877,
   "root": "ح و ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوب\n\n(حوت) الحاء والواو والتاء أصلٌ صحيح منقاس، وهو من الاضطراب والرَّوَغان، فالحُوت العظيم من السّمَك، وهو مضطربٌ أبداً غير مستقرّ. والعرب تقول: حاوَتَنِي فلانٌ، إذا راوغَني. ويُنشَد هذا البيت:\n\nيوم الثويَّةِ عن أهلي وعن مالي\n\nظَلّت تُحاوِتُني رَمْدَاءُ داهِيَةٌ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوب\n\n(حوت) الحاء والواو والتاء أصلٌ صحيح منقاس، وهو من الاضطراب والرَّوَغان، فالحُوت العظيم من السّمَك، وهو مضطربٌ أبداً غير مستقرّ. والعرب تقول: حاوَتَنِي فلانٌ، إذا راوغَني. ويُنشَد هذا البيت:\n\nيوم الثويَّةِ عن أهلي وعن مالي\n\nظَلّت تُحاوِتُني رَمْدَاءُ داهِيَةٌ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–w–t fish, great fish, whale; to hover, to circulate in the air, to dodge. Of this root, two forms occur five times in the Qur’an: حُوت ḥūt four times and حِيتَان ḥītān once.\nحُوت ḥūt [n.; pl. حيتان ḥītān] fish, whale, large fish (37:142) فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ so the great fish swallowed him while he was",
+      "definition_english": "h–w–t fish, great fish, whale; to hover, to circulate in the air, to dodge. Of this root, two forms occur five times in the Qur’an: حُوت ḥūt four times and حِيتَان ḥītān once.\nحُوت ḥūt [n.; pl. حيتان ḥītān] fish, whale, large fish (37:142) فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ so the great fish swallowed him while he was"
+    }
+  ],
   "occurrences": [
     "18:61:6",
     "18:63:9",

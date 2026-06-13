@@ -1,8 +1,11 @@
 {
-  "id": 1149,
   "root": "د س ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدرح - دسم\n\n(دست) الدال والسين والتاء ليس أصلاً، لأنّ الدّسْت الصَّحراء وهو فارسيٌّ معرَّب . قال الأعشى:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدرح - دسم\n\n(دست) الدال والسين والتاء ليس أصلاً، لأنّ الدّسْت الصَّحراء وهو فارسيٌّ معرَّب . قال الأعشى:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,22 @@
 {
-  "id": 1087,
   "root": "خ ي ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخيل\n\nالباب، وقد ذكر في باب الواو بعد الخاء، وإنّما صارت الواو ياءً لكسرةِ ما قبلها. وقال:\n\nوتُضْمِرَ في القَلْبِ وجْداً وخِيفا\n\nفلا تَقْعُدَنّ على زَخَّةٍ\n\n(خيل) الخاء والياء واللام أصلٌ واحد يدلُّ على حركةٍ في تلوُّن. فمن ذلك الخَيَال، وهو الشَّخص. وأصله ما يتخيَّلُه الإنسان في مَنامه؛ لأنّه يتشبّه ويتلوّن. ويقال خَيَّلْتُ للنّاقة، إذا وضَعْتَ لولدِها خيالاً يفزَّع منه الذِّئب فلا يقرُبه. والخَيْل معروفة. وسمِعت مَن يَحْكِي عن بِشر الأسديّ عن الأصمعي قال: كنتُ عند أبي عمرو بن العَلاء، وعنده غلامٌ أعرابيٌّ فسُئل أبو عمرو: لم سمِّيت الخيلُ خيلاً؟ فقال: لا أدرِي. فقال الأعرابيُّ: لاخْتيالِها. فقال أبو عمرو: اكتُبوا. وهذا صحيحٌ؛ لأنّ المختالَ في مِشيتِه يتلوَّن في حركته ألواناً. والأخْيَلُ: طائرٌ، وأظنُّه ذا ألوانٍ، يقال هو الشِّقِرَّاق. والعرب تتشاءم به. يقال بعير مَخْيُولٌ ، إذا وقع الأخيلُ على عجُزِه فقَطَّعه. وقال الفرزدق:\n\nفَلاقَيتِ مِن طَير الأشائم أخْيَلا\n\nإذا قَطَناً بَلَّغْتِنِيهِ ابنَ مُدْرِكٍ\n\nيقول: إذا بلّغْتِني هذا الممدوحَ لم أُبَلْ بهلَكتك؛ كما قال ذو الرُّمّة:\n\nفقامَ بفأسٍ بين وُِصْلَيْكِ جازِرُ\n\nإذا ابنَ أبي مُوسى بِلالاً بَلغْتِهِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخيل\n\nالباب، وقد ذكر في باب الواو بعد الخاء، وإنّما صارت الواو ياءً لكسرةِ ما قبلها. وقال:\n\nوتُضْمِرَ في القَلْبِ وجْداً وخِيفا\n\nفلا تَقْعُدَنّ على زَخَّةٍ\n\n(خيل) الخاء والياء واللام أصلٌ واحد يدلُّ على حركةٍ في تلوُّن. فمن ذلك الخَيَال، وهو الشَّخص. وأصله ما يتخيَّلُه الإنسان في مَنامه؛ لأنّه يتشبّه ويتلوّن. ويقال خَيَّلْتُ للنّاقة، إذا وضَعْتَ لولدِها خيالاً يفزَّع منه الذِّئب فلا يقرُبه. والخَيْل معروفة. وسمِعت مَن يَحْكِي عن بِشر الأسديّ عن الأصمعي قال: كنتُ عند أبي عمرو بن العَلاء، وعنده غلامٌ أعرابيٌّ فسُئل أبو عمرو: لم سمِّيت الخيلُ خيلاً؟ فقال: لا أدرِي. فقال الأعرابيُّ: لاخْتيالِها. فقال أبو عمرو: اكتُبوا. وهذا صحيحٌ؛ لأنّ المختالَ في مِشيتِه يتلوَّن في حركته ألواناً. والأخْيَلُ: طائرٌ، وأظنُّه ذا ألوانٍ، يقال هو الشِّقِرَّاق. والعرب تتشاءم به. يقال بعير مَخْيُولٌ ، إذا وقع الأخيلُ على عجُزِه فقَطَّعه. وقال الفرزدق:\n\nفَلاقَيتِ مِن طَير الأشائم أخْيَلا\n\nإذا قَطَناً بَلَّغْتِنِيهِ ابنَ مُدْرِكٍ\n\nيقول: إذا بلّغْتِني هذا الممدوحَ لم أُبَلْ بهلَكتك؛ كما قال ذو الرُّمّة:\n\nفقامَ بفأسٍ بين وُِصْلَيْكِ جازِرُ\n\nإذا ابنَ أبي مُوسى بِلالاً بَلغْتِهِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-y-l) maternal uncle, maternal aunt; household, servants,\nhelpers; ownership, property; to give in ownership, to bestow; to\nauthorise, to enable; an overseer; to show pride, to scatter. Of this\nroot, four forms occur eight times in the Qurʾān: خَوَّلَ khawwala\nthree times; خَال khāl 11 times; أَخْوَال ʾakhwāl once and خَالَات khalāt\nthree times.\n\nخَوَّل khawwala [v. II, trans.] to grant, to accord, to bestow\n(39:8) إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوا۟ إِلَيْهِ مِن قَبْلُ but once He grants\nhim a favour from Him, he forgets that for which he had been\ncalling [God] before.\n\n291 خ/و/ن\n\nخَال khāl [n., pl. أَخْوَال ʾakhwāl] maternal uncle (33:50) وَبَنَاتِ خَالِكَ\nوَبَنَاتِ خَالَاتِكَ ٱلَّاتِى هَاجَرْنَ مَعَكَ and the daughters of your uncles and\naunts on the mother’s side who migrated with you.\n\nخَالَات khalāt [pl. of fem. خَالَة khalatun] maternal aunts (24:61) أَوْ\nبُيُوتِ خَالَاتِكُمْ or the houses of your maternal aunts.",
+      "definition_english": "kh-y-l) maternal uncle, maternal aunt; household, servants,\nhelpers; ownership, property; to give in ownership, to bestow; to\nauthorise, to enable; an overseer; to show pride, to scatter. Of this\nroot, four forms occur eight times in the Qurʾān: خَوَّلَ khawwala\nthree times; خَال khāl 11 times; أَخْوَال ʾakhwāl once and خَالَات khalāt\nthree times.\n\nخَوَّل khawwala [v. II, trans.] to grant, to accord, to bestow\n(39:8) إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوا۟ إِلَيْهِ مِن قَبْلُ but once He grants\nhim a favour from Him, he forgets that for which he had been\ncalling [God] before.\n\n291 خ/و/ن\n\nخَال khāl [n., pl. أَخْوَال ʾakhwāl] maternal uncle (33:50) وَبَنَاتِ خَالِكَ\nوَبَنَاتِ خَالَاتِكَ ٱلَّاتِى هَاجَرْنَ مَعَكَ and the daughters of your uncles and\naunts on the mother’s side who migrated with you.\n\nخَالَات khalāt [pl. of fem. خَالَة khalatun] maternal aunts (24:61) أَوْ\nبُيُوتِ خَالَاتِكُمْ or the houses of your maternal aunts."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-y-l (there is a degree of overlapping between this root and\n",
+      "definition_english": "kh-y-l (there is a degree of overlapping between this root and\n"
+    }
+  ],
   "occurrences": [
     "16:8:1",
     "17:64:8",

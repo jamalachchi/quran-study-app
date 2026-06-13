@@ -1,9 +1,17 @@
 {
-  "id": 900,
   "root": "ح ي ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حيف) الحاء والياء والفاء أصلٌ *واحد، وهو المَيْل. يقال [حاف] عليه يَحِيفُ، إذا مالَ. ومنه تحيفْتُ الشيءَ، إذا أَخذْتَه من جوانبه، وهو قياسُ الباب لأنه مال عَنْ عُرْضِه إلى جوانبه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حيف) الحاء والياء والفاء أصلٌ *واحد، وهو المَيْل. يقال [حاف] عليه يَحِيفُ، إذا مالَ. ومنه تحيفْتُ الشيءَ، إذا أَخذْتَه من جوانبه، وهو قياسُ الباب لأنه مال عَنْ عُرْضِه إلى جوانبه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–f deviation, to veer away; to be unjust, to wrong; to curtail, to impair. Of this root, يَحِيف yaḥīf occurs once in the Qur’an.\nيَحِيف yaḥīf [imperf. of v. حَافَ ḥāfa, intrans. with prep. على] to make incursions into, to deal unjustly with, to lean heavily on (24:50) أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ or do they fear that God and His Messenger might deal with them unjustly?",
+      "definition_english": "h–y–f deviation, to veer away; to be unjust, to wrong; to curtail, to impair. Of this root, يَحِيف yaḥīf occurs once in the Qur’an.\nيَحِيف yaḥīf [imperf. of v. حَافَ ḥāfa, intrans. with prep. على] to make incursions into, to deal unjustly with, to lean heavily on (24:50) أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ or do they fear that God and His Messenger might deal with them unjustly?"
+    }
+  ],
   "occurrences": [
     "24:50:9"
   ]

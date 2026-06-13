@@ -1,9 +1,17 @@
 {
-  "id": 637,
   "root": "ج ف ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجفن - جفو\n\nلا تَرى الآدِبَ فينا يَنْتَقِرْ\n\nنحنُ في المَشتاةِ ندعُو الجَفَلَى\n\nوظليمٌ إجْفِيلٌ: يَهْرُبُ من كلِّ شيء؛ وذلك أنّه يجمع نَفْسَه إذا هَرَب ويجفُِل وبه سُمِّي الجَبانُ إجْفِيلاً. ويقال لِلَّيل إذا وَلّى وأدبر انجفَلَ .\n\nقال الخليل: الجُفَالة من الناس الجماعةُ جاؤوا أو ذَهَبوا. ويقال أخذ جُفْلَةً من صُوفٍ، أي جُزَّة منه. والجُفَال: الشعر المجتمع الكثير. قال ذو الرمة:\n\n* على المتْنَيْنِ مُنْسَدِلاً جُفَالا *\n\n(جفن) الجيم والفاء والنون أصلٌ واحد، وهو شيءٌ يُطِيفُ بشيءٍ ويَحْوِيه. فالجَفنُ جَفْنُ العين. والجَفْن جفن السَّيْف .وجَفْن: مكان . وسمِّي الكَرْم جَفْناً لأنه يَدُورُ على ما يَعْلَق به. وذلك مُشاهَدٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجفن - جفو\n\nلا تَرى الآدِبَ فينا يَنْتَقِرْ\n\nنحنُ في المَشتاةِ ندعُو الجَفَلَى\n\nوظليمٌ إجْفِيلٌ: يَهْرُبُ من كلِّ شيء؛ وذلك أنّه يجمع نَفْسَه إذا هَرَب ويجفُِل وبه سُمِّي الجَبانُ إجْفِيلاً. ويقال لِلَّيل إذا وَلّى وأدبر انجفَلَ .\n\nقال الخليل: الجُفَالة من الناس الجماعةُ جاؤوا أو ذَهَبوا. ويقال أخذ جُفْلَةً من صُوفٍ، أي جُزَّة منه. والجُفَال: الشعر المجتمع الكثير. قال ذو الرمة:\n\n* على المتْنَيْنِ مُنْسَدِلاً جُفَالا *\n\n(جفن) الجيم والفاء والنون أصلٌ واحد، وهو شيءٌ يُطِيفُ بشيءٍ ويَحْوِيه. فالجَفنُ جَفْنُ العين. والجَفْن جفن السَّيْف .وجَفْن: مكان . وسمِّي الكَرْم جَفْناً لأنه يَدُورُ على ما يَعْلَق به. وذلك مُشاهَدٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–f–n eyelid; scabbard, large pot; to feed, to cater for; to disdain, to shun. Of this root, جِفَان jifān occurs once in the Qurʾan.\nجِفَان jifān [pl. of n. جَفْنَة jafnatun] large bowls, one of which is described as having the capacity to hold food enough to satisfy the hunger of ten [men] (34:13) يَعْمَلُونَ لَهُ مَا يَشَاءُ مِنْ مَحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ كَالْجَوَابِ they made him whatever he wanted–palaces, statues and bowls as large as water troughs.\n\n167",
+      "definition_english": "j–f–n eyelid; scabbard, large pot; to feed, to cater for; to disdain, to shun. Of this root, جِفَان jifān occurs once in the Qurʾan.\nجِفَان jifān [pl. of n. جَفْنَة jafnatun] large bowls, one of which is described as having the capacity to hold food enough to satisfy the hunger of ten [men] (34:13) يَعْمَلُونَ لَهُ مَا يَشَاءُ مِنْ مَحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ كَالْجَوَابِ they made him whatever he wanted–palaces, statues and bowls as large as water troughs.\n\n167"
+    }
+  ],
   "occurrences": [
     "34:13:8"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 4404,
   "root": "و س ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوزر - وسط\n\n(وسط) الواو والسين والطاء: بناءٌ صحيح يدلُّ على العَدل والنِّصف. وأعْدلُ الشَّيءِ: أوسَطُه ووَسَطُه. قال الله عزّ وجلَّ: ] أُمَّةً وَسَطاً [ [البقرة 143]. ويقولون: ضربتُ وَسَط رأسهِ بفتح السين، ووَسْطَ القوم بسكونها. وهو أوسَطُهم حَسَباً، إذا كان في واسطة قومه وأرفعِهِم محلاًّ. والوَسُوط: بيتٌ من بيوت الشَّعَر أكبرُ من المِظَلَّة. ويقال الوَسُوط من النُّوق كالصَّفوف تَملأُ الإناء.\n\nوسع - وسف - وسق",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوزر - وسط\n\n(وسط) الواو والسين والطاء: بناءٌ صحيح يدلُّ على العَدل والنِّصف. وأعْدلُ الشَّيءِ: أوسَطُه ووَسَطُه. قال الله عزّ وجلَّ: ] أُمَّةً وَسَطاً [ [البقرة 143]. ويقولون: ضربتُ وَسَط رأسهِ بفتح السين، ووَسْطَ القوم بسكونها. وهو أوسَطُهم حَسَباً، إذا كان في واسطة قومه وأرفعِهِم محلاًّ. والوَسُوط: بيتٌ من بيوت الشَّعَر أكبرُ من المِظَلَّة. ويقال الوَسُوط من النُّوق كالصَّفوف تَملأُ الإناء.\n\nوسع - وسف - وسق",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–s–ṭ middle, centre; justice; heart, waist; inside; between;\nthe choice, the select; to cause to be in the centre. Of this root,\nfour forms occur five times in the Qur’an: وَسَط wasaṭa once; وَسَط\nwasaṭ once; أَوْسَط ʾawsaṭ twice and وُسْطَى wusṭā once.\n\nوَسَط wasaṭa i [v. trans.] to move into the middle or the centre,\nto split something down the middle (100:5) فَوَسَطْنَ بِهِ جَمْعًا and\nplunging thereby into the gathering [of the enemy].\n\nوَسَط wasaṭ [quasi-act. part./n.] middle/the middle, the centre\n\n1025",
+      "definition_english": "w–s–ṭ middle, centre; justice; heart, waist; inside; between;\nthe choice, the select; to cause to be in the centre. Of this root,\nfour forms occur five times in the Qur’an: وَسَط wasaṭa once; وَسَط\nwasaṭ once; أَوْسَط ʾawsaṭ twice and وُسْطَى wusṭā once.\n\nوَسَط wasaṭa i [v. trans.] to move into the middle or the centre,\nto split something down the middle (100:5) فَوَسَطْنَ بِهِ جَمْعًا and\nplunging thereby into the gathering [of the enemy].\n\nوَسَط wasaṭ [quasi-act. part./n.] middle/the middle, the centre\n\n1025"
+    }
+  ],
   "occurrences": [
     "100:5:1",
     "2:143:4",

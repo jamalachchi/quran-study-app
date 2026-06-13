@@ -1,9 +1,17 @@
 {
-  "id": 2096,
   "root": "ش خ ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشجن\n\n(شخص) الشين والخاء والصاد أصلٌ واحدٌ يدلُّ على ارتفاع في شيء. من ذلك الشّخص، وهو سوادُ الإنسان إذا سما لكَ مِن بُعد. ثم يحمل على ذلك فيقال شَخَصَ من بلدٍ إلى بلد. وذلك قياسُهُ. ومنه أيضاً شُخُوص البَصَر. ويقال رجلٌ شَخِيصٌ وامرأةٌ شَخِيصة، أي جَسيمة. ومن الباب: أَشْخَصَ الرّامي، إذا جاز سَهْمُه الغرضَ من أعلاه، وهو سهمٌ شَاخِص. ويقال، إذا ورد عليه أمر أقلقه: شُخِص به ، وذلك أنَّه إِذا قَلِقَ نَبَا به مكانُهُ فارتفع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشجن\n\n(شخص) الشين والخاء والصاد أصلٌ واحدٌ يدلُّ على ارتفاع في شيء. من ذلك الشّخص، وهو سوادُ الإنسان إذا سما لكَ مِن بُعد. ثم يحمل على ذلك فيقال شَخَصَ من بلدٍ إلى بلد. وذلك قياسُهُ. ومنه أيضاً شُخُوص البَصَر. ويقال رجلٌ شَخِيصٌ وامرأةٌ شَخِيصة، أي جَسيمة. ومن الباب: أَشْخَصَ الرّامي، إذا جاز سَهْمُه الغرضَ من أعلاه، وهو سهمٌ شَاخِص. ويقال، إذا ورد عليه أمر أقلقه: شُخِص به ، وذلك أنَّه إِذا قَلِقَ نَبَا به مكانُهُ فارتفع.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh-kh-ṣ the body of a being, prominently elevated entity; to materialise; (of eyes) to be transfixed, to be fixedly open (in terror); to raise; to go forth. Of this root, two forms occur, once each in the Qurʾan: تَشْخَص tashkhaṣ and شَاخِصَة shākhiṣatun.\nتَشْخَص tashkhaṣ [imperf. of v. شَخَصَ shakhaṣa] (of eyes) to be transfixed, glazed, staring in horror (14:42) إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ He is only delaying them for a Day when eyes will stare in stupor [in terror].\n\nشَاخِصَة shākhiṣatun [quasi-act. part.] staring in horror (21:97) وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا and the True Promise draws near, and there, staring [in terror], are the eyes of the disbelievers.",
+      "definition_english": "sh-kh-ṣ the body of a being, prominently elevated entity; to materialise; (of eyes) to be transfixed, to be fixedly open (in terror); to raise; to go forth. Of this root, two forms occur, once each in the Qurʾan: تَشْخَص tashkhaṣ and شَاخِصَة shākhiṣatun.\nتَشْخَص tashkhaṣ [imperf. of v. شَخَصَ shakhaṣa] (of eyes) to be transfixed, glazed, staring in horror (14:42) إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ He is only delaying them for a Day when eyes will stare in stupor [in terror].\n\nشَاخِصَة shākhiṣatun [quasi-act. part.] staring in horror (21:97) وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا and the True Promise draws near, and there, staring [in terror], are the eyes of the disbelievers."
+    }
+  ],
   "occurrences": [
     "14:42:11",
     "21:97:6"

@@ -1,9 +1,17 @@
 {
-  "id": 880,
   "root": "ح و ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوذ - حور\n\n(حوذ) الحاء والواو والذال أصلٌ واحد، وهو من الخفّة والسُّرعة وانكماشٍ في الأمر. فالإحْواذ السَّير السريع. ويقال حاذَ الحمارُ أُتُنَه يحُوذها، إذا ساقَها بعُنْف. قال العجاج:\n\n* يحُوذُهُنَّ وله حُوذِيُّ *\n\nوالأحوذيُّ: الخفيف في الأمور، الذي حَذِقَ الأشياءَ وأتْقَنَها. وقالت عائشة في عمر: \"كان واللهِ أحوَذِيَّاً نسيجَ وَحْدِه\". والأحوذِيّان: جناحا القطاة. قال:\n\n* على أحوذِيَّينِ استقلّت *\n\nومن الباب استحوَذَ عليه الشيطان، وذلك إذا غَلَبَه وساقَه إلى ما يريد من غَيِّه.\n\nومن الشاذّ عن الباب أيضاً أنهم يقولون: هو خفيفُ الحاذِ. ويُنشِدون:\n\nوعَبْدٌ للصَّحَابة غيرَ عَبْدِ\n\nخفيف الحاذِ نَسّال القيافي\n\nومن الشاذّ عن الباب: الحاذُ، وهو شجرٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوذ - حور\n\n(حوذ) الحاء والواو والذال أصلٌ واحد، وهو من الخفّة والسُّرعة وانكماشٍ في الأمر. فالإحْواذ السَّير السريع. ويقال حاذَ الحمارُ أُتُنَه يحُوذها، إذا ساقَها بعُنْف. قال العجاج:\n\n* يحُوذُهُنَّ وله حُوذِيُّ *\n\nوالأحوذيُّ: الخفيف في الأمور، الذي حَذِقَ الأشياءَ وأتْقَنَها. وقالت عائشة في عمر: \"كان واللهِ أحوَذِيَّاً نسيجَ وَحْدِه\". والأحوذِيّان: جناحا القطاة. قال:\n\n* على أحوذِيَّينِ استقلّت *\n\nومن الباب استحوَذَ عليه الشيطان، وذلك إذا غَلَبَه وساقَه إلى ما يريد من غَيِّه.\n\nومن الشاذّ عن الباب أيضاً أنهم يقولون: هو خفيفُ الحاذِ. ويُنشِدون:\n\nوعَبْدٌ للصَّحَابة غيرَ عَبْدِ\n\nخفيف الحاذِ نَسّال القيافي\n\nومن الشاذّ عن الباب: الحاذُ، وهو شجرٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–w–dh the back of an animal’s thighs where the tail begins; to contain, to take possession, property; to seize; to urge, agility. Of this root, اِسْتَحْوَذَ ʾistaḥwadha occurs twice in the Qur’an.\nاِسْتَحْوَذَ ʾistaḥwadha [v. X, intrans. with prep. على] to seize, to prevail over, to gain mastery over, to take complete control (58:19) اِسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنْسَاهُمْ ذِكْرَ اللَّهِ Satan has gained control over them and made them forget God.",
+      "definition_english": "h–w–dh the back of an animal’s thighs where the tail begins; to contain, to take possession, property; to seize; to urge, agility. Of this root, اِسْتَحْوَذَ ʾistaḥwadha occurs twice in the Qur’an.\nاِسْتَحْوَذَ ʾistaḥwadha [v. X, intrans. with prep. على] to seize, to prevail over, to gain mastery over, to take complete control (58:19) اِسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنْسَاهُمْ ذِكْرَ اللَّهِ Satan has gained control over them and made them forget God."
+    }
+  ],
   "occurrences": [
     "4:141:20",
     "58:19:1"

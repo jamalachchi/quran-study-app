@@ -1,9 +1,17 @@
 {
-  "id": 2788,
   "root": "غ ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغوج - غور\n\n(غيب) الغين والياء والباء أصلٌ صحيح يدلُّ على تستُّر الشيء عن العُيون، ثم يقاس. من ذلك الغَيْب: ما غَابَ ، ممّا لا يعلمه إلا الله. ويقال: غابت الشَّمس تَغِيب غَيْبَةً وغُيُوباً وغَيْباً. وغابَ الرَّجل عن بلده. وأغابَتِ المرأةُ فهي مُغِيبةٌ، إذا غابَ بعلُها. ووقَعْنا في غَيْبَةٍ وغَيَابة، أي هَبْطة من الأرض يُغابُ فيها. قال الله تعالى في قصة يُوسُفَ عليه السَّلام: ] وَأَلْقُوهُ في غَيَابَةِ الجُبِّ [ [يوسف 10]. والغَابة: الأجَمة، والجمع غاباتٌ وغابٌ. وسمِّيت لأنّه يُغاب فيها. والغِيبة: الوَقيعة في النّاس من هذا، لأنَّها لا تقال إلاّ في غَيْبَة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغوج - غور\n\n(غيب) الغين والياء والباء أصلٌ صحيح يدلُّ على تستُّر الشيء عن العُيون، ثم يقاس. من ذلك الغَيْب: ما غَابَ ، ممّا لا يعلمه إلا الله. ويقال: غابت الشَّمس تَغِيب غَيْبَةً وغُيُوباً وغَيْباً. وغابَ الرَّجل عن بلده. وأغابَتِ المرأةُ فهي مُغِيبةٌ، إذا غابَ بعلُها. ووقَعْنا في غَيْبَةٍ وغَيَابة، أي هَبْطة من الأرض يُغابُ فيها. قال الله تعالى في قصة يُوسُفَ عليه السَّلام: ] وَأَلْقُوهُ في غَيَابَةِ الجُبِّ [ [يوسف 10]. والغَابة: الأجَمة، والجمع غاباتٌ وغابٌ. وسمِّيت لأنّه يُغاب فيها. والغِيبة: الوَقيعة في النّاس من هذا، لأنَّها لا تقال إلاّ في غَيْبَة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–y–b the unknown, the invisible, depth of a well, to vanish,\nto be concealed, to be absent; to be doubtful; setting of the sun,\nthe moon or the stars; to travel in the folds of the Earth; to\nslander, to backbite, gossip. Of this root, six forms occur 60 times\nin the Qur’an: يَغْتَاب yaghtāb once; الْغَيْب ʾal-ghayb 49 times; غُيُوب\nghuyūb four times; غَائِبَة ghāʾibatun once; غَائِبِينَ ghāʾibīn three\ntimes and غَيَابَة ghayābatun twice.\n\nيَغْتَاب yaghtāb [imperf. of v. VIII, trans.] to backbite, to slander\n\n681",
+      "definition_english": "gh–y–b the unknown, the invisible, depth of a well, to vanish,\nto be concealed, to be absent; to be doubtful; setting of the sun,\nthe moon or the stars; to travel in the folds of the Earth; to\nslander, to backbite, gossip. Of this root, six forms occur 60 times\nin the Qur’an: يَغْتَاب yaghtāb once; الْغَيْب ʾal-ghayb 49 times; غُيُوب\nghuyūb four times; غَائِبَة ghāʾibatun once; غَائِبِينَ ghāʾibīn three\ntimes and غَيَابَة ghayābatun twice.\n\nيَغْتَاب yaghtāb [imperf. of v. VIII, trans.] to backbite, to slander\n\n681"
+    }
+  ],
   "occurrences": [
     "10:20:10",
     "11:123:2",

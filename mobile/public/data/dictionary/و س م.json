@@ -1,9 +1,17 @@
 {
-  "id": 4409,
   "root": "و س م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوسل - وسم\n\n(وسم) الواو والسين والميم: أصلٌ واحد يدلُّ على أثَر ومَعْلم. ووسَمْت الشّيءَ وَسْماً: أثَّرْتُ فيه بِسِمة. والوَسْميُّ: أوّلُ المطر، لأنّه يَسِمُ الأرض بالنَّبات. قال الأصمعيّ: توَسّمَ: طلَبَ الكلأَ الوسميَّ. قال:\n\nعلى وِجهةٍ من ظاعنٍ متوسِّمٍ\n\nوأصبَحْنَ كالدَّوْمِ النَّواعِمِ غُدوةً\n\nوسمِّيَ مَوسِم الحاجِّ مَوسماً لأنَّه مَعْلمٌ يجتمع إليه النّاس. وفلانٌ موسومٌ بالخير، وفلانةُ ذاتُ مِيسَمٍ، إذا كان عليها أثَر الجمال. والوَسامة: الجمال. وقوله:\n\n* حِياضُ عِراكٍ هدَّمَتْها المواسِمُ *\n\nفيقال أراد أهلَ المواسم، ويقال أرادَ إبلاً موسومة. ووَسَّمَ النّاسُ: شَهِدُوا\n\nوسن - وسب - وسج - وسخ - وسد\n\nالموسِم، كما يقال عَيَّدوا. وقوله تعالى: ] إنَّ في ذلِكَ لآياتٍ للمُتَوَسِّمِينَ [ [الحجر 75]: النَّاظرين في السِّمَة الدَّالَّة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوسل - وسم\n\n(وسم) الواو والسين والميم: أصلٌ واحد يدلُّ على أثَر ومَعْلم. ووسَمْت الشّيءَ وَسْماً: أثَّرْتُ فيه بِسِمة. والوَسْميُّ: أوّلُ المطر، لأنّه يَسِمُ الأرض بالنَّبات. قال الأصمعيّ: توَسّمَ: طلَبَ الكلأَ الوسميَّ. قال:\n\nعلى وِجهةٍ من ظاعنٍ متوسِّمٍ\n\nوأصبَحْنَ كالدَّوْمِ النَّواعِمِ غُدوةً\n\nوسمِّيَ مَوسِم الحاجِّ مَوسماً لأنَّه مَعْلمٌ يجتمع إليه النّاس. وفلانٌ موسومٌ بالخير، وفلانةُ ذاتُ مِيسَمٍ، إذا كان عليها أثَر الجمال. والوَسامة: الجمال. وقوله:\n\n* حِياضُ عِراكٍ هدَّمَتْها المواسِمُ *\n\nفيقال أراد أهلَ المواسم، ويقال أرادَ إبلاً موسومة. ووَسَّمَ النّاسُ: شَهِدُوا\n\nوسن - وسب - وسج - وسخ - وسد\n\nالموسِم، كما يقال عَيَّدوا. وقوله تعالى: ] إنَّ في ذلِكَ لآياتٍ للمُتَوَسِّمِينَ [ [الحجر 75]: النَّاظرين في السِّمَة الدَّالَّة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–s–m brand, sign, branding iron; to cauterise; good looks;\nseasons, returning occasions, spring rain; to see signs of certain\ntraits in someone, to gauge; to ornament. Of this root, two forms,\nنَسِم nasim and مُتَوَسِّمُون mutawassimūn, occur once each in the\nQur’an.\n\nنَسِم nasim [imperf. of v. وَسَم wasama, trans.] to brand (68:16)\nسَنَسِمُهُ عَلَى الْخُرْطُومِ We will brand him on the snout.\n\nمُتَوَسِّمِين mutawassimīn [pl. of act. part. مُتَوَسِّم mutawassim] one\nwho infers, uses clues to read the signs (15:75) إِنَّ فِي ذَلِكَ لَآيَاتٍ\nلِلْمُتَوَسِّمِينَ there is truly a lesson in this for those who read the signs.\n\nأَسْمَاء ʾasmāʾ (see س/م/و s–m–w).",
+      "definition_english": "w–s–m brand, sign, branding iron; to cauterise; good looks;\nseasons, returning occasions, spring rain; to see signs of certain\ntraits in someone, to gauge; to ornament. Of this root, two forms,\nنَسِم nasim and مُتَوَسِّمُون mutawassimūn, occur once each in the\nQur’an.\n\nنَسِم nasim [imperf. of v. وَسَم wasama, trans.] to brand (68:16)\nسَنَسِمُهُ عَلَى الْخُرْطُومِ We will brand him on the snout.\n\nمُتَوَسِّمِين mutawassimīn [pl. of act. part. مُتَوَسِّم mutawassim] one\nwho infers, uses clues to read the signs (15:75) إِنَّ فِي ذَلِكَ لَآيَاتٍ\nلِلْمُتَوَسِّمِينَ there is truly a lesson in this for those who read the signs.\n\nأَسْمَاء ʾasmāʾ (see س/م/و s–m–w)."
+    }
+  ],
   "occurrences": [
     "15:75:5",
     "68:16:1"

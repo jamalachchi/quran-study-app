@@ -1,9 +1,17 @@
 {
-  "id": 894,
   "root": "ح ي ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حير) الحاء والياء والراء أصلٌ واحد، وهو التردُّد في الشيء. من ذلك الحَيْرة، وقد حار في الأمر يَحِير، وتحيَّر يتحير. والحَيْرُ والحائِر: الموضع يتحيّر فيه الماء. قال قيس :\n\nغَدِق بساحَةِ حَائر يَعْبوبِ\n\nتَخْطُو على بَرْدِيّتين غذاهُما\n\nويقال لكلِّ ممتلئٍ مستَحِيرٌ، وهو قياسٌ صحيح، لأنه إذا امتلأ تردّد بعضُه على بعض، كالحائر الذي يتردّد فيه [الماء] إذا امتلأ. قال أبو ذؤيب:\n\n* واستحارَ شَبابُها *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حير) الحاء والياء والراء أصلٌ واحد، وهو التردُّد في الشيء. من ذلك الحَيْرة، وقد حار في الأمر يَحِير، وتحيَّر يتحير. والحَيْرُ والحائِر: الموضع يتحيّر فيه الماء. قال قيس :\n\nغَدِق بساحَةِ حَائر يَعْبوبِ\n\nتَخْطُو على بَرْدِيّتين غذاهُما\n\nويقال لكلِّ ممتلئٍ مستَحِيرٌ، وهو قياسٌ صحيح، لأنه إذا امتلأ تردّد بعضُه على بعض، كالحائر الذي يتردّد فيه [الماء] إذا امتلأ. قال أبو ذؤيب:\n\n* واستحارَ شَبابُها *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–r (there is a degree of overlapping between this root and root ح/و/ر h–w–r) a ditch into which flood water is trapped, to go from one side to the other; to be confused, to be puzzled, to be distracted. Of this root, حَيْرَان ḥayrān occurs once in the Qur’an.\nحَيْرَان ḥayrān [quasi-act. part.] bewildered, confused (6:71) وَنُرَدُّ عَلَى أَعْقَابِنَا بَعْدَ إِذْ هَدَانَا اللَّهُ كَالَّذِي اسْتَهْوَتْهُ الشَّيَاطِينُ فِي الْأَرْضِ حَيْرَانَ and to be turned on our heels, bewildered, after God has guided us, like someone whom devils have lured into the earth.",
+      "definition_english": "h–y–r (there is a degree of overlapping between this root and root ح/و/ر h–w–r) a ditch into which flood water is trapped, to go from one side to the other; to be confused, to be puzzled, to be distracted. Of this root, حَيْرَان ḥayrān occurs once in the Qur’an.\nحَيْرَان ḥayrān [quasi-act. part.] bewildered, confused (6:71) وَنُرَدُّ عَلَى أَعْقَابِنَا بَعْدَ إِذْ هَدَانَا اللَّهُ كَالَّذِي اسْتَهْوَتْهُ الشَّيَاطِينُ فِي الْأَرْضِ حَيْرَانَ and to be turned on our heels, bewildered, after God has guided us, like someone whom devils have lured into the earth."
+    }
+  ],
   "occurrences": [
     "6:71:23"
   ]

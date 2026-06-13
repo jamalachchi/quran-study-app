@@ -1,8 +1,11 @@
 {
-  "id": 2035,
   "root": "ش و ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشوي\n\n(شوذ) الشين والواو والذال ليس فيه إلاَّ المِشْوَذ، وهي العمامة. قال الوليد بن عقبة:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشوي\n\n(شوذ) الشين والواو والذال ليس فيه إلاَّ المِشْوَذ، وهي العمامة. قال الوليد بن عقبة:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

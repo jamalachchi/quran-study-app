@@ -1,8 +1,11 @@
 {
-  "id": 3554,
   "root": "ل ص غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلسب\n\n(لصغ) اللام والصاد والغين ليس بشيء. على أنّهم يقولون لصَِغ الجِلد : يَبس على العَظْم عَجَفاً .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلسب\n\n(لصغ) اللام والصاد والغين ليس بشيء. على أنّهم يقولون لصَِغ الجِلد : يَبس على العَظْم عَجَفاً .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

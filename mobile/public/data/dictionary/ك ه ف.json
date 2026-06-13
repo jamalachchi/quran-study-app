@@ -1,9 +1,17 @@
 {
-  "id": 3300,
   "root": "ك ه ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهف) الكاف والهاء والفاء كلمةٌ واحدة، وهي غارٌ في جَبَل، وجمعه كُهوف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهف) الكاف والهاء والفاء كلمةٌ واحدة، وهي غارٌ في جَبَل، وجمعه كُهوف.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–h–f cave, cavern, hollow, refuge, helpful person. Of this\nroot, كَهْف kahf occurs six times in the Qur’an.\n\nكَهْف kahf [n.] cave, cavern (18:10) إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ when the\nyoung men took refuge in the cave; *(18:9) أَصْحَابَ الْكَهْفِ Sleepers\nof the Cave, Companions of the Cave. The Qur’an speaks of the\nCompanions of the Cave as being a group of young people who\nbelieved in God. As a result of persecution by the rulers of their\ntime, they escaped to a secluded cave where, together with their\ndog, they went to sleep. There they remained in a state of slumber\nfor three hundred and nine years until the time came for them to\nbe woken. Unaware of the length of their sojourn, they sent one\nof their number out for provisions in disguise and to ascertain\nhow long they had been sleeping. Despite his being discovered,\ndue to the use of outdated coins, the Companions of the Cave\nwere much honoured by those people of the time who, like them,\nrecognised the true God. The story is given in the Qur’an in\nanswer to a riddle which the Jews of Medina put to the Prophet\nconcerning the identity and the number of the group and the time\nthey tarried in the cave. * الكهف name of Sura 18, Meccan sura, so-\nnamed because of the reference in verses 9–26 to the story of the\nCompanions in ‘the Cave’.",
+      "definition_english": "k–h–f cave, cavern, hollow, refuge, helpful person. Of this\nroot, كَهْف kahf occurs six times in the Qur’an.\n\nكَهْف kahf [n.] cave, cavern (18:10) إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ when the\nyoung men took refuge in the cave; *(18:9) أَصْحَابَ الْكَهْفِ Sleepers\nof the Cave, Companions of the Cave. The Qur’an speaks of the\nCompanions of the Cave as being a group of young people who\nbelieved in God. As a result of persecution by the rulers of their\ntime, they escaped to a secluded cave where, together with their\ndog, they went to sleep. There they remained in a state of slumber\nfor three hundred and nine years until the time came for them to\nbe woken. Unaware of the length of their sojourn, they sent one\nof their number out for provisions in disguise and to ascertain\nhow long they had been sleeping. Despite his being discovered,\ndue to the use of outdated coins, the Companions of the Cave\nwere much honoured by those people of the time who, like them,\nrecognised the true God. The story is given in the Qur’an in\nanswer to a riddle which the Jews of Medina put to the Prophet\nconcerning the identity and the number of the group and the time\nthey tarried in the cave. * الكهف name of Sura 18, Meccan sura, so-\nnamed because of the reference in verses 9–26 to the story of the\nCompanions in ‘the Cave’."
+    }
+  ],
   "occurrences": [
     "18:10:5",
     "18:11:5",

@@ -1,9 +1,22 @@
 {
-  "id": 4102,
   "root": "ن ك ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنكل\n\n(نكث) النون والكاف والثاء أصلٌ صحيح يدلُّ على نقض شيء. ونكثَ العهد ينكُثُه نَكْثاً. وانتَكَثَ الشّيءُ: انتَقَض. وقال قولاً لا نَكِيثَةَ فيه، أي لا خُلْف. ومنه: طَلَب حاجةً ثم انتكثَ لأُخْرَى. كأنه نقض عَزْمَه الأوّل. والنِّكْث: أن تُنقَضَ أخلاقُ الأكسية وتُغْزَلَ ثانية، وبها سمِّي الرَّجلُ نِكْثاً. والنَّكيثَةُ: خُطَّةٌ صَعبة يَنكُثُ فيها القَومُ. قال طرفة:\n\n* مَتَى يَكُ أمرٌ للنَّكيثةِ أَشْهَدِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنكل\n\n(نكث) النون والكاف والثاء أصلٌ صحيح يدلُّ على نقض شيء. ونكثَ العهد ينكُثُه نَكْثاً. وانتَكَثَ الشّيءُ: انتَقَض. وقال قولاً لا نَكِيثَةَ فيه، أي لا خُلْف. ومنه: طَلَب حاجةً ثم انتكثَ لأُخْرَى. كأنه نقض عَزْمَه الأوّل. والنِّكْث: أن تُنقَضَ أخلاقُ الأكسية وتُغْزَلَ ثانية، وبها سمِّي الرَّجلُ نِكْثاً. والنَّكيثَةُ: خُطَّةٌ صَعبة يَنكُثُ فيها القَومُ. قال طرفة:\n\n* مَتَى يَكُ أمرٌ للنَّكيثةِ أَشْهَدِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "punish, to deny, to dislike, to reproach, to loathe, to take revenge.\nOf this root, four forms occur 17 times in the Qur’an: نَقَمَ naqama\nfour times; اِنتَقَمَ ʾintaqama six times; اِنتِقَام ʾintiqām four times and\nمُنْتَقِمُون muntaqimūn three times.\n\nنَقَمَ naqama i [v. intrans.] to resent, to disapprove of, to loathe\n(5:59) هَلْ تَنْقِمُونَ مِنَّا إِلَّا أَنْ آمَنَّا بِاللَّهِ do you disapprove of us for any\nreason other than that we believe in God?\n\nاِنتَقَمَ ʾintaqama [v. VIII intrans.] to punish, to take to task for,\nto take revenge, to take retribution; to exact a penalty (5:95) وَمَنْ\nعَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ but whoever relapses, God will exact the penalty\nfrom him.\n\nاِنتِقَام ʾintiqām [v. n./n.] punishment, retribution (39:37) أَلَيْسَ اللَّهُ\nبِعَزِيزٍ ذِي انْتِقَامٍ is God not Almighty and capable of retribution?\n\nمُنْتَقِمُون muntaqimūn [pl. of act. part. مُنْتَقِم muntaqim] ones\ninflicting punishment, taking to task, exacting retribution (32:22)\nإِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ We shall inflict retribution on the guilty.",
+      "definition_english": "punish, to deny, to dislike, to reproach, to loathe, to take revenge.\nOf this root, four forms occur 17 times in the Qur’an: نَقَمَ naqama\nfour times; اِنتَقَمَ ʾintaqama six times; اِنتِقَام ʾintiqām four times and\nمُنْتَقِمُون muntaqimūn three times.\n\nنَقَمَ naqama i [v. intrans.] to resent, to disapprove of, to loathe\n(5:59) هَلْ تَنْقِمُونَ مِنَّا إِلَّا أَنْ آمَنَّا بِاللَّهِ do you disapprove of us for any\nreason other than that we believe in God?\n\nاِنتَقَمَ ʾintaqama [v. VIII intrans.] to punish, to take to task for,\nto take revenge, to take retribution; to exact a penalty (5:95) وَمَنْ\nعَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ but whoever relapses, God will exact the penalty\nfrom him.\n\nاِنتِقَام ʾintiqām [v. n./n.] punishment, retribution (39:37) أَلَيْسَ اللَّهُ\nبِعَزِيزٍ ذِي انْتِقَامٍ is God not Almighty and capable of retribution?\n\nمُنْتَقِمُون muntaqimūn [pl. of act. part. مُنْتَقِم muntaqim] ones\ninflicting punishment, taking to task, exacting retribution (32:22)\nإِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ We shall inflict retribution on the guilty."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–k–th to untwist yarn, to undo what has been done, to go\nback on an agreement, to renege on a promise, to violate an oath;\ngreat crisis. Of this root, two forms occur seven times in the\nQur’an: نَكَثَ nakatha six times and أَنْكَاث ʾankāth once.\n\n962",
+      "definition_english": "n–k–th to untwist yarn, to undo what has been done, to go\nback on an agreement, to renege on a promise, to violate an oath;\ngreat crisis. Of this root, two forms occur seven times in the\nQur’an: نَكَثَ nakatha six times and أَنْكَاث ʾankāth once.\n\n962"
+    }
+  ],
   "occurrences": [
     "16:92:9",
     "43:50:7",

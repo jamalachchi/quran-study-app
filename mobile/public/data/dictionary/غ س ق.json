@@ -1,9 +1,22 @@
 {
-  "id": 2834,
   "root": "غ س ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرب\n\n(غسق) الغين والسين والقاف أصلٌ صحيح يدل على ظُلْمة. فالغَسَق: الظلمة. والغاسِق: الليل. ويقال: غَسَقت عينُه: أظلمت. وأغْسَقَ المؤذِّن، إذا أخَّر صلاةَ المغرب إلى غَسَق اللَّيل. وأمّا الغَسَّاق الذي جاء في القرآن، فقال المفسِّرون: ما تقطَّرَ من جلود أهل النار.\n\n(باب الغين والشين وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرب\n\n(غسق) الغين والسين والقاف أصلٌ صحيح يدل على ظُلْمة. فالغَسَق: الظلمة. والغاسِق: الليل. ويقال: غَسَقت عينُه: أظلمت. وأغْسَقَ المؤذِّن، إذا أخَّر صلاةَ المغرب إلى غَسَق اللَّيل. وأمّا الغَسَّاق الذي جاء في القرآن، فقال المفسِّرون: ما تقطَّرَ من جلود أهل النار.\n\n(باب الغين والشين وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "nor those who cause unrest in the city, We will rouse you against\nthem 2 to stir up (5:14) فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ so We stirred up\nenmity and hatred among them .",
+      "definition_english": "nor those who cause unrest in the city, We will rouse you against\nthem 2 to stir up (5:14) فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ so We stirred up\nenmity and hatred among them ."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–s–q evening dusk, darkness of the night; bright red;\nextreme coldness, pus, foul fluid, to pour out, (of the eye) to\nwater. Of this root, three forms occur four times in the Qur’an:\nغَسَق ghasaq once; غَاسِق ghāsiq once and غَسَّاق ghassāq twice.\n\nغَسَق ghasaq [n.] dusk or darkness of the night (17:78) أَقِمِ الصَّلَاةَ\nلِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ establish the prayer at the going down of\nthe sun (or, the time it goes past its zenith) until the darkness of\nthe night.\n\nغَاسِق ghāsiq [act. part./n.] one entering into darkness; the\nmoon; night or early part of the night (113:3) وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ\nand of the evil of the darkness when it descends [also interpreted\nas: the night, the moon, or, the Pleiades] when it prevails.\n\nغَسَّاق ghassāq [intens. act. part./n.] pus, dark, foul fluid (38:57)\nهَذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ all this [will be theirs], let them taste it–\nscalding water, a dark, foul fluid.\n\n666",
+      "definition_english": "gh–s–q evening dusk, darkness of the night; bright red;\nextreme coldness, pus, foul fluid, to pour out, (of the eye) to\nwater. Of this root, three forms occur four times in the Qur’an:\nغَسَق ghasaq once; غَاسِق ghāsiq once and غَسَّاق ghassāq twice.\n\nغَسَق ghasaq [n.] dusk or darkness of the night (17:78) أَقِمِ الصَّلَاةَ\nلِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ establish the prayer at the going down of\nthe sun (or, the time it goes past its zenith) until the darkness of\nthe night.\n\nغَاسِق ghāsiq [act. part./n.] one entering into darkness; the\nmoon; night or early part of the night (113:3) وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ\nand of the evil of the darkness when it descends [also interpreted\nas: the night, the moon, or, the Pleiades] when it prevails.\n\nغَسَّاق ghassāq [intens. act. part./n.] pus, dark, foul fluid (38:57)\nهَذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ all this [will be theirs], let them taste it–\nscalding water, a dark, foul fluid.\n\n666"
+    }
+  ],
   "occurrences": [
     "113:3:3",
     "17:78:6",

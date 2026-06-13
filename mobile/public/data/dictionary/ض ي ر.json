@@ -1,9 +1,17 @@
 {
-  "id": 2328,
   "root": "ض ي ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضوج - ضوع\n\n(ضير) الضاد والياء والراء كلمةٌ واحدةٌ، وهو من الضَّير والمضَرَّة. ولا يَضِيرني كذا، أي لا يضرُّني. قال الله تعالى: ] وَإِنْ تَصْبِرُوا وَتَتَّقُوا لاَ يَضِرْكُم كيدُهم شيئاً [ [آل عمران 120].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضوج - ضوع\n\n(ضير) الضاد والياء والراء كلمةٌ واحدةٌ، وهو من الضَّير والمضَرَّة. ولا يَضِيرني كذا، أي لا يضرُّني. قال الله تعالى: ] وَإِنْ تَصْبِرُوا وَتَتَّقُوا لاَ يَضِرْكُم كيدُهم شيئاً [ [آل عمران 120].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-y-r to harm, to injure; to inconvenience. Of this root, ضير\n558 ض/ي/ز\n\nḍayr, occurs once in the Qurʾan.\n\nضير ḍayr [v. n./n.] harm, injury *(26:50) قالوا لا ضير إنّا إلى ربّنا\nمنقلبون they said: ‘No matter (or, no harm done), for we are sure to\nreturn to our Lord.’",
+      "definition_english": "ḍ-y-r to harm, to injure; to inconvenience. Of this root, ضير\n558 ض/ي/ز\n\nḍayr, occurs once in the Qurʾan.\n\nضير ḍayr [v. n./n.] harm, injury *(26:50) قالوا لا ضير إنّا إلى ربّنا\nمنقلبون they said: ‘No matter (or, no harm done), for we are sure to\nreturn to our Lord.’"
+    }
+  ],
   "occurrences": [
     "26:50:3"
   ]

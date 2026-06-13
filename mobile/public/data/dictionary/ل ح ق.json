@@ -1,9 +1,22 @@
 {
-  "id": 3524,
   "root": "ل ح ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لحق) اللام والحاء والقاف أصلٌ يدلُّ على إدراكِ شيءٍ وبُلوغه إلى غيره. يقال: لَحِقَ فلانٌ فلاناً فهو لاحق. وألْحَقَ بمعناه. وفي الدعاء: \"إن عَذَابك بالكُفَّار مُلْحِقٌ \"، قالوا: معناه لاحق. وربما قالوا: لَحِقْتُه: اتَّبَعْتُه، وألحقتُه: وصلت إليه. والمُلْحَق: الدعيُّ المُلصَق. واللَّحَق في التَّمرِ: [داءٌ يُصِيبهُ ].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لحق) اللام والحاء والقاف أصلٌ يدلُّ على إدراكِ شيءٍ وبُلوغه إلى غيره. يقال: لَحِقَ فلانٌ فلاناً فهو لاحق. وألْحَقَ بمعناه. وفي الدعاء: \"إن عَذَابك بالكُفَّار مُلْحِقٌ \"، قالوا: معناه لاحق. وربما قالوا: لَحِقْتُه: اتَّبَعْتُه، وألحقتُه: وصلت إليه. والمُلْحَق: الدعيُّ المُلصَق. واللَّحَق في التَّمرِ: [داءٌ يُصِيبهُ ].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "لُجِّيّ lujjiyy [quas-act.part.] (of the sea) tumultuous and deep,\nturbulent, fathomless (24:40) أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشَاهُ مَوْجٌ مِّنْ\nفَوْقِهِ or like darkness on a tumultuous sea, topped by wave(s)\nupon wave(s), above them are clouds.",
+      "definition_english": "لُجِّيّ lujjiyy [quas-act.part.] (of the sea) tumultuous and deep,\nturbulent, fathomless (24:40) أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشَاهُ مَوْجٌ مِّنْ\nفَوْقِهِ or like darkness on a tumultuous sea, topped by wave(s)\nupon wave(s), above them are clouds."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–ḥ–q to catch up, to reach, to follow, to go after; pursuit; to\nattach, to annex. Of this root, two forms occur six times in the\nQur’an: يَلْحَق yalḥaq twice and أَلْحَق ʾalḥaqa four times.\n\nيَلْحَق yalḥaq [imperf. of v. I لَحِقَ laḥiqa trans.] to catch up with,\nto join up with (3:170) لَمْ يَلْحَقُوا بِهِمْ they have not caught up with\n\n838",
+      "definition_english": "l–ḥ–q to catch up, to reach, to follow, to go after; pursuit; to\nattach, to annex. Of this root, two forms occur six times in the\nQur’an: يَلْحَق yalḥaq twice and أَلْحَق ʾalḥaqa four times.\n\nيَلْحَق yalḥaq [imperf. of v. I لَحِقَ laḥiqa trans.] to catch up with,\nto join up with (3:170) لَمْ يَلْحَقُوا بِهِمْ they have not caught up with\n\n838"
+    }
+  ],
   "occurrences": [
     "12:101:20",
     "26:83:5",

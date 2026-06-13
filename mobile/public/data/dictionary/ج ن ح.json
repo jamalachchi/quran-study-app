@@ -1,9 +1,22 @@
 {
-  "id": 671,
   "root": "ج ن ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجنث - جنح\n\n(جنح) الجيم والنون والحاء أصلٌ واحدٌ يدلُّ على المَيْلِ والعُدْوان. ويقال جنح إلى كذا، أي مالَ إليه. وسمِّي الجَناحانِ جَناحَيْنِ لميلهما في الشِّقَّين. والجُنَاح: الإثم، سمّي بذلك لمَيْلِه عن طريق الحقِّ.\n\nوهذا هو الأصل ثمَّ يشتقّ منه، فيقال للطائفة من الليل جُنْح وجِنْح،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجنث - جنح\n\n(جنح) الجيم والنون والحاء أصلٌ واحدٌ يدلُّ على المَيْلِ والعُدْوان. ويقال جنح إلى كذا، أي مالَ إليه. وسمِّي الجَناحانِ جَناحَيْنِ لميلهما في الشِّقَّين. والجُنَاح: الإثم، سمّي بذلك لمَيْلِه عن طريق الحقِّ.\n\nوهذا هو الأصل ثمَّ يشتقّ منه، فيقال للطائفة من الليل جُنْح وجِنْح،",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "جَانِب jānib [n.] 1 side (28:29) آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا he caught sight of a fire on the side of the Mount; *(17:83) نَأَى بِجَانِبِهِ he becomes haughty, arrogant [lit. he draws away with his side in disdain] 2 direction (37:8) وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ they cannot eavesdrop on the Supreme Assembly, and they are pelted from every direction.\n",
+      "definition_english": "جَانِب jānib [n.] 1 side (28:29) آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا he caught sight of a fire on the side of the Mount; *(17:83) نَأَى بِجَانِبِهِ he becomes haughty, arrogant [lit. he draws away with his side in disdain] 2 direction (37:8) وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ they cannot eavesdrop on the Supreme Assembly, and they are pelted from every direction.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–n–ḥ wings of a bird; side; arm, hand; to lean on, to tilt, to incline, to go over, to turn away; error, crime, harm. Of this root, five forms occur 34 times in the Qurʾan: جَنَحَ janaha twice; جَنَاح janāḥ five times; جَنَاحَيْن janāḥayn once; أَجْنِحَة ʾajniḥatun once and جُنَاح junāḥ 25 times.\nجَنَحَ janaha a [v. intrans. with prep. إِلَى] to incline towards (8:61) وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا but if they incline towards peace, then incline you to it [too].\n\nجَنَاح janāḥ [n., dual جَنَاحَان janāḥān, pl. أَجْنِحَة ʾajniḥatun] 1 wing (6:38) وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّا أُمَمٌ أَمْثَالُكُمْ there are no creatures on the earth, or birds that fly with their two wings, but they are communities like yourselves 2 arm, side, flank, upper arm, armpit (20:22) وَاضْمُمْ يَدَكَ إِلَى جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ and place your hand under your armpit: it will come out white without a blemish; *(15:88) وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ be tender for/to the believers [lit. lower your wing towards the believers].\n\nجُنَاح junāḥ [n.] 1 sin, crime; blame, censure, discordance (4:128) وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يُصْلِحَا بَيْنَهُمَا صُلْحًا and if a woman experiences discordance or alienation from her husband, there is no blame on them if they agree between them on a settlement 2 [jur.] financial obligations (2:236) لَا جُنَاحَ عَلَيْكُمْ إِنْ طَلَّقْتُمُ النِّسَاءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا لَهُنَّ فَرِيضَةً there are no financial obligations on you if you divorce women unless you have touched them or have appointed a dowry for them.",
+      "definition_english": "j–n–ḥ wings of a bird; side; arm, hand; to lean on, to tilt, to incline, to go over, to turn away; error, crime, harm. Of this root, five forms occur 34 times in the Qurʾan: جَنَحَ janaha twice; جَنَاح janāḥ five times; جَنَاحَيْن janāḥayn once; أَجْنِحَة ʾajniḥatun once and جُنَاح junāḥ 25 times.\nجَنَحَ janaha a [v. intrans. with prep. إِلَى] to incline towards (8:61) وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا but if they incline towards peace, then incline you to it [too].\n\nجَنَاح janāḥ [n., dual جَنَاحَان janāḥān, pl. أَجْنِحَة ʾajniḥatun] 1 wing (6:38) وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّا أُمَمٌ أَمْثَالُكُمْ there are no creatures on the earth, or birds that fly with their two wings, but they are communities like yourselves 2 arm, side, flank, upper arm, armpit (20:22) وَاضْمُمْ يَدَكَ إِلَى جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ and place your hand under your armpit: it will come out white without a blemish; *(15:88) وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ be tender for/to the believers [lit. lower your wing towards the believers].\n\nجُنَاح junāḥ [n.] 1 sin, crime; blame, censure, discordance (4:128) وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يُصْلِحَا بَيْنَهُمَا صُلْحًا and if a woman experiences discordance or alienation from her husband, there is no blame on them if they agree between them on a settlement 2 [jur.] financial obligations (2:236) لَا جُنَاحَ عَلَيْكُمْ إِنْ طَلَّقْتُمُ النِّسَاءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا لَهُنَّ فَرِيضَةً there are no financial obligations on you if you divorce women unless you have touched them or have appointed a dowry for them."
+    }
+  ],
   "occurrences": [
     "15:88:14",
     "17:24:3",

@@ -1,9 +1,17 @@
 {
-  "id": 578,
   "root": "ج د ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجخف - جدر\n\n(جدر) الجيم والدال والراء أصلان، فالأوّل الجِدار، وهو الحائط وجمعه جُدُر وجُدْران. والجَدرُ أصل الحائط. وفي الحديث: \"اسْقِ يا زُبيرُ ودَعِ الماء يرجع إلى الجَدْر \". وقال ابن دريد: الجَدَرَةُ حيٌّ من الأزْدِ بنوا جدار الكعبة. ومنه الجَديرة، شيءٌ يُجعَل للغنم كالحظيرة. وجَدَر: قرية. قال:\n\nبماءِ سحابٍ يَسْبِقُ الحقَّ باطِلي\n\nألا يا اصْبَحينا فَيْهَجاً جَدَرِيَّةً\n\nومن هذا الباب قولهم هو جديرٌ بكذا، أي حريٌّ به. وهو مما ينبغي أن يثبت ويبني أمرَه عليه. ويقولون: الجديرة الطبيعة.\n\nوالأصل الثاني ظُهور الشيء، نباتاً وغيره. فالجُدَرِيُّ معروف، وهو الجَدَرِيُّ أيضاً. ويقال شاةٌ جَدْراءُ إذا كان بها ذاك، والجَدَر: سِلْعَةٌ تظهر في الجسد. والجَدْر النبات، يقال: أجْدَرَ المكانُ وجَدَرَ، إذا ظهر نباته. قال الجَعْدِي:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجخف - جدر\n\n(جدر) الجيم والدال والراء أصلان، فالأوّل الجِدار، وهو الحائط وجمعه جُدُر وجُدْران. والجَدرُ أصل الحائط. وفي الحديث: \"اسْقِ يا زُبيرُ ودَعِ الماء يرجع إلى الجَدْر \". وقال ابن دريد: الجَدَرَةُ حيٌّ من الأزْدِ بنوا جدار الكعبة. ومنه الجَديرة، شيءٌ يُجعَل للغنم كالحظيرة. وجَدَر: قرية. قال:\n\nبماءِ سحابٍ يَسْبِقُ الحقَّ باطِلي\n\nألا يا اصْبَحينا فَيْهَجاً جَدَرِيَّةً\n\nومن هذا الباب قولهم هو جديرٌ بكذا، أي حريٌّ به. وهو مما ينبغي أن يثبت ويبني أمرَه عليه. ويقولون: الجديرة الطبيعة.\n\nوالأصل الثاني ظُهور الشيء، نباتاً وغيره. فالجُدَرِيُّ معروف، وهو الجَدَرِيُّ أيضاً. ويقال شاةٌ جَدْراءُ إذا كان بها ذاك، والجَدَر: سِلْعَةٌ تظهر في الجسد. والجَدْر النبات، يقال: أجْدَرَ المكانُ وجَدَرَ، إذا ظهر نباته. قال الجَعْدِي:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–d–r wall, walling-in, an enclosure; pustules, smallpox; to be worthy of something. Of this root, three forms occur four times in the Qurʾan: أَجْدَر ʾajdar once; جِدَار jidār twice and جُدُر judur once.\nأَجْدَر ʾajdar [elat.] more/most likely to, more/most disposed to; more/most worthy of (9:97) الْأَعْرَابُ أَشَدُّ كُفْرًا وَنِفَاقًا وَأَجْدَرُ أَلَّا يَعْلَمُوا حُدُودَ مَا أَنزَلَ اللَّهُ عَلَىٰ رَسُولِهِ the desert Arabs are more severe in their disbelief and hypocrisy, and more likely not to know the limits of what God has sent down upon His Messenger.\n\nجِدَار jidār [n., pl. جُدُر judur] wall (18:77) فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ they found in it a wall on the point of collapsing and he set it up.",
+      "definition_english": "j–d–r wall, walling-in, an enclosure; pustules, smallpox; to be worthy of something. Of this root, three forms occur four times in the Qurʾan: أَجْدَر ʾajdar once; جِدَار jidār twice and جُدُر judur once.\nأَجْدَر ʾajdar [elat.] more/most likely to, more/most disposed to; more/most worthy of (9:97) الْأَعْرَابُ أَشَدُّ كُفْرًا وَنِفَاقًا وَأَجْدَرُ أَلَّا يَعْلَمُوا حُدُودَ مَا أَنزَلَ اللَّهُ عَلَىٰ رَسُولِهِ the desert Arabs are more severe in their disbelief and hypocrisy, and more likely not to know the limits of what God has sent down upon His Messenger.\n\nجِدَار jidār [n., pl. جُدُر judur] wall (18:77) فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ they found in it a wall on the point of collapsing and he set it up."
+    }
+  ],
   "occurrences": [
     "18:77:14",
     "18:82:2",

@@ -1,9 +1,17 @@
 {
-  "id": 866,
   "root": "ح ن ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحمل\n\n(حنث) الحاءُ والنون والثاء أصلٌ واحد، وهو الإثْم والحَرَج. يقال حَنِثَ فلانٌ في كذا، أي أثِمَ. ومن ذلك قولهم: بلغ الغلام الحِنْثَ، أي بلغ مبلغاً جَرى عليه القلمُ بالطّاعة والمعصية، وأُثبتت عليه ذنوبُه. ومن ذلك الحِنْث",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحمل\n\n(حنث) الحاءُ والنون والثاء أصلٌ واحد، وهو الإثْم والحَرَج. يقال حَنِثَ فلانٌ في كذا، أي أثِمَ. ومن ذلك قولهم: بلغ الغلام الحِنْثَ، أي بلغ مبلغاً جَرى عليه القلمُ بالطّاعة والمعصية، وأُثبتت عليه ذنوبُه. ومن ذلك الحِنْث",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ–n–th manhood, maturity; sin, blasphemy, denial of God,\nwickedness; breaking an oath, perjury; to purify oneself, to\nworship, responsibility. Of this root, two forms occur once each\nin the Qurʾan: تَحْنَث taḥnath and حِنث ḥinth.\n\nتَحْنَث taḥnath [imperf. of v. حَنِثَ ḥanitha, intrans. with prep. فِي]\nto break one’s oath, to fail to honour one’s oath (38:44) وَخُذْ\nبِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ and take in your hand a small bunch of\ngrass, and strike with it, so as not to break your oath.\n\nحِنث ḥinth [v. n.; n.] abomination, sinning, breaking one’s oath,\n\n239",
+      "definition_english": "ḥ–n–th manhood, maturity; sin, blasphemy, denial of God,\nwickedness; breaking an oath, perjury; to purify oneself, to\nworship, responsibility. Of this root, two forms occur once each\nin the Qurʾan: تَحْنَث taḥnath and حِنث ḥinth.\n\nتَحْنَث taḥnath [imperf. of v. حَنِثَ ḥanitha, intrans. with prep. فِي]\nto break one’s oath, to fail to honour one’s oath (38:44) وَخُذْ\nبِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ and take in your hand a small bunch of\ngrass, and strike with it, so as not to break your oath.\n\nحِنث ḥinth [v. n.; n.] abomination, sinning, breaking one’s oath,\n\n239"
+    }
+  ],
   "occurrences": [
     "38:44:7",
     "56:46:4"

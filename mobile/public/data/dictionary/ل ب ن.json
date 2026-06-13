@@ -1,9 +1,22 @@
 {
-  "id": 3500,
   "root": "ل ب ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبس - لبط\n\n(لبن) اللام والباء النون أصلٌ صحيح يتفرَّع منه كلمات، وهو اللّبن المشروب. يقال: لبنتُه ألبِنُهُ، إذا سقيته اللَّبن. وفلانٌ لابنٌ، أي عِنده لبن، كما يقال تامر. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبس - لبط\n\n(لبن) اللام والباء النون أصلٌ صحيح يتفرَّع منه كلمات، وهو اللّبن المشروب. يقال: لبنتُه ألبِنُهُ، إذا سقيته اللَّبن. وفلانٌ لابنٌ، أي عِنده لبن، كما يقال تامر. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "*(16:112) لِبَاسَ الْجُوعِ وَالْخَوْفِ the state of hunger and fear 2 cover,\nhiding (78:10–11) وَجَعَلْنَا اللَّيْلَ لِبَاسًا وَجَعَلْنَا النَّهَارَ مَعَاشًا We have made\nthe night as a cover and the day for livelihood.\n\nلَبُوس labūs [n.] coat of mail, clothing (21:80) وَعَلَّمْنَاهُ صَنْعَةَ\nلَبُوسٍ لَكُمْ and We taught him the making of garments [of mail] to\nprotect you from your violence.",
+      "definition_english": "*(16:112) لِبَاسَ الْجُوعِ وَالْخَوْفِ the state of hunger and fear 2 cover,\nhiding (78:10–11) وَجَعَلْنَا اللَّيْلَ لِبَاسًا وَجَعَلْنَا النَّهَارَ مَعَاشًا We have made\nthe night as a cover and the day for livelihood.\n\nلَبُوس labūs [n.] coat of mail, clothing (21:80) وَعَلَّمْنَاهُ صَنْعَةَ\nلَبُوسٍ لَكُمْ and We taught him the making of garments [of mail] to\nprotect you from your violence."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–b–n milk, (of a female) to be with milk; quest, wish, desire;\nmud brick; tree sap. Of this root, only لَبَن laban occurs twice in\nthe Qur’an.\n\nلَبَن laban [n.] milk (16:66) نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ\nوَدَمٍ لَّبَنًا We give you to drink what is from inside their bellies,\nfrom the midst of dung and blood, pure [clean] milk, sweet to the\ndrinkers.",
+      "definition_english": "l–b–n milk, (of a female) to be with milk; quest, wish, desire;\nmud brick; tree sap. Of this root, only لَبَن laban occurs twice in\nthe Qur’an.\n\nلَبَن laban [n.] milk (16:66) نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ\nوَدَمٍ لَّبَنًا We give you to drink what is from inside their bellies,\nfrom the midst of dung and blood, pure [clean] milk, sweet to the\ndrinkers."
+    }
+  ],
   "occurrences": [
     "16:66:14",
     "47:15:14"

@@ -1,8 +1,11 @@
 {
-  "id": 3640,
   "root": "م و ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمهن - موت\n\n(موع) الميم والواو والعين. ماعَ الصُّفْرُ والفِضَّة في النار يمُوع ويَميعُ: ذابَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمهن - موت\n\n(موع) الميم والواو والعين. ماعَ الصُّفْرُ والفِضَّة في النار يمُوع ويَميعُ: ذابَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

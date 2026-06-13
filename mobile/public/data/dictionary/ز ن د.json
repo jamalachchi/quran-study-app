@@ -1,8 +1,11 @@
 {
-  "id": 1680,
   "root": "ز ن د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزني\n\n(زند) الزاء والنون* والدال أصلان: أحدهما عضو من الأعضاء، ثم يشبه به. والآخَر دليلُ ضيقٍ في شيء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزني\n\n(زند) الزاء والنون* والدال أصلان: أحدهما عضو من الأعضاء، ثم يشبه به. والآخَر دليلُ ضيقٍ في شيء.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

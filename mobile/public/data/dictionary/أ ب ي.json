@@ -1,9 +1,17 @@
 {
-  "id": 38,
   "root": "أ ب ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأبي\n\n* وهْوَ يُفَدَّى بالأبِينَ والخالْ *\n\nويجوز في الجمع أبُونَ. وهؤلاء أبوكم أي آباؤكم. أبو عبيد: ما كنتَ أباً ولقد أَبَيْتَ أبوّة. وأَبَوْتُ القوم أي كنتُ لهم أباً. قال:\n\nنؤمُّهمُ ونأْبُوهُمْ جميعاً\n\nكما قُدَّ السُّيُورُ من الأديمِ\n\nقال الخليل: فلانٌ يَأْبُو اليتيمَ، أي يغذو كما يغذو الوالد ولده.\n\n(أبي) الهمزة والباء والياء يدلّ على الامتناع. أبيت الشيء آباهُ، وقوم أَبيُّونَ وأباةٌ. قال:\n\n* أبيّ الضّيْمِ من نَفَرٍ أباة *\n\nوالإباء: أن تعرض على الرجل الشيءَ فيأبَى قبولَه، فتقول ما هذا الإباءُ، بالضم والكسر. العرب ما كان من نحو فَعَل يَفْعَل . والأبِيّة من الإبل: الصّعبة. قال اللِّحيانيُّ: رجلٌ أبَيَانٌ إذا كان يأبَى الأشياء ، وماءٌ مأباةٌ على مثال مَعْباةٍ، أي تأباه الإبل. قال ابنُ السكِّيت: أَخذَهُ أباءٌ إذا كأن يأبى الطّعامَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأبي\n\n* وهْوَ يُفَدَّى بالأبِينَ والخالْ *\n\nويجوز في الجمع أبُونَ. وهؤلاء أبوكم أي آباؤكم. أبو عبيد: ما كنتَ أباً ولقد أَبَيْتَ أبوّة. وأَبَوْتُ القوم أي كنتُ لهم أباً. قال:\n\nنؤمُّهمُ ونأْبُوهُمْ جميعاً\n\nكما قُدَّ السُّيُورُ من الأديمِ\n\nقال الخليل: فلانٌ يَأْبُو اليتيمَ، أي يغذو كما يغذو الوالد ولده.\n\n(أبي) الهمزة والباء والياء يدلّ على الامتناع. أبيت الشيء آباهُ، وقوم أَبيُّونَ وأباةٌ. قال:\n\n* أبيّ الضّيْمِ من نَفَرٍ أباة *\n\nوالإباء: أن تعرض على الرجل الشيءَ فيأبَى قبولَه، فتقول ما هذا الإباءُ، بالضم والكسر. العرب ما كان من نحو فَعَل يَفْعَل . والأبِيّة من الإبل: الصّعبة. قال اللِّحيانيُّ: رجلٌ أبَيَانٌ إذا كان يأبَى الأشياء ، وماءٌ مأباةٌ على مثال مَعْباةٍ، أي تأباه الإبل. قال ابنُ السكِّيت: أَخذَهُ أباءٌ إذا كأن يأبى الطّعامَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–b–y aversion, disdain; to refuse, to turn down, to reject. Of\nthis root, أَبَى ʾabā occurs 13 times in the Qur’an.\n\nأَبَى ʾabā [v. trans.] 1 to refuse (2:282) وَلاَ يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ\nاللَّهُ no scribe should refuse to write as God has taught him;\n*(9:32) وَيَأْبَى اللَّهُ إِلاَّ أَن يُتِمَّ نُورَهُ but God refuses [anything] save to\nperfect His light 2 to be averse to, to dislike, to disdain\n(9:8) يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ they give you satisfaction with their\nmouths, but their hearts are averse.\n\nاتَّسَق ʾittasaqa (see و/س/ق w–s–q).\n\nأَتْقَن ʾatqana (see ت/ق/ن t–q–n).\n\nاتَّقَى ʾittaqā (see و/ق/ي w–q–y).\n\n8\n\nأتوكّأ\n\nأَتَوَكَّأ ʾatawakkaʾ (see و/ك/ء w–k–ʾ).",
+      "definition_english": "ʾ–b–y aversion, disdain; to refuse, to turn down, to reject. Of\nthis root, أَبَى ʾabā occurs 13 times in the Qur’an.\n\nأَبَى ʾabā [v. trans.] 1 to refuse (2:282) وَلاَ يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ\nاللَّهُ no scribe should refuse to write as God has taught him;\n*(9:32) وَيَأْبَى اللَّهُ إِلاَّ أَن يُتِمَّ نُورَهُ but God refuses [anything] save to\nperfect His light 2 to be averse to, to dislike, to disdain\n(9:8) يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ they give you satisfaction with their\nmouths, but their hearts are averse.\n\nاتَّسَق ʾittasaqa (see و/س/ق w–s–q).\n\nأَتْقَن ʾatqana (see ت/ق/ن t–q–n).\n\nاتَّقَى ʾittaqā (see و/ق/ي w–q–y).\n\n8\n\nأتوكّأ\n\nأَتَوَكَّأ ʾatawakkaʾ (see و/ك/ء w–k–ʾ)."
+    }
+  ],
   "occurrences": [
     "15:31:3",
     "17:89:10",

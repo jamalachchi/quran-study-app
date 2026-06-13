@@ -1,9 +1,22 @@
 {
-  "id": 2348,
   "root": "ض ج ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضبأ\n\n(ضجع) الضاد والجيم والعين أصلٌ واحدٌ يدلُّ على لُصوقٍ بالأرض على جنْب، ثم يُحمَل على ذلك. يقال ضَجَعَ ضُجوعاً. والمرَّة الواحدة الضَّجْعة. ويقال: اضطَجَع يضطجع اضطجاعاً. وضجيعُك: الذي يُضاجِعك. وهو حسن الضِّجْعة كالرِّكْبة.\n\nومن الباب: ضجَّعَ في الأمر، إِذا قصَّر، كأنَّه لم يقُم بهِ واضطجَعَ عنه. ويقال رجلٌ ضَجُوع، أي ضعيف الرّأي. ورجل ضُجَعَة: عاجزٌ لا يكاد يبرح. والضَّجوع: النَّاقة التي ترعى ناحية. ويقال تضجَّع السحاب، إذا أرَبّ بالمكان. وهو في شعر هذيل. ويقال أكَمَة ضَجُوع، إذا كانت لاصقةً بالأرض. والضجوع: أكمة بعينها. والضَّواجع: موضع في قوله:\n\n* راكسٌ فالضَّواجع *\n\nوالضَّاجعة والضَّجعاء: الغنم الكثيرة، وإنما هو من الباب لأنَّها ترعى وتضطجع. والضَّجُوع: ناقة ترعى ناحيةً وتضطجع وحْدَها.\n\nضجم - ضجن - ضحل - ضحي",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضبأ\n\n(ضجع) الضاد والجيم والعين أصلٌ واحدٌ يدلُّ على لُصوقٍ بالأرض على جنْب، ثم يُحمَل على ذلك. يقال ضَجَعَ ضُجوعاً. والمرَّة الواحدة الضَّجْعة. ويقال: اضطَجَع يضطجع اضطجاعاً. وضجيعُك: الذي يُضاجِعك. وهو حسن الضِّجْعة كالرِّكْبة.\n\nومن الباب: ضجَّعَ في الأمر، إِذا قصَّر، كأنَّه لم يقُم بهِ واضطجَعَ عنه. ويقال رجلٌ ضَجُوع، أي ضعيف الرّأي. ورجل ضُجَعَة: عاجزٌ لا يكاد يبرح. والضَّجوع: النَّاقة التي ترعى ناحية. ويقال تضجَّع السحاب، إذا أرَبّ بالمكان. وهو في شعر هذيل. ويقال أكَمَة ضَجُوع، إذا كانت لاصقةً بالأرض. والضجوع: أكمة بعينها. والضَّواجع: موضع في قوله:\n\n* راكسٌ فالضَّواجع *\n\nوالضَّاجعة والضَّجعاء: الغنم الكثيرة، وإنما هو من الباب لأنَّها ترعى وتضطجع. والضَّجُوع: ناقة ترعى ناحيةً وتضطجع وحْدَها.\n\nضجم - ضجن - ضحل - ضحي",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ضَبْح ḍabḥ [v. n./n.] panting, growling (100:1–3) وَالْعَادِيَاتِ ضَبْحًا\nفَالْمُورِيَاتِ قَدْحًا فَالْمُغِيرَاتِ صُبْحًا by the charging steeds panting, striking\nsparks [with their hooves], raiding at dawn.",
+      "definition_english": "ضَبْح ḍabḥ [v. n./n.] panting, growling (100:1–3) وَالْعَادِيَاتِ ضَبْحًا\nفَالْمُورِيَاتِ قَدْحًا فَالْمُغِيرَاتِ صُبْحًا by the charging steeds panting, striking\nsparks [with their hooves], raiding at dawn."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-j-ʿ place where one sleeps; to lie on one’s side, to recline;\nto neglect one’s duties. Of this root, مَضَاجِع maḍājiʿ, occurs three\ntimes in the Qur’an.\n\nمَضَاجِع maḍājiʿ [pl. of n. of place مَضْجَع maḍjaʿ] place where a\nperson lies down, place where a person sleeps, beds (32:16) تَتَجَافَى\nجُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا they leave their beds [lit.\ntheir bodies shun the beds], praying to their Lord in fear and\nhope; *(3:154) لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَى مَضَاجِعِهِمْ\neven if you had resolved to stay at home, those who were destined\nto be killed would still have gone out to meet their death [lit. their\nlaying down places].",
+      "definition_english": "ḍ-j-ʿ place where one sleeps; to lie on one’s side, to recline;\nto neglect one’s duties. Of this root, مَضَاجِع maḍājiʿ, occurs three\ntimes in the Qur’an.\n\nمَضَاجِع maḍājiʿ [pl. of n. of place مَضْجَع maḍjaʿ] place where a\nperson lies down, place where a person sleeps, beds (32:16) تَتَجَافَى\nجُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا they leave their beds [lit.\ntheir bodies shun the beds], praying to their Lord in fear and\nhope; *(3:154) لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَى مَضَاجِعِهِمْ\neven if you had resolved to stay at home, those who were destined\nto be killed would still have gone out to meet their death [lit. their\nlaying down places]."
+    }
+  ],
   "occurrences": [
     "32:16:4",
     "3:154:62",

@@ -1,9 +1,17 @@
 {
-  "id": 696,
   "root": "ج و ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجوز\n\n(جوع) الجيم والواو والعين، كلمةٌ واحدة. فالجوع ضِدّ الشّبَع. ويقال: عام مَجاعةٍ ومَجوعة .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجوز\n\n(جوع) الجيم والواو والعين، كلمةٌ واحدة. فالجوع ضِدّ الشّبَع. ويقال: عام مَجاعةٍ ومَجوعة .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–w–ʿ hunger, to hunger, to yearn for something, to starve, starvation, famine. Of this root, two forms occur five times in the Qurʾan: تَجُوع tajūʿ once and جُوع jūʿ four times.\nتَجُوع tajūʿ [imperf. of v. جَاعَ jāʿa, intrans.] to become or go hungry, to hunger (20:118) إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ it is [granted] for you that in it [the Garden] you will not go hungry, or naked.\n\nجُوع jūʿ [n./v. n.] hunger, starvation (106:4) ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ He who has removed hunger from them [lit. fed them away from hunger], and made them safe [away] from fear.",
+      "definition_english": "j–w–ʿ hunger, to hunger, to yearn for something, to starve, starvation, famine. Of this root, two forms occur five times in the Qurʾan: تَجُوع tajūʿ once and جُوع jūʿ four times.\nتَجُوع tajūʿ [imperf. of v. جَاعَ jāʿa, intrans.] to become or go hungry, to hunger (20:118) إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ it is [granted] for you that in it [the Garden] you will not go hungry, or naked.\n\nجُوع jūʿ [n./v. n.] hunger, starvation (106:4) ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ He who has removed hunger from them [lit. fed them away from hunger], and made them safe [away] from fear."
+    }
+  ],
   "occurrences": [
     "106:4:4",
     "16:112:20",

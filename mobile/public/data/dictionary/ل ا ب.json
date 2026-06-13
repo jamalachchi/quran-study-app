@@ -1,8 +1,11 @@
 {
-  "id": 3486,
   "root": "ل ا ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(لاب) اللام والألف والباء. اللاَّبَة: الحَرَّة، والجمع* لُوب. واللُّواب: العَطَش؛ لاب يلوب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(لاب) اللام والألف والباء. اللاَّبَة: الحَرَّة، والجمع* لُوب. واللُّواب: العَطَش؛ لاب يلوب.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

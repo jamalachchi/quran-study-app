@@ -1,9 +1,17 @@
 {
-  "id": 3478,
   "root": "ل ي ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(ليت) اللام والياء والتاء كلمتانِ لا تنقاسان : إحداهما: اللِّيت: صَفْحة العُنق، وهما لِيتانِ. والأخرى اللَّيْت، وهو النَّقْص. يقال: لاتَه يَلِيتُه: نَقَصه. قال الله تعالى: ] لا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئاً [ [الحجرات 14]. واللَّيْت: الصَّرف، يقال لاتَهُ يَلِيته. قال:\n\nولم يَلِتْني عن سُراها ليتُ\n\nوليلةٍ ذاتِ دُجىً سريتُ\n\nوليت: كلمة التَّمنِّي.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(ليت) اللام والياء والتاء كلمتانِ لا تنقاسان : إحداهما: اللِّيت: صَفْحة العُنق، وهما لِيتانِ. والأخرى اللَّيْت، وهو النَّقْص. يقال: لاتَه يَلِيتُه: نَقَصه. قال الله تعالى: ] لا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئاً [ [الحجرات 14]. واللَّيْت: الصَّرف، يقال لاتَهُ يَلِيته. قال:\n\nولم يَلِتْني عن سُراها ليتُ\n\nوليلةٍ ذاتِ دُجىً سريتُ\n\nوليت: كلمة التَّمنِّي.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "لات lāta (see alphabetically).\nʾallāta (see alphabetically).\n\nʾalatanāhum (see ل/أ/ت ʾ–l–t).\n\nyalitkum (see ل/أ/ت ʾ–l–t).\n\nلَيْت layta (or wishing) particle (حرف للتمني), generally relating to\nsomething impossible, a sister of particle ʾinna (إنّ وأخواتها) (q.v.),\noccurring 14 times in the Qur’an. Like ʾinna (إنّ), layta (ليت)\ngoverns a nominal sentence of which the subject is in the\naccusative case and the predicate in the nominative, ‘would\nthat ...!’, ‘I wish that ...!’, ‘if only ...!’ (25:28) يَالَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا\nif only I had not taken so-and-so for a friend! لَيْت is often\npreceded with يَا yā for emphasis as in (36:26) قِيلَ ادْخُلِ الْجَنَّةَ قَالَ\nيَالَيْتَ قَوْمِي يَعْلَمُونَ it was said, ‘Enter the Garden,’ and he said, ‘Would\nthat my people knew!’\n\nلَيْس laysa a word denoting negation, ‘not’, and occurring 89 times in\nthe Qur’an. Grammarians describe it as a conjugable verb,\noccurring only in the perfect, and classify it amongst the sisters of\nkāna (أخوات كان) (q.v.), all of which govern a nominal sentence\nwith the subject in the nominative case and the predicate in the\naccusative (3:113) لَيْسُوا سَوَاءً they are not equal. Preposition بِ is\noften prefixed to the predicate of laysa (ليس) for particular\nemphasis (6:30) أَلَيْسَ هَٰذَا بِالْحَقِّ is this not very real/true?",
+      "definition_english": "لات lāta (see alphabetically).\nʾallāta (see alphabetically).\n\nʾalatanāhum (see ل/أ/ت ʾ–l–t).\n\nyalitkum (see ل/أ/ت ʾ–l–t).\n\nلَيْت layta (or wishing) particle (حرف للتمني), generally relating to\nsomething impossible, a sister of particle ʾinna (إنّ وأخواتها) (q.v.),\noccurring 14 times in the Qur’an. Like ʾinna (إنّ), layta (ليت)\ngoverns a nominal sentence of which the subject is in the\naccusative case and the predicate in the nominative, ‘would\nthat ...!’, ‘I wish that ...!’, ‘if only ...!’ (25:28) يَالَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا\nif only I had not taken so-and-so for a friend! لَيْت is often\npreceded with يَا yā for emphasis as in (36:26) قِيلَ ادْخُلِ الْجَنَّةَ قَالَ\nيَالَيْتَ قَوْمِي يَعْلَمُونَ it was said, ‘Enter the Garden,’ and he said, ‘Would\nthat my people knew!’\n\nلَيْس laysa a word denoting negation, ‘not’, and occurring 89 times in\nthe Qur’an. Grammarians describe it as a conjugable verb,\noccurring only in the perfect, and classify it amongst the sisters of\nkāna (أخوات كان) (q.v.), all of which govern a nominal sentence\nwith the subject in the nominative case and the predicate in the\naccusative (3:113) لَيْسُوا سَوَاءً they are not equal. Preposition بِ is\noften prefixed to the predicate of laysa (ليس) for particular\nemphasis (6:30) أَلَيْسَ هَٰذَا بِالْحَقِّ is this not very real/true?"
+    }
+  ],
   "occurrences": [
     "49:14:20"
   ]

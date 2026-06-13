@@ -1,9 +1,17 @@
 {
-  "id": 1047,
   "root": "خ م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخلق\n\n(خمر) الخاء والميم والراء أصلٌ واحد يدلُّ على التغطية، والمخالطةِ في سَتْر. فالخَمْرُ: الشَّراب المعروف. قال *الخليل: الخمر معروفةٌ؛ واختمارُها: إدراكُها وغَليانُها. ومخمِّرها: متَّخِذها. وخُمْرتها: ما غَشِيَ المخمورَ من الخُمار والسُّكْر في قَلْبه. قال:\n\nفلم تكَدْ تَنْجَلِي عن قَلْبِه الخُمَرُ\n\nلَذٌّ أصابَتْ حُمَيَّاها مَقَاتِلَهُ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخلق\n\n(خمر) الخاء والميم والراء أصلٌ واحد يدلُّ على التغطية، والمخالطةِ في سَتْر. فالخَمْرُ: الشَّراب المعروف. قال *الخليل: الخمر معروفةٌ؛ واختمارُها: إدراكُها وغَليانُها. ومخمِّرها: متَّخِذها. وخُمْرتها: ما غَشِيَ المخمورَ من الخُمار والسُّكْر في قَلْبه. قال:\n\nفلم تكَدْ تَنْجَلِي عن قَلْبِه الخُمَرُ\n\nلَذٌّ أصابَتْ حُمَيَّاها مَقَاتِلَهُ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–m–r to mix, to infect, to intoxicate, intoxicating drinks,\nwine and spirits, to ferment; to leaven, to raise; to hide,\nhead-cover, (of a woman) to cover the head and face; to bear a\ngrudge. Of this root, two forms occur seven times in the Qur’an:\nخمر khamr six times and خمر khumur once.\n\nخَمْر khamr [n.] 1 intoxicating drink, spirits, wine in particular\n(2:219) يسألونك عن الخمر والميسر قل فيهما إثم كبير they ask you\n[Prophet] about intoxicants and gambling: say, ‘There is great\nsin in both’ 2 grapes and other fruits that may be fermented into\nwine (12:36) قال أحدهما إني أراني أعصر خمرا one of them said, ‘I see\nmyself pressing grapes.’\n\nخُمُر khumur [pl. of n. خِمَار khimār] head-covers (24:31) وليضربن\nبخمرهن على جيوبهن and they should draw their head scarves to\ncover their necklines.",
+      "definition_english": "kh–m–r to mix, to infect, to intoxicate, intoxicating drinks,\nwine and spirits, to ferment; to leaven, to raise; to hide,\nhead-cover, (of a woman) to cover the head and face; to bear a\ngrudge. Of this root, two forms occur seven times in the Qur’an:\nخمر khamr six times and خمر khumur once.\n\nخَمْر khamr [n.] 1 intoxicating drink, spirits, wine in particular\n(2:219) يسألونك عن الخمر والميسر قل فيهما إثم كبير they ask you\n[Prophet] about intoxicants and gambling: say, ‘There is great\nsin in both’ 2 grapes and other fruits that may be fermented into\nwine (12:36) قال أحدهما إني أراني أعصر خمرا one of them said, ‘I see\nmyself pressing grapes.’\n\nخُمُر khumur [pl. of n. خِمَار khimār] head-covers (24:31) وليضربن\nبخمرهن على جيوبهن and they should draw their head scarves to\ncover their necklines."
+    }
+  ],
   "occurrences": [
     "12:36:10",
     "12:41:7",

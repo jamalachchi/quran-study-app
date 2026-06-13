@@ -1,9 +1,17 @@
 {
-  "id": 4184,
   "root": "ه ب ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هبط) الهاء والباء والطاء: كلمةٌ تدلُّ على انحدار. وهَبَط هُبوطاً. والهَبُوط: الحُدور. وهَبَطتُ أنا وهَبَطْتُ غيرِي، وهَبَط المرضُ لحمَ العَليل. والهَبِيط: الضَّامر من الإبل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هبط) الهاء والباء والطاء: كلمةٌ تدلُّ على انحدار. وهَبَط هُبوطاً. والهَبُوط: الحُدور. وهَبَطتُ أنا وهَبَطْتُ غيرِي، وهَبَط المرضُ لحمَ العَليل. والهَبِيط: الضَّامر من الإبل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–b–ṭ to descend, to climb down; to come to a new place, to\nsettle down in a new place; to cave in, to collapse; to abate, to\ndecrease, to depreciate; to be humiliated. Of this root, هَبَط habaṭa\noccurs eight times in the Qur’an.\n\nهَبَط habaṭa i [v. intrans.] 1 to go down, to descend (7:24) قَالَ\nاهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ He said, ‘Go\ndown!, some of you enemies to the others; on earth you will have\na place to stay and livelihood for a time’ 2 to disembark (11:48)\nقِيلَ يَانُوحُ اهْبِطْ بِسَلَامٍ مِنَّا it was said, ‘Noah, disembark with peace\nfrom Us’ 3 to relocate, to go to live or settle in a new place (2:61)\n\n979",
+      "definition_english": "h–b–ṭ to descend, to climb down; to come to a new place, to\nsettle down in a new place; to cave in, to collapse; to abate, to\ndecrease, to depreciate; to be humiliated. Of this root, هَبَط habaṭa\noccurs eight times in the Qur’an.\n\nهَبَط habaṭa i [v. intrans.] 1 to go down, to descend (7:24) قَالَ\nاهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ He said, ‘Go\ndown!, some of you enemies to the others; on earth you will have\na place to stay and livelihood for a time’ 2 to disembark (11:48)\nقِيلَ يَانُوحُ اهْبِطْ بِسَلَامٍ مِنَّا it was said, ‘Noah, disembark with peace\nfrom Us’ 3 to relocate, to go to live or settle in a new place (2:61)\n\n979"
+    }
+  ],
   "occurrences": [
     "11:48:3",
     "20:123:2",

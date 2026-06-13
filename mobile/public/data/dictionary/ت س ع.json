@@ -1,9 +1,22 @@
 {
-  "id": 422,
   "root": "ت س ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتره - ترب\n\n(تسع) التاء والسين والعين كلمةٌ واحدة، وهي التِّسعة في العدد. تقول تَسَعْتُ القومَ، أي صرت تاسِعَهم. وأتْسعتُ الشّيءَ إذا كان ثمانيةً فأتممته تِسعة. والتِّسع ثلاثُ ليالٍ من الشَّهر آخرُ ليلةٍ منها اللّيلة التاسعة. وتَسَعْتُ القومَ أتْسَعُهُم\n\nتعب - تعر - تعس - تعص\n\nإذا أخَذْتَ تُسْع أموالهم.\n\n(باب التاء والشين وما يثلثهما)\n\nمهمل .\n\n(باب التاء والعين وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتره - ترب\n\n(تسع) التاء والسين والعين كلمةٌ واحدة، وهي التِّسعة في العدد. تقول تَسَعْتُ القومَ، أي صرت تاسِعَهم. وأتْسعتُ الشّيءَ إذا كان ثمانيةً فأتممته تِسعة. والتِّسع ثلاثُ ليالٍ من الشَّهر آخرُ ليلةٍ منها اللّيلة التاسعة. وتَسَعْتُ القومَ أتْسَعُهُم\n\nتعب - تعر - تعس - تعص\n\nإذا أخَذْتَ تُسْع أموالهم.\n\n(باب التاء والشين وما يثلثهما)\n\nمهمل .\n\n(باب التاء والعين وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "forsaking our gods on the strength of your word.\n",
+      "definition_english": "forsaking our gods on the strength of your word.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-s-ʿ this root revolves around the number nine. Of this root,\nfour forms occur seven times in the Qurʾān: تِسْع tisʿ four times,\nتِسْعَة tisʿatun once; تِسْعَةَ عَشَر tisʿata ʿashar once and تِسْعُون tisʿūn\nonce.\n\nتِسْع tisʿ [card. no., fem. تِسْعَة tisʿatun] nine (17:101) وَلَقَدْ آتَيْنَا\nمُوسَى تِسْعَ آيَاتٍ بَيِّنَاتٍ\nWe gave Moses nine clear signs.\n\nتِسْعَةَ عَشَر tisʿata ʿashar [comp. no.] nineteen (74:30) عَلَيْهَا تِسْعَةَ\nعَشَرَ in charge of it [Hellfire] there are nineteen.\n\nتِسْعُون tisʿūn [card. no.] ninety (38:23) إِنَّ هَذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ\nنَعْجَةً\nthis, my brother, has ninety-nine ewes.",
+      "definition_english": "t-s-ʿ this root revolves around the number nine. Of this root,\nfour forms occur seven times in the Qurʾān: تِسْع tisʿ four times,\nتِسْعَة tisʿatun once; تِسْعَةَ عَشَر tisʿata ʿashar once and تِسْعُون tisʿūn\nonce.\n\nتِسْع tisʿ [card. no., fem. تِسْعَة tisʿatun] nine (17:101) وَلَقَدْ آتَيْنَا\nمُوسَى تِسْعَ آيَاتٍ بَيِّنَاتٍ\nWe gave Moses nine clear signs.\n\nتِسْعَةَ عَشَر tisʿata ʿashar [comp. no.] nineteen (74:30) عَلَيْهَا تِسْعَةَ\nعَشَرَ in charge of it [Hellfire] there are nineteen.\n\nتِسْعُون tisʿūn [card. no.] ninety (38:23) إِنَّ هَذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ\nنَعْجَةً\nthis, my brother, has ninety-nine ewes."
+    }
+  ],
   "occurrences": [
     "17:101:4",
     "18:25:8",

@@ -1,9 +1,17 @@
 {
-  "id": 3988,
   "root": "ن س ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنزل - نزه\n\n(نسف) النون والسين والفاء أصلٌ صحيح يدلُّ على كَشْف شيء. وانتسَفَت الرِّيحُ الشَّيءَ مثلَ التُّراب والعَصْف، كأنَّها كشفَتْه عن وجه الأرض وسلبته. ونَسْفُ البِناءِ: استِئْصالُه قَطعاً. ويقال للرُّغوة: النُّسَافة ، لأنَّها تُنْتَسَف عن وجه اللَّبَن. وقولهم انتُسِفَ لونُه من ذلك. وبَعيرٌ نَسوفٌ: يقلع النَّباتَ عن الأرض بمقدَّم فيه: وحكى ناسٌ: هما يتناسفان، أي يتسارَّان. والقياس واحد. كأنَّ هذا يَنْسِف ما عند ذاك. وذاك ما عندَ هذا.\n\nنسق نسك نسل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنزل - نزه\n\n(نسف) النون والسين والفاء أصلٌ صحيح يدلُّ على كَشْف شيء. وانتسَفَت الرِّيحُ الشَّيءَ مثلَ التُّراب والعَصْف، كأنَّها كشفَتْه عن وجه الأرض وسلبته. ونَسْفُ البِناءِ: استِئْصالُه قَطعاً. ويقال للرُّغوة: النُّسَافة ، لأنَّها تُنْتَسَف عن وجه اللَّبَن. وقولهم انتُسِفَ لونُه من ذلك. وبَعيرٌ نَسوفٌ: يقلع النَّباتَ عن الأرض بمقدَّم فيه: وحكى ناسٌ: هما يتناسفان، أي يتسارَّان. والقياس واحد. كأنَّ هذا يَنْسِف ما عند ذاك. وذاك ما عندَ هذا.\n\nنسق نسك نسل",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–s–f to obliterate, to erase, to scatter, to uproot, to cause to\ncollapse; to sift, to sieve, to winnow. Of this root, three forms\noccur five times in the Qur’an: نَسَفَ nasafa twice; نُسِفَ nusifa once\nand نَسْف nasf twice.\n\nنَسَفَ nasafa i [v. trans.] to pulverise, to eradicate, to scatter\n(20:97) لَنُحَرِّقَنَّهُ ثُمَّ لَنَنْسِفَنَّهُ فِي الْيَمِّ نَسْفًا we will grind it [into dust] and\nscatter it into the sea.\n\nنُسِفَ nusifa [pass. v.] to be pulverised, to be obliterated, to be\nuprooted, to be reduced to dust, to be scattered around (77:10) وَإِذَا\nالْجِبَالُ نُسِفَتْ when the mountains are turned to dust.\n\nنَسْف nasf [v. n.] (the act of) obliterating, reducing to dust,\nscattering around (20:105) وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنْسِفُهَا رَبِّي نَسْفًا they\nwill ask you [Prophet] about the mountains: say, ‘[On that Day]\nmy Lord will blast them to dust.’",
+      "definition_english": "n–s–f to obliterate, to erase, to scatter, to uproot, to cause to\ncollapse; to sift, to sieve, to winnow. Of this root, three forms\noccur five times in the Qur’an: نَسَفَ nasafa twice; نُسِفَ nusifa once\nand نَسْف nasf twice.\n\nنَسَفَ nasafa i [v. trans.] to pulverise, to eradicate, to scatter\n(20:97) لَنُحَرِّقَنَّهُ ثُمَّ لَنَنْسِفَنَّهُ فِي الْيَمِّ نَسْفًا we will grind it [into dust] and\nscatter it into the sea.\n\nنُسِفَ nusifa [pass. v.] to be pulverised, to be obliterated, to be\nuprooted, to be reduced to dust, to be scattered around (77:10) وَإِذَا\nالْجِبَالُ نُسِفَتْ when the mountains are turned to dust.\n\nنَسْف nasf [v. n.] (the act of) obliterating, reducing to dust,\nscattering around (20:105) وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنْسِفُهَا رَبِّي نَسْفًا they\nwill ask you [Prophet] about the mountains: say, ‘[On that Day]\nmy Lord will blast them to dust.’"
+    }
+  ],
   "occurrences": [
     "20:105:5",
     "20:105:7",

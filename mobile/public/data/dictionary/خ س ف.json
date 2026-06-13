@@ -1,9 +1,17 @@
 {
-  "id": 993,
   "root": "خ س ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخزر - خسف\n\n(خسف) الخاء والسين والفاء أصلٌ واحدٌ يدلُّ على غموض وغُؤور، وإليه يرجعُ فُروع الباب. فالخَسْف والخَسَف . غموضُ ظاهرِ الأرض. قال الله تعالى: ] فَخَسَفْنَا بِهِ وَبِدَارِهِ الأَرْضَ [ [القصص 81].\n\nومن الباب خُسوفُ القَمَر. وكان بعضُ أهل اللُّغة يقول: الخُسوف للقمر، والكُسوف للشمس. ويقال بئرٌ خَسِيفٌ ، إذا كُسِرَ جِيلُها فانهارَ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخزر - خسف\n\n(خسف) الخاء والسين والفاء أصلٌ واحدٌ يدلُّ على غموض وغُؤور، وإليه يرجعُ فُروع الباب. فالخَسْف والخَسَف . غموضُ ظاهرِ الأرض. قال الله تعالى: ] فَخَسَفْنَا بِهِ وَبِدَارِهِ الأَرْضَ [ [القصص 81].\n\nومن الباب خُسوفُ القَمَر. وكان بعضُ أهل اللُّغة يقول: الخُسوف للقمر، والكُسوف للشمس. ويقال بئرٌ خَسِيفٌ ، إذا كُسِرَ جِيلُها فانهارَ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "خ/س/ف kh–s–f to cave in, to subside, to be swallowed by the earth; to eclipse, to have an eclipse; to disappear into the earth (of water); to humiliate; to decrease; to be hungry, to become emaciated. Of this root, خَسَف khasafa occurs eight times in the Qur’an.\nخَسَف khasafa i I [v. intrans.] to go into an eclipse (75:8) وَخَسَفَ الْقَمَرُ and the moon goes into eclipse II [v. trans.] to cause the earth to swallow up, to cause the earth to subside or to cave in (28:81) فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ We caused the earth to cave in over him and his dwelling.",
+      "definition_english": "خ/س/ف kh–s–f to cave in, to subside, to be swallowed by the earth; to eclipse, to have an eclipse; to disappear into the earth (of water); to humiliate; to decrease; to be hungry, to become emaciated. Of this root, خَسَف khasafa occurs eight times in the Qur’an.\nخَسَف khasafa i I [v. intrans.] to go into an eclipse (75:8) وَخَسَفَ الْقَمَرُ and the moon goes into eclipse II [v. trans.] to cause the earth to swallow up, to cause the earth to subside or to cave in (28:81) فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ We caused the earth to cave in over him and his dwelling."
+    }
+  ],
   "occurrences": [
     "16:45:6",
     "17:68:3",

@@ -1,8 +1,11 @@
 {
-  "id": 2286,
   "root": "ض غ ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضب\n\n(ضغت) الضاد والغين والتاء ليس بشيء .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضب\n\n(ضغت) الضاد والغين والتاء ليس بشيء .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 2682,
   "root": "ع ز ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعزر - عسف\n\nوكلُّ شيء يفوتُك لا تَقْدِر عليه فقد عَزَب عنك. وأعزب القومُ: أصابوا عازباً من الكلأ.\n\n(عزر) العين والزاء والراء كلمتان: إحداهما التَّعظيم والنَّصر، والكلمة الأخرى جنسٌ من الضَّرب.\n\nفالأولى النَّصر والتوقير، كقوله تعالى: ] وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ [ [الفتح 9].\n\nوالأصل الآخر التَّعزير، وهو الضرب دون الحدّ. قال:\n\nعليَّ إذا ما كنتُ غيرَ مريبِ\n\nوليس بتعزير الأمير خَزايةٌ\n\n(باب العين والسين وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعزر - عسف\n\nوكلُّ شيء يفوتُك لا تَقْدِر عليه فقد عَزَب عنك. وأعزب القومُ: أصابوا عازباً من الكلأ.\n\n(عزر) العين والزاء والراء كلمتان: إحداهما التَّعظيم والنَّصر، والكلمة الأخرى جنسٌ من الضَّرب.\n\nفالأولى النَّصر والتوقير، كقوله تعالى: ] وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ [ [الفتح 9].\n\nوالأصل الآخر التَّعزير، وهو الضرب دون الحدّ. قال:\n\nعليَّ إذا ما كنتُ غيرَ مريبِ\n\nوليس بتعزير الأمير خَزايةٌ\n\n(باب العين والسين وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–z–r to censure, to apply corporal punishment; to support; to\nbe tough; to be bad tempered; to honour. Philologists classify\nunder this root, the proper name عُزَيْر ʿuzayr, but recognised it as\nbeing of foreign origin. Of this root, two forms occur four times\n\n617",
+      "definition_english": "ʿ–z–r to censure, to apply corporal punishment; to support; to\nbe tough; to be bad tempered; to honour. Philologists classify\nunder this root, the proper name عُزَيْر ʿuzayr, but recognised it as\nbeing of foreign origin. Of this root, two forms occur four times\n\n617"
+    }
+  ],
   "occurrences": [
     "48:9:4",
     "5:12:23",

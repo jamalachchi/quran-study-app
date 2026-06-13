@@ -1,9 +1,17 @@
 {
-  "id": 425,
   "root": "ت ع س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتره - ترب\n\n(تعس) التاء والعين والسين كلمةٌ واحدة وهو الكَبُّ، يقال تَعَسَه الله وأتعسَه. قال:\n\nفآبوا بإتعاسٍ على شَرِّ طائرِ\n\nغداةَ هَزَمْنا جَمْعَهم بمُتالعٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتره - ترب\n\n(تعس) التاء والعين والسين كلمةٌ واحدة وهو الكَبُّ، يقال تَعَسَه الله وأتعسَه. قال:\n\nفآبوا بإتعاسٍ على شَرِّ طائرِ\n\nغداةَ هَزَمْنا جَمْعَهم بمُتالعٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-ʿ-s peril, misfortune, destruction; to fall on one’s face, to\nmeet with disaster, evil, to be wretched. Of this root, تَعْس taʿs,\noccurs once in the Qurʾān.\n\nتَعْس taʿs [v. n. used interjectionally] falling on the mouth,\ndestruction, bad luck *(47:8) وَالَّذِينَ كَفَرُوا فَتَعْسًا لَهُمْ\nas for the\ndisbelievers, may destruction befall them!",
+      "definition_english": "t-ʿ-s peril, misfortune, destruction; to fall on one’s face, to\nmeet with disaster, evil, to be wretched. Of this root, تَعْس taʿs,\noccurs once in the Qurʾān.\n\nتَعْس taʿs [v. n. used interjectionally] falling on the mouth,\ndestruction, bad luck *(47:8) وَالَّذِينَ كَفَرُوا فَتَعْسًا لَهُمْ\nas for the\ndisbelievers, may destruction befall them!"
+    }
+  ],
   "occurrences": [
     "47:8:3"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 4077,
   "root": "ن ف ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنفش - نفص\n\nتَبِيت الثَّلاثُ السُّودُ وهي مناخةٌ\n\nعلى نَفَسٍ من [ماءِ] ماوِيّةَ العَذْبِ\n\nومن الاستعارة: تَنفّسَت القَوسُ: انشقَّت. وشيءٌ نفيس، أي ذو نفس وخَطَر يُتنافَسُ به. والتّنافُس: أن يُبرِزَ كلُّ واحد من المتبارزَين قوَّةَ نَفْسه. وقولُهم في الدِّباغ نَفس ، هذا هو القياس، أي يَسير منه، قَدرُ ما يُدبَغ به الإهاب مَرَّة، شبّهه في قلَّته بنَفَسٍ يُتَنفَّس. وقياس الباب في هذا وفيما معناه واحد .\n\n(نفش) النون والفاء والشين أصلٌ صحيح يدلُّ على انتشار. من ذلك نَفْش الصُّوف، وهو أن يُطْرَق حَتَّى يتنفّش. ونَفَش الطّائرُ جناحَيه. ونَفَشَت الإبلُ: تردَّدَتْ وانتشرَتْ بلا راع. وفِعلُها النَّفْش؛ وإبلٌ نُفّاشٌ ونَوافش.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنفش - نفص\n\nتَبِيت الثَّلاثُ السُّودُ وهي مناخةٌ\n\nعلى نَفَسٍ من [ماءِ] ماوِيّةَ العَذْبِ\n\nومن الاستعارة: تَنفّسَت القَوسُ: انشقَّت. وشيءٌ نفيس، أي ذو نفس وخَطَر يُتنافَسُ به. والتّنافُس: أن يُبرِزَ كلُّ واحد من المتبارزَين قوَّةَ نَفْسه. وقولُهم في الدِّباغ نَفس ، هذا هو القياس، أي يَسير منه، قَدرُ ما يُدبَغ به الإهاب مَرَّة، شبّهه في قلَّته بنَفَسٍ يُتَنفَّس. وقياس الباب في هذا وفيما معناه واحد .\n\n(نفش) النون والفاء والشين أصلٌ صحيح يدلُّ على انتشار. من ذلك نَفْش الصُّوف، وهو أن يُطْرَق حَتَّى يتنفّش. ونَفَش الطّائرُ جناحَيه. ونَفَشَت الإبلُ: تردَّدَتْ وانتشرَتْ بلا راع. وفِعلُها النَّفْش؛ وإبلٌ نُفّاشٌ ونَوافش.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–f–sh wool, to tease out, to ruffle the feathers, to bristle up,\nto swell, to scatter over a large area. Some scholars attribute an\nAramaic origin to the form مَنْفُوش manfūsh. Of this root, two forms\noccur once each in the Qur’an: نَفَش nafasha and مَنْفُوش manfūsh.\n\nنَفَش nafasha u [v. intrans.] to disperse, (of animals) to stray\ninto a piece of land for grazing (21:78) وَدَاوُدَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي\nالْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ and [remember] David and Solomon,\nwhen they arbitrated regarding the field into which the sheep of\nsome people strayed [by night] to graze.\n\nمَنْفُوش manfūsh [pass. part.] teased out, rarefied, carded, tufted\n(101:5) وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ and the mountains will be like\ncarded wool.",
+      "definition_english": "n–f–sh wool, to tease out, to ruffle the feathers, to bristle up,\nto swell, to scatter over a large area. Some scholars attribute an\nAramaic origin to the form مَنْفُوش manfūsh. Of this root, two forms\noccur once each in the Qur’an: نَفَش nafasha and مَنْفُوش manfūsh.\n\nنَفَش nafasha u [v. intrans.] to disperse, (of animals) to stray\ninto a piece of land for grazing (21:78) وَدَاوُدَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي\nالْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ and [remember] David and Solomon,\nwhen they arbitrated regarding the field into which the sheep of\nsome people strayed [by night] to graze.\n\nمَنْفُوش manfūsh [pass. part.] teased out, rarefied, carded, tufted\n(101:5) وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ and the mountains will be like\ncarded wool."
+    }
+  ],
   "occurrences": [
     "101:5:4",
     "21:78:8"

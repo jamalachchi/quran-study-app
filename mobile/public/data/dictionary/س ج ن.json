@@ -1,9 +1,22 @@
 {
-  "id": 1894,
   "root": "س ج ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسجن - سجو\n\nوالدَّمعِ. يقال سَجَمَت العينُ دَمعَها. وعينٌ سَجوم، ودمعٌ مسجوم. ويقال أرض مسجومة: ممطورة.\n\n(سجن) السين والجيم والنون أصلٌ واحد، وهو الحَبْس. يقال سجنته سَجناً. والسِّجن: المكان يُسجَن فيه الإنسان. قال الله جلَّ ثناؤه في قصّة يوسف عليه السلام: ] قالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ [ [يوسف 33]. فيقرأ فتحاً على المصدر، وكسراً على الموضع ، وأما قولُ ابنِ مُقْبل:\n\n* ضرباً تَوَاصَى به الأبطالُ سِجِّينا *\n\nفقيل إنَّهُ أراد سِجِّيلاً. أي شديداً. وقد مضى ذِكرُهُ. وإِنَّما أبدل اللام نوناً. والوجه في هذا أنَّهُ قياس الأوَّل من السَّجن، وهو الحبس؛ لأنَّه إذا كان ضرباً شديداً ثبت المضروب، كأنَّه قد حبسه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسجن - سجو\n\nوالدَّمعِ. يقال سَجَمَت العينُ دَمعَها. وعينٌ سَجوم، ودمعٌ مسجوم. ويقال أرض مسجومة: ممطورة.\n\n(سجن) السين والجيم والنون أصلٌ واحد، وهو الحَبْس. يقال سجنته سَجناً. والسِّجن: المكان يُسجَن فيه الإنسان. قال الله جلَّ ثناؤه في قصّة يوسف عليه السلام: ] قالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ [ [يوسف 33]. فيقرأ فتحاً على المصدر، وكسراً على الموضع ، وأما قولُ ابنِ مُقْبل:\n\n* ضرباً تَوَاصَى به الأبطالُ سِجِّينا *\n\nفقيل إنَّهُ أراد سِجِّيلاً. أي شديداً. وقد مضى ذِكرُهُ. وإِنَّما أبدل اللام نوناً. والوجه في هذا أنَّهُ قياس الأوَّل من السَّجن، وهو الحبس؛ لأنَّه إذا كان ضرباً شديداً ثبت المضروب، كأنَّه قد حبسه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "which is set on fire (52:6) والبحر المسجور and by the ocean\never-filled.",
+      "definition_english": "which is set on fire (52:6) والبحر المسجور and by the ocean\never-filled."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–j–n prison, imprisonment, confinement, detention.\nPhilologists who derive the Qur’anic word سجين sijjīn from this\nroot suggest ‘containment’ as the semantic link between the two,\nbut it has also been suggested that it could be a borrowing from\nLatin ‘insignia’, the Roman emperor’s stamp which used to be\naffixed to important records. Also it has been suggested that this\nroot was borrowed from Persian or Ethiopic. Of this root, five\nforms occur 12 times in the Qur’an: يسجن yasjun once; يُسجن\nyusjan twice; مسجونين masjūnīn once; سجن sijn six times and سجين\nsijjīn twice.\n\nيسجن yasjun [imperf. of v. trans.; pass. v. يُسجن yusjan] to\nimprison, to detain (12:35) ثم بدا لهم من بعد ما رأوا الآيات ليسجننه حتى حين\nbut it occurred to them, [even] after seeing the evidence [for his\n\n424",
+      "definition_english": "s–j–n prison, imprisonment, confinement, detention.\nPhilologists who derive the Qur’anic word سجين sijjīn from this\nroot suggest ‘containment’ as the semantic link between the two,\nbut it has also been suggested that it could be a borrowing from\nLatin ‘insignia’, the Roman emperor’s stamp which used to be\naffixed to important records. Also it has been suggested that this\nroot was borrowed from Persian or Ethiopic. Of this root, five\nforms occur 12 times in the Qur’an: يسجن yasjun once; يُسجن\nyusjan twice; مسجونين masjūnīn once; سجن sijn six times and سجين\nsijjīn twice.\n\nيسجن yasjun [imperf. of v. trans.; pass. v. يُسجن yusjan] to\nimprison, to detain (12:35) ثم بدا لهم من بعد ما رأوا الآيات ليسجننه حتى حين\nbut it occurred to them, [even] after seeing the evidence [for his\n\n424"
+    }
+  ],
   "occurrences": [
     "12:100:25",
     "12:25:20",

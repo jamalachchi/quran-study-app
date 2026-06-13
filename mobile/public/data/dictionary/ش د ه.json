@@ -1,8 +1,11 @@
 {
-  "id": 2104,
   "root": "ش د ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشجن\n\n(شده) الشين والدال والهاء كلمة من الإبدال. يقال شُدِهَ الرجل مثل دَُهِش.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشجن\n\n(شده) الشين والدال والهاء كلمة من الإبدال. يقال شُدِهَ الرجل مثل دَُهِش.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

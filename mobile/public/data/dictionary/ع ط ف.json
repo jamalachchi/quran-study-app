@@ -1,9 +1,22 @@
 {
-  "id": 2711,
   "root": "ع ط ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعطف - عطل\n\nومما شذَّ عن هذين الأصلين: الثَّوب المُعَضَّد، وهو المخطّط قال:\n\n* ولا ذَوَات الرَّبْط والمُعَضَّدِ *\n\n(باب العين والطاء وما يثلثهما)\n\n(عطف) العين والطاء والفاء أصلٌ واحدٌ صحيح يدلُّ على انثناء وعِياجٍ. يقال: عَطَفْتُ الشّيء، إذا أمَلْتَه. وانعَطَف، إذا انعاج. ومصدر عطف العُطُوف. وتعطّفَ بالرَّحمة تعطُّفاً. وعَطَف الله تعالى فلاناً على فلانٍ عَطْفاً. والرَّجُل يَعْطِف الوِسادةَ: يثنيها، عطفاً، إذا ارتفَقَ بها. قال لبيد:\n\nعاطِفِ النُّمرُقِ صَدْقِ المُبْتَذَلْ\n\nومَجُودٍ من صُبابات الكَرَى\n\nويقال للجانبَين العِطفانِ، سمِّيا بذلك لأنَّ الإنسان يَميل عليهما. ألاَ ترى أنَّهم يقولون: ثنَىعِطْفَه، إذا أعْرضَ عنك وجَفَاك. ويقال: رجلٌ عَطوفٌ في الحرب والخير، وعَطَّافٌ. وظبيةٌ عاطِف، إذا رَبَضت وعطفَتْ عُنقَها. وفلانٌ يَتَعَاطَفُ في مِشيته، إذا تمايَلَ. والإنسان يتعطَّف بثوبه، وهو شبه التوشُّح. والرِّداء نفسُه عِطَافٌ، لأنّه يُعْطَفُ. ثم يتَّسعون في ذلك فيسمُّون السيفَ عِطافاً لأنّه يكونُ موضعَ الرداء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعطف - عطل\n\nومما شذَّ عن هذين الأصلين: الثَّوب المُعَضَّد، وهو المخطّط قال:\n\n* ولا ذَوَات الرَّبْط والمُعَضَّدِ *\n\n(باب العين والطاء وما يثلثهما)\n\n(عطف) العين والطاء والفاء أصلٌ واحدٌ صحيح يدلُّ على انثناء وعِياجٍ. يقال: عَطَفْتُ الشّيء، إذا أمَلْتَه. وانعَطَف، إذا انعاج. ومصدر عطف العُطُوف. وتعطّفَ بالرَّحمة تعطُّفاً. وعَطَف الله تعالى فلاناً على فلانٍ عَطْفاً. والرَّجُل يَعْطِف الوِسادةَ: يثنيها، عطفاً، إذا ارتفَقَ بها. قال لبيد:\n\nعاطِفِ النُّمرُقِ صَدْقِ المُبْتَذَلْ\n\nومَجُودٍ من صُبابات الكَرَى\n\nويقال للجانبَين العِطفانِ، سمِّيا بذلك لأنَّ الإنسان يَميل عليهما. ألاَ ترى أنَّهم يقولون: ثنَىعِطْفَه، إذا أعْرضَ عنك وجَفَاك. ويقال: رجلٌ عَطوفٌ في الحرب والخير، وعَطَّافٌ. وظبيةٌ عاطِف، إذا رَبَضت وعطفَتْ عُنقَها. وفلانٌ يَتَعَاطَفُ في مِشيته، إذا تمايَلَ. والإنسان يتعطَّف بثوبه، وهو شبه التوشُّح. والرِّداء نفسُه عِطَافٌ، لأنّه يُعْطَفُ. ثم يتَّسعون في ذلك فيسمُّون السيفَ عِطافاً لأنّه يكونُ موضعَ الرداء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "the Qurʾan.\nعَضَّ ʿaḍḍa [v. trans. with prep. عَلَى] to bite, to bite on *(25:27) وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ on the Day the unjust will become very remorseful [lit. bite on his own hand]; *(3:119) عَضُّوا عَلَيْكُمُ الْأَنَامِلَ they bite [their] fingertips in rage at you.",
+      "definition_english": "the Qurʾan.\nعَضَّ ʿaḍḍa [v. trans. with prep. عَلَى] to bite, to bite on *(25:27) وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ on the Day the unjust will become very remorseful [lit. bite on his own hand]; *(3:119) عَضُّوا عَلَيْكُمُ الْأَنَامِلَ they bite [their] fingertips in rage at you."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ-ṭ-f side of the body, coats, robes; creeper plants; to fold, to bend, to lean on, to incline towards; to show kindness; to beseech, to implore. Of this root, only عِطْف ʿiṭf occurs once in the Qurʾan.\nعِطْف ʿiṭf [n.] side of the body *(22:9) ثَانِيَ عِطْفِهِ acting arrogantly [lit. twisting his body, turning away].\n\n628",
+      "definition_english": "ʿ-ṭ-f side of the body, coats, robes; creeper plants; to fold, to bend, to lean on, to incline towards; to show kindness; to beseech, to implore. Of this root, only عِطْف ʿiṭf occurs once in the Qurʾan.\nعِطْف ʿiṭf [n.] side of the body *(22:9) ثَانِيَ عِطْفِهِ acting arrogantly [lit. twisting his body, turning away].\n\n628"
+    }
+  ],
   "occurrences": [
     "22:9:2"
   ]

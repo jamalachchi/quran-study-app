@@ -1,9 +1,17 @@
 {
-  "id": 4049,
   "root": "ن ع س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنعس - نعش\n\n(نعس) النون والعين والسين أُصَيلٌ يدلُّ على وَسَن. ونَعَس يَنْعَُس نُعاساً. وناقةٌ نَعُوسٌ، تُوصَف بالسَّماحة بالدّرّ، لأنَّها إذا دَرَّت نَعَست. قال:\n\nنَعوسٌ إذا درّت جَروزٌ إذا شَتَتْ\n\nبُويزلُ عامٍ أو سديسٌ كبازِلِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنعس - نعش\n\n(نعس) النون والعين والسين أُصَيلٌ يدلُّ على وَسَن. ونَعَس يَنْعَُس نُعاساً. وناقةٌ نَعُوسٌ، تُوصَف بالسَّماحة بالدّرّ، لأنَّها إذا دَرَّت نَعَست. قال:\n\nنَعوسٌ إذا درّت جَروزٌ إذا شَتَتْ\n\nبُويزلُ عامٍ أو سديسٌ كبازِلِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ʿ–s slumber, dozing off, drowsiness, to doze off; to beget\nlazy children. Of this root, نُعَاس nuʿās, occurs once in the Qur’an.\n\nنُعَاس nuʿās [n.] slumber, sleepiness, drowsiness (8:11) إِذْ يُغَشِّيكُمُ\nالنُّعَاسَ أَمَنَةً مِنْهُ [remember] when He caused slumber to overcome\nyou as [a form of] peace/calm from Him.",
+      "definition_english": "n–ʿ–s slumber, dozing off, drowsiness, to doze off; to beget\nlazy children. Of this root, نُعَاس nuʿās, occurs once in the Qur’an.\n\nنُعَاس nuʿās [n.] slumber, sleepiness, drowsiness (8:11) إِذْ يُغَشِّيكُمُ\nالنُّعَاسَ أَمَنَةً مِنْهُ [remember] when He caused slumber to overcome\nyou as [a form of] peace/calm from Him."
+    }
+  ],
   "occurrences": [
     "3:154:8",
     "8:11:3"

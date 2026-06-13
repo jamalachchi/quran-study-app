@@ -1,9 +1,17 @@
 {
-  "id": 1822,
   "root": "س ن ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسنه - سني\n\nوسَمَّلت البئر: نقَّيتها. وأما الإسمال، وهو الإصلاح بين النَّاس. فمن هذه الكلمة الأخيرة، كأنَّه نَقَّى ما بينهم من العَداوةِ. والله تعالى أعلم.\n\n(باب السين والنون وما يثلثهما)\n\n(سنه) السين والنون والهاء أصلٌ واحدٌ يدلُّ على زمانٍ. فالسَّنَة معروفة، وقد سقطت منها هاء. ألا ترى أنّك تَقول سُنيْهَة. ويقال سَنَهَتِ النخلةُ، إذا أتت عليها الأعوام . وقوله جل ذكره: ] فَانْظُرْ إِلَى طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ [ [البقرة 259]، أي لم يصر كالشيء الذي تأتي عليه السنُون فتغيِّره. والنَّخْلة السَّنْهاء .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسنه - سني\n\nوسَمَّلت البئر: نقَّيتها. وأما الإسمال، وهو الإصلاح بين النَّاس. فمن هذه الكلمة الأخيرة، كأنَّه نَقَّى ما بينهم من العَداوةِ. والله تعالى أعلم.\n\n(باب السين والنون وما يثلثهما)\n\n(سنه) السين والنون والهاء أصلٌ واحدٌ يدلُّ على زمانٍ. فالسَّنَة معروفة، وقد سقطت منها هاء. ألا ترى أنّك تَقول سُنيْهَة. ويقال سَنَهَتِ النخلةُ، إذا أتت عليها الأعوام . وقوله جل ذكره: ] فَانْظُرْ إِلَى طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ [ [البقرة 259]، أي لم يصر كالشيء الذي تأتي عليه السنُون فتغيِّره. والنَّخْلة السَّنْهاء .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–n–h year, season, passing of time; to remain, (of food and\ndrink) to alter in quality.There is a degree of overlapping between\nthis root and roots س/ن/ن s–n–n and س/ن/و s–n–w. Of this root,\nonly يَتَسَنَّهْ yatasannah occurs once in the Qurʾān.\n\nيَتَسَنَّهْ yatasannah [imperf. of v. V, intrans.] to change in quality\nwith the passing of time, to rot, to become putrid (2:259) فَانْظُرْ إِلَى\nطَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ so look at your food and drink: it has not\nchanged with the passage of the years.",
+      "definition_english": "s–n–h year, season, passing of time; to remain, (of food and\ndrink) to alter in quality.There is a degree of overlapping between\nthis root and roots س/ن/ن s–n–n and س/ن/و s–n–w. Of this root,\nonly يَتَسَنَّهْ yatasannah occurs once in the Qurʾān.\n\nيَتَسَنَّهْ yatasannah [imperf. of v. V, intrans.] to change in quality\nwith the passing of time, to rot, to become putrid (2:259) فَانْظُرْ إِلَى\nطَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ so look at your food and drink: it has not\nchanged with the passage of the years."
+    }
+  ],
   "occurrences": [
     "2:259:42"
   ]

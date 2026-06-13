@@ -1,9 +1,17 @@
 {
-  "id": 540,
   "root": "ث ب ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثأط - ثأد\n\n(ثبت) الثاء والباء والتاء كلمةٌ واحدة، وهي دَوامُ الشيء. يقال: ثَبَتَ ثباتاً وثُبُوتاً. ورجل ثَبْتٌ وثبيت. قال طَرَفَةُ في الثَّبيت:\n\nوالثّبيت ثبته فَهَمُه\n\nفالهَبيت لا فؤادَ لـه",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثأط - ثأد\n\n(ثبت) الثاء والباء والتاء كلمةٌ واحدة، وهي دَوامُ الشيء. يقال: ثَبَتَ ثباتاً وثُبُوتاً. ورجل ثَبْتٌ وثبيت. قال طَرَفَةُ في الثَّبيت:\n\nوالثّبيت ثبته فَهَمُه\n\nفالهَبيت لا فؤادَ لـه",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–b–t to stand firm, to be fixed, to hold out; to establish, to\nmake fast; to prove; to transfix; to be constant. Of this root, six\nforms occur 18 times in the Qur’an: اُثْبُتْ ʾuthbut once; ثَبَّتَ\nthabbata 10 times; يُثْبِتُ yuthbit twice; ثُبُوت thubūt once; ثَابِت thābit\ntwice and تَثْبِيت tathbīt twice.\n\nاُثْبُتْ ʾuthbut [imperat. of v. ثَبَتَ thabata, intrans.] to stand firm,\nto hold fast to one’s position (8:45) يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا\nyou who believe, when you meet a force [in battle], stand firm.\n\nثَبَّتَ thabbata [v. II, trans.] 1 to set fast, to make firm, to give\nfirmness (14:27) يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ\nGod gives firmness to those who believe with the firmly-rooted\nword, in this life and in the Hereafter [also interpreted as: God\ngives firmness to those who believe in the firmly-rooted word, in\nthis life and in the Hereafter]; *(2:250) ثَبِّتْ أَقْدَامَنَا make us stand\nfirm 2 to bolster, to strengthen (25:32) لِنُثَبِّتَ بِهِ فُؤَادَكَ that We may\nstrengthen your heart with it.\n\nيُثْبِتُ yuthbit [imperf. of v. IV أَثْبَتَ ʾathbata, trans.] 1 to confirm\n(13:39) يَمْحُوا اللَّهُ مَا يَشَاءُ وَيُثْبِتُ God erases whatever He will and\nconfirms [whatever He will] 2 to immobilise, to transfix, restrain,\nto tie up, to take as captive (8:30) وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ\nأَوْ يُخْرِجُوكَ remember when the disbelievers were plotting against\nyou, to take you captive, kill you or expel you.\n\nثُبُوت thubūt [v. n.] being steadfast, steadfastness, being firm\n(16:94) فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا lest a foot should slip after its being firmly",
+      "definition_english": "th–b–t to stand firm, to be fixed, to hold out; to establish, to\nmake fast; to prove; to transfix; to be constant. Of this root, six\nforms occur 18 times in the Qur’an: اُثْبُتْ ʾuthbut once; ثَبَّتَ\nthabbata 10 times; يُثْبِتُ yuthbit twice; ثُبُوت thubūt once; ثَابِت thābit\ntwice and تَثْبِيت tathbīt twice.\n\nاُثْبُتْ ʾuthbut [imperat. of v. ثَبَتَ thabata, intrans.] to stand firm,\nto hold fast to one’s position (8:45) يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا\nyou who believe, when you meet a force [in battle], stand firm.\n\nثَبَّتَ thabbata [v. II, trans.] 1 to set fast, to make firm, to give\nfirmness (14:27) يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ\nGod gives firmness to those who believe with the firmly-rooted\nword, in this life and in the Hereafter [also interpreted as: God\ngives firmness to those who believe in the firmly-rooted word, in\nthis life and in the Hereafter]; *(2:250) ثَبِّتْ أَقْدَامَنَا make us stand\nfirm 2 to bolster, to strengthen (25:32) لِنُثَبِّتَ بِهِ فُؤَادَكَ that We may\nstrengthen your heart with it.\n\nيُثْبِتُ yuthbit [imperf. of v. IV أَثْبَتَ ʾathbata, trans.] 1 to confirm\n(13:39) يَمْحُوا اللَّهُ مَا يَشَاءُ وَيُثْبِتُ God erases whatever He will and\nconfirms [whatever He will] 2 to immobilise, to transfix, restrain,\nto tie up, to take as captive (8:30) وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ\nأَوْ يُخْرِجُوكَ remember when the disbelievers were plotting against\nyou, to take you captive, kill you or expel you.\n\nثُبُوت thubūt [v. n.] being steadfast, steadfastness, being firm\n(16:94) فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا lest a foot should slip after its being firmly"
+    }
+  ],
   "occurrences": [
     "11:120:8",
     "13:39:5",

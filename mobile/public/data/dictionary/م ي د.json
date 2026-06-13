@@ -1,9 +1,17 @@
 {
-  "id": 3648,
   "root": "م ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nميد\n\n(ميد) الميم والياء والدال أصلانِ صحيحان: أحدُهما يدلُّ على حركةٍ في شيء، والآخَر على نفعٍ وعطاء.\n\nفالأوّل المَيْد: التحرُّك. ومادَ يَميدُ. ومادت الأغصان تَمِيد: تمايلَتْ. والمَيْدان على فَعْلان: العيش النّاعم الريّان. قال ابنُ أحمر:\n\nنَعِيماً وميداناً من العيشِ أخْضَرا\n\n............ وصادَفَتْ\n\nوالأصل الآخر المَيْد. ومَادَ يَمِيدُ: أطْعَمَ [و] نَفَع. ومادَنِي يَميدُني: نَعَشَنِي. قالوا: وسمِّيت المائدة منه، وكذا المائد من هذا القياس: قال:\n\n* وكُنت للمنتجِعينَ مائدا *\n\nقال أبو بكر : وأصابه مَيْد، أي دُوَارٌ عن ركوب البَحر. ومِدْتُه: أعطيتُه وأمَدْتُه بخيرٍ. وامْتَدْتُهُ : طلبت خَيره. وذهب بعضُ المحقِّقين [أنّ] أصل مَيْد الحركة. والمائدة: الخِوان لأنها تميد بما عليها، أي تحرِّكه وتُزحِله عن نَضَدِه . ومادَهم: أطعَمهُم على المائدة. وأمّا قوله صلى الله عليه وآله وسلم: \"مَيْدَ أَنَّا أُوتِينا الكتابَ مِن بعدهم \"، أي غير أنّا، أو على أنّا، فهو لغة في بَيْد أنَّا.\n\nمير ميز ميس ميش - ميط",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nميد\n\n(ميد) الميم والياء والدال أصلانِ صحيحان: أحدُهما يدلُّ على حركةٍ في شيء، والآخَر على نفعٍ وعطاء.\n\nفالأوّل المَيْد: التحرُّك. ومادَ يَميدُ. ومادت الأغصان تَمِيد: تمايلَتْ. والمَيْدان على فَعْلان: العيش النّاعم الريّان. قال ابنُ أحمر:\n\nنَعِيماً وميداناً من العيشِ أخْضَرا\n\n............ وصادَفَتْ\n\nوالأصل الآخر المَيْد. ومَادَ يَمِيدُ: أطْعَمَ [و] نَفَع. ومادَنِي يَميدُني: نَعَشَنِي. قالوا: وسمِّيت المائدة منه، وكذا المائد من هذا القياس: قال:\n\n* وكُنت للمنتجِعينَ مائدا *\n\nقال أبو بكر : وأصابه مَيْد، أي دُوَارٌ عن ركوب البَحر. ومِدْتُه: أعطيتُه وأمَدْتُه بخيرٍ. وامْتَدْتُهُ : طلبت خَيره. وذهب بعضُ المحقِّقين [أنّ] أصل مَيْد الحركة. والمائدة: الخِوان لأنها تميد بما عليها، أي تحرِّكه وتُزحِله عن نَضَدِه . ومادَهم: أطعَمهُم على المائدة. وأمّا قوله صلى الله عليه وآله وسلم: \"مَيْدَ أَنَّا أُوتِينا الكتابَ مِن بعدهم \"، أي غير أنّا، أو على أنّا، فهو لغة في بَيْد أنَّا.\n\nمير ميز ميس ميش - ميط",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–y–d to shake, to sway, to fluctuate; to feed, to provide for,\nbanquet, table laden with food, to grant favours to someone; a\nsquare. Of this root, two forms occur five times in the Qur’an: تميد\ntamīd three times and مائدة māʾidatun twice.\n\nتميد tamīd [imperf. of v. مادَ māda, intrans.] to sway, to tumble\nabout (31:10) وَأَلْقَى فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ and He cast upon the\nearth firm mountains, lest it should sway with you.\n\nمائدة māʾidatun [n.] a table spread with food (5:114) اللَّهُمَّ رَبَّنَا أَنْزِلْ\nعَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ God, our Lord, send down to us a table [spread]\nfrom heaven; * المائدة name of Sura 5, Medinan sura, so-named\nbecause of the reference in verses 112–5 to the ‘Table’ demanded\nof Christ by the Disciples.",
+      "definition_english": "m–y–d to shake, to sway, to fluctuate; to feed, to provide for,\nbanquet, table laden with food, to grant favours to someone; a\nsquare. Of this root, two forms occur five times in the Qur’an: تميد\ntamīd three times and مائدة māʾidatun twice.\n\nتميد tamīd [imperf. of v. مادَ māda, intrans.] to sway, to tumble\nabout (31:10) وَأَلْقَى فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ and He cast upon the\nearth firm mountains, lest it should sway with you.\n\nمائدة māʾidatun [n.] a table spread with food (5:114) اللَّهُمَّ رَبَّنَا أَنْزِلْ\nعَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ God, our Lord, send down to us a table [spread]\nfrom heaven; * المائدة name of Sura 5, Medinan sura, so-named\nbecause of the reference in verses 112–5 to the ‘Table’ demanded\nof Christ by the Disciples."
+    }
+  ],
   "occurrences": [
     "16:15:6",
     "21:31:6",

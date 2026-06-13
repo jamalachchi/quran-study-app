@@ -1,9 +1,17 @@
 {
-  "id": 1807,
   "root": "س ل ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسلق\n\n(سلك) السين واللام والكاف أصلٌ يدلُّ على نفوذ شيءٍ في شيء. يقال سلكت الطَّريقَ أَسلُكُه. وسَلكت الشيء في الشيء: أنفذْته. والطَّعْنَة السُّلْكَى، إذا طَعَنَه تِلقاءَ وجهِه. والمسلَكَة: طُرَّةٌ تُشَقُّ من ناحية الثوب . وإنّما سمّيت بذلك لامتدادها. وهي كالسِّكَك.\n\nومما شذَّ عن الباب السُّلَكَة: الأنثى من ولد الحَجَل، والذكر سُلَك، *وجمعه سِلْكانٌ. والله أعلم.\n\n(باب السين والميم وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسلق\n\n(سلك) السين واللام والكاف أصلٌ يدلُّ على نفوذ شيءٍ في شيء. يقال سلكت الطَّريقَ أَسلُكُه. وسَلكت الشيء في الشيء: أنفذْته. والطَّعْنَة السُّلْكَى، إذا طَعَنَه تِلقاءَ وجهِه. والمسلَكَة: طُرَّةٌ تُشَقُّ من ناحية الثوب . وإنّما سمّيت بذلك لامتدادها. وهي كالسِّكَك.\n\nومما شذَّ عن الباب السُّلَكَة: الأنثى من ولد الحَجَل، والذكر سُلَك، *وجمعه سِلْكانٌ. والله أعلم.\n\n(باب السين والميم وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–l–k to go along, to pursue a course of action; to enter into, to infiltrate, to insinuate, to cause to be absorbed; to thread a needle; thread; passage. Of this root, only سلك salaka occurs 15 times in the Qurʾan.\nسلك salaka u [v. trans.] 1 to open up (a road), to pave (20:53) الذي جعل لكم الأرض مهدا وسلك لكم فيها سبلا He who spread out for you the earth, and opened up for you in it ways 2 to cause to enter, to squeeze in, to cram in, to shove in (74:42) ما سلككم في سقر what drove you into the Scorching Fire? 3 to infiltrate, to insinuate (26:200) كذلك سلكناه في قلوب المجرمين and thus We insinuate it straight through the hearts of the guilty 4 to roll up, to truss (69:32) ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه and roll him up in a chain the length of which is seventy cubits 5 to follow an appointed path (16:69) ثم كلي من كل الثمرات فاسلكي سبل ربك ذللا then eat of all kinds of fruits and follow the paths of your Lord, [made] accessible [for you].",
+      "definition_english": "s–l–k to go along, to pursue a course of action; to enter into, to infiltrate, to insinuate, to cause to be absorbed; to thread a needle; thread; passage. Of this root, only سلك salaka occurs 15 times in the Qurʾan.\nسلك salaka u [v. trans.] 1 to open up (a road), to pave (20:53) الذي جعل لكم الأرض مهدا وسلك لكم فيها سبلا He who spread out for you the earth, and opened up for you in it ways 2 to cause to enter, to squeeze in, to cram in, to shove in (74:42) ما سلككم في سقر what drove you into the Scorching Fire? 3 to infiltrate, to insinuate (26:200) كذلك سلكناه في قلوب المجرمين and thus We insinuate it straight through the hearts of the guilty 4 to roll up, to truss (69:32) ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه and roll him up in a chain the length of which is seventy cubits 5 to follow an appointed path (16:69) ثم كلي من كل الثمرات فاسلكي سبل ربك ذللا then eat of all kinds of fruits and follow the paths of your Lord, [made] accessible [for you]."
+    }
+  ],
   "occurrences": [
     "15:12:2",
     "16:69:6",

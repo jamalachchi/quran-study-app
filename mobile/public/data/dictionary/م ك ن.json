@@ -1,9 +1,17 @@
 {
-  "id": 3804,
   "root": "م ك ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمغر - مغص\n\n(مكن) الميم والكاف والنون كلمةٌ واحدة. المَكْن: بَيض الضَّبّ. وضَبٌّ مَكُونٌ. [قال]:\n\nولا تَشتهيهِ نفوسُ العَجَمْ\n\nومَكْنُ الضِّباب طَعامُ العُرَيبِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمغر - مغص\n\n(مكن) الميم والكاف والنون كلمةٌ واحدة. المَكْن: بَيض الضَّبّ. وضَبٌّ مَكُونٌ. [قال]:\n\nولا تَشتهيهِ نفوسُ العَجَمْ\n\nومَكْنُ الضِّباب طَعامُ العُرَيبِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–k–n lizard and locust eggs; bird’s nest; to be exalted in\nposition; to be calm; to be firmly established, to consolidate, to\ngain influence; to become possible. Of this root, three forms\noccur 18 times in the Qur’an: مَكَّنَ makkana 13 times; أَمْكَنَ\nʾamkana once and مَكِين makīn four times.\n\nمَكَّنَ makkana [v. II, trans.] 1 to establish, to strengthen (24:55)\nوَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ and He will surely establish for them\ntheir religion which He had approved for them 2 [with prep. فِي]\nto settle in, to secure in (7:10) وَلَقَدْ مَكَّنَّاكُمْ فِي الْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ\nand We have indeed settled you [people] on the earth and\nprovided you with a means of livelihood there 3 [with prep. لـ]\nto give authority to, to give power to, to give a firm position to\n(28:6) وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ to give them power in/over the land.\n\nأَمْكَنَ ʾamkana [v. IV, intrans./trans.] (with no notional subject)\nto become possible, to enable *(8:71) أَمْكَنَ مِنْهُمْ He had them\ncaught, put them in the power of their adversaries [lit. He\nenabled over them].\n\nمَكِين makīn [quasi-act. part.] 1 secure, safe (23:13) ثُمَّ جَعَلْنَاهُ\nنُطْفَةً فِي قَرَارٍ مَكِينٍ then We placed him as a drop of seed in a secure\nlodging 2 well established (12:54) إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ you are\nnow well established with us and trusted.",
+      "definition_english": "m–k–n lizard and locust eggs; bird’s nest; to be exalted in\nposition; to be calm; to be firmly established, to consolidate, to\ngain influence; to become possible. Of this root, three forms\noccur 18 times in the Qur’an: مَكَّنَ makkana 13 times; أَمْكَنَ\nʾamkana once and مَكِين makīn four times.\n\nمَكَّنَ makkana [v. II, trans.] 1 to establish, to strengthen (24:55)\nوَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ and He will surely establish for them\ntheir religion which He had approved for them 2 [with prep. فِي]\nto settle in, to secure in (7:10) وَلَقَدْ مَكَّنَّاكُمْ فِي الْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ\nand We have indeed settled you [people] on the earth and\nprovided you with a means of livelihood there 3 [with prep. لـ]\nto give authority to, to give power to, to give a firm position to\n(28:6) وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ to give them power in/over the land.\n\nأَمْكَنَ ʾamkana [v. IV, intrans./trans.] (with no notional subject)\nto become possible, to enable *(8:71) أَمْكَنَ مِنْهُمْ He had them\ncaught, put them in the power of their adversaries [lit. He\nenabled over them].\n\nمَكِين makīn [quasi-act. part.] 1 secure, safe (23:13) ثُمَّ جَعَلْنَاهُ\nنُطْفَةً فِي قَرَارٍ مَكِينٍ then We placed him as a drop of seed in a secure\nlodging 2 well established (12:54) إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ you are\nnow well established with us and trusted."
+    }
+  ],
   "occurrences": [
     "12:21:16",
     "12:54:13",

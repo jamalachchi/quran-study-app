@@ -1,9 +1,17 @@
 {
-  "id": 1885,
   "root": "س ت ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nستر - ستن\n\n(باب السين والتاء وما يثلثهما)\n\n(ستر) السين والتاء والراء كلمةٌ تدلُّ على الغِطاءِ. تقول: سترت الشيء ستراً. والسُّتْرَة: ما استترت به، كائناً ما كان. وكذلك السِّتَار . فأمَّا الإستار، وقولهم إستار الكعبة، فالأغلبُ أنه من السِّتْر، وكأنَّه أراد به ما تُستَر به الكعبة من لباسٍ. إلاَّ أنَّ قوماً زعموا أنْ ليس ذلك من اللِّباس، وإنما هو من العَدَد. قالوا: والعرب تسمِّي الأربعة الإستار ، ويحتجُّون بقول الأخطل:\n\nوأُمَّهُمَا لَإِسْتَارٌ لئيمُ\n\nلعمرك إنَّني وابنَيْ جُعَيْلٍ\n\nويقول جرير:\n\nوأبُو الفرزدق قُبِّحَ الإستارُ\n\nقُرِنَ الفرزدقُ والبَعيثُ وأمُّه\n\nقالوا: فأستار الكعبة: جُدرانها وجوانبها، وهي أربعة، وهذا شيءٌ قد قيل، والله أعلم بصحته.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nستر - ستن\n\n(باب السين والتاء وما يثلثهما)\n\n(ستر) السين والتاء والراء كلمةٌ تدلُّ على الغِطاءِ. تقول: سترت الشيء ستراً. والسُّتْرَة: ما استترت به، كائناً ما كان. وكذلك السِّتَار . فأمَّا الإستار، وقولهم إستار الكعبة، فالأغلبُ أنه من السِّتْر، وكأنَّه أراد به ما تُستَر به الكعبة من لباسٍ. إلاَّ أنَّ قوماً زعموا أنْ ليس ذلك من اللِّباس، وإنما هو من العَدَد. قالوا: والعرب تسمِّي الأربعة الإستار ، ويحتجُّون بقول الأخطل:\n\nوأُمَّهُمَا لَإِسْتَارٌ لئيمُ\n\nلعمرك إنَّني وابنَيْ جُعَيْلٍ\n\nويقول جرير:\n\nوأبُو الفرزدق قُبِّحَ الإستارُ\n\nقُرِنَ الفرزدقُ والبَعيثُ وأمُّه\n\nقالوا: فأستار الكعبة: جُدرانها وجوانبها، وهي أربعة، وهذا شيءٌ قد قيل، والله أعلم بصحته.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–t–r to cover, to conceal, to hide; to take cover; veil,\ncovering. Of this root, three forms occur once each in the\nQur’an: تستترون tastatirūn; ستر sitr and مستور mastūr.\n\nتستتر tastatir [imperf. of v. VIII] to cover oneself, to hide\noneself (41:22) وما كنتم تستترون أن يشهد عليكم سمعكم ولا أبصاركم ولا جلودكم\nyet you did not try to hide [your bad actions] lest your ears, your\neyes and your skin testify against you.\n\nستر sitr [v. n./n.] covering, veiling, sheltering; veil, shelter\n(18:90) حتى إذا بلغ مطلع الشمس وجدها تطلع على قوم لم نجعل لهم من دونها سترا\nuntil he reached [the time/place of] sunrise, he found that it rises\non a people for whom We had not provided shelter from it.\n\nمستور mastūr [pass. part.] hidden, invisible (some\n\n421",
+      "definition_english": "s–t–r to cover, to conceal, to hide; to take cover; veil,\ncovering. Of this root, three forms occur once each in the\nQur’an: تستترون tastatirūn; ستر sitr and مستور mastūr.\n\nتستتر tastatir [imperf. of v. VIII] to cover oneself, to hide\noneself (41:22) وما كنتم تستترون أن يشهد عليكم سمعكم ولا أبصاركم ولا جلودكم\nyet you did not try to hide [your bad actions] lest your ears, your\neyes and your skin testify against you.\n\nستر sitr [v. n./n.] covering, veiling, sheltering; veil, shelter\n(18:90) حتى إذا بلغ مطلع الشمس وجدها تطلع على قوم لم نجعل لهم من دونها سترا\nuntil he reached [the time/place of] sunrise, he found that it rises\non a people for whom We had not provided shelter from it.\n\nمستور mastūr [pass. part.] hidden, invisible (some\n\n421"
+    }
+  ],
   "occurrences": [
     "17:45:12",
     "18:90:15",

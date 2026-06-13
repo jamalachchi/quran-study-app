@@ -1,9 +1,17 @@
 {
-  "id": 3808,
   "root": "م ك ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمكا\n\n(مكر) الميم والكاف والراء كلمتانِ متباينتان: إحداهما المَكْر: الاحتيال والخِداع. ومَكَرَ به يمكُر. والأخرى المَكْر: خَدَالة السَّاق. وامرأةٌ ممكورة السَّاقَين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمكا\n\n(مكر) الميم والكاف والراء كلمتانِ متباينتان: إحداهما المَكْر: الاحتيال والخِداع. ومَكَرَ به يمكُر. والأخرى المَكْر: خَدَالة السَّاق. وامرأةٌ ممكورة السَّاقَين.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–k–r plotting, conniving, cunning, to deceive; to irrigate hard,\ndry land, (of trees) to be of strong, straight stem. Of this root,\nthree forms occur 43 times in the Qur’an: مَكَرَ makara 22 times;\nمَكْر makr 19 times and مَاكِرِين mākirīn twice.\n\nمَكَرَ makara u [v. intrans.] to scheme, to plot, to connive\n(7:123) إِنَّ هَذَا لَمَكْرٌ مَكَرْتُمُوهُ فِي الْمَدِينَةِ لِتُخْرِجُوا مِنْهَا أَهْلَهَا this is a plot you\nhave hatched in the city to drive its people out of it!\n\nمَكْر makr [n./v. n.] 1 scheming, plotting, conniving (3:54) وَمَكَرُوا\nوَمَكَرَ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ and they schemed and God schemed, but\nGod is the best of schemers 2 gossip (12:30–1) وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ\nامْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ فَلَمَّا سَمِعَتْ\nبِمَكْرِهِنَّ some women in the city said, ‘The governor’s\nwife is trying to seduce her slave! Love for him consumes her\nheart! It is clear to us that she has gone astray.’ When she heard\ntheir gossip, she sent for them.\n\nمَاكِرُونَ mākirūn [pl. of act. part. مَاكِر mākir] those who plot,\nplan, scheme (8:30) وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ they scheme\nand God schemes, but God is the best of schemers.",
+      "definition_english": "m–k–r plotting, conniving, cunning, to deceive; to irrigate hard,\ndry land, (of trees) to be of strong, straight stem. Of this root,\nthree forms occur 43 times in the Qur’an: مَكَرَ makara 22 times;\nمَكْر makr 19 times and مَاكِرِين mākirīn twice.\n\nمَكَرَ makara u [v. intrans.] to scheme, to plot, to connive\n(7:123) إِنَّ هَذَا لَمَكْرٌ مَكَرْتُمُوهُ فِي الْمَدِينَةِ لِتُخْرِجُوا مِنْهَا أَهْلَهَا this is a plot you\nhave hatched in the city to drive its people out of it!\n\nمَكْر makr [n./v. n.] 1 scheming, plotting, conniving (3:54) وَمَكَرُوا\nوَمَكَرَ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ and they schemed and God schemed, but\nGod is the best of schemers 2 gossip (12:30–1) وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ\nامْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ فَلَمَّا سَمِعَتْ\nبِمَكْرِهِنَّ some women in the city said, ‘The governor’s\nwife is trying to seduce her slave! Love for him consumes her\nheart! It is clear to us that she has gone astray.’ When she heard\ntheir gossip, she sent for them.\n\nمَاكِرُونَ mākirūn [pl. of act. part. مَاكِر mākir] those who plot,\nplan, scheme (8:30) وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ they scheme\nand God schemes, but God is the best of schemers."
+    }
+  ],
   "occurrences": [
     "10:21:11",
     "10:21:17",

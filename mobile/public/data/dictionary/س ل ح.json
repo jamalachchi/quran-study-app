@@ -1,9 +1,17 @@
 {
-  "id": 1799,
   "root": "س ل ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسلب\n\n(سلح) السين واللام والحاء السلاح، وهو ما يُقَاتَل به، وكان أبو عبيدة يفرِقُ بين السّلاح والجُنة، فيقول: السلاح ما قُوتِلَ به، والجُنّة ما اتُّقي به، ويحتج بقوله:\n\nيَنْهَضْنَ بالهندوانيّاتِ والجُنَنِ\n\nحيثُ تَرى الخيلَ بالأبطال عابسة\n\nفجعل الجُنَن غَيْرَ السُّيوف . والإسليح: شجرةٌ تغزُرُ عليها الإِبل. وقالت الأعرابية: \"الإسليح ، رُغوَةٌ وسَريح، وسَنامٌ وإطريح\".",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسلب\n\n(سلح) السين واللام والحاء السلاح، وهو ما يُقَاتَل به، وكان أبو عبيدة يفرِقُ بين السّلاح والجُنة، فيقول: السلاح ما قُوتِلَ به، والجُنّة ما اتُّقي به، ويحتج بقوله:\n\nيَنْهَضْنَ بالهندوانيّاتِ والجُنَنِ\n\nحيثُ تَرى الخيلَ بالأبطال عابسة\n\nفجعل الجُنَن غَيْرَ السُّيوف . والإسليح: شجرةٌ تغزُرُ عليها الإِبل. وقالت الأعرابية: \"الإسليح ، رُغوَةٌ وسَريح، وسَنامٌ وإطريح\".",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–l–ḥ arms, arming, fortifications; (of camels) to become fleshy; excreting. Of this root, only أسلحة ʾasliḥatun occurs four times in the Qurʾan.\nأسلحة ʾasliḥatun [pl. of n. سلاح silāḥ] arms, weapons (4:102) وليأخذوا حذرهم وأسلحتهم and let them be on their guard and [be armed with] their weapons.",
+      "definition_english": "s–l–ḥ arms, arming, fortifications; (of camels) to become fleshy; excreting. Of this root, only أسلحة ʾasliḥatun occurs four times in the Qurʾan.\nأسلحة ʾasliḥatun [pl. of n. سلاح silāḥ] arms, weapons (4:102) وليأخذوا حذرهم وأسلحتهم and let them be on their guard and [be armed with] their weapons."
+    }
+  ],
   "occurrences": [
     "4:102:12",
     "4:102:27",

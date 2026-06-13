@@ -1,9 +1,17 @@
 {
-  "id": 2775,
   "root": "غ ن م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغنم - غني\n\nليتفَسَّخَ عنه صوفُه. وهو غَمِيلٌ. ويقال: الغُمْلُول: كلُّ ما اجتَمَع من شجرٍ، أو غمام، أو ظُلْمة، حتَّى تسمَّى الزَّاوية غُملولا. والله أعلم بالصَّواب.\n\n(باب الغين والنون وما يثلثهما)\n\n(غنم) الغين والنون والميم أصلٌ صحيح واحد يدلُّ على إفادة شيء لم يُملَك من قبل، ثم يختصّ به ما أُخِذ من مال المشركين بقَهْرٍ وغَلَبة. قال الله تعالى: ] وَاعْلَمُوا أَنَّما غَنِمْتُمْ مِنْ شَيءٍ فَأَنَّ للهِ خُمُسَهُ وَلِلرَّسُولِ [ [الأنفال 41]. ويقولون: غُنَامَاكَ أنْ تفعل كذا، أي غايتُك والأمر الذي تتغنَّمه. وغَنْمٌ: قبيلة. ولعلَّ اشتقاقَ الغَنَم من هذا، وليس ببعيد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغنم - غني\n\nليتفَسَّخَ عنه صوفُه. وهو غَمِيلٌ. ويقال: الغُمْلُول: كلُّ ما اجتَمَع من شجرٍ، أو غمام، أو ظُلْمة، حتَّى تسمَّى الزَّاوية غُملولا. والله أعلم بالصَّواب.\n\n(باب الغين والنون وما يثلثهما)\n\n(غنم) الغين والنون والميم أصلٌ صحيح واحد يدلُّ على إفادة شيء لم يُملَك من قبل، ثم يختصّ به ما أُخِذ من مال المشركين بقَهْرٍ وغَلَبة. قال الله تعالى: ] وَاعْلَمُوا أَنَّما غَنِمْتُمْ مِنْ شَيءٍ فَأَنَّ للهِ خُمُسَهُ وَلِلرَّسُولِ [ [الأنفال 41]. ويقولون: غُنَامَاكَ أنْ تفعل كذا، أي غايتُك والأمر الذي تتغنَّمه. وغَنْمٌ: قبيلة. ولعلَّ اشتقاقَ الغَنَم من هذا، وليس ببعيد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–n–m sheep, to acquire sheep, to gain without trouble, to acquire as booty, spoils of war; to avail oneself of an opportunity. Of this root, three forms occur nine times in the Qurʾan: غَنِمَ ghanima twice, مَغَانِم maghānim four times and غَنَم ghanam three times.\nغَنِمَ ghanima a [v. trans.] to take as spoils of war (8:41) وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ know that whatever you take [as spoils of war], the fifth of it belongs to God and the Messenger.\n\nمَغَانِم maghānim [pl. of n. مَغْنَم maghnam] spoils of war, gains (48:15) سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلَى مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ those who were left behind will say, when you set off for spoils [in order] to take [them], ‘Let us follow you.’\n\nغَنَم ghanam [coll. n.] sheep and/or goats (20:18) قَالَ هِيَ عَصَايَ أَتَوَكَّؤُا عَلَيْهَا وَأَهُشُّ بِهَا عَلَى غَنَمِي ‘It is my staff,’ he said, ‘I lean on it and I beat down leaves with it for my sheep’ (or, ‘I restrain my sheep with it.’)",
+      "definition_english": "gh–n–m sheep, to acquire sheep, to gain without trouble, to acquire as booty, spoils of war; to avail oneself of an opportunity. Of this root, three forms occur nine times in the Qurʾan: غَنِمَ ghanima twice, مَغَانِم maghānim four times and غَنَم ghanam three times.\nغَنِمَ ghanima a [v. trans.] to take as spoils of war (8:41) وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ know that whatever you take [as spoils of war], the fifth of it belongs to God and the Messenger.\n\nمَغَانِم maghānim [pl. of n. مَغْنَم maghnam] spoils of war, gains (48:15) سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلَى مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ those who were left behind will say, when you set off for spoils [in order] to take [them], ‘Let us follow you.’\n\nغَنَم ghanam [coll. n.] sheep and/or goats (20:18) قَالَ هِيَ عَصَايَ أَتَوَكَّؤُا عَلَيْهَا وَأَهُشُّ بِهَا عَلَى غَنَمِي ‘It is my staff,’ he said, ‘I lean on it and I beat down leaves with it for my sheep’ (or, ‘I restrain my sheep with it.’)"
+    }
+  ],
   "occurrences": [
     "20:18:9",
     "21:78:10",

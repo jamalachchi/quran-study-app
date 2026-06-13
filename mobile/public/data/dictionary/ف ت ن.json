@@ -1,9 +1,17 @@
 {
-  "id": 2946,
   "root": "ف ت ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفتل - فتن\n\n(فتن) الفاء والتاء والنون أصلٌ صحيح يدلُّ على ابتلاء واختبار. من ذلك الفِتْنة. يقال: فتَنْتُ أفتِنُ فَتْناً. وفَتَنْتُ الذّهبَ بالنّار، إذا امتحنتَه. وهو مفتونٌ وفَتِين. والفَتَّان: الشَّيطان. ويقال: فتنه وأفْتَنَه. وأنكر الأصمعيُّ أفتنَ. وأنشُدوا في أفتِن:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفتل - فتن\n\n(فتن) الفاء والتاء والنون أصلٌ صحيح يدلُّ على ابتلاء واختبار. من ذلك الفِتْنة. يقال: فتَنْتُ أفتِنُ فَتْناً. وفَتَنْتُ الذّهبَ بالنّار، إذا امتحنتَه. وهو مفتونٌ وفَتِين. والفَتَّان: الشَّيطان. ويقال: فتنه وأفْتَنَه. وأنكر الأصمعيُّ أفتنَ. وأنشُدوا في أفتِن:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–t–n to purify gold and silver by smelting them; to burn; to\nput to the test, to afflict (in particular as a means of testing\nsomeone’s endurance); to disrupt the peace of a community; to\ntempt, to seduce, to allure, to infatuate. Of this root, six forms\noccur 60 times in the Qur’an: فَتَنَ fatana 17 times; فُتِنَ futina six\ntimes; فُتُون futūn once; فَاتِن fātin once; مَفْتُون maftūn once and فِتْنَة\nfitnatun 34 times.\n\nفَتَنَ fatana i [v. trans., pass. of فُتِن futina] 1 to seduce, to tempt\nsomeone away from [their convictions and beliefs] (5:49) وَاحْذَرْهُمْ\nأَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ اللَّهُ إِلَيْكَ and beware lest they tempt you\naway from some of what God has sent down to you 2 to put to the\ntest (38:24) وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ and David realised that We\nhad put him to the test, so he asked his Lord for forgiveness 3 to\nattack, to afflict, to disrupt (4:101) فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ\nإِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا you will not be blamed for shortening your\nprayers, if you fear those who disbelieve may attack you 4 to\npersecute, to torture (85:10) إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ those who\npersecute believing men and believing women 5 to lead into\ntemptation and punishment, to delude (57:14) وَلَكِنَّكُمْ فَتَنْتُمْ أَنْفُسَكُمْ but\nyou misled one another/yourselves.\n\nفُتُون futūn [v. n./pl. of n. فَتْن fatn or فِتْنَة fitnatun] testing, trial\n(20:40) وَفَتَنَّاكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ and We tried you [with\nvarious] trials, so you stayed for some years among the people of\nMidian.\n\n693",
+      "definition_english": "f–t–n to purify gold and silver by smelting them; to burn; to\nput to the test, to afflict (in particular as a means of testing\nsomeone’s endurance); to disrupt the peace of a community; to\ntempt, to seduce, to allure, to infatuate. Of this root, six forms\noccur 60 times in the Qur’an: فَتَنَ fatana 17 times; فُتِنَ futina six\ntimes; فُتُون futūn once; فَاتِن fātin once; مَفْتُون maftūn once and فِتْنَة\nfitnatun 34 times.\n\nفَتَنَ fatana i [v. trans., pass. of فُتِن futina] 1 to seduce, to tempt\nsomeone away from [their convictions and beliefs] (5:49) وَاحْذَرْهُمْ\nأَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ اللَّهُ إِلَيْكَ and beware lest they tempt you\naway from some of what God has sent down to you 2 to put to the\ntest (38:24) وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ and David realised that We\nhad put him to the test, so he asked his Lord for forgiveness 3 to\nattack, to afflict, to disrupt (4:101) فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ\nإِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا you will not be blamed for shortening your\nprayers, if you fear those who disbelieve may attack you 4 to\npersecute, to torture (85:10) إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ those who\npersecute believing men and believing women 5 to lead into\ntemptation and punishment, to delude (57:14) وَلَكِنَّكُمْ فَتَنْتُمْ أَنْفُسَكُمْ but\nyou misled one another/yourselves.\n\nفُتُون futūn [v. n./pl. of n. فَتْن fatn or فِتْنَة fitnatun] testing, trial\n(20:40) وَفَتَنَّاكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ and We tried you [with\nvarious] trials, so you stayed for some years among the people of\nMidian.\n\n693"
+    }
+  ],
   "occurrences": [
     "10:83:14",
     "10:85:8",

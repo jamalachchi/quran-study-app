@@ -1,9 +1,17 @@
 {
-  "id": 1291,
   "root": "د خ ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدخن - ددن\n\n(دخن) الدال والخاء والنون أصلٌ واحد، وهو الذي يكون عن الوَقُود، ثمَّ يشبَّه به كلُّ شيء يُشْبِههُ مِن عداوةٍ ونظيرها. فالدُّخَانُ معروفٌ، وجمعه دوَاخن على غير قياس. ويقال دَخَنَتِ النّار تدخُن، إذا ارتفع دُخانها، ودخِنَتْ تَدْخَنُ، إذا ألقيْتَ عليها حطباً فأفسَدْتَها حتى يهيجَ لذلك دُخانٌ وكذلك دَخِن الطَّعامُ يَدْخَن . ويقال: دَخَن الغُبار: ارتفَعَ. فأمّا الحديث: \"هُدْنَةٌ على دَخَنٍ\"، فهو استقرارٌ على أمورٍ مكروهة. والدُّخْنَةُ من الألوان: كُدرةٌ في سوادٍ. شاةٌ دَخْناءُ، وكبشٌ أدْخَنُ، وليلةٌ دَخْنانةٌ. ورجلٌ دَخِنُ الخُلُق. وأبناء دُخانٍ: غنيٌّ وباهلة. والدُّخْنَة: بَخُورٌ يدخَّن به البيت.\n\n{باب الدال والدال وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدخن - ددن\n\n(دخن) الدال والخاء والنون أصلٌ واحد، وهو الذي يكون عن الوَقُود، ثمَّ يشبَّه به كلُّ شيء يُشْبِههُ مِن عداوةٍ ونظيرها. فالدُّخَانُ معروفٌ، وجمعه دوَاخن على غير قياس. ويقال دَخَنَتِ النّار تدخُن، إذا ارتفع دُخانها، ودخِنَتْ تَدْخَنُ، إذا ألقيْتَ عليها حطباً فأفسَدْتَها حتى يهيجَ لذلك دُخانٌ وكذلك دَخِن الطَّعامُ يَدْخَن . ويقال: دَخَن الغُبار: ارتفَعَ. فأمّا الحديث: \"هُدْنَةٌ على دَخَنٍ\"، فهو استقرارٌ على أمورٍ مكروهة. والدُّخْنَةُ من الألوان: كُدرةٌ في سوادٍ. شاةٌ دَخْناءُ، وكبشٌ أدْخَنُ، وليلةٌ دَخْنانةٌ. ورجلٌ دَخِنُ الخُلُق. وأبناء دُخانٍ: غنيٌّ وباهلة. والدُّخْنَة: بَخُورٌ يدخَّن به البيت.\n\n{باب الدال والدال وما يثلثهما}",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–kh–n smoke; famine, hunger; to be of bad character, the heat\nof the day. Of this root, دُخَان dukhān occurs twice in the Qur’an.\n\nدُخَان dukhān [n.] 1 smoke (41:11) ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ\nthen He turned to the sky, while it was yet smoke 2 haze (caused\n\n302 د/ر/أ\n\nby severe drought) (in one interpretation of 44:10) فَارْتَقِبْ يَوْمَ تَأْتِي\nالسَّمَاءُ بِدُخَانٍ مُّبِينٍ so watch out for a day when the sky brings forth a\ngreat haze [also said to refer to a great smoke that will fill the sky\nheralding the coming of the Day of Judgement]; * الدخان name of\nSura 44, Meccan sura, so-named because of the reference in verse\n10 to a ‘Smoke-filled Day’, taken by many to refer to the Day of\nJudgement.",
+      "definition_english": "d–kh–n smoke; famine, hunger; to be of bad character, the heat\nof the day. Of this root, دُخَان dukhān occurs twice in the Qur’an.\n\nدُخَان dukhān [n.] 1 smoke (41:11) ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ\nthen He turned to the sky, while it was yet smoke 2 haze (caused\n\n302 د/ر/أ\n\nby severe drought) (in one interpretation of 44:10) فَارْتَقِبْ يَوْمَ تَأْتِي\nالسَّمَاءُ بِدُخَانٍ مُّبِينٍ so watch out for a day when the sky brings forth a\ngreat haze [also said to refer to a great smoke that will fill the sky\nheralding the coming of the Day of Judgement]; * الدخان name of\nSura 44, Meccan sura, so-named because of the reference in verse\n10 to a ‘Smoke-filled Day’, taken by many to refer to the Day of\nJudgement."
+    }
+  ],
   "occurrences": [
     "41:11:6",
     "44:10:5"

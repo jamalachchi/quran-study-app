@@ -1,9 +1,17 @@
 {
-  "id": 4279,
   "root": "ه م د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهمج\n\n(همد) الهاء والميم والدال: أصلٌ يدلُّ على خمودِ شيء. وهَمَدت النار: طَفِئَتْ البَتّة. وأرضٌ هامدة: لا نباتَ بها . ونباتٌ هامد: يابس. والإهماد: الإقامة بالمكان.\n\nومما شذَّ عن هذا الباب قول من قال: إنَّ الإهماد: السُّرعة في المَشْي. قال:\n\n* ما كانَ إلاَّ طَلَقُ الإهمادِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهمج\n\n(همد) الهاء والميم والدال: أصلٌ يدلُّ على خمودِ شيء. وهَمَدت النار: طَفِئَتْ البَتّة. وأرضٌ هامدة: لا نباتَ بها . ونباتٌ هامد: يابس. والإهماد: الإقامة بالمكان.\n\nومما شذَّ عن هذا الباب قول من قال: إنَّ الإهماد: السُّرعة في المَشْي. قال:\n\n* ما كانَ إلاَّ طَلَقُ الإهمادِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–m–d silence, death, to die away, to die down, to abate; (of\nland) to be barren, to be lifeless, (of a garment) to fall to shreds.\nOf this root, هَامِدَة hāmidatan occurs once in the Qur’an.\n\nهَامِدَة hāmidatan [quasi-fem. act. part.] lifeless, barren, dead\n(22:5) وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ\n\n991",
+      "definition_english": "h–m–d silence, death, to die away, to die down, to abate; (of\nland) to be barren, to be lifeless, (of a garment) to fall to shreds.\nOf this root, هَامِدَة hāmidatan occurs once in the Qur’an.\n\nهَامِدَة hāmidatan [quasi-fem. act. part.] lifeless, barren, dead\n(22:5) وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ\n\n991"
+    }
+  ],
   "occurrences": [
     "22:5:58"
   ]

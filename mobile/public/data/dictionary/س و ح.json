@@ -1,9 +1,17 @@
 {
-  "id": 1847,
   "root": "س و ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسوء - سوح\n\n(سوح) السين والواو والحاء كلمةٌ واحدةٌ. يقالُ ساحة الدار، وجمعها ساحات وسُوح.\n\nسوخ سود",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسوء - سوح\n\n(سوح) السين والواو والحاء كلمةٌ واحدةٌ. يقالُ ساحة الدار، وجمعها ساحات وسُوح.\n\nسوخ سود",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–w–ḥ courtyard, open square. Of this root, سَاحَة sāḥatun\noccurs once in the Qurʾān.\n\nسَاحَة sāḥatun [n.; pl. سَاحَات sāḥāt] open square, courtyard, open\nspace for gatherings and social functions (37:177) فَإِذَا نَزَلَ بِسَاحَتِهِمْ\nso when it [punishment] descends in their midst\n[lit. courtyard], how evil will be the morning of those who have\nbeen warned [themselves]!",
+      "definition_english": "s–w–ḥ courtyard, open square. Of this root, سَاحَة sāḥatun\noccurs once in the Qurʾān.\n\nسَاحَة sāḥatun [n.; pl. سَاحَات sāḥāt] open square, courtyard, open\nspace for gatherings and social functions (37:177) فَإِذَا نَزَلَ بِسَاحَتِهِمْ\nso when it [punishment] descends in their midst\n[lit. courtyard], how evil will be the morning of those who have\nbeen warned [themselves]!"
+    }
+  ],
   "occurrences": [
     "37:177:3"
   ]

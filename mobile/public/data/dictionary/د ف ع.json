@@ -1,9 +1,17 @@
 {
-  "id": 1179,
   "root": "د ف ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدفر - دفع\n\n(دفع) الدال والفاء والعين أصلٌ واحد مشهور، يدلُّ على تنحيَة الشيء. يقال دَفَعْتُ الشّيءَ أدفعُه دفْعا. ودافع الله عنه السُّوءَ دِفاعا. والمدفَّع: الفقير؛ لأن هذا يدافِعُه عند سؤالِهِ إلى ذلك. وهو قوله:\n\nوالنّاس أعداءٌ لكُلِّ مدفَّعٍ\n\nصِفْرِ اليدَينِ وإخوةٌ للمُكْثِرِ\n\nوإيّاه أراد الشَّاعرُ بقوله:\n\nيُطاوِحُه الطرافُ* إلى الطِّرافِ\n\nومَضروب يئنُّ بغير ضربٍ\n\nوالدُّفْعة من المطر والدّم وغيرِه. وأما الدُّفَّاع فالسَّيل العظيم. وكل ذلك",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدفر - دفع\n\n(دفع) الدال والفاء والعين أصلٌ واحد مشهور، يدلُّ على تنحيَة الشيء. يقال دَفَعْتُ الشّيءَ أدفعُه دفْعا. ودافع الله عنه السُّوءَ دِفاعا. والمدفَّع: الفقير؛ لأن هذا يدافِعُه عند سؤالِهِ إلى ذلك. وهو قوله:\n\nوالنّاس أعداءٌ لكُلِّ مدفَّعٍ\n\nصِفْرِ اليدَينِ وإخوةٌ للمُكْثِرِ\n\nوإيّاه أراد الشَّاعرُ بقوله:\n\nيُطاوِحُه الطرافُ* إلى الطِّرافِ\n\nومَضروب يئنُّ بغير ضربٍ\n\nوالدُّفْعة من المطر والدّم وغيرِه. وأما الدُّفَّاع فالسَّيل العظيم. وكل ذلك",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–f–ʿ to push forcefully, a forceful person, to gush, a great flood; to defend, a defence; to rush about, to run fast, to stall. Of this root, four forms occur 10 times in the Qurʾan: دَفَعَ dafaʿa five times; يُدَافِعُ yudāfiʿ once; دَفْع dafʿ twice and دَافِع dāfiʿ twice.\nدَفَعَ dafaʿa a [v. trans.] 1 to pay up, to hand over (4:6) فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ if you sense they have sound judgement, hand over their property to them 2 to respond, retaliate, repel (41:34) وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ they are not equal–good and evil–repel [evil] with what is better 3 to defend oneself (3:167) وَقِيلَ لَهُمْ تَعَالَوْا قَاتِلُوا فِي سَبِيلِ اللهِ أَوِ ادْفَعُوا [when] it was said to them, ‘Come, fight in God’s cause, or [at least] defend.’\n\nيُدَافِعُ yudāfiʿ [imperf. of v. III, intrans.] to defend (22:38) إِنَّ اللهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا God defends the believers.\n\nدَفْع dafʿ [v. n.] (act of) repelling, driving back (2:251) وَلَوْلَا دَفْعُ اللهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَفَسَدَتِ الْأَرْضُ had it not been for God’s repelling some by means of others the Earth would have become corrupted.\n\nدَافِع dāfiʿ [act. part.] one who repels, averts, deflects (70:1–2) سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ a man [mockingly] demanded punishment that would fall upon the disbelievers with none to avert it.",
+      "definition_english": "d–f–ʿ to push forcefully, a forceful person, to gush, a great flood; to defend, a defence; to rush about, to run fast, to stall. Of this root, four forms occur 10 times in the Qurʾan: دَفَعَ dafaʿa five times; يُدَافِعُ yudāfiʿ once; دَفْع dafʿ twice and دَافِع dāfiʿ twice.\nدَفَعَ dafaʿa a [v. trans.] 1 to pay up, to hand over (4:6) فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ if you sense they have sound judgement, hand over their property to them 2 to respond, retaliate, repel (41:34) وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ they are not equal–good and evil–repel [evil] with what is better 3 to defend oneself (3:167) وَقِيلَ لَهُمْ تَعَالَوْا قَاتِلُوا فِي سَبِيلِ اللهِ أَوِ ادْفَعُوا [when] it was said to them, ‘Come, fight in God’s cause, or [at least] defend.’\n\nيُدَافِعُ yudāfiʿ [imperf. of v. III, intrans.] to defend (22:38) إِنَّ اللهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا God defends the believers.\n\nدَفْع dafʿ [v. n.] (act of) repelling, driving back (2:251) وَلَوْلَا دَفْعُ اللهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَفَسَدَتِ الْأَرْضُ had it not been for God’s repelling some by means of others the Earth would have become corrupted.\n\nدَافِع dāfiʿ [act. part.] one who repels, averts, deflects (70:1–2) سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ a man [mockingly] demanded punishment that would fall upon the disbelievers with none to avert it."
+    }
+  ],
   "occurrences": [
     "22:38:3",
     "22:40:13",

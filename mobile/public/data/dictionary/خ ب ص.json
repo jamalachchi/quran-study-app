@@ -1,8 +1,11 @@
 {
-  "id": 1097,
   "root": "خ ب ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخبز - خبس\n\n(خبص) الخاء والباء والصاد قريبٌ من الذي قبله. يقولون خَبَص الشَّيءَ: خَلَطه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخبز - خبس\n\n(خبص) الخاء والباء والصاد قريبٌ من الذي قبله. يقولون خَبَص الشَّيءَ: خَلَطه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

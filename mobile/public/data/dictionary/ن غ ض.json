@@ -1,9 +1,17 @@
 {
-  "id": 4062,
   "root": "ن غ ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنعس - نعش\n\n(نغض) النون والغين والضاد أصلٌ صحيح يدلُّ على هَزٍّ وتحريك. من ذلك النَّغَضان: تحرُّك الأسنان. والإنغاض: تحريك الإنسان [رأسه ] نحو",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنعس - نعش\n\n(نغض) النون والغين والضاد أصلٌ صحيح يدلُّ على هَزٍّ وتحريك. من ذلك النَّغَضان: تحرُّك الأسنان. والإنغاض: تحريك الإنسان [رأسه ] نحو",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–gh–ḍ the joint that moves the shoulder, to move from one\nside to the other, to incline (one’s head), to move the head up and\ndown. Of this root, يُنْغِضُون yunghiḍūn, occurs once in the Qur’an.\n\nيُنْغِض yunghiḍ [imperf. pl. of v. IV أَنْغَضَ ʾanghaḍa, trans.] to\nshake (the head) from one side to the other, to incline (17:51)\nفَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ then they will shake their heads\nat you and say, ‘When will it be?’",
+      "definition_english": "n–gh–ḍ the joint that moves the shoulder, to move from one\nside to the other, to incline (one’s head), to move the head up and\ndown. Of this root, يُنْغِضُون yunghiḍūn, occurs once in the Qur’an.\n\nيُنْغِض yunghiḍ [imperf. pl. of v. IV أَنْغَضَ ʾanghaḍa, trans.] to\nshake (the head) from one side to the other, to incline (17:51)\nفَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ then they will shake their heads\nat you and say, ‘When will it be?’"
+    }
+  ],
   "occurrences": [
     "17:51:15"
   ]

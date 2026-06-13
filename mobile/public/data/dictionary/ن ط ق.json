@@ -1,9 +1,17 @@
 {
-  "id": 4031,
   "root": "ن ط ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنضد - نضر\n\n(نطق) النون والطاء والقاف أصلانِ صحيحان: أحدهما كلام أو ما أشبهه، والآخَر جنسٌ من اللِّباس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنضد - نضر\n\n(نطق) النون والطاء والقاف أصلانِ صحيحان: أحدهما كلام أو ما أشبهه، والآخَر جنسٌ من اللِّباس.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ṭ–q belt, girdle, waist; speech, language, to speak, signal, to\nexpress oneself; living animal. Of this root, three forms occur 12\ntimes in the Qur’an: يَنْطِق yanṭiq nine times; أَنْطَق ʾanṭaqa twice;\nand مَنْطِق manṭiq once.\n\n947",
+      "definition_english": "n–ṭ–q belt, girdle, waist; speech, language, to speak, signal, to\nexpress oneself; living animal. Of this root, three forms occur 12\ntimes in the Qur’an: يَنْطِق yanṭiq nine times; أَنْطَق ʾanṭaqa twice;\nand مَنْطِق manṭiq once.\n\n947"
+    }
+  ],
   "occurrences": [
     "21:63:9",
     "21:65:9",

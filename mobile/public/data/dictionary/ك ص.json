@@ -1,8 +1,11 @@
 {
-  "id": 3260,
   "root": "ك ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكز\n\n(كص) الكاف والصاد كلمةٌ تدل على التواءٍ من الجَهد. ويقال للرِّعدة: كَصيص. والكَصيصة: حِبالة الصَّائد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكز\n\n(كص) الكاف والصاد كلمةٌ تدل على التواءٍ من الجَهد. ويقال للرِّعدة: كَصيص. والكَصيصة: حِبالة الصَّائد.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

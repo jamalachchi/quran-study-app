@@ -1,9 +1,22 @@
 {
-  "id": 3466,
   "root": "ل و ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(لوذ) اللام والواو والذال أصلٌ صحيح يدلُّ على إطاقةِ الإنسان بالشيء مستعيذاً به ومتستِّراً. يقال: لاذ به يلوذ لَوْذاً ولاذَ لِياذاً، وذلك إذا عاذَ به من خَوْفٍ أو طَمَع ولاَوَذَ لِوَاذاً قال الله تعالى: ] قَدْ يَعْلَمُ اللهُ الَّذِينَ يتَسَلَّلُونَ مِنْكُمْ لوز لوس لوص لوط - لوع\n\nلِوَاذاً [ [النور 63]. وكان المنافقون إذا أراد الواحدُ منهم مفارَقَةَ مجلسِ رسول الله، صلى الله عليه وآله وسلم، لاذ بغيرِه متستِّراً ثم نهض. وإنما قال لواذاً لأنه من لاوَذَ وجعل مصدره صحيحاً، ولو كان من لاذ لقال لِياذاً، واللَّوْذ: ما يُطِيف بالجبل، والجمع ألواذ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(لوذ) اللام والواو والذال أصلٌ صحيح يدلُّ على إطاقةِ الإنسان بالشيء مستعيذاً به ومتستِّراً. يقال: لاذ به يلوذ لَوْذاً ولاذَ لِياذاً، وذلك إذا عاذَ به من خَوْفٍ أو طَمَع ولاَوَذَ لِوَاذاً قال الله تعالى: ] قَدْ يَعْلَمُ اللهُ الَّذِينَ يتَسَلَّلُونَ مِنْكُمْ لوز لوس لوص لوط - لوع\n\nلِوَاذاً [ [النور 63]. وكان المنافقون إذا أراد الواحدُ منهم مفارَقَةَ مجلسِ رسول الله، صلى الله عليه وآله وسلم، لاذ بغيرِه متستِّراً ثم نهض. وإنما قال لواذاً لأنه من لاوَذَ وجعل مصدره صحيحاً، ولو كان من لاذ لقال لِياذاً، واللَّوْذ: ما يُطِيف بالجبل، والجمع ألواذ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "لَوَّاحَة lawwāḥatun [intens. act. part.] scorching, burning,\ndarkening the colour (74:29) لَوَّاحَةٌ لِّلْبَشَرِ scorching the skin/flesh of\nhumans.",
+      "definition_english": "لَوَّاحَة lawwāḥatun [intens. act. part.] scorching, burning,\ndarkening the colour (74:29) لَوَّاحَةٌ لِّلْبَشَرِ scorching the skin/flesh of\nhumans."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–w–dh to take refuge, to resort to, to keep close to, fortress; to\nevade, to move furtively; to approximate. Of this root, only لِوَاذًا\nliwādhan occurs once in the Qur’an.\n\nلِوَاذًا liwādhan [v. n. of v. III. لاوَذَ lāwadha, used adverbially]\nfurtively, stealthily, surreptitiously (24:63) قَدْ يَعْلَمُ اللَّهُ الَّذِينَ\nيَتَسَلَّلُونَ مِنكُمْ لِوَاذًا God may take to task [know] those of you who\nsteal away surreptitiously.",
+      "definition_english": "l–w–dh to take refuge, to resort to, to keep close to, fortress; to\nevade, to move furtively; to approximate. Of this root, only لِوَاذًا\nliwādhan occurs once in the Qur’an.\n\nلِوَاذًا liwādhan [v. n. of v. III. لاوَذَ lāwadha, used adverbially]\nfurtively, stealthily, surreptitiously (24:63) قَدْ يَعْلَمُ اللَّهُ الَّذِينَ\nيَتَسَلَّلُونَ مِنكُمْ لِوَاذًا God may take to task [know] those of you who\nsteal away surreptitiously."
+    }
+  ],
   "occurrences": [
     "24:63:15"
   ]

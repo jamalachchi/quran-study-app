@@ -1,8 +1,11 @@
 {
-  "id": 3297,
   "root": "ك ه ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهب) الكاف والهاء والباء كلمةٌ. يقولون للغُبرة المَشُوبةِ سواداً في الإبل كُهْبَةٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهب) الكاف والهاء والباء كلمةٌ. يقولون للغُبرة المَشُوبةِ سواداً في الإبل كُهْبَةٌ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

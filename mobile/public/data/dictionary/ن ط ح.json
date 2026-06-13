@@ -1,9 +1,17 @@
 {
-  "id": 4034,
   "root": "ن ط ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنطل\n\n(نطح) النون والطاء والحاء أصلٌ واحد. وهو نَطَح. يقال: نَطَح الكبش يَنْطِحُ. ويحمَل عليه فيقال للوحشيِّ إذا أتاكَ مستقبلاً لك: نطيحٌ وناطِح. ويقولون: إنَّه لا يُتَبرَّك به، ولذلك يقال للمشؤوم: نَطِيح. وفرسٌ نَطيحٌ: يأخذُ فودَيْ رأسِه بياض.\n\nومن الباب نَوَاطِحُ الدَّهر، أي شدائده، وأصابَهُ ناطحٌ: أمر شديد. وقياس كلّ واحد. ويقال للشَّرَطَينِ: النَّطْحُ والنّاطح. وقولهم:\n\n* الليلُ داجٍ والكباشُ تَنْتطِحْ *\n\nأي يَنطَِح بعضُها بعضاً. وهذا عبارةٌ عن اقتتال الأبطال، واصطِدام الكُماة. وتناطَحت الأمواج والسُّيولُ والرِّجالُ في الحرب.\n\nنطس - نطش نظف نظم",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنطل\n\n(نطح) النون والطاء والحاء أصلٌ واحد. وهو نَطَح. يقال: نَطَح الكبش يَنْطِحُ. ويحمَل عليه فيقال للوحشيِّ إذا أتاكَ مستقبلاً لك: نطيحٌ وناطِح. ويقولون: إنَّه لا يُتَبرَّك به، ولذلك يقال للمشؤوم: نَطِيح. وفرسٌ نَطيحٌ: يأخذُ فودَيْ رأسِه بياض.\n\nومن الباب نَوَاطِحُ الدَّهر، أي شدائده، وأصابَهُ ناطحٌ: أمر شديد. وقياس كلّ واحد. ويقال للشَّرَطَينِ: النَّطْحُ والنّاطح. وقولهم:\n\n* الليلُ داجٍ والكباشُ تَنْتطِحْ *\n\nأي يَنطَِح بعضُها بعضاً. وهذا عبارةٌ عن اقتتال الأبطال، واصطِدام الكُماة. وتناطَحت الأمواج والسُّيولُ والرِّجالُ في الحرب.\n\nنطس - نطش نظف نظم",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ṭ–ḥ a horse with two white spots on the forehead\n(considered unlucky); to butt with horns; hardship, struggle. Of\nthis root, نَطِيحَة naṭīḥatun, occurs once in the Qur’an.\n\nنَطِيحَة naṭīḥatun [pass. part./n.] an animal stabbed or gored to\ndeath by horns (5:3) حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ\nوَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ forbidden to you [for food] are\nunslaughtered dead [animals], blood, pigs’ meat, anything\nconsecrated to other than God, [strangled] animals, victims of\nviolent blows, [animals] killed by falling and [animals] gored to\ndeath.",
+      "definition_english": "n–ṭ–ḥ a horse with two white spots on the forehead\n(considered unlucky); to butt with horns; hardship, struggle. Of\nthis root, نَطِيحَة naṭīḥatun, occurs once in the Qur’an.\n\nنَطِيحَة naṭīḥatun [pass. part./n.] an animal stabbed or gored to\ndeath by horns (5:3) حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ\nوَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ forbidden to you [for food] are\nunslaughtered dead [animals], blood, pigs’ meat, anything\nconsecrated to other than God, [strangled] animals, victims of\nviolent blows, [animals] killed by falling and [animals] gored to\ndeath."
+    }
+  ],
   "occurrences": [
     "5:3:15"
   ]

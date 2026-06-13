@@ -1,9 +1,17 @@
 {
-  "id": 4253,
   "root": "ه ط ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهزع\n\n(هطع) الهاء والطاء والعين: أُصَيلٌ يدلُّ على إقبالٍ على الشّيء وانقياد. يقال: هَطَعَ الرّجلُ على الشَّيء ببصره: أقبَلَ. وأهطعَ البعيرُ: صَوَّبَ عنقَه منقاداً. وأهْطَعَ: أسْرَعَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهزع\n\n(هطع) الهاء والطاء والعين: أُصَيلٌ يدلُّ على إقبالٍ على الشّيء وانقياد. يقال: هَطَعَ الرّجلُ على الشَّيء ببصره: أقبَلَ. وأهطعَ البعيرُ: صَوَّبَ عنقَه منقاداً. وأهْطَعَ: أسْرَعَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ه/ط/ع h–ṭ–ʿ to come rushing in fear, to stretch the neck and head in\nagitation, to transfix the eyes in horror, to cower in fear; a wide\nroad. Of this root, مُهْطِعِين muḥṭiʿīn occurs three times in the\nQur’an.\n\nمُهْطِعِين muḥṭiʿīn [pl. of act. part. مُهْطِع muḥṭiʿ] mindlessly\nrushing with outstretched necks, hastening in anxiety (54:8)\nمُهْطِعِينَ إِلَى الدَّاعِ يَقُولُ الْكَافِرُونَ هَٰذَا يَوْمٌ عَسِرٌ rushing with outstretched\nnecks towards the Summoner, the disbelievers saying ‘This is a\nhard day.’\n\nهَل hal [an interrogative particle preceding both nominal and verbal\nsentences. It occurs 93 times in the Qur’an and is used almost\nexclusively in rhetorical questions] ‘is it not?’, ‘do they not?’\n(55:60) هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ shall the reward of goodness be\n[anything] other than goodness?!",
+      "definition_english": "ه/ط/ع h–ṭ–ʿ to come rushing in fear, to stretch the neck and head in\nagitation, to transfix the eyes in horror, to cower in fear; a wide\nroad. Of this root, مُهْطِعِين muḥṭiʿīn occurs three times in the\nQur’an.\n\nمُهْطِعِين muḥṭiʿīn [pl. of act. part. مُهْطِع muḥṭiʿ] mindlessly\nrushing with outstretched necks, hastening in anxiety (54:8)\nمُهْطِعِينَ إِلَى الدَّاعِ يَقُولُ الْكَافِرُونَ هَٰذَا يَوْمٌ عَسِرٌ rushing with outstretched\nnecks towards the Summoner, the disbelievers saying ‘This is a\nhard day.’\n\nهَل hal [an interrogative particle preceding both nominal and verbal\nsentences. It occurs 93 times in the Qur’an and is used almost\nexclusively in rhetorical questions] ‘is it not?’, ‘do they not?’\n(55:60) هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ shall the reward of goodness be\n[anything] other than goodness?!"
+    }
+  ],
   "occurrences": [
     "14:43:1",
     "54:8:1",

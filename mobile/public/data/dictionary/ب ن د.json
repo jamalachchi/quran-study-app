@@ -1,8 +1,11 @@
 {
-  "id": 343,
   "root": "ب ن د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبنو\n\n(بند) الباء والنون والدال أصلٌ فارسيُّ لا وجْهَ لذِكْره .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبنو\n\n(بند) الباء والنون والدال أصلٌ فارسيُّ لا وجْهَ لذِكْره .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -19,7 +19,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
   const [geminiLoading, setGeminiLoading] = useState<boolean>(false);
   const [geminiError, setGeminiError] = useState<string>("");
 
-  const [activeBook, setActiveBook] = useState<"ai" | "ibn_ashur" | "qurtubi" | "ibn_kathir" | "saadi">("ai");
+  const [activeBook, setActiveBook] = useState<"ai" | "jalalayn" | "ibn_kathir" | "ibn_ashur" | "qurtubi">("ai");
 
   useEffect(() => {
     setTafsirs(localTafsirs || []);
@@ -141,7 +141,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
       if (trimmed.startsWith("-") || trimmed.startsWith("*")) {
         const cleanContent = trimmed.substring(1).trim().replace(/\*\*(.*?)\*\*/g, "$1");
         return (
-          <li key={idx} className="ml-4 list-disc text-xs text-slate-600 dark:text-slate-350 leading-relaxed mb-1 font-sans">
+          <li key={idx} className="ml-4 list-disc text-xs text-slate-600 dark:text-slate-355 leading-relaxed mb-1 font-sans">
             {cleanContent}
           </li>
         );
@@ -160,10 +160,10 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
     return <div className="space-y-0.5">{renderedElements}</div>;
   };
 
+  const hasJalalayn = tafsirs.some(t => t.source_book === "jalalayn");
   const hasIbnAshur = tafsirs.some(t => t.source_book === "ibn_ashur");
   const hasQurtubi = tafsirs.some(t => t.source_book === "qurtubi");
   const hasIbnKathir = tafsirs.some(t => t.source_book === "ibn_kathir");
-  const hasSaadi = tafsirs.some(t => t.source_book === "saadi");
 
   return (
     <div className="flex flex-col h-full gap-4 animate-fade-in">
@@ -181,6 +181,18 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
           <span>AI Synthesis</span>
         </button>
         <button
+          onClick={() => setActiveBook("jalalayn")}
+          disabled={tafsirsLoading || !hasJalalayn}
+          className={`flex-none px-3 py-2 rounded-lg text-center flex items-center justify-center gap-1.5 transition-all cursor-pointer ${
+            activeBook === "jalalayn"
+              ? "bg-white dark:bg-slate-850 text-brand-indigo shadow-xs"
+              : "text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 disabled:opacity-40"
+          }`}
+        >
+          <BookOpen size={13} />
+          <span>Jalalayn (EN)</span>
+        </button>
+        <button
           onClick={() => setActiveBook("ibn_kathir")}
           disabled={tafsirsLoading || !hasIbnKathir}
           className={`flex-none px-3 py-2 rounded-lg text-center flex items-center justify-center gap-1.5 transition-all cursor-pointer ${
@@ -191,18 +203,6 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
         >
           <BookOpen size={13} />
           <span>Ibn Kathir (EN)</span>
-        </button>
-        <button
-          onClick={() => setActiveBook("saadi")}
-          disabled={tafsirsLoading || !hasSaadi}
-          className={`flex-none px-3 py-2 rounded-lg text-center flex items-center justify-center gap-1.5 transition-all cursor-pointer ${
-            activeBook === "saadi"
-              ? "bg-white dark:bg-slate-850 text-brand-indigo shadow-xs"
-              : "text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 disabled:opacity-40"
-          }`}
-        >
-          <BookOpen size={13} />
-          <span>Sa'di (AR)</span>
         </button>
         <button
           onClick={() => setActiveBook("ibn_ashur")}
@@ -278,7 +278,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
                   </span>
                   <button
                     onClick={generateGeminiSummary}
-                    className="p-1 rounded-md hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-400 hover:text-slate-600 dark:hover:text-slate-350 transition-colors"
+                    className="p-1 rounded-md hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-400 hover:text-slate-650 dark:hover:text-slate-250 transition-colors"
                     title="Regenerate Summary"
                   >
                     <RefreshCw size={12} />
@@ -310,13 +310,13 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
                   Source tradition: {
                     activeBook === "ibn_ashur" ? "Al-Tahrir wa al-Tanwir (Ibn Ashur) - Arabic" :
                     activeBook === "qurtubi" ? "Tafsir al-Qurtubi - Arabic" :
-                    activeBook === "saadi" ? "Tafsir as-Sa'di - Arabic" :
+                    activeBook === "jalalayn" ? "Tafsir al-Jalalayn - English" :
                     activeBook === "ibn_kathir" ? "Tafsir Ibn Kathir - English" :
                     activeBook
                   }
                 </span>
                 
-                {activeBook === "ibn_kathir" ? (
+                {activeBook === "ibn_kathir" || activeBook === "jalalayn" ? (
                   <div className="text-xs md:text-sm text-slate-700 dark:text-slate-300 leading-relaxed font-sans whitespace-pre-wrap select-all">
                     {getBookContent(activeBook)}
                   </div>

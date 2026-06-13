@@ -1,9 +1,17 @@
 {
-  "id": 499,
   "root": "ث ع ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثرب - ثرد\n\n(ثعب) الثاء والعين والباء أصلٌ يدلُّ على امتداد الشيء وانبساطِه، يكون ذلك في ماءٍ وغيره.\n\nقال الخليل: يقال ثَعَبْت الماءَ وأنا أثعَبُه، إذا فجّرته فانثَعب، كانثعاب الدّمِ من الأنف. قال: ومنه اشتُقّ مَثْعَب المَطَر. وممّا يصلُح حمْلُه على هذا، الثُّعبانُ الحيَّةُ الضَّخْم الطويل؛ وهو من القياس، في انبساطه وامتداده خَلْقاً وحركةً. قال:\n\n* على نَهْجٍ كثُعبانِ العَرينِ *\n\nوربما قيل ماءٌ ثَعْبٌ، ويجمع على الثُّعبان.\n\n(باب الثاء والغين وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثرب - ثرد\n\n(ثعب) الثاء والعين والباء أصلٌ يدلُّ على امتداد الشيء وانبساطِه، يكون ذلك في ماءٍ وغيره.\n\nقال الخليل: يقال ثَعَبْت الماءَ وأنا أثعَبُه، إذا فجّرته فانثَعب، كانثعاب الدّمِ من الأنف. قال: ومنه اشتُقّ مَثْعَب المَطَر. وممّا يصلُح حمْلُه على هذا، الثُّعبانُ الحيَّةُ الضَّخْم الطويل؛ وهو من القياس، في انبساطه وامتداده خَلْقاً وحركةً. قال:\n\n* على نَهْجٍ كثُعبانِ العَرينِ *\n\nوربما قيل ماءٌ ثَعْبٌ، ويجمع على الثُّعبان.\n\n(باب الثاء والغين وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–ʿ–b snake, serpent, adder; to wriggle; channels cut by\nfloods in the mountain, to flow, to flood. Of this root, ثُعْبَان thuʿbān\noccurs twice in the Qur’an.\n\nثُعْبَان thuʿbān [n.] serpent, snake (7:107) فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ\nمُبِينٌ so he threw his staff and–lo and behold!–it was a snake, clear\nto all.",
+      "definition_english": "th–ʿ–b snake, serpent, adder; to wriggle; channels cut by\nfloods in the mountain, to flow, to flood. Of this root, ثُعْبَان thuʿbān\noccurs twice in the Qur’an.\n\nثُعْبَان thuʿbān [n.] serpent, snake (7:107) فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ\nمُبِينٌ so he threw his staff and–lo and behold!–it was a snake, clear\nto all."
+    }
+  ],
   "occurrences": [
     "26:32:5",
     "7:107:5"

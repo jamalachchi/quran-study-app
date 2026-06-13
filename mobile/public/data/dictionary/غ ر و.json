@@ -1,9 +1,17 @@
 {
-  "id": 2821,
   "root": "غ ر و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرف - غرق\n\n(غرو) الغين والراء والحرف المعتل أصلٌ صحيح، وهو يدلُّ على الإعجاب والعَجَبِ لحُسْن الشَّيء. من ذلك الغَرِيُّ، وهو الحَسَن. يقال منه رجلٌ غَرٍ. ثمَّ سمِّي العَجَبُ غَرْواً. ومنه: أغريتُه بالشَّيء الذي تُلصَق به الأشياء. ويقال: غَارَت العينُ بالدَّمع غِراءً، إذا لجَّت في البكاء. وغَرِيَت بالدَّمع. وقال الشَّاعر :",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرف - غرق\n\n(غرو) الغين والراء والحرف المعتل أصلٌ صحيح، وهو يدلُّ على الإعجاب والعَجَبِ لحُسْن الشَّيء. من ذلك الغَرِيُّ، وهو الحَسَن. يقال منه رجلٌ غَرٍ. ثمَّ سمِّي العَجَبُ غَرْواً. ومنه: أغريتُه بالشَّيء الذي تُلصَق به الأشياء. ويقال: غَارَت العينُ بالدَّمع غِراءً، إذا لجَّت في البكاء. وغَرِيَت بالدَّمع. وقال الشَّاعر :",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–r–w to glue, to stick; wonder, allurement, to tempt; to\nincite, to rouse against, to stir up. Of this root, only أَغْرَيْنَا\naghraynā occurs twice in the Qur’an.\n\nأَغْرَى aghrā [v. IV, trans. with prep. بِ] 1 to incite, to rouse, to\ntempt, to encourage someone to take action against (33:60) لَئِنْ لَمْ\nيَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ\nif the hypocrites do not desist, nor the ones in whose hearts is sickness,\n\n665",
+      "definition_english": "gh–r–w to glue, to stick; wonder, allurement, to tempt; to\nincite, to rouse against, to stir up. Of this root, only أَغْرَيْنَا\naghraynā occurs twice in the Qur’an.\n\nأَغْرَى aghrā [v. IV, trans. with prep. بِ] 1 to incite, to rouse, to\ntempt, to encourage someone to take action against (33:60) لَئِنْ لَمْ\nيَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ\nif the hypocrites do not desist, nor the ones in whose hearts is sickness,\n\n665"
+    }
+  ],
   "occurrences": [
     "33:60:12",
     "5:14:13"

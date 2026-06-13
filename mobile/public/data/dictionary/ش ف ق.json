@@ -1,9 +1,22 @@
 {
-  "id": 1984,
   "root": "ش ف ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشفق\n\nلم يُضْبَط بمهرٍ ولا شرطٍ صحيح. وهو من شَغَر الكلبُ، إذا صار في ناحيةٍ من المَحَجَّة بعيداً عنها.\n\nواشتغَرَ على فلانٍ حسابُه، إذا لم يهتدِ لـه. واشتغَرَ فلان في الفلاة، إذا دوّم فيها وأَبْعَد. وحكى الشيبانيّ: شَغَرْتُ بني فلانٍ من موضع كذا، أي أخرجتُهم. قال:\n\nونحن شَغَرْنَا ابني نزار كليهما\n\nوكلباً بوَقْعٍ مُرهبٍ متقاربِ\n\nوالله أعلم.\n\n(باب الشين والفاء وما يثلثهما)\n\n(شفق) الشين والفاء والقاف أصلٌ واحد، يدلُّ على رِقَّةٍ في الشيء، ثم يشتقُّ منه. فمن ذلك قولهم: أشفقت من الأمر، إذا رَقَقْت وحاذَرت. وربَّما قالوا: شَفِقت: وقال أكثر أهل اللغة: لا يقال إلا أشفقت وأنا مُشْفِق. فأمَّا قول القائل:\n\n* كما شَفِقَتْ على الزّادِ العِيالُ *\n\nفمعناه بَخِلَت به.\n\nومن الباب الشَّفَق من الثياب، قال الخليل: الشَّفَق: الرديء من الأشياء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشفق\n\nلم يُضْبَط بمهرٍ ولا شرطٍ صحيح. وهو من شَغَر الكلبُ، إذا صار في ناحيةٍ من المَحَجَّة بعيداً عنها.\n\nواشتغَرَ على فلانٍ حسابُه، إذا لم يهتدِ لـه. واشتغَرَ فلان في الفلاة، إذا دوّم فيها وأَبْعَد. وحكى الشيبانيّ: شَغَرْتُ بني فلانٍ من موضع كذا، أي أخرجتُهم. قال:\n\nونحن شَغَرْنَا ابني نزار كليهما\n\nوكلباً بوَقْعٍ مُرهبٍ متقاربِ\n\nوالله أعلم.\n\n(باب الشين والفاء وما يثلثهما)\n\n(شفق) الشين والفاء والقاف أصلٌ واحد، يدلُّ على رِقَّةٍ في الشيء، ثم يشتقُّ منه. فمن ذلك قولهم: أشفقت من الأمر، إذا رَقَقْت وحاذَرت. وربَّما قالوا: شَفِقت: وقال أكثر أهل اللغة: لا يقال إلا أشفقت وأنا مُشْفِق. فأمَّا قول القائل:\n\n* كما شَفِقَتْ على الزّادِ العِيالُ *\n\nفمعناه بَخِلَت به.\n\nومن الباب الشَّفَق من الثياب، قال الخليل: الشَّفَق: الرديء من الأشياء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "شغل shughul [v. n./n.] occupation, business, employment; preoccupation (36:55) إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ today the people of Paradise are happily occupied.\n",
+      "definition_english": "شغل shughul [v. n./n.] occupation, business, employment; preoccupation (36:55) إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ today the people of Paradise are happily occupied.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–f–q to be niggardly or covetous; to be afraid, to be concerned, to be worried; to be affectionate, to be tender-hearted; to be weary; kindness; worry; redness on the horizon after sunset. Of this root, three forms occur 11 times in the Qurʾan: أشفق ʾashfaq twice; مشفقون mushfiqūn eight times and شفق shafaq once.\nأشفق ʾashfaq I [v. IV, intrans.] to feel anxiety, to be concerned,\n\nto be afraid (33:72) إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمٰوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا We offered the Trust (q.v. الأمانة ʾal-ʾamānatu) to the heavens, the earth and the mountains, yet they refused to carry it and were afraid of it II [v. IV, trans.] to have miserly urges, to be reticent, to be weary of (58:13) أَأَشْفَقْتُمْ أَنْ تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوٰكُمْ صَدَقَاتٍ have you found it burdensome to give alms before your consultation [with the Prophet]?\n\nمُشْفِقُونَ mushfiqūn [pl. of act. part. مُشْفِق mushfiq] ones who are in fear, those who are anxious (42:22) تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا you will see the unjust fearful of that which they have earned.\n\nشَفَق shafaq [n.] the afterglow of sunset, twilight (84:16) فَلَا أُقْسِمُ بِالشَّفَقِ but no, I swear by the twilight.",
+      "definition_english": "sh–f–q to be niggardly or covetous; to be afraid, to be concerned, to be worried; to be affectionate, to be tender-hearted; to be weary; kindness; worry; redness on the horizon after sunset. Of this root, three forms occur 11 times in the Qurʾan: أشفق ʾashfaq twice; مشفقون mushfiqūn eight times and شفق shafaq once.\nأشفق ʾashfaq I [v. IV, intrans.] to feel anxiety, to be concerned,\n\nto be afraid (33:72) إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمٰوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا We offered the Trust (q.v. الأمانة ʾal-ʾamānatu) to the heavens, the earth and the mountains, yet they refused to carry it and were afraid of it II [v. IV, trans.] to have miserly urges, to be reticent, to be weary of (58:13) أَأَشْفَقْتُمْ أَنْ تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوٰكُمْ صَدَقَاتٍ have you found it burdensome to give alms before your consultation [with the Prophet]?\n\nمُشْفِقُونَ mushfiqūn [pl. of act. part. مُشْفِق mushfiq] ones who are in fear, those who are anxious (42:22) تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا you will see the unjust fearful of that which they have earned.\n\nشَفَق shafaq [n.] the afterglow of sunset, twilight (84:16) فَلَا أُقْسِمُ بِالشَّفَقِ but no, I swear by the twilight."
+    }
+  ],
   "occurrences": [
     "18:49:5",
     "21:28:15",

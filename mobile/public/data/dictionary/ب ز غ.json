@@ -1,9 +1,17 @@
 {
-  "id": 265,
   "root": "ب ز غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبرد\n\n(بزغ) الباء والزاء والغين أصلٌ واحد، وهو طُلوع الشّيءِ وظُهُوره. يقال بَزَغَتِ الشمسُ وبَزَغ نابُ البَعيرِ إذا طلع. ويقولون للبَيْطار إذا أوْدَجَ الدّابةَ قد بَزَغه، وهو قياسُ الباب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبرد\n\n(بزغ) الباء والزاء والغين أصلٌ واحد، وهو طُلوع الشّيءِ وظُهُوره. يقال بَزَغَتِ الشمسُ وبَزَغ نابُ البَعيرِ إذا طلع. ويقولون للبَيْطار إذا أوْدَجَ الدّابةَ قد بَزَغه، وهو قياسُ الباب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-z-gh crack, laceration, to slash; to show through, to break\nforth, to come out. Of this root, two words occur once each in the\nQur’an: بَازِغ bāzigh and بَازِغَة bāzighatun.\n\nبَازِغ bāzigh [act. part.; fem. بَازِغَة bāzighatun] rising, breaking\nforth (6:78) فَلَمَّا رَأَى الشَّمْسَ بَازِغَةً then when he saw the sun rising.",
+      "definition_english": "b-z-gh crack, laceration, to slash; to show through, to break\nforth, to come out. Of this root, two words occur once each in the\nQur’an: بَازِغ bāzigh and بَازِغَة bāzighatun.\n\nبَازِغ bāzigh [act. part.; fem. بَازِغَة bāzighatun] rising, breaking\nforth (6:78) فَلَمَّا رَأَى الشَّمْسَ بَازِغَةً then when he saw the sun rising."
+    }
+  ],
   "occurrences": [
     "6:77:4",
     "6:78:4"

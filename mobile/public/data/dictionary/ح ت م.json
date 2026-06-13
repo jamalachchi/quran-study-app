@@ -1,9 +1,17 @@
 {
-  "id": 918,
   "root": "ح ت م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحتأ - حتم\n\n(حتم) الحاء والتاء والميم، ليس عندي أصلاً، وأكثر ظنِّي أنه أيضاً من باب إبدال التاء من الكاف، إلاّ أنّ الذي فيه من إحكام الشيء. يقال: حتم عليه، وأصله على ما ذكرناه حَكَم، وقد مضى تفسيره.\n\nوالحاتم: الذي يقضي الشَّيء. فأمّا تسميتُهم الغُرَابَ حاتِماً فمن هذا، لأنهم يزعمون أنه يَحتِم بالفراق. وهو كالحُكْم منه. قال:\n\nحتد - حتن - حتف - حتل\n\nأغْدُو على وَاقٍ وحاتِمْ\n\nولقد غَدَوْتُ وكنتُ لا\n\nوفي الباب كلمةٌ أخرى ويقرب أيضاً من باب الإبدال. ويقولون الحُتَامة: ما بقي من الطَّعام على المائدة - وهذا عندي من باب الطاء لأنّه شيءٌ لا يتحَتَّم أي يتفتَّت ويتكسَّر. وقد مرَّ تفسيرُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحتأ - حتم\n\n(حتم) الحاء والتاء والميم، ليس عندي أصلاً، وأكثر ظنِّي أنه أيضاً من باب إبدال التاء من الكاف، إلاّ أنّ الذي فيه من إحكام الشيء. يقال: حتم عليه، وأصله على ما ذكرناه حَكَم، وقد مضى تفسيره.\n\nوالحاتم: الذي يقضي الشَّيء. فأمّا تسميتُهم الغُرَابَ حاتِماً فمن هذا، لأنهم يزعمون أنه يَحتِم بالفراق. وهو كالحُكْم منه. قال:\n\nحتد - حتن - حتف - حتل\n\nأغْدُو على وَاقٍ وحاتِمْ\n\nولقد غَدَوْتُ وكنتُ لا\n\nوفي الباب كلمةٌ أخرى ويقرب أيضاً من باب الإبدال. ويقولون الحُتَامة: ما بقي من الطَّعام على المائدة - وهذا عندي من باب الطاء لأنّه شيءٌ لا يتحَتَّم أي يتفتَّت ويتكسَّر. وقد مرَّ تفسيرُه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–t–m fate, decree, to ordain, to make absolutely irreversible;\nblack; ill-fated. Of this root, حَتْم ḥatm occurs once in the Qur’an.\n\nحَتْم ḥatm [v. n.; n.] decree, ordinance, judicial decision (19:71)\nوَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا\nand there is not one of you but\nshall come to it, it is a decree [imposed by Him] upon your Lord\nHimself, that must be fulfilled.",
+      "definition_english": "h–t–m fate, decree, to ordain, to make absolutely irreversible;\nblack; ill-fated. Of this root, حَتْم ḥatm occurs once in the Qur’an.\n\nحَتْم ḥatm [v. n.; n.] decree, ordinance, judicial decision (19:71)\nوَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا\nand there is not one of you but\nshall come to it, it is a decree [imposed by Him] upon your Lord\nHimself, that must be fulfilled."
+    }
+  ],
   "occurrences": [
     "19:71:8"
   ]

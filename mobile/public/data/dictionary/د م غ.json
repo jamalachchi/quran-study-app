@@ -1,9 +1,17 @@
 {
-  "id": 1212,
   "root": "د م غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدمص - دمع\n\n(دمغ) الدال والميم والغين كلمةٌ واحدة لا تتفرّع ولا يقاس عليها. فالدِّماغ معروف. ودَمَغْتُه: ضربْتُه على رأسِه حتّى وصلْتُ إلى الدماغ. وهي الدّامِغة .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدمص - دمع\n\n(دمغ) الدال والميم والغين كلمةٌ واحدة لا تتفرّع ولا يقاس عليها. فالدِّماغ معروف. ودَمَغْتُه: ضربْتُه على رأسِه حتّى وصلْتُ إلى الدماغ. وهي الدّامِغة .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–m–gh brain, a concussion, to fracture a skull, to kill by a blow to the head; sunstroke; to vanquish, to destroy. Of this root, يَدْمَغ yadmagh occurs once in the Qurʾan.\nيَدْمَغ yadmagh [imperf. of v. دَمَغَ damagha, trans.] to break the head of, to cause great damage, to annihilate; to vanquish (21:18)\n\n314",
+      "definition_english": "d–m–gh brain, a concussion, to fracture a skull, to kill by a blow to the head; sunstroke; to vanquish, to destroy. Of this root, يَدْمَغ yadmagh occurs once in the Qurʾan.\nيَدْمَغ yadmagh [imperf. of v. دَمَغَ damagha, trans.] to break the head of, to cause great damage, to annihilate; to vanquish (21:18)\n\n314"
+    }
+  ],
   "occurrences": [
     "21:18:6"
   ]

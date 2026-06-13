@@ -1,9 +1,17 @@
 {
-  "id": 1416,
   "root": "ر ط ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرضف - رضم\n\n(رطب) الراء والطاء والباء أصلٌ واحدٌ يدلُّ على خلاف اليُبْس. من ذلك الرَّطْب والرَّطِيب. والرُّطْب: المرعى، بضم الراء. والرُّطَب معروف. ويقال أرْطَبَ النّخْل إرطاباً. ورطَّبْتُ القومَ تَرطيباً، إذا أطعمتَهم رُطَباً. والرِّطاب من النَّبت. تقول: رطَبْتُ الفرسَ أرطُبه رطْباً ورُطوباً. والرَّطْبَة: اسمٌ للقَضْب خاصّةً مادام رَطْباً. ورِيشٌ رَطِيبٌ، أي ناعم. وحكى ناسٌ عن أبي زيد: رَطِبَ الرجُل بما عنده يَرْطَبُ ، إذا تكلَّم بما كان عنده مِن خطأٍ أو صواب. والله أعلم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرضف - رضم\n\n(رطب) الراء والطاء والباء أصلٌ واحدٌ يدلُّ على خلاف اليُبْس. من ذلك الرَّطْب والرَّطِيب. والرُّطْب: المرعى، بضم الراء. والرُّطَب معروف. ويقال أرْطَبَ النّخْل إرطاباً. ورطَّبْتُ القومَ تَرطيباً، إذا أطعمتَهم رُطَباً. والرِّطاب من النَّبت. تقول: رطَبْتُ الفرسَ أرطُبه رطْباً ورُطوباً. والرَّطْبَة: اسمٌ للقَضْب خاصّةً مادام رَطْباً. ورِيشٌ رَطِيبٌ، أي ناعم. وحكى ناسٌ عن أبي زيد: رَطِبَ الرجُل بما عنده يَرْطَبُ ، إذا تكلَّم بما كان عنده مِن خطأٍ أو صواب. والله أعلم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–ṭ–b moisture, to be moist, to be wet, to be soft, to be ripe, to be succulent; ripened, fresh dates, to ripen dates, palm trees, green verdant pasture. Of this root, two words occur once each in the Qur’an: رَطْب raṭb and رُطَب ruṭab.\nرَطْب raṭb [quasi-act. part.] soft, wet, green (6:59) وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ and not a thing, fresh or withered, but is in a clear Record.\n\nرُطَب ruṭab [coll. n.] fresh, soft, ripe date (19:25) وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا and shake the trunk of the palm tree towards you; it will shower you with fresh, ripe dates.",
+      "definition_english": "r–ṭ–b moisture, to be moist, to be wet, to be soft, to be ripe, to be succulent; ripened, fresh dates, to ripen dates, palm trees, green verdant pasture. Of this root, two words occur once each in the Qur’an: رَطْب raṭb and رُطَب ruṭab.\nرَطْب raṭb [quasi-act. part.] soft, wet, green (6:59) وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ and not a thing, fresh or withered, but is in a clear Record.\n\nرُطَب ruṭab [coll. n.] fresh, soft, ripe date (19:25) وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا and shake the trunk of the palm tree towards you; it will shower you with fresh, ripe dates."
+    }
+  ],
   "occurrences": [
     "19:25:7",
     "6:59:25"

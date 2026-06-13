@@ -1,8 +1,11 @@
 {
-  "id": 1989,
   "root": "ش ق ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشفع - شقل\n\n(شقل) الشين والقاف واللام ليس بشيء، وقد حُكيَ فيه ما لا يعرَّج عليه.\n\nشقن شقو - شقب شقح - شقذ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشفع - شقل\n\n(شقل) الشين والقاف واللام ليس بشيء، وقد حُكيَ فيه ما لا يعرَّج عليه.\n\nشقن شقو - شقب شقح - شقذ",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

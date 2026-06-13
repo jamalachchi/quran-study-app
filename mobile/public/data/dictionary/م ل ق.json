@@ -1,9 +1,17 @@
 {
-  "id": 3821,
   "root": "م ل ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nملح\n\n(ملق) الميم واللام والقاف أصلٌ صحيحٌ يدلُّ على [تجرُّد] في الشيء ولين. قال ابن السكِّيت: المَلَق من التملُّق، وأصله التَّليين. والمَلَقَة: الصَّفاة المَلْسَاء. ويقال الإملاق: إتلافُ المال حَتَّى يُحوِج. والقياس واحد، كأنَّه تجرَّدَ عن المال. وانْمَلَقَ ساعدُ الرجل: انسحَجَ من حَمْل الأحمال. قال:\n\nيقول قَطْباً ونِعمَّا إن سَلَق\n\nوحَوقَلٌ ساعدُه قد انْمَلَقْ\n\nوالمَلَقَة: الأرض لا يكاد يَبيِن فيها أثر، والجمع المَلق والمَلَقَات. ومَلَقْتُ الثوب: غَسَلتُه، لأنَّك تجرِّده عن الوسَخ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nملح\n\n(ملق) الميم واللام والقاف أصلٌ صحيحٌ يدلُّ على [تجرُّد] في الشيء ولين. قال ابن السكِّيت: المَلَق من التملُّق، وأصله التَّليين. والمَلَقَة: الصَّفاة المَلْسَاء. ويقال الإملاق: إتلافُ المال حَتَّى يُحوِج. والقياس واحد، كأنَّه تجرَّدَ عن المال. وانْمَلَقَ ساعدُ الرجل: انسحَجَ من حَمْل الأحمال. قال:\n\nيقول قَطْباً ونِعمَّا إن سَلَق\n\nوحَوقَلٌ ساعدُه قد انْمَلَقْ\n\nوالمَلَقَة: الأرض لا يكاد يَبيِن فيها أثر، والجمع المَلق والمَلَقَات. ومَلَقْتُ الثوب: غَسَلتُه، لأنَّك تجرِّده عن الوسَخ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–l–q smooth, solid rock, to smooth; to flatter; to become\nimpoverished, to become destitute; to erase, to level up. Of this\nroot, only إِمْلَاق ʾimlāq occurs twice in the Qur’an.\n\nإِمْلَاق ʾimlāq [n./v. n. of v. IV أَمْلَقَ ʾamlaqa] poverty, destitution\n(6:151) وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقٍ and do not kill your children\nbecause of poverty.",
+      "definition_english": "m–l–q smooth, solid rock, to smooth; to flatter; to become\nimpoverished, to become destitute; to erase, to level up. Of this\nroot, only إِمْلَاق ʾimlāq occurs twice in the Qur’an.\n\nإِمْلَاق ʾimlāq [n./v. n. of v. IV أَمْلَقَ ʾamlaqa] poverty, destitution\n(6:151) وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقٍ and do not kill your children\nbecause of poverty."
+    }
+  ],
   "occurrences": [
     "17:31:5",
     "6:151:18"

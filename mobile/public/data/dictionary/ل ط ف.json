@@ -1,9 +1,17 @@
 {
-  "id": 3560,
   "root": "ل ط ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلسب\n\n(لطف) اللام والطاء والفاء أصلٌ يدلُّ على رِفق ويدلُّ على صغَر في الشيء. فاللُّطف: الرِّفق في العَمل؛ يقال: هو لطيفٌ بعباده، أي رؤوف رفيق. ومن الباب الإلطاف للبعير، إذا لم يَهتدِ لموضع الضِّرابِ فأُلْطِفَ له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلسب\n\n(لطف) اللام والطاء والفاء أصلٌ يدلُّ على رِفق ويدلُّ على صغَر في الشيء. فاللُّطف: الرِّفق في العَمل؛ يقال: هو لطيفٌ بعباده، أي رؤوف رفيق. ومن الباب الإلطاف للبعير، إذا لم يَهتدِ لموضع الضِّرابِ فأُلْطِفَ له.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–ṭ–f gentleness, benevolence, to be amiable, to be courteous,\nto be merciful, to be thin; to alleviate, to caress, to be obscure in\nmeaning; discreetly. Of this root, two forms occur eight times in\nthe Qur’an: يَتَلَطَّف yatalatṭaf once and لَطِيف laṭīf seven times.\n\nيَتَلَطَّف yatalatṭaf [imperf. of v. V intrans.] to do stealthily, to act\ncarefully, to do discreetly, to do unobtrusively, to act in an easy\nmanner (18:19) وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا let him be discreet and not\ncause anyone to become aware of you.\n\nلَطِيف laṭīf [intens. act. part.] most benign, most subtle, most\ndiscerning (42:19) اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَن يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ God is\nmost subtle towards His creatures; He provides for whomever He\nwill; He is the Powerful, the Almighty.\n\nاللَّطِيف ʾal-laṭīf [an attribute of God], One who encompasses all\nsubtleties, Most Discerning (67:14) أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ\nwould He not know whom He has created?—when He is the Most\nSubtle, the All-Aware!",
+      "definition_english": "l–ṭ–f gentleness, benevolence, to be amiable, to be courteous,\nto be merciful, to be thin; to alleviate, to caress, to be obscure in\nmeaning; discreetly. Of this root, two forms occur eight times in\nthe Qur’an: يَتَلَطَّف yatalatṭaf once and لَطِيف laṭīf seven times.\n\nيَتَلَطَّف yatalatṭaf [imperf. of v. V intrans.] to do stealthily, to act\ncarefully, to do discreetly, to do unobtrusively, to act in an easy\nmanner (18:19) وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا let him be discreet and not\ncause anyone to become aware of you.\n\nلَطِيف laṭīf [intens. act. part.] most benign, most subtle, most\ndiscerning (42:19) اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَن يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ God is\nmost subtle towards His creatures; He provides for whomever He\nwill; He is the Powerful, the Almighty.\n\nاللَّطِيف ʾal-laṭīf [an attribute of God], One who encompasses all\nsubtleties, Most Discerning (67:14) أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ\nwould He not know whom He has created?—when He is the Most\nSubtle, the All-Aware!"
+    }
+  ],
   "occurrences": [
     "12:100:40",
     "18:19:34",

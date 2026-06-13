@@ -1,8 +1,11 @@
 {
-  "id": 1499,
   "root": "ر ن ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرمك - رمل\n\n(رنح) الراء والنون والحاء أصلٌ يدلُّ على تمايلٍ. يقال ترنَّحَ، إذا تمايَل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرمك - رمل\n\n(رنح) الراء والنون والحاء أصلٌ يدلُّ على تمايلٍ. يقال ترنَّحَ، إذا تمايَل",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

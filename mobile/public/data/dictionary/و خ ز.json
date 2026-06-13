@@ -1,8 +1,11 @@
 {
-  "id": 4360,
   "root": "و خ ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوحم - وحي\n\n(وخز) الواو والخاء والزاء: كلمةٌ واحدة، هي الوَخْز: الطَّعن بالرمح وغيره، ولا يكون نافذاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوحم - وحي\n\n(وخز) الواو والخاء والزاء: كلمةٌ واحدة، هي الوَخْز: الطَّعن بالرمح وغيره، ولا يكون نافذاً.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

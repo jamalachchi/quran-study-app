@@ -1,9 +1,17 @@
 {
-  "id": 879,
   "root": "ح و ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوب\n\n(حوج) الحاء والواو والجيم أصلٌ واحد، وهو الاضطرار إلى الشيء، فالحاجة واحدة الحاجات. والحَوْجاء: الحاجة. ويقال أحْوَجَ الرّجُلُ: احتاجَ. ويقال أيضاً: حاجَ يَحُوج ، بمعنى احتاجَ. قال:\n\nوحُجْتُ فلم أكدُدْكمُ بالأصابعِ\n\nغَنِيتُ فلَم أرْدُدْكمُ عند بُِغْيَةٍ\n\nفأمَا الحاجُ فضربٌ من الشَّوك، وهو شاذٌّ عن الأصل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوب\n\n(حوج) الحاء والواو والجيم أصلٌ واحد، وهو الاضطرار إلى الشيء، فالحاجة واحدة الحاجات. والحَوْجاء: الحاجة. ويقال أحْوَجَ الرّجُلُ: احتاجَ. ويقال أيضاً: حاجَ يَحُوج ، بمعنى احتاجَ. قال:\n\nوحُجْتُ فلم أكدُدْكمُ بالأصابعِ\n\nغَنِيتُ فلَم أرْدُدْكمُ عند بُِغْيَةٍ\n\nفأمَا الحاجُ فضربٌ من الشَّوك، وهو شاذٌّ عن الأصل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–w–j need, wish, errand; poverty; resentment, objection; to need, to require, the needy. Of this root, حَاجَة ḥājatun occurs three times in the Qur’an.\nحَاجَة ḥājatun [n.] desire, wish, need, something necessary, errand (40:80) وَلَكُمْ فِيهَا مَنَافِعُ وَلِتَبْلُغُوا عَلَيْهَا حَاجَةً فِي صُدُورِكُمْ and in them [cattle] you have benefits; and that you may attain, on them, a need/errand in your breasts; *(59:9) وَلَا يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً مِمَّا أُوتُوا and they do not [find a need in their bosoms for] harbour resentment on account of what they [the others] have been given.",
+      "definition_english": "h–w–j need, wish, errand; poverty; resentment, objection; to need, to require, the needy. Of this root, حَاجَة ḥājatun occurs three times in the Qur’an.\nحَاجَة ḥājatun [n.] desire, wish, need, something necessary, errand (40:80) وَلَكُمْ فِيهَا مَنَافِعُ وَلِتَبْلُغُوا عَلَيْهَا حَاجَةً فِي صُدُورِكُمْ and in them [cattle] you have benefits; and that you may attain, on them, a need/errand in your breasts; *(59:9) وَلَا يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً مِمَّا أُوتُوا and they do not [find a need in their bosoms for] harbour resentment on account of what they [the others] have been given."
+    }
+  ],
   "occurrences": [
     "12:68:16",
     "40:80:6",

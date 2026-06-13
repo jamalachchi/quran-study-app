@@ -1,9 +1,22 @@
 {
-  "id": 3866,
   "root": "ن و ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنوي\n\n(نوش) النون والواو والشين أصلٌ صحيح يدلُّ على تناوُل الشيء. ونُشْتُه نَوْشَاً. وتناوَشْتُ: تَنَاوَلْت. قال الله تعالى: ] وَأَنَّى لَهُمُ التَّنَاوُشُ مِنْ مَكَانٍ بعِيد [ : [سبأ 52]. ورَّبما عَدَّوْه بغير ألفٍ فقالوا: نُشْتُه خيراً، إذا أنَلتَه خيراً. وقول القائل :\n\n* باتت تَنُوشُ العَنَق انتياشا *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنوي\n\n(نوش) النون والواو والشين أصلٌ صحيح يدلُّ على تناوُل الشيء. ونُشْتُه نَوْشَاً. وتناوَشْتُ: تَنَاوَلْت. قال الله تعالى: ] وَأَنَّى لَهُمُ التَّنَاوُشُ مِنْ مَكَانٍ بعِيد [ : [سبأ 52]. ورَّبما عَدَّوْه بغير ألفٍ فقالوا: نُشْتُه خيراً، إذا أنَلتَه خيراً. وقول القائل :\n\n* باتت تَنُوشُ العَنَق انتياشا *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "وَجَعَلَ فِيهَا سِرَاجًا وَقَمَرًا مُنِيرًا and placed in it a lantern and an\nilluminating moon 2 enlightening, guiding (31:20) وَمِنَ النَّاسِ مَنْ\nيُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ and among people there are\nthe ones who argue about God, without knowledge or guidance\nor an enlightening book.",
+      "definition_english": "وَجَعَلَ فِيهَا سِرَاجًا وَقَمَرًا مُنِيرًا and placed in it a lantern and an\nilluminating moon 2 enlightening, guiding (31:20) وَمِنَ النَّاسِ مَنْ\nيُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ and among people there are\nthe ones who argue about God, without knowledge or guidance\nor an enlightening book."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–w–sh skirmish; to seize; to hang on to, to receive; to save;\nto come face-to-face with. Of this root, تَنَاوُش tanāwush, occurs\n\n972",
+      "definition_english": "n–w–sh skirmish; to seize; to hang on to, to receive; to save;\nto come face-to-face with. Of this root, تَنَاوُش tanāwush, occurs\n\n972"
+    }
+  ],
   "occurrences": [
     "34:52:6"
   ]

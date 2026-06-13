@@ -1,8 +1,11 @@
 {
-  "id": 2457,
   "root": "ط ر ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطحو\n\n(طرط) الطاء والراء والطاء كلمةٌ. يقولون الأطرط: الدَّقيق الحاجبين؛ وقد طرِطَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطحو\n\n(طرط) الطاء والراء والطاء كلمةٌ. يقولون الأطرط: الدَّقيق الحاجبين؛ وقد طرِطَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

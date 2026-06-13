@@ -1,9 +1,17 @@
 {
-  "id": 2195,
   "root": "ص ن و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصلق\n\n(صنو) الصاد والنون والحرف المعتلّ أصلٌ صحيح يدلُّ على تقارُب بين شيئين، قرابةً أو مسافةً. من ذلك الصِّنو: الشَّقيق. وعمُّ الرّجل صِنوُ أبيه. وقال الخليل، يقال فلانٌ صِنْوُ فلانٍ، إذا كان أخاه وشقيقَه لأمِّه وأبيه. والأصل في ذلك النَّخلتانِ تخرجان من أصلٍ واحدٍ، فكلُّ واحدة منهما على حيالها صِنوٌ، والجمع صِنوانٌ. قال الله تعالى: ] وَنَخِيل صِنْوانٌ وغيرُ صِنْوانٍ [ .[الرعد 4]. قال أبو زيد رِكيَّتانِ صِنْوانِ، وهما المتقاربتان حتى لا يكونَ بينهما من تقارُبهما حَوْض.\n\nومما شذَّ عن هذا الأصل الصِّنو: مثل الرّدْهَة تُحفَر في الأرض، وتصغيره، صُنَيٌّ. قالت ليلى:\n\nوكنْتَ صُنَيَّاً بين صُدَّيْن مَجْهَلا\n\nأنابِغَ لم تَنْبَغْ ولم تكُ أوَّلاً",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصلق\n\n(صنو) الصاد والنون والحرف المعتلّ أصلٌ صحيح يدلُّ على تقارُب بين شيئين، قرابةً أو مسافةً. من ذلك الصِّنو: الشَّقيق. وعمُّ الرّجل صِنوُ أبيه. وقال الخليل، يقال فلانٌ صِنْوُ فلانٍ، إذا كان أخاه وشقيقَه لأمِّه وأبيه. والأصل في ذلك النَّخلتانِ تخرجان من أصلٍ واحدٍ، فكلُّ واحدة منهما على حيالها صِنوٌ، والجمع صِنوانٌ. قال الله تعالى: ] وَنَخِيل صِنْوانٌ وغيرُ صِنْوانٍ [ .[الرعد 4]. قال أبو زيد رِكيَّتانِ صِنْوانِ، وهما المتقاربتان حتى لا يكونَ بينهما من تقارُبهما حَوْض.\n\nومما شذَّ عن هذا الأصل الصِّنو: مثل الرّدْهَة تُحفَر في الأرض، وتصغيره، صُنَيٌّ. قالت ليلى:\n\nوكنْتَ صُنَيَّاً بين صُدَّيْن مَجْهَلا\n\nأنابِغَ لم تَنْبَغْ ولم تكُ أوَّلاً",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–n–w peer, equal, similar to; a full brother; two saplings\ngrowing together from the root of one tree. Of this root, one form\nصِنْوَان ṣinwān, occurs once in the Qur’an.\n\nصِنْوَان ṣinwān [dual of quasi-act. part. صِنْو sinw] two palm trees\ngrowing out of a common root, (of palm trees) clustering,\ngrowing in pairs (13:4) وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ\nand gardens of vineyards, plantations, and palm trees, both those\ngrowing, two from a single root, and those which are not.",
+      "definition_english": "ṣ–n–w peer, equal, similar to; a full brother; two saplings\ngrowing together from the root of one tree. Of this root, one form\nصِنْوَان ṣinwān, occurs once in the Qur’an.\n\nصِنْوَان ṣinwān [dual of quasi-act. part. صِنْو sinw] two palm trees\ngrowing out of a common root, (of palm trees) clustering,\ngrowing in pairs (13:4) وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ\nand gardens of vineyards, plantations, and palm trees, both those\ngrowing, two from a single root, and those which are not."
+    }
+  ],
   "occurrences": [
     "13:4:10",
     "13:4:12"

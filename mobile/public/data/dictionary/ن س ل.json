@@ -1,9 +1,17 @@
 {
-  "id": 3991,
   "root": "ن س ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنزل - نزه\n\n(نسل) النون والسين واللام أصلٌ صحيح يدلُّ على سَلِّ شيءٍ وانسلاله. والنَّسْل: الولَد. لأنَّه يُنْسل من والدته. وتناسَلُوا: ولد بعضُهم من بعض . ومنه النَّسَلان: مِشية الذِّئب إذا أعْنَقَ وأسْرَع. والماشي يَنْسِلُ، إذا أسرع. قال الله عزّ وعلا: ] وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُون [ . [الأنبياء 96].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنزل - نزه\n\n(نسل) النون والسين واللام أصلٌ صحيح يدلُّ على سَلِّ شيءٍ وانسلاله. والنَّسْل: الولَد. لأنَّه يُنْسل من والدته. وتناسَلُوا: ولد بعضُهم من بعض . ومنه النَّسَلان: مِشية الذِّئب إذا أعْنَقَ وأسْرَع. والماشي يَنْسِلُ، إذا أسرع. قال الله عزّ وعلا: ] وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُون [ . [الأنبياء 96].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–s–l offspring, progeny, to beget, to give birth; (of hair or\nfeathers) to fall out, fibrous waste; to move quickly, to ooze out.\nOf this root, two forms occur twice each in the Qur’an: يَنْسِل yansil\nand نَسْل nasl.\n\nيَنْسِل yansil [imperf. of v. نَسَلَ nasala, intrans.] to move swiftly,\nto speed up, to swarm out (36:51) مِنَ الْأَجْدَاثِ إِلَى رَبِّهِمْ يَنْسِلُونَ they will\nswarm out to their Lord from their graves.\n\nنَسْل nasl [coll. n./v. n.] offspring, descendants (32:8) ثُمَّ جَعَلَ نَسْلَهُ\nمِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ then He fashioned his descendants from an\nextraction of worthless fluid; *(2:205) يُهْلِكَ الْحَرْثَ وَالنَّسْلَ causes\ntotal destruction [lit. destroys crops and livestock].",
+      "definition_english": "n–s–l offspring, progeny, to beget, to give birth; (of hair or\nfeathers) to fall out, fibrous waste; to move quickly, to ooze out.\nOf this root, two forms occur twice each in the Qur’an: يَنْسِل yansil\nand نَسْل nasl.\n\nيَنْسِل yansil [imperf. of v. نَسَلَ nasala, intrans.] to move swiftly,\nto speed up, to swarm out (36:51) مِنَ الْأَجْدَاثِ إِلَى رَبِّهِمْ يَنْسِلُونَ they will\nswarm out to their Lord from their graves.\n\nنَسْل nasl [coll. n./v. n.] offspring, descendants (32:8) ثُمَّ جَعَلَ نَسْلَهُ\nمِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ then He fashioned his descendants from an\nextraction of worthless fluid; *(2:205) يُهْلِكَ الْحَرْثَ وَالنَّسْلَ causes\ntotal destruction [lit. destroys crops and livestock]."
+    }
+  ],
   "occurrences": [
     "21:96:10",
     "2:205:10",

@@ -1,9 +1,17 @@
 {
-  "id": 3150,
   "root": "ق ح م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقتل\n\n(قحم) القاف والحاء والميم أصلٌ صحيحٌ يدلُّ على تورُّدِ الشيءِ بأدنى جفاءٍ وإقدام. يقال: قَحَمَ في الأمور قُحُوماً: رمَى بنفسه فيها من غير دُرْبة. وقُحَمُ [الطَّرِيق ]: مصاعبه. ويقال: إنَّ المَقاحِيمَ من الإبل: التي تقتحم الشَّوْلَ من غير إرسال. والقَحْم: البَعير يُثْنِي ويُرْبِعُ في سنةٍ واحدة، فيُقْحِم سِنَّاً على سنّ. وقَحَّم الفَرَسُ فارسَه على وجهه، إذا رَماه. ويقولون: \"إنَّ للخُصومة قُحَماً\" أي إنَّها تقحِّم بصاحبها على ما لا يَهواه. والقُحْمة: السَّنة تُقحِم الأعرابَ بلادَ الرِّيف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقتل\n\n(قحم) القاف والحاء والميم أصلٌ صحيحٌ يدلُّ على تورُّدِ الشيءِ بأدنى جفاءٍ وإقدام. يقال: قَحَمَ في الأمور قُحُوماً: رمَى بنفسه فيها من غير دُرْبة. وقُحَمُ [الطَّرِيق ]: مصاعبه. ويقال: إنَّ المَقاحِيمَ من الإبل: التي تقتحم الشَّوْلَ من غير إرسال. والقَحْم: البَعير يُثْنِي ويُرْبِعُ في سنةٍ واحدة، فيُقْحِم سِنَّاً على سنّ. وقَحَّم الفَرَسُ فارسَه على وجهه، إذا رَماه. ويقولون: \"إنَّ للخُصومة قُحَماً\" أي إنَّها تقحِّم بصاحبها على ما لا يَهواه. والقُحْمة: السَّنة تُقحِم الأعرابَ بلادَ الرِّيف.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–ḥ–m to rush, to plunge, to burst into, to embark boldly;\nhardship; to scorn; to pass over; to be aged. Of this root, two\nforms occur once each in the Qur’an: اقْتَحَمَ ʾiqtaḥama and\nمُقْتَحِم muqtaḥim.\n\nاقْتَحَمَ ʾiqtaḥama [v. VIII, trans.] to take on, to set upon, to fall\nupon, to assault (90:11) فَلَا اقْتَحَمَ الْعَقَبَةَ will he not attempt the steep\npath?\n\nمُقْتَحِم muqtaḥim [act. part.] one who is rushing in headlong\n(38:59) هَذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ this is a group rushing in headlong with\nyou.\n\nقد qad [a particle occurring 403 times in the Qur’an and forming a\nsingle unit with a following perfect or imperfect verb in the\naffirmative. When preceded by qad (قد) the imperfect cannot be\nprefixed by a future particle (حرف تنفيس), or preceded by a\nsubjunctive (أداة نصب) or a jussive particle (أداة جزم)] I before a\nperfect verb qad denotes that: 1 the statement has been expected\nor sought after, in such cases the use of has/have in the English\ngloss is appropriate (58:1) قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى\nاللَّهِ God has heard the words of the one who disputes with you\n[Prophet] concerning her husband and complains to God 2 the\nevent has taken place in the not so distant past (الماضي القريب). The\n\n739",
+      "definition_english": "q–ḥ–m to rush, to plunge, to burst into, to embark boldly;\nhardship; to scorn; to pass over; to be aged. Of this root, two\nforms occur once each in the Qur’an: اقْتَحَمَ ʾiqtaḥama and\nمُقْتَحِم muqtaḥim.\n\nاقْتَحَمَ ʾiqtaḥama [v. VIII, trans.] to take on, to set upon, to fall\nupon, to assault (90:11) فَلَا اقْتَحَمَ الْعَقَبَةَ will he not attempt the steep\npath?\n\nمُقْتَحِم muqtaḥim [act. part.] one who is rushing in headlong\n(38:59) هَذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ this is a group rushing in headlong with\nyou.\n\nقد qad [a particle occurring 403 times in the Qur’an and forming a\nsingle unit with a following perfect or imperfect verb in the\naffirmative. When preceded by qad (قد) the imperfect cannot be\nprefixed by a future particle (حرف تنفيس), or preceded by a\nsubjunctive (أداة نصب) or a jussive particle (أداة جزم)] I before a\nperfect verb qad denotes that: 1 the statement has been expected\nor sought after, in such cases the use of has/have in the English\ngloss is appropriate (58:1) قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى\nاللَّهِ God has heard the words of the one who disputes with you\n[Prophet] concerning her husband and complains to God 2 the\nevent has taken place in the not so distant past (الماضي القريب). The\n\n739"
+    }
+  ],
   "occurrences": [
     "38:59:3",
     "90:11:2"

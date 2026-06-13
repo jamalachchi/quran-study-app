@@ -1,9 +1,17 @@
 {
-  "id": 1311,
   "root": "ذ ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذرح\n\n(ذعن) الذال والعين* والنون أصلٌ واحدٌ يدلُّ على الإصحاب والانقياد. يقال أَذْعَنَ الرَّجُل، إذا انقاد، يُذْعِنُ إِذْعاناً، وبناؤه ذَعَنَ، إلاَّ أنَّ استعماله أَذْعَنَ. ويقال ناقةٌ مِذْعانٌ: سَلِسَة الرأسِ منقادة.\n\nذعط - ذفر - ذفل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذرح\n\n(ذعن) الذال والعين* والنون أصلٌ واحدٌ يدلُّ على الإصحاب والانقياد. يقال أَذْعَنَ الرَّجُل، إذا انقاد، يُذْعِنُ إِذْعاناً، وبناؤه ذَعَنَ، إلاَّ أنَّ استعماله أَذْعَنَ. ويقال ناقةٌ مِذْعانٌ: سَلِسَة الرأسِ منقادة.\n\nذعط - ذفر - ذفل",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–ʿ–n to submit, to give in; to hurry up; to confess. Of this root, only مُدْعِنُون mudhʿinūn, occurs once in the Qur’an.\n328                                     ذ/ق/ن\n\nمُدْعِنُون mudhʿinūn [pl. of act. part. مُدْعِن mudhʿin] one who submits, one who yields (24:49) وَإِن يَكُن لَّهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ but if they have a just claim, they come to him in submission.",
+      "definition_english": "dh–ʿ–n to submit, to give in; to hurry up; to confess. Of this root, only مُدْعِنُون mudhʿinūn, occurs once in the Qur’an.\n328                                     ذ/ق/ن\n\nمُدْعِنُون mudhʿinūn [pl. of act. part. مُدْعِن mudhʿin] one who submits, one who yields (24:49) وَإِن يَكُن لَّهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ but if they have a just claim, they come to him in submission."
+    }
+  ],
   "occurrences": [
     "24:49:7"
   ]

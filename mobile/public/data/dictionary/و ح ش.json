@@ -1,9 +1,22 @@
 {
-  "id": 4354,
   "root": "و ح ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوحر - وحش\n\n(وحش) الواو والحاء والشين: كلمةٌ تدلُّ على خلاف الإنس. توحَّش: فارَقَ الأنيس. والوَحْش: خلاف الإنس. وأرضٌ مُوحِشَةٌ، من الوَحْش. ووَحشيُّ القَوس: ظَهْرُها؛ وإنسيُّها: ما أقبَلَ عليك. ووَحْشِيُّ الدَّابّة في قول الأصمعي: الجانبُ الذي يَرْكَب منه الرَّاكبُ ويحتلِبُ الحالب. قال: وإنَّما قالوا:\n\n* فجال على وحشيِّه *\n\nو: * انصاع جانبُه الوَحشيُّ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوحر - وحش\n\n(وحش) الواو والحاء والشين: كلمةٌ تدلُّ على خلاف الإنس. توحَّش: فارَقَ الأنيس. والوَحْش: خلاف الإنس. وأرضٌ مُوحِشَةٌ، من الوَحْش. ووَحشيُّ القَوس: ظَهْرُها؛ وإنسيُّها: ما أقبَلَ عليك. ووَحْشِيُّ الدَّابّة في قول الأصمعي: الجانبُ الذي يَرْكَب منه الرَّاكبُ ويحتلِبُ الحالب. قال: وإنَّما قالوا:\n\n* فجال على وحشيِّه *\n\nو: * انصاع جانبُه الوَحشيُّ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "according to another interpretation: He [God] directs him towards\nit).\n\nوَجِيه wajīh [quasi-act. part.] highly esteemed, greatly honoured\n(3:45) يَا مَرْيَمُ إِنَّ اللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَجِيهًا فِي الدُّنْيَا\nوَالْآخِرَةِ Mary, God gives you good tidings of a Word from Him,\nwhose name will be the Messiah, Jesus, son of Mary, who will be\ngreatly honoured in this world and the next.",
+      "definition_english": "according to another interpretation: He [God] directs him towards\nit).\n\nوَجِيه wajīh [quasi-act. part.] highly esteemed, greatly honoured\n(3:45) يَا مَرْيَمُ إِنَّ اللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَجِيهًا فِي الدُّنْيَا\nوَالْآخِرَةِ Mary, God gives you good tidings of a Word from Him,\nwhose name will be the Messiah, Jesus, son of Mary, who will be\ngreatly honoured in this world and the next."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ḥ–sh wild beasts; wild fruit; the wrong side; to be desolate,\nto be homesick. Of this root, وُحُوش wuḥūsh, occurs once in the\nQur’an.\n\nوُحُوش wuḥūsh [pl. of coll. n./n. وَحْش waḥsh] beasts, wild beasts\n(81:5) وَإِذَا الْوُحُوشُ حُشِرَتْ when the wild beasts are gathered\n\n1016",
+      "definition_english": "w–ḥ–sh wild beasts; wild fruit; the wrong side; to be desolate,\nto be homesick. Of this root, وُحُوش wuḥūsh, occurs once in the\nQur’an.\n\nوُحُوش wuḥūsh [pl. of coll. n./n. وَحْش waḥsh] beasts, wild beasts\n(81:5) وَإِذَا الْوُحُوشُ حُشِرَتْ when the wild beasts are gathered\n\n1016"
+    }
+  ],
   "occurrences": [
     "81:5:2"
   ]

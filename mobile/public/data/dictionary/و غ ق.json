@@ -1,8 +1,11 @@
 {
-  "id": 4461,
   "root": "و غ ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وغق) الواو والغين والقاف. يقولون: الوغيق كالوَعِيق.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وغق) الواو والغين والقاف. يقولون: الوغيق كالوَعِيق.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

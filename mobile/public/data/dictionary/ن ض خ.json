@@ -1,9 +1,17 @@
 {
-  "id": 4026,
   "root": "ن ض خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنصح - نصر\n\n(نضخ) النون والضاد والخاء قريبٌ من الذي قبله، إلاَّ أنّه أكثر منه . يقولون: النَّضْخ كاللّطْخ من الشّيء يبقى له أثَر. ونَضَخ ثوبَه بالطِّيب. وغَيثٌ نضّاخٌ: غزير. وعينٌ نضّاخة: كثيرة الماء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنصح - نصر\n\n(نضخ) النون والضاد والخاء قريبٌ من الذي قبله، إلاَّ أنّه أكثر منه . يقولون: النَّضْخ كاللّطْخ من الشّيء يبقى له أثَر. ونَضَخ ثوبَه بالطِّيب. وغَيثٌ نضّاخٌ: غزير. وعينٌ نضّاخة: كثيرة الماء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ḍ–kh a drizzle, a gushing spring, a cascading spring, to\nspout water copiously. Of this root, نَضَّاخَتَان naḍḍākhatān, occurs\nonce in the Qur’an.\n\nنَضَّاخَتَان naḍḍākhatān [dual of intens. act. part. نَضَّاخَة\nnaḍḍākhatun [نَضَّاخَة]] spouting, gushing, cascading (55:66) فِيهِمَا\nعَيْنَانِ نَضَّاخَتَان within them is a pair of cascading springs.",
+      "definition_english": "n–ḍ–kh a drizzle, a gushing spring, a cascading spring, to\nspout water copiously. Of this root, نَضَّاخَتَان naḍḍākhatān, occurs\nonce in the Qur’an.\n\nنَضَّاخَتَان naḍḍākhatān [dual of intens. act. part. نَضَّاخَة\nnaḍḍākhatun [نَضَّاخَة]] spouting, gushing, cascading (55:66) فِيهِمَا\nعَيْنَانِ نَضَّاخَتَان within them is a pair of cascading springs."
+    }
+  ],
   "occurrences": [
     "55:66:3"
   ]

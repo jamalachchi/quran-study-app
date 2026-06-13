@@ -1,9 +1,17 @@
 {
-  "id": 263,
   "root": "ب ر د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبرخ - برد\n\n(برد) الباء والراء والدال أصول أربعة: أحدها خلاف الحَرّ، والآخَر السُّكون والثبوت، والثالث الملبوس، والرابع الاضطراب والحركة. وإليها تَرجِع الفُروع.\n\nفأمّا الأوّل فالبَرْد خلافُ الحَرِّ. يقال بَرَدَ فهو بارِد، وبَرَد الماءُ حرارةَ جَوْفِي يَبْرُدُها. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبرخ - برد\n\n(برد) الباء والراء والدال أصول أربعة: أحدها خلاف الحَرّ، والآخَر السُّكون والثبوت، والثالث الملبوس، والرابع الاضطراب والحركة. وإليها تَرجِع الفُروع.\n\nفأمّا الأوّل فالبَرْد خلافُ الحَرِّ. يقال بَرَدَ فهو بارِد، وبَرَد الماءُ حرارةَ جَوْفِي يَبْرُدُها. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-r-d coldness, to cool, to abate; to alleviate, to die. Of this root, three forms occur five times in the Qur’an: بَرْد bard twice; بَرَد barad once and بَارِد bārid twice.\nبرد bard [v. n./n.] 1 coolness [also interpreted as: sleep] in verse (78:24) لا يذوقون فيها برداً ولا شراباً there they will feel no coolness nor will they have any drink 2 [used adjectivally] cool (21:69) قلنا يا نار كوني برداً وسلاماً على إبراهيم We said, ‘Fire, be cool and safe for Abraham.’\n\nبرد barad [coll. n.] hail (24:43) وينزل من السماء من جبال فيها من برد and He sends down from the sky, mountainous clouds [lit. mountains] in which is hail.\n\nبارد bārid [quasi-act. part.] cool, cold, refreshing (56:44) لا بارد ولا كريم neither cool nor hospitable.",
+      "definition_english": "b-r-d coldness, to cool, to abate; to alleviate, to die. Of this root, three forms occur five times in the Qur’an: بَرْد bard twice; بَرَد barad once and بَارِد bārid twice.\nبرد bard [v. n./n.] 1 coolness [also interpreted as: sleep] in verse (78:24) لا يذوقون فيها برداً ولا شراباً there they will feel no coolness nor will they have any drink 2 [used adjectivally] cool (21:69) قلنا يا نار كوني برداً وسلاماً على إبراهيم We said, ‘Fire, be cool and safe for Abraham.’\n\nبرد barad [coll. n.] hail (24:43) وينزل من السماء من جبال فيها من برد and He sends down from the sky, mountainous clouds [lit. mountains] in which is hail.\n\nبارد bārid [quasi-act. part.] cool, cold, refreshing (56:44) لا بارد ولا كريم neither cool nor hospitable."
+    }
+  ],
   "occurrences": [
     "21:69:4",
     "24:43:25",

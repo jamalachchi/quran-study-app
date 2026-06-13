@@ -1,9 +1,17 @@
 {
-  "id": 2587,
   "root": "ع ه ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعهن\n\nويقولون: العَيهوم: أصل شجرة. ويقولون هو الأديم الأحمر . قال أبو دواد:\n\nفهي قفرٌ كأنَّها عَيْهُومُ\n\nفتعفَّتْ بعد الرَّبابِ زماناً\n\nفأمّا قول القائل:\n\n* وقد أُثير العَيهمانَ الرَّاقدا *\n\nفيقولون: إنَّه الذي لا يُدلج، يقام على ظَهْرِ الطَّريق.\n\n(عهن) العين والهاء والنون أصلٌ صحيح يدلُّ على لِينٍ وسُهولة وقِلّة غذاء في الشيء.\n\nقال الخليل: العاهن: المال الذي يتروَّح على أهله، وهو العتيد الحاضر. يقال: أعطاه من عاهِنِ مالِهِ. وأنشد:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعهن\n\nويقولون: العَيهوم: أصل شجرة. ويقولون هو الأديم الأحمر . قال أبو دواد:\n\nفهي قفرٌ كأنَّها عَيْهُومُ\n\nفتعفَّتْ بعد الرَّبابِ زماناً\n\nفأمّا قول القائل:\n\n* وقد أُثير العَيهمانَ الرَّاقدا *\n\nفيقولون: إنَّه الذي لا يُدلج، يقام على ظَهْرِ الطَّريق.\n\n(عهن) العين والهاء والنون أصلٌ صحيح يدلُّ على لِينٍ وسُهولة وقِلّة غذاء في الشيء.\n\nقال الخليل: العاهن: المال الذي يتروَّح على أهله، وهو العتيد الحاضر. يقال: أعطاه من عاهِنِ مالِهِ. وأنشد:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–h–n wool dyed in several colours, broken branches still\nattached to the tree, to relax. Of this root, only الْعِهْن ʾal-ʿihn\noccurs twice in the Qur’an.\n\nعِهْن ʿihn [mass. n.] multi-coloured wool (70:9) وَتَكُونُ الْجِبَالُ كَالْعِهْنِ\nand the mountains become like tufts of multi-coloured wool.",
+      "definition_english": "ʿ–h–n wool dyed in several colours, broken branches still\nattached to the tree, to relax. Of this root, only الْعِهْن ʾal-ʿihn\noccurs twice in the Qur’an.\n\nعِهْن ʿihn [mass. n.] multi-coloured wool (70:9) وَتَكُونُ الْجِبَالُ كَالْعِهْنِ\nand the mountains become like tufts of multi-coloured wool."
+    }
+  ],
   "occurrences": [
     "101:5:3",
     "70:9:3"

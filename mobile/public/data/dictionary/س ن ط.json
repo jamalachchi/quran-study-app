@@ -1,8 +1,11 @@
 {
-  "id": 1830,
   "root": "س ن ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسنه - سني\n\n(سنط) السين والنون والطاء ليس بشيء إلاّ السِّناط، وهو الذي لا لِحْيَة له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسنه - سني\n\n(سنط) السين والنون والطاء ليس بشيء إلاّ السِّناط، وهو الذي لا لِحْيَة له.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

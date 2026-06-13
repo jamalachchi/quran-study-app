@@ -1,9 +1,17 @@
 {
-  "id": 3765,
   "root": "م ض ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمضغ\n\n(مضي) الميم والضاد والحرف المعتلّ أصلٌ صحيح يدلُّ على نفاذٍ ومُرورٍ. ومَضَى يَمضِي مُضِيَّاً. والمَضَاء: النَّفاذ في الأمر. والمُضَوَاء: التقدُّم.\n\nقال القطامي:\n\n* فإذا خَنَسْنَ مَضَى على مُضَوائِهِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمضغ\n\n(مضي) الميم والضاد والحرف المعتلّ أصلٌ صحيح يدلُّ على نفاذٍ ومُرورٍ. ومَضَى يَمضِي مُضِيَّاً. والمَضَاء: النَّفاذ في الأمر. والمُضَوَاء: التقدُّم.\n\nقال القطامي:\n\n* فإذا خَنَسْنَ مَضَى على مُضَوائِهِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḍ–y to go, to leave, to pass; to continue, to go by; to\nexecute a task; to expire, to die; to be sharp; to come to pass; to\ncomplete a deal. Of this root, two forms occur five times in the\nQur’an: مَضَى maḍā four times and مُضِيّ muḍiyy once.\n\nمَضَى maḍā i [v. intrans.] 1 to go, to keep going; to spend (time)\n(18:60) وَإِذْ قَالَ مُوسَى لِفَتَاهُ لَا أَبْرَحُ حَتَّى أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا\nand when Moses said to his servant, ‘I will not desist [from\njourneying] until I reach the place where the two seas meet, even\nif I go on for years 2 to pass by; to come to pass, to become a\nnorm, to become established (8:38) قُلْ لِلَّذِينَ كَفَرُوا إِنْ يَنْتَهُوا يُغْفَرْ لَهُمْ مَا قَدْ\nسَلَفَ وَإِنْ يَعُودُوا فَقَدْ مَضَتْ سُنَّةُ الْأَوَّلِينَ tell those who disbelieve that if\nthey desist, what went before will be forgiven them, but if they\nreturn [to their disbelief], then [they should know what to expect\nbecause] the example of [dealing with] those who went before\nhas already been established.\n\nمُضِيّ muḍiyy [v. n.] the act of proceeding, going on, moving\nforward (36:67) وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ\n\n887\n\nمع\n\nand had We willed, We would have transmuted them in their\nplaces, so that they could not move forward or back.",
+      "definition_english": "m–ḍ–y to go, to leave, to pass; to continue, to go by; to\nexecute a task; to expire, to die; to be sharp; to come to pass; to\ncomplete a deal. Of this root, two forms occur five times in the\nQur’an: مَضَى maḍā four times and مُضِيّ muḍiyy once.\n\nمَضَى maḍā i [v. intrans.] 1 to go, to keep going; to spend (time)\n(18:60) وَإِذْ قَالَ مُوسَى لِفَتَاهُ لَا أَبْرَحُ حَتَّى أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا\nand when Moses said to his servant, ‘I will not desist [from\njourneying] until I reach the place where the two seas meet, even\nif I go on for years 2 to pass by; to come to pass, to become a\nnorm, to become established (8:38) قُلْ لِلَّذِينَ كَفَرُوا إِنْ يَنْتَهُوا يُغْفَرْ لَهُمْ مَا قَدْ\nسَلَفَ وَإِنْ يَعُودُوا فَقَدْ مَضَتْ سُنَّةُ الْأَوَّلِينَ tell those who disbelieve that if\nthey desist, what went before will be forgiven them, but if they\nreturn [to their disbelief], then [they should know what to expect\nbecause] the example of [dealing with] those who went before\nhas already been established.\n\nمُضِيّ muḍiyy [v. n.] the act of proceeding, going on, moving\nforward (36:67) وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ\n\n887\n\nمع\n\nand had We willed, We would have transmuted them in their\nplaces, so that they could not move forward or back."
+    }
+  ],
   "occurrences": [
     "15:65:12",
     "18:60:12",

@@ -1,9 +1,22 @@
 {
-  "id": 2993,
   "root": "ف ر ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفري\n\nأَرمِي وقد ودَّعْت صاحبْ\n\nومن الباب الفَرْوة التي تُلبَس. وقال قومٌ: إنَّما سمِّيت فَروةً من قياس آخَر، وهو التَّغطية، لذلك سمِّيت فَرْوةُ الرّأس، وهي جلدتُه. ومنه الفَرْوة، وهي الغِنى\n\nفرت - فرث - فرج\n\nوالثَّروة. والفَروةُ: كلُّ نباتٍ مجتمِعٍ إذا يَبِس. وفي الحديث: \"أنَّ الخَضِر جَلَسَ على فَرْوةٍ من الأرض فاخضرَّت\". فإنْ صحَّ هذا فالبابُ على قياسين: أحدهما القطع، والآخَر التَّغطية والسَّترُ بشيءٍ ثَخين.\n\nوأمَّا المهموز فليس من هذا القياسُ ولا يقاس عليه غيرُه، وهو الفَرَأ: حمار الوَحْش، قال رسول الله صلى الله عليه وآله وسلّم لأبي سفيان: \"كلُّ الصَّيد في جوف الفَرَأ\". وقال الشَّاعر :\n\n* بِضربٍ كآذانِ الفِراء *\n\n(فرت) الفاء والراء والتاء كلمة واحدة، وهي الماء الفُراتُ، وهو العَذْب. يقال: ماءٌ فرات، ومياهٌ فُرات.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفري\n\nأَرمِي وقد ودَّعْت صاحبْ\n\nومن الباب الفَرْوة التي تُلبَس. وقال قومٌ: إنَّما سمِّيت فَروةً من قياس آخَر، وهو التَّغطية، لذلك سمِّيت فَرْوةُ الرّأس، وهي جلدتُه. ومنه الفَرْوة، وهي الغِنى\n\nفرت - فرث - فرج\n\nوالثَّروة. والفَروةُ: كلُّ نباتٍ مجتمِعٍ إذا يَبِس. وفي الحديث: \"أنَّ الخَضِر جَلَسَ على فَرْوةٍ من الأرض فاخضرَّت\". فإنْ صحَّ هذا فالبابُ على قياسين: أحدهما القطع، والآخَر التَّغطية والسَّترُ بشيءٍ ثَخين.\n\nوأمَّا المهموز فليس من هذا القياسُ ولا يقاس عليه غيرُه، وهو الفَرَأ: حمار الوَحْش، قال رسول الله صلى الله عليه وآله وسلّم لأبي سفيان: \"كلُّ الصَّيد في جوف الفَرَأ\". وقال الشَّاعر :\n\n* بِضربٍ كآذانِ الفِراء *\n\n(فرت) الفاء والراء والتاء كلمة واحدة، وهي الماء الفُراتُ، وهو العَذْب. يقال: ماءٌ فرات، ومياهٌ فُرات.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "[themselves].\nفِدَاء fidāʾ [v. n.] (act of) ransoming (47:4) فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً then\nafterwards [either releasing them] by grace or by accepting\nransom.\n\nفِدْيَة fidyatun [n.] 1 ransom (57:15) فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ today no\nransom will be accepted from you 2 [jur.] redemption,\ncompensation (2:196) فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ\nأَوْ صَدَقَةٍ أَوْ نُسُكٍ if any of you is ill, or has an ailment of the scalp\n[and thus is obliged to shave his head before the time], [he\nshould pay] a compensation of fasting, or almsgiving, or offering\nsacrifice.",
+      "definition_english": "[themselves].\nفِدَاء fidāʾ [v. n.] (act of) ransoming (47:4) فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً then\nafterwards [either releasing them] by grace or by accepting\nransom.\n\nفِدْيَة fidyatun [n.] 1 ransom (57:15) فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ today no\nransom will be accepted from you 2 [jur.] redemption,\ncompensation (2:196) فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ\nأَوْ صَدَقَةٍ أَوْ نُسُكٍ if any of you is ill, or has an ailment of the scalp\n[and thus is obliged to shave his head before the time], [he\nshould pay] a compensation of fasting, or almsgiving, or offering\nsacrifice."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–r–t sweet-tasting water; to be weak-minded; to violate\nreligious norms. The philologists appear to derive the name of the\nEuphrates river from this root, while in fact the opposite would be\nmore plausible. Of this root, فُرَات furāt, occurs three times in the\nQur’an.\n\nفُرَات furāt [quasi-act. part.] sweet-tasting water (77:27) وَأَسْقَيْنَاكُمْ\nمَاءً فُرَاتًا and We gave you to drink sweet-tasting water.",
+      "definition_english": "f–r–t sweet-tasting water; to be weak-minded; to violate\nreligious norms. The philologists appear to derive the name of the\nEuphrates river from this root, while in fact the opposite would be\nmore plausible. Of this root, فُرَات furāt, occurs three times in the\nQur’an.\n\nفُرَات furāt [quasi-act. part.] sweet-tasting water (77:27) وَأَسْقَيْنَاكُمْ\nمَاءً فُرَاتًا and We gave you to drink sweet-tasting water."
+    }
+  ],
   "occurrences": [
     "25:53:7",
     "35:12:6",

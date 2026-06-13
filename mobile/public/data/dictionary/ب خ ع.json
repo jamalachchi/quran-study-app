@@ -1,9 +1,22 @@
 {
-  "id": 228,
   "root": "ب خ ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبخص - بخع\n\n(بخع) الباء والخاء والعين أصلٌ واحد، وهو القتل وما داناه من إذلالٍ وقهر.\n\nقال الخليل: بخَع الرّجلُ نفسَه إذا قتلَها غَيْظاً من شدّة الوَجْد. قال ذُو الرّمّة :\n\nلشيءٍ نَحَتْهُ عن يَدَيْهِ المقَادِرُ\n\nألاَ أَيُّهَذَا الباخِعُ الوجْدُ نفسَه\n\nومنه قوله تعالى: ] فَلَعَلَّكَ باخِعٌ نَفْسَكَ على آثَارِهِمْ [ [الكهف 6]. قال أبو علي الأصفهانيّ فيما حدثنا به أبو الفضل محمد بن العميد، عن أبي بكر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبخص - بخع\n\n(بخع) الباء والخاء والعين أصلٌ واحد، وهو القتل وما داناه من إذلالٍ وقهر.\n\nقال الخليل: بخَع الرّجلُ نفسَه إذا قتلَها غَيْظاً من شدّة الوَجْد. قال ذُو الرّمّة :\n\nلشيءٍ نَحَتْهُ عن يَدَيْهِ المقَادِرُ\n\nألاَ أَيُّهَذَا الباخِعُ الوجْدُ نفسَه\n\nومنه قوله تعالى: ] فَلَعَلَّكَ باخِعٌ نَفْسَكَ على آثَارِهِمْ [ [الكهف 6]. قال أبو علي الأصفهانيّ فيما حدثنا به أبو الفضل محمد بن العميد، عن أبي بكر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "أَشْيَاءَهُمْ do not undervalue for people their property.\nيُبْخَس yubkhas [pass. v.] to be denied a fair return, to be given\nless than is deserved (11:15) نُوَفِّ إِلَيْهِمْ أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لَا\nيُبْخَسُونَ We shall repay them for their deeds [in this world] and they\n[their actions] will not be undervalued.\n\nبَخْس bakhs [v. n.] 1 [used nominally] loss, injustice (72:13) فَمَن\nيُؤْمِن بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا whoever believes in his Lord need not\nfear diminution [of the reward of his action] nor wrong 2 [used\nadjectivally] defective, much less than what is fair (12:20)\nوَشَرَوْهُ بِثَمَنٍ بَخْسٍ and they sold him for a paltry price.",
+      "definition_english": "أَشْيَاءَهُمْ do not undervalue for people their property.\nيُبْخَس yubkhas [pass. v.] to be denied a fair return, to be given\nless than is deserved (11:15) نُوَفِّ إِلَيْهِمْ أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لَا\nيُبْخَسُونَ We shall repay them for their deeds [in this world] and they\n[their actions] will not be undervalued.\n\nبَخْس bakhs [v. n.] 1 [used nominally] loss, injustice (72:13) فَمَن\nيُؤْمِن بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا whoever believes in his Lord need not\nfear diminution [of the reward of his action] nor wrong 2 [used\nadjectivally] defective, much less than what is fair (12:20)\nوَشَرَوْهُ بِثَمَنٍ بَخْسٍ and they sold him for a paltry price."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–kh–ʿ tendon that runs close to the neck, to cut such tendon,\nto cut the throat; to show humility; to be docile. Of this root, بَاخِع\nbākhiʿ occurs twice in the Qurʾan.\n\nبَاخِع bākhiʿ [act. part.] tormenting, killing (oneself with sorrow\nor worry) (26:3) فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ it may be that you\n[Prophet] are going to kill yourself [with worry] because they\nwill not become believers!",
+      "definition_english": "b–kh–ʿ tendon that runs close to the neck, to cut such tendon,\nto cut the throat; to show humility; to be docile. Of this root, بَاخِع\nbākhiʿ occurs twice in the Qurʾan.\n\nبَاخِع bākhiʿ [act. part.] tormenting, killing (oneself with sorrow\nor worry) (26:3) فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ it may be that you\n[Prophet] are going to kill yourself [with worry] because they\nwill not become believers!"
+    }
+  ],
   "occurrences": [
     "18:6:2",
     "26:3:2"

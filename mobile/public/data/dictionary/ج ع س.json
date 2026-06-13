@@ -1,8 +1,11 @@
 {
-  "id": 633,
   "root": "ج ع س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجعم\n\n(جعس) الجيم والعين والسين يدلُّ على خساسةٍ وحقارة ولُؤْم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجعم\n\n(جعس) الجيم والعين والسين يدلُّ على خساسةٍ وحقارة ولُؤْم.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

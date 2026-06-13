@@ -1,8 +1,11 @@
 {
-  "id": 1171,
   "root": "د غ ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دغش) الدال والغين والشين ليس بشيء. وهم يَحْكُون: دَغَشَ عليهم .\n\nدغف - دفق - دفل - دفن",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دغش) الدال والغين والشين ليس بشيء. وهم يَحْكُون: دَغَشَ عليهم .\n\nدغف - دفق - دفل - دفن",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

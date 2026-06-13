@@ -1,8 +1,11 @@
 {
-  "id": 493,
   "root": "ث ط أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثرب - ثرد\n\n(ثطأ) الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها. يقال ثَطَأْتُه وطِئْتُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثرب - ثرد\n\n(ثطأ) الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها. يقال ثَطَأْتُه وطِئْتُه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

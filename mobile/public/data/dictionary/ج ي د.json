@@ -1,9 +1,17 @@
 {
-  "id": 702,
   "root": "ج ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيد) الجيم والياء والدال أصلٌ واحد، وهو العُنُق. يقال جِيدٌ وأجْيادٌ. والجَيَد: طولُ الجِيد. والجَيْداء: الطَّويلة الجِيد. وأما قول الأعشى :\n\n* رجالَ إيادٍ بأجْيَادِها *\n\nفيقال إنّها معربة وإنه أراد الأكسية .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيد) الجيم والياء والدال أصلٌ واحد، وهو العُنُق. يقال جِيدٌ وأجْيادٌ. والجَيَد: طولُ الجِيد. والجَيْداء: الطَّويلة الجِيد. وأما قول الأعشى :\n\n* رجالَ إيادٍ بأجْيَادِها *\n\nفيقال إنّها معربة وإنه أراد الأكسية .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–y–d neck, long beautiful neck, to have a long beautiful neck. Of this root, جِيد jīd occurs once in the Qurʾan.\nجِيد jīd [n.] neck (111:5) فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍ around her neck [let there be] a rope of palm fibre.\n\n186\n\nح / ḥāʾ\n\nٱلْحَاء ʾal-ḥāʾ the sixth letter of the alphabet; it represents a voiceless pharyngeal fricative sound.",
+      "definition_english": "j–y–d neck, long beautiful neck, to have a long beautiful neck. Of this root, جِيد jīd occurs once in the Qurʾan.\nجِيد jīd [n.] neck (111:5) فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍ around her neck [let there be] a rope of palm fibre.\n\n186\n\nح / ḥāʾ\n\nٱلْحَاء ʾal-ḥāʾ the sixth letter of the alphabet; it represents a voiceless pharyngeal fricative sound."
+    }
+  ],
   "occurrences": [
     "111:5:2"
   ]

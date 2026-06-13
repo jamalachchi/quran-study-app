@@ -1,9 +1,17 @@
 {
-  "id": 4527,
   "root": "و ه ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهج) الواو والهاء والجيم: كلمةٌ واحدة، وهي الوَهَج: حَرُّ النَّار وتَوقُّدُها. ويُستعار ذلك فيقال: تَوهَّجَ* الجوهرُ: تلألأ. وتوهَّجَتْ رائحةُ الطيِّب ووَهَج الطيِّب: أرَجُه ورائحتُه. وسراجٌ وَهَّاجٌ: وَقّادٌ. وكذلك نَجْمٌ وَهَّاج.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهج) الواو والهاء والجيم: كلمةٌ واحدة، وهي الوَهَج: حَرُّ النَّار وتَوقُّدُها. ويُستعار ذلك فيقال: تَوهَّجَ* الجوهرُ: تلألأ. وتوهَّجَتْ رائحةُ الطيِّب ووَهَج الطيِّب: أرَجُه ورائحتُه. وسراجٌ وَهَّاجٌ: وَقّادٌ. وكذلك نَجْمٌ وَهَّاج.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–h–j intense midday heat; to burn brightly, to blaze; to\nglitter, to glimmer, to twinkle, to sparkle; (of scent) to waft about.\nOf this root, وَهَّاج waḥḥāj, occurs once in the Qur’an.\n\nوَهَّاج waḥḥāj [intens. act. part.] glowing, glaring, blazing,\nglimmering, shining (78:13) وَجَعَلْنَا سِرَاجًا وَهَّاجًا and We installed a\nblazing lamp [in the heavens].",
+      "definition_english": "w–h–j intense midday heat; to burn brightly, to blaze; to\nglitter, to glimmer, to twinkle, to sparkle; (of scent) to waft about.\nOf this root, وَهَّاج waḥḥāj, occurs once in the Qur’an.\n\nوَهَّاج waḥḥāj [intens. act. part.] glowing, glaring, blazing,\nglimmering, shining (78:13) وَجَعَلْنَا سِرَاجًا وَهَّاجًا and We installed a\nblazing lamp [in the heavens]."
+    }
+  ],
   "occurrences": [
     "78:13:3"
   ]

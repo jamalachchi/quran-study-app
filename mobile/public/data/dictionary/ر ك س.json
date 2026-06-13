@@ -1,9 +1,17 @@
 {
-  "id": 1475,
   "root": "ر ك س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nركب\n\n(ركس) الراء والكاف والسين أصلٌ واحد، وهو قلْبُ الشّيء على رأسِه وردُّ أوّلِه على آخِره. قال الله جلّ ثناؤه: ] وَاللهُ أَرْكَسَهُمْ بِمَا كَسَبُوا [ [النساء 88]، أي ردّهم إلى كفرهم. ويقال ارتكس فلانٌ في أمرٍ قد كان نجا منه. والرَّكوسيَّة: قومٌ لهم دينٌ بين النَّصارى والصابئين. وأُتِيَ رسول الله صلى الله عليه وآله وسلم، حين طَلب أحجاراً للاستنجاء، بِرَوْثَة، فرمَى بها وقال: \"إنّها رِكْس\". ومعنى ذلك أنَّها ارتكَسَت عن أن تكون طعاماً إلى غيره.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nركب\n\n(ركس) الراء والكاف والسين أصلٌ واحد، وهو قلْبُ الشّيء على رأسِه وردُّ أوّلِه على آخِره. قال الله جلّ ثناؤه: ] وَاللهُ أَرْكَسَهُمْ بِمَا كَسَبُوا [ [النساء 88]، أي ردّهم إلى كفرهم. ويقال ارتكس فلانٌ في أمرٍ قد كان نجا منه. والرَّكوسيَّة: قومٌ لهم دينٌ بين النَّصارى والصابئين. وأُتِيَ رسول الله صلى الله عليه وآله وسلم، حين طَلب أحجاراً للاستنجاء، بِرَوْثَة، فرمَى بها وقال: \"إنّها رِكْس\". ومعنى ذلك أنَّها ارتكَسَت عن أن تكون طعاماً إلى غيره.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-k-s a group of people; to turn upside down or back-to-front, to be inverted; to relapse, to fall back; a bridge; a weak, indecisive person. Of this root, two forms occur once each in the Qur’an: أَرْكَسَ ʾarkasa and أُرْكِسَ ʾurkisa.\nأَرْكَسَ ʾarkasa [v. IV, trans., pass. أُرْكِسَ ʾurkisa] to cast back, to cause someone to relapse or go back into the bad state they were in, to reject (4:88) فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُم بِمَا كَسَبُوا how is it with you, that you are two parties regarding the hypocrites, when God has made them relapse [into their unbelief] for what they have committed?",
+      "definition_english": "r-k-s a group of people; to turn upside down or back-to-front, to be inverted; to relapse, to fall back; a bridge; a weak, indecisive person. Of this root, two forms occur once each in the Qur’an: أَرْكَسَ ʾarkasa and أُرْكِسَ ʾurkisa.\nأَرْكَسَ ʾarkasa [v. IV, trans., pass. أُرْكِسَ ʾurkisa] to cast back, to cause someone to relapse or go back into the bad state they were in, to reject (4:88) فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُم بِمَا كَسَبُوا how is it with you, that you are two parties regarding the hypocrites, when God has made them relapse [into their unbelief] for what they have committed?"
+    }
+  ],
   "occurrences": [
     "4:88:7",
     "4:91:13"

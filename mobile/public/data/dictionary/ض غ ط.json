@@ -1,8 +1,11 @@
 {
-  "id": 2291,
   "root": "ض غ ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضغن - ضغط\n\n(ضغط) الضاد والغين والطاء أصلٌ صحيحٌ واحد يدلُّ على مُزاحَمَةٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضغن - ضغط\n\n(ضغط) الضاد والغين والطاء أصلٌ صحيحٌ واحد يدلُّ على مُزاحَمَةٍ",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

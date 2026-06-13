@@ -1,9 +1,17 @@
 {
-  "id": 1586,
   "root": "ر ج ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرجف\n\nوالرّجاع: رُجوع الطَّير بعد قِطاعِها. والرَّجيع: الجِرَّة؛ لأنه يُرَدَّد مضْغُها. قال الأعشى:\n\nليس إلا الرَّجِيعَ فيها عَلاَقُ\n\nوفلاةٍ كأنّها ظَهرُ تُرْسٍ\n\nوالرَّجِيع من الدوابّ: ما رجَعْتَه من سفرٍ إلى سَفَر. وأَرجَعَتِ الإبلُ، إذا كانت مَهَازِيلَ فسَمِنَتْ وحَسُنَتْ حالُها، وذلك رُجوعُها إلى حالِها الأولَى. فأمّا الرَّجْع [فـ] الغيثُ، وهو المطرُ في قوله جلّ وعزّ: ] وَالسَّماءِ ذَاتِ الرَّجْعِ [ [الطارق 11]، وذلك أنها تَغِيث وتصُبّ ثم تَرجِع فتَغِيث. وقال:\n\nولا صَدْعٌ فتَحْتلِبَ الرِّعاءُ\n\nوجاءت سِلْتمٌ لا رَجْعَ فيها\n\n(رجف) الراء والجيم والفاء أصلٌ يدلُّ على اضطرابٍ. يقال رجَفَتِ الأرْضُ والقَلبُ. والبَحْرُ رَجّافٌ لاضطرابه. وأَرْجَفَ الناسُ في الشيءِ، إذا خاضوا فيه واضطَرَبُوا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرجف\n\nوالرّجاع: رُجوع الطَّير بعد قِطاعِها. والرَّجيع: الجِرَّة؛ لأنه يُرَدَّد مضْغُها. قال الأعشى:\n\nليس إلا الرَّجِيعَ فيها عَلاَقُ\n\nوفلاةٍ كأنّها ظَهرُ تُرْسٍ\n\nوالرَّجِيع من الدوابّ: ما رجَعْتَه من سفرٍ إلى سَفَر. وأَرجَعَتِ الإبلُ، إذا كانت مَهَازِيلَ فسَمِنَتْ وحَسُنَتْ حالُها، وذلك رُجوعُها إلى حالِها الأولَى. فأمّا الرَّجْع [فـ] الغيثُ، وهو المطرُ في قوله جلّ وعزّ: ] وَالسَّماءِ ذَاتِ الرَّجْعِ [ [الطارق 11]، وذلك أنها تَغِيث وتصُبّ ثم تَرجِع فتَغِيث. وقال:\n\nولا صَدْعٌ فتَحْتلِبَ الرِّعاءُ\n\nوجاءت سِلْتمٌ لا رَجْعَ فيها\n\n(رجف) الراء والجيم والفاء أصلٌ يدلُّ على اضطرابٍ. يقال رجَفَتِ الأرْضُ والقَلبُ. والبَحْرُ رَجّافٌ لاضطرابه. وأَرْجَفَ الناسُ في الشيءِ، إذا خاضوا فيه واضطَرَبُوا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-j-f to quake, earthquake, tremor, to tremble, to agitate, to shiver, to shudder; to spread lies, to spread false rumours; to thunder, to prepare for war. Of this root, four forms occur eight times in the Qurʾan: تَرْجُفُ tarjufu twice; رَجْفَة rajfatun four times; رَاجِفَة rājifatun once and مُرْجِفُونَ murjifūn once.\nتَرْجُفُ tarjufu [imperf. of v. رَجَفَ rajafa, intrans.] to tremble, to quake, to shake (73:14) يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ on the Day when the earth and the mountains will shake.\n\nرَجْفَة rajfatun [unit n.] a tremor, an earthquake, a blast (7:78) فَأَخَذَتْهُمُ الرَّجْفَةُ an earthquake seized them.\n\nرَاجِفَة rājifatun [fem. act. part.] one that shakes up *(79:6) الرَّاجِفَةُ the shaker (epithet for the first blast of the Trumpet calling for the rising of the dead).\n\nمُرْجِفُونَ murjifūn [pl. of act. part. مُرْجِف murjif] spreaders of false rumours, agitators, provocators (33:60) لَئِن لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ if the hypocrites do not desist, and the ones in whose hearts is sickness, and those who cause civil unrest in the city, We will rouse you against them.",
+      "definition_english": "r-j-f to quake, earthquake, tremor, to tremble, to agitate, to shiver, to shudder; to spread lies, to spread false rumours; to thunder, to prepare for war. Of this root, four forms occur eight times in the Qurʾan: تَرْجُفُ tarjufu twice; رَجْفَة rajfatun four times; رَاجِفَة rājifatun once and مُرْجِفُونَ murjifūn once.\nتَرْجُفُ tarjufu [imperf. of v. رَجَفَ rajafa, intrans.] to tremble, to quake, to shake (73:14) يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ on the Day when the earth and the mountains will shake.\n\nرَجْفَة rajfatun [unit n.] a tremor, an earthquake, a blast (7:78) فَأَخَذَتْهُمُ الرَّجْفَةُ an earthquake seized them.\n\nرَاجِفَة rājifatun [fem. act. part.] one that shakes up *(79:6) الرَّاجِفَةُ the shaker (epithet for the first blast of the Trumpet calling for the rising of the dead).\n\nمُرْجِفُونَ murjifūn [pl. of act. part. مُرْجِف murjif] spreaders of false rumours, agitators, provocators (33:60) لَئِن لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ if the hypocrites do not desist, and the ones in whose hearts is sickness, and those who cause civil unrest in the city, We will rouse you against them."
+    }
+  ],
   "occurrences": [
     "29:37:3",
     "33:60:9",

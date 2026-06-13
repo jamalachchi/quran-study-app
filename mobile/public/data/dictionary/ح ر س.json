@@ -1,9 +1,17 @@
 {
-  "id": 761,
   "root": "ح ر س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحرز - حرس\n\n(حرس) الحاء والراء والسين أصلان: أحدهما الحِفْظ والآخر زمانٌ.\n\nفالأوّل حَرَسَه يَحْرُسُه حَرْساً. والحَرَس: الحُرَّاس. وأمَّا حُرِيسَة الجَبَل، التي جاءت في الحديث، فيقال هي الشاة يُدركها اللَّيل قَبْلَ أُوِيِّها إلى مأواها، فكأنها حُرِسَتْ هناك. وقال أبو عبيدة في حريسة الجبل: يجعلها بعضهم السَّرِقَة نفسَها؛ يقال حَرَس يَحْرِسُ حَرْساً، إذا سَرَق. وهذا إنْ صحَّ فهو قريبٌ من الباب؛ لأنَّ السارق يرقُب الشيء كأنّه يحرُسه حتَّى يتمكَّن منه. والأوّلُ أصحّ. وذلك قول",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحرز - حرس\n\n(حرس) الحاء والراء والسين أصلان: أحدهما الحِفْظ والآخر زمانٌ.\n\nفالأوّل حَرَسَه يَحْرُسُه حَرْساً. والحَرَس: الحُرَّاس. وأمَّا حُرِيسَة الجَبَل، التي جاءت في الحديث، فيقال هي الشاة يُدركها اللَّيل قَبْلَ أُوِيِّها إلى مأواها، فكأنها حُرِسَتْ هناك. وقال أبو عبيدة في حريسة الجبل: يجعلها بعضهم السَّرِقَة نفسَها؛ يقال حَرَس يَحْرِسُ حَرْساً، إذا سَرَق. وهذا إنْ صحَّ فهو قريبٌ من الباب؛ لأنَّ السارق يرقُب الشيء كأنّه يحرُسه حتَّى يتمكَّن منه. والأوّلُ أصحّ. وذلك قول",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–r–s guard, to stand guard, to watch, to protect. Of this root,\nحَرَس ḥaras occurs once in the Qur’an.\n\nحَرَس ḥaras [coll. n.] guard, watch, garrison (72:8) وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ\nفَوَجَدْنَٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا we probed heaven, but found that it\nhad been filled with strong guards and meteors.",
+      "definition_english": "h–r–s guard, to stand guard, to watch, to protect. Of this root,\nحَرَس ḥaras occurs once in the Qur’an.\n\nحَرَس ḥaras [coll. n.] guard, watch, garrison (72:8) وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ\nفَوَجَدْنَٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا we probed heaven, but found that it\nhad been filled with strong guards and meteors."
+    }
+  ],
   "occurrences": [
     "72:8:6"
   ]

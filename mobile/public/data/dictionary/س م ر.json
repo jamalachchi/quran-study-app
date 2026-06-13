@@ -1,9 +1,17 @@
 {
-  "id": 1816,
   "root": "س م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسمه - سمو\n\n(سمر) السين والميم والراء أصلٌ واحدٌ يدلُّ على خلاف البياض في اللون. من ذلك السُّمْرة من الألوان، وأصله قولهم: \"لا آتيك السَّمَر والقَمَر\"، فالقَمر: القمر. والسَّمَر: سواد الليل، ومن ذلك سمِّيت السُّمْرَة. فأمّا السَّامر فالقوم",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسمه - سمو\n\n(سمر) السين والميم والراء أصلٌ واحدٌ يدلُّ على خلاف البياض في اللون. من ذلك السُّمْرة من الألوان، وأصله قولهم: \"لا آتيك السَّمَر والقَمَر\"، فالقَمر: القمر. والسَّمَر: سواد الليل، ومن ذلك سمِّيت السُّمْرَة. فأمّا السَّامر فالقوم",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–m–r the colour brown, colour of dusk; moonlight, nightly chats (i.e. chats conducted in the moonlight), socialising by night. The philologists derive سامري samiriyy from السامرة ʾal-sāmiratu, a tribe of the Children of Israel, which in turn they regard as a derivative of this root. Of this root, two forms occur four times in the Qurʾan: سامرًا sāmiran once and السامري ʾal-Sāmiriyy three times.\nسامر sāmir [act. part; coll. n.; n. of place] one who participates in a night-time chat; a group of such people; a place where people gather at night for conversation (23:66–7) قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ مُسْتَكْبِرِينَ بِهِ سَـٰمِرًا تَهْجُرُونَ time and time again My messages were recited to you, but you turned arrogantly on your heels, and spent the evenings making fun of it [the Qurʾan] in your place of gathering.\n\nالسامري ʾal-Sāmiriyy [n.] someone from the tribe of Samaria, a Samaritan (20:95) قَالَ فَمَا خَطْبُكَ يَـٰسَـٰمِرِىُّ Moses said, ‘And what was the matter with you, Samaritan?’\n\nThe Qurʾan states how this man took advantage of Moses’ absence and corrupted the faith of his people by turning the gold they had been carrying into an effigy of a calf and then convincing them that it was their god. Moses declared him untouchable and banished him after making him witness the filing away of the effigy of the calf and scattering it in the sea. Asad puts forward an interesting theory describing the man as an Egyptian schemer, a ‘stranger, foreigner’ convert who joined the Exodus but was still adhering to the cult of Apis (see note 70 on 20:85).\n\n455 س/م/ع",
+      "definition_english": "s–m–r the colour brown, colour of dusk; moonlight, nightly chats (i.e. chats conducted in the moonlight), socialising by night. The philologists derive سامري samiriyy from السامرة ʾal-sāmiratu, a tribe of the Children of Israel, which in turn they regard as a derivative of this root. Of this root, two forms occur four times in the Qurʾan: سامرًا sāmiran once and السامري ʾal-Sāmiriyy three times.\nسامر sāmir [act. part; coll. n.; n. of place] one who participates in a night-time chat; a group of such people; a place where people gather at night for conversation (23:66–7) قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ مُسْتَكْبِرِينَ بِهِ سَـٰمِرًا تَهْجُرُونَ time and time again My messages were recited to you, but you turned arrogantly on your heels, and spent the evenings making fun of it [the Qurʾan] in your place of gathering.\n\nالسامري ʾal-Sāmiriyy [n.] someone from the tribe of Samaria, a Samaritan (20:95) قَالَ فَمَا خَطْبُكَ يَـٰسَـٰمِرِىُّ Moses said, ‘And what was the matter with you, Samaritan?’\n\nThe Qurʾan states how this man took advantage of Moses’ absence and corrupted the faith of his people by turning the gold they had been carrying into an effigy of a calf and then convincing them that it was their god. Moses declared him untouchable and banished him after making him witness the filing away of the effigy of the calf and scattering it in the sea. Asad puts forward an interesting theory describing the man as an Egyptian schemer, a ‘stranger, foreigner’ convert who joined the Exodus but was still adhering to the cult of Apis (see note 70 on 20:85).\n\n455 س/م/ع"
+    }
+  ],
   "occurrences": [
     "20:85:9",
     "20:87:15",

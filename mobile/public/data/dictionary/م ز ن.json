@@ -1,9 +1,17 @@
 {
-  "id": 3735,
   "root": "م ز ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمرخ - مرد\n\n(مزن) الميم والزاء والنون أصلٌ صحيح فيه ثلاث كلمات متباينةِ القياس:\n\nفالأولى: المُزْن: السَّحاب، والقطعة مُزْنة. ويقال في قول القائل وأظنُّه مصنوعاً:\n\nفَسِيط لدى الأُفق من خِنْصرِ\n\nكأنَّ ابن مُزنتها جانِحاً\n\nإنّ ابنَ المُزْنة: الهِلال.\n\nوالثانية المازن: بيض النَّمل.\n\nوالثالثة: مَزَنَ قِربَته: ملأَها. وهو يتمزَّنُ على أصحابه، أي يتفضّل عليهم، كأنَّه يتشبَّه بالمزنِ سَخاءً. ولعل المُزْن هو الأصل في الباب، وما سواه فمفرَّعٌ عليه.\n\nمزي مزج - مزح - مزر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمرخ - مرد\n\n(مزن) الميم والزاء والنون أصلٌ صحيح فيه ثلاث كلمات متباينةِ القياس:\n\nفالأولى: المُزْن: السَّحاب، والقطعة مُزْنة. ويقال في قول القائل وأظنُّه مصنوعاً:\n\nفَسِيط لدى الأُفق من خِنْصرِ\n\nكأنَّ ابن مُزنتها جانِحاً\n\nإنّ ابنَ المُزْنة: الهِلال.\n\nوالثانية المازن: بيض النَّمل.\n\nوالثالثة: مَزَنَ قِربَته: ملأَها. وهو يتمزَّنُ على أصحابه، أي يتفضّل عليهم، كأنَّه يتشبَّه بالمزنِ سَخاءً. ولعل المُزْن هو الأصل في الباب، وما سواه فمفرَّعٌ عليه.\n\nمزي مزج - مزح - مزر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–z–n rain clouds; to go about one’s business in haste, to run\naway from an enemy, to be far away; to act pleasantly. Of this\nroot, only مُزْن muzn occurs once in the Qur’an.\n\nمُزْن muzn [pl. of n. مُزْنَة muznatun] rain-bearing clouds (56:68–\n9) أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ will you\nconsider the water you drink: was it you or We who brought it\ndown from the rain clouds?",
+      "definition_english": "m–z–n rain clouds; to go about one’s business in haste, to run\naway from an enemy, to be far away; to act pleasantly. Of this\nroot, only مُزْن muzn occurs once in the Qur’an.\n\nمُزْن muzn [pl. of n. مُزْنَة muznatun] rain-bearing clouds (56:68–\n9) أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ will you\nconsider the water you drink: was it you or We who brought it\ndown from the rain clouds?"
+    }
+  ],
   "occurrences": [
     "56:69:4"
   ]

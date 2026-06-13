@@ -1,9 +1,17 @@
 {
-  "id": 4030,
   "root": "ن ط ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنضد - نضر\n\n(نطف) النون والطاء والفاء أصلان* أحدهما جنسٌ من الحَلْي، والآخَر نُدُوَّة وبَلَل، ثم يستعار ويُتوسَّع فيه.\n\nفالأوَّل: النَّطَف. يقال هو اللُّؤلؤ، الواحدة نَطَفة . ويقال: بل النَّطَفَ: القِرَطَة.\n\nوالأصل الآخر النُّطْفة: الماء الصافي. وليلةٌ نَطوفٌ: مَطَرَتْ حتَّى الصَّباح. والنِّطَاف: العرَق. ثم يستعار هذا فيقال النَّطَف: التّلطُّخ. ولا يكاد يُقال إلا في القبيح والعَيب. ويقال نَطِفٌ، أي مَعِيب. ونَطِفَ الشَّيء: فَسَد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنضد - نضر\n\n(نطف) النون والطاء والفاء أصلان* أحدهما جنسٌ من الحَلْي، والآخَر نُدُوَّة وبَلَل، ثم يستعار ويُتوسَّع فيه.\n\nفالأوَّل: النَّطَف. يقال هو اللُّؤلؤ، الواحدة نَطَفة . ويقال: بل النَّطَفَ: القِرَطَة.\n\nوالأصل الآخر النُّطْفة: الماء الصافي. وليلةٌ نَطوفٌ: مَطَرَتْ حتَّى الصَّباح. والنِّطَاف: العرَق. ثم يستعار هذا فيقال النَّطَف: التّلطُّخ. ولا يكاد يُقال إلا في القبيح والعَيب. ويقال نَطِفٌ، أي مَعِيب. ونَطِفَ الشَّيء: فَسَد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ṭ–f unblemished pearl, drop of water, semen; the dregs at\nthe bottom of a container; to smear, to slander, to become dirty; to\nseep. Of this root, نُطْفَة nuṭfatun, occurs 12 times in the Qur’an.\n\nنُطْفَة nuṭfatun [n.] a drop of fluid [semen/sperm] (36:77) أَوَلَمْ يَرَ\nالْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ can man not see that We created him from a\ndrop of fluid?",
+      "definition_english": "n–ṭ–f unblemished pearl, drop of water, semen; the dregs at\nthe bottom of a container; to smear, to slander, to become dirty; to\nseep. Of this root, نُطْفَة nuṭfatun, occurs 12 times in the Qur’an.\n\nنُطْفَة nuṭfatun [n.] a drop of fluid [semen/sperm] (36:77) أَوَلَمْ يَرَ\nالْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ can man not see that We created him from a\ndrop of fluid?"
+    }
+  ],
   "occurrences": [
     "16:4:4",
     "18:37:13",

@@ -1,8 +1,16 @@
 {
-  "id": 950,
   "root": "خ ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخم\n\n(خب) الخاء والباء أصلان: الأول [أن] يمتدّ [الشيء] طولاً، والثاني جنسٌ من الخِداع.\n\nفالأول الخَبيبة والْخُبَّةُ: الطريقة تمتدُّ في الرَّمل. ثم يشبّه بها الخِرْقَة التي تُخْرَقُ طُولاً. ويُحمَل على ذلك الخَبِيبة من اللَّحم، وهي الشَّرِيحة منه.\n\nوأما الآخَر فالخِبُّ الخِداع، والخَِبُّ الخَدَّاع. وهذا مشتقٌّ من خَبَّ البَحْرُ اضطَرَبَ. وقد أصابهم الخِبُّ.\n\nومن هذا الخَبَبُ: ضربٌ من العَدْو. ويقال جاء مُخِبَّاً. ومنه خَبَّ النّبتُ،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخم\n\n(خب) الخاء والباء أصلان: الأول [أن] يمتدّ [الشيء] طولاً، والثاني جنسٌ من الخِداع.\n\nفالأول الخَبيبة والْخُبَّةُ: الطريقة تمتدُّ في الرَّمل. ثم يشبّه بها الخِرْقَة التي تُخْرَقُ طُولاً. ويُحمَل على ذلك الخَبِيبة من اللَّحم، وهي الشَّرِيحة منه.\n\nوأما الآخَر فالخِبُّ الخِداع، والخَِبُّ الخَدَّاع. وهذا مشتقٌّ من خَبَّ البَحْرُ اضطَرَبَ. وقد أصابهم الخِبُّ.\n\nومن هذا الخَبَبُ: ضربٌ من العَدْو. ويقال جاء مُخِبَّاً. ومنه خَبَّ النّبتُ،",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "/ʾ kh–b–ʾ (there is a degree of overlap between this root and the\nroot خ/ب/و kh–b–w) to hide, to keep in safety, to treasure; secrets,\ntreasure; woollen tents for living in, shelter. Of this root, خَبْءٌ\nkhabʾ occurs once in the Qur’an.\n\nخَبْءٌ khabʾ [n./v. n.] that which is hidden, that which is kept\nsafe (27:25) أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ should\nthey not worship God, who brings forth what is hidden in the\nheavens and earth?",
+      "definition_english": "/ʾ kh–b–ʾ (there is a degree of overlap between this root and the\nroot خ/ب/و kh–b–w) to hide, to keep in safety, to treasure; secrets,\ntreasure; woollen tents for living in, shelter. Of this root, خَبْءٌ\nkhabʾ occurs once in the Qur’an.\n\nخَبْءٌ khabʾ [n./v. n.] that which is hidden, that which is kept\nsafe (27:25) أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ should\nthey not worship God, who brings forth what is hidden in the\nheavens and earth?"
+    }
+  ],
   "occurrences": []
 }

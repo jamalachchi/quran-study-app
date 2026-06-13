@@ -1,8 +1,11 @@
 {
-  "id": 2963,
   "root": "ف ح ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفحم\n\n(فحث) الفاء والحاء والثاء كلمةٌ واحدة. فالفَحث: الجَوْف. يقال: ملأ أفحاثه، أي جوفَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفحم\n\n(فحث) الفاء والحاء والثاء كلمةٌ واحدة. فالفَحث: الجَوْف. يقال: ملأ أفحاثه، أي جوفَه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

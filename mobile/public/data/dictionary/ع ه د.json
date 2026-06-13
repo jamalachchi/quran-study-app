@@ -1,9 +1,17 @@
 {
-  "id": 2582,
   "root": "ع ه د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعهج - عهد\n\n(عهد) العين والهاء والدال أصلُ هذا الباب عندنا دالٌّ على معنىً واحد، قد أومأ إليه الخليل. قال: أصله الاحتفاظُ بالشَّيء وإحداثُ العهدِ به. والذي ذكره من الاحتفاظ هو المعنى الذي يرجع إليه فُروع الباب. فمن ذلك قولهم عَهِد الرجل يَعْهَدُ عَهْداً، وهو من الوصيَّة. وإنّما سمِّيت بذلك لأنَّ العهدَ مما ينبغي الاحتفاظُ به. ومنه اشتقاق العَهد الذي يُكتَب للوُلاة من الوصيّة، وجمعه عُهود. والعَهْد: المَوْثِق، وجمعه عُهود. ومن الباب العَهْدُ الذي معناه الالتقاء والإلمام، يقال: هو قريبُ العهد به، وذلك أنّ إلمامَهُ به احتفاظٌ به وإقبال.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعهج - عهد\n\n(عهد) العين والهاء والدال أصلُ هذا الباب عندنا دالٌّ على معنىً واحد، قد أومأ إليه الخليل. قال: أصله الاحتفاظُ بالشَّيء وإحداثُ العهدِ به. والذي ذكره من الاحتفاظ هو المعنى الذي يرجع إليه فُروع الباب. فمن ذلك قولهم عَهِد الرجل يَعْهَدُ عَهْداً، وهو من الوصيَّة. وإنّما سمِّيت بذلك لأنَّ العهدَ مما ينبغي الاحتفاظُ به. ومنه اشتقاق العَهد الذي يُكتَب للوُلاة من الوصيّة، وجمعه عُهود. والعَهْد: المَوْثِق، وجمعه عُهود. ومن الباب العَهْدُ الذي معناه الالتقاء والإلمام، يقال: هو قريبُ العهد به، وذلك أنّ إلمامَهُ به احتفاظٌ به وإقبال.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–h–d covenant, agreement, promise; purity; safe conduct; to\nenjoin; to frequent; agreed time; known place; to inspect, to look\nfor. Of this root, three forms occur 46 times in the Qur’an: عَهِدَ\nʿahida six times; عَاهَدَ ʿāhada 11 times and عَهْد ʿahd 29 times.\n\nعَهِدَ ʿahida a [v. trans., with prep. إِلَى] 1 to charge, order,\ncommand (2:125) وَعَهِدْنَا إِلَى إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ We\ncommanded Abraham and Ishmael, ‘Purify My House’ 2 to make\na covenant (7:134) يَا مُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ Moses, pray to\nyour Lord for us by virtue of the covenant He has made with you.\n\nعَاهَدَ ʿāhada [v. III trans.] 1 to make a covenant with (9:1) الَّذِينَ\nعَاهَدْتُمْ مِنَ الْمُشْرِكِينَ those of the polytheists with whom you have\nmade a treaty 2 to promise, to pledge (33:23) مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا\nمَا عَاهَدُوا اللَّهَ عَلَيْهِ among the believers are those [lit. people] who\nwere true to that which they pledged with God.\n\nعَهْد ʿahd [n.] 1 covenant, pact (2:100) أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ\n\n651",
+      "definition_english": "ʿ–h–d covenant, agreement, promise; purity; safe conduct; to\nenjoin; to frequent; agreed time; known place; to inspect, to look\nfor. Of this root, three forms occur 46 times in the Qur’an: عَهِدَ\nʿahida six times; عَاهَدَ ʿāhada 11 times and عَهْد ʿahd 29 times.\n\nعَهِدَ ʿahida a [v. trans., with prep. إِلَى] 1 to charge, order,\ncommand (2:125) وَعَهِدْنَا إِلَى إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ We\ncommanded Abraham and Ishmael, ‘Purify My House’ 2 to make\na covenant (7:134) يَا مُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ Moses, pray to\nyour Lord for us by virtue of the covenant He has made with you.\n\nعَاهَدَ ʿāhada [v. III trans.] 1 to make a covenant with (9:1) الَّذِينَ\nعَاهَدْتُمْ مِنَ الْمُشْرِكِينَ those of the polytheists with whom you have\nmade a treaty 2 to promise, to pledge (33:23) مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا\nمَا عَاهَدُوا اللَّهَ عَلَيْهِ among the believers are those [lit. people] who\nwere true to that which they pledged with God.\n\nعَهْد ʿahd [n.] 1 covenant, pact (2:100) أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ\n\n651"
+    }
+  ],
   "occurrences": [
     "13:20:3",
     "13:25:3",

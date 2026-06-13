@@ -1,9 +1,22 @@
 {
-  "id": 3806,
   "root": "م ك ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمكا\n\n(مكث) الميم والكاف والثاء كلمةٌ تدلُّ على توقف وانتظار. ومَكَثَ مَكْثاً ومُكْثاً ورجل مَكِيث: رزينٌ غير عجول. ومَكَثَ ومَكُثَ والتمكُّث: الانتظار.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمكا\n\n(مكث) الميم والكاف والثاء كلمةٌ تدلُّ على توقف وانتظار. ومَكَثَ مَكْثاً ومُكْثاً ورجل مَكِيث: رزينٌ غير عجول. ومَكَثَ ومَكُثَ والتمكُّث: الانتظار.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مَاعُون māʿūn [n.] variously interpreted as assistance to\nneighbours in the form of lending household utensils; voluntary\nand obligatory alms; obedience to the prescribed rules (107:6–7)\nالَّذِينَ هُمْ يُرَاءُونَ وَيَمْنَعُونَ الْمَاعُونَ those who do good deeds in order to\nbe seen, [show off] and deny [to others] common kindnesses;\n\n* الماعون name of Sura 107, Meccan sura, so-named because of the\n  reference in verse 7 to ‘Common Kindness’.\n\nمَعِين maʿīn [act. part. of root م/ع/ن m–ʿ–n or pass. part. of the\nroot ع/ي/ن ʿ–y–n] clear, running water, clear water from an open\nspring (23:50) وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ and We gave them\nshelter on a peaceful hillside with flowing water.",
+      "definition_english": "مَاعُون māʿūn [n.] variously interpreted as assistance to\nneighbours in the form of lending household utensils; voluntary\nand obligatory alms; obedience to the prescribed rules (107:6–7)\nالَّذِينَ هُمْ يُرَاءُونَ وَيَمْنَعُونَ الْمَاعُونَ those who do good deeds in order to\nbe seen, [show off] and deny [to others] common kindnesses;\n\n* الماعون name of Sura 107, Meccan sura, so-named because of the\n  reference in verse 7 to ‘Common Kindness’.\n\nمَعِين maʿīn [act. part. of root م/ع/ن m–ʿ–n or pass. part. of the\nroot ع/ي/ن ʿ–y–n] clear, running water, clear water from an open\nspring (23:50) وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ and We gave them\nshelter on a peaceful hillside with flowing water."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–k–th to remain, to wait, to bide one’s time, to await the\noutcome; to be self-restrained, to be calm. Of this root, three\nforms occur seven times in the Qur’an: مَكَثَ makatha four times;\nمُكْث mukth once and مَاكِثُون mākithūn twice.\n\nمَكَثَ makatha u [v. intrans.] 1 to stay (20:10) امْكُثُوا إِنِّي آنَسْتُ نَارًا\nstay here–I perceive a fire; perhaps I may bring you a brand from it\n2 to tarry, to wait (27:22) فَمَكَثَ غَيْرَ بَعِيدٍ but he did not stay away for\nlong 3 to remain (13:17) وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ \n\nفِي الْأَرْضِ but what is of benefit to humankind remains on earth.\n\nمُكْث mukth [v. n.] the act of doing something surely,\nunhurriedly, or in stages (17:106) وَقُرْآنًا فَرَقْنَاهُ لِتَقْرَأَهُ عَلَى النَّاسِ عَلَى مُكْثٍ\nوَنَزَّلْنَاهُ تَنْزِيلًا it is a discourse that We have [divided up] revealed at\nintervals, so that you recite it to people in stages; We have sent it\ndown little by little.\n\nمَاكِثُونَ mākithūn [pl. of act. part. مَاكِث mākith] those who stay,\nthose who reside, those who bide (18:3) مَاكِثِينَ فِيهِ أَبَدًا in which they\nwill be staying for ever.",
+      "definition_english": "m–k–th to remain, to wait, to bide one’s time, to await the\noutcome; to be self-restrained, to be calm. Of this root, three\nforms occur seven times in the Qur’an: مَكَثَ makatha four times;\nمُكْث mukth once and مَاكِثُون mākithūn twice.\n\nمَكَثَ makatha u [v. intrans.] 1 to stay (20:10) امْكُثُوا إِنِّي آنَسْتُ نَارًا\nstay here–I perceive a fire; perhaps I may bring you a brand from it\n2 to tarry, to wait (27:22) فَمَكَثَ غَيْرَ بَعِيدٍ but he did not stay away for\nlong 3 to remain (13:17) وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ \n\nفِي الْأَرْضِ but what is of benefit to humankind remains on earth.\n\nمُكْث mukth [v. n.] the act of doing something surely,\nunhurriedly, or in stages (17:106) وَقُرْآنًا فَرَقْنَاهُ لِتَقْرَأَهُ عَلَى النَّاسِ عَلَى مُكْثٍ\nوَنَزَّلْنَاهُ تَنْزِيلًا it is a discourse that We have [divided up] revealed at\nintervals, so that you recite it to people in stages; We have sent it\ndown little by little.\n\nمَاكِثُونَ mākithūn [pl. of act. part. مَاكِث mākith] those who stay,\nthose who reside, those who bide (18:3) مَاكِثِينَ فِيهِ أَبَدًا in which they\nwill be staying for ever."
+    }
+  ],
   "occurrences": [
     "13:17:36",
     "17:106:7",

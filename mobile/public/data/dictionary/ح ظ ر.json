@@ -1,9 +1,17 @@
 {
-  "id": 814,
   "root": "ح ظ ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحطب\n\n(حظر) الحاء والظاء والراء أصلٌ واحدٌ يدلُّ على المنْع. يقال حظرت الشيء أحْظُرُه حَظْراً، فأنا حاظِرٌ والشيء محظور. قال الله تعالى: ] وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُوراً [ [الإسراء 20]. والحِظَارُ: ما حُظِر على غنمٍ أو غيرها",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحطب\n\n(حظر) الحاء والظاء والراء أصلٌ واحدٌ يدلُّ على المنْع. يقال حظرت الشيء أحْظُرُه حَظْراً، فأنا حاظِرٌ والشيء محظور. قال الله تعالى: ] وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُوراً [ [الإسراء 20]. والحِظَارُ: ما حُظِر على غنمٍ أو غيرها",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–ẓ–r enclosure, animal pen, barn, to fence in; to prohibit; ban.\nOf this root, two forms occur once each in the Qurʾan: مَحْظُور\nmaḥẓūr and مُحْتَظِر muḥtaẓir.\n\nمَحْظُور maḥẓūr [pass. part.] limited, prevented, stopped,\nrestricted (17:20) كُلًّا نُمِدُّ هَؤُلَاءِ وَهَؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا كَانَ عَطَاءُ رَبِّكَ\nمَحْظُورًا to both, We give of your Lord’s bounty, your Lord’s bounty\nis not restricted.\n\nمُحْتَظِر muḥtaẓir [act. part.] one who has/takes/constructs an\nenclosure for animals; animal fodder (54:31) إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً\nوَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ We sent a single cry against them, and they\nbecame like dry sticks of a pen-builder.",
+      "definition_english": "h–ẓ–r enclosure, animal pen, barn, to fence in; to prohibit; ban.\nOf this root, two forms occur once each in the Qurʾan: مَحْظُور\nmaḥẓūr and مُحْتَظِر muḥtaẓir.\n\nمَحْظُور maḥẓūr [pass. part.] limited, prevented, stopped,\nrestricted (17:20) كُلًّا نُمِدُّ هَؤُلَاءِ وَهَؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا كَانَ عَطَاءُ رَبِّكَ\nمَحْظُورًا to both, We give of your Lord’s bounty, your Lord’s bounty\nis not restricted.\n\nمُحْتَظِر muḥtaẓir [act. part.] one who has/takes/constructs an\nenclosure for animals; animal fodder (54:31) إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً\nوَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ We sent a single cry against them, and they\nbecame like dry sticks of a pen-builder."
+    }
+  ],
   "occurrences": [
     "17:20:12",
     "54:31:8"

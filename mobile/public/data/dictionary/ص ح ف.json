@@ -1,9 +1,17 @@
 {
-  "id": 2237,
   "root": "ص ح ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصتع\n\n(صحف) الصاد والحاء والفاء أصلٌ صحيحٌ يدلُّ على انبساطٍ في شيءٍ وسَعَةٍ. يقال إنَّ الصَّحِيفَ: وجهُ الأرضِ. والصَّحِيفة: بَشَرَةُ وجهِ الرجل. قال البَعِيث:\n\nأذَل لأقدامِ الرِّجال مِن النَّعلِ\n\nوكلُّ كُلَيْبيٍّ صحيفةُ وجْهِهِ\n\nومن الباب الصَّحيفة، وهي التي يُكتَب فيها، والجمع صحائف، والصُّحفُ أيضاً، كأنَّه جمع صحيف. قال:\n\nحنّتْ إلينا الأرحام والصُّحُفُ\n\nلما رأَوْا غُدوَةً جَبَاهَهُمُ\n\nوالصَّحْفَة: القَصْعة المُسْلنطِحَة. وقال الشَّيبانيّ: الصِّحاف مَناقِعُ صغارٌ تُتَّخَذ للماء، الجمع صُحُف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصتع\n\n(صحف) الصاد والحاء والفاء أصلٌ صحيحٌ يدلُّ على انبساطٍ في شيءٍ وسَعَةٍ. يقال إنَّ الصَّحِيفَ: وجهُ الأرضِ. والصَّحِيفة: بَشَرَةُ وجهِ الرجل. قال البَعِيث:\n\nأذَل لأقدامِ الرِّجال مِن النَّعلِ\n\nوكلُّ كُلَيْبيٍّ صحيفةُ وجْهِهِ\n\nومن الباب الصَّحيفة، وهي التي يُكتَب فيها، والجمع صحائف، والصُّحفُ أيضاً، كأنَّه جمع صحيف. قال:\n\nحنّتْ إلينا الأرحام والصُّحُفُ\n\nلما رأَوْا غُدوَةً جَبَاهَهُمُ\n\nوالصَّحْفَة: القَصْعة المُسْلنطِحَة. وقال الشَّيبانيّ: الصِّحاف مَناقِعُ صغارٌ تُتَّخَذ للماء، الجمع صُحُف.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ-ḥ-f flat dish or a like object, such as the side of a scroll. Of this root, two forms occur nine times in the Qurʾan: صحاف ṣiḥāf once and صحف ṣuḥuf eight times.\nصحاف ṣiḥāf [pl. of n. صحفة ṣaḥfatun] dishes, plates, platters (43:71) يُطَافُ عَلَيْهِم بِصِحَافٍ مِّن ذَهَبٍ dishes of gold will be passed around for them.\n\nصحف ṣuḥuf [pl. of n. صحيفة ṣaḥīfatun] 1 books, scrolls, scriptures (53:36) أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ or has he not been informed of what is in the Scrolls of Moses? 2 records (81:10) وَإِذَا الصُّحُفُ نُشِرَتْ and when the records [of deeds] are spread open/made known.",
+      "definition_english": "ṣ-ḥ-f flat dish or a like object, such as the side of a scroll. Of this root, two forms occur nine times in the Qurʾan: صحاف ṣiḥāf once and صحف ṣuḥuf eight times.\nصحاف ṣiḥāf [pl. of n. صحفة ṣaḥfatun] dishes, plates, platters (43:71) يُطَافُ عَلَيْهِم بِصِحَافٍ مِّن ذَهَبٍ dishes of gold will be passed around for them.\n\nصحف ṣuḥuf [pl. of n. صحيفة ṣaḥīfatun] 1 books, scrolls, scriptures (53:36) أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ or has he not been informed of what is in the Scrolls of Moses? 2 records (81:10) وَإِذَا الصُّحُفُ نُشِرَتْ and when the records [of deeds] are spread open/made known."
+    }
+  ],
   "occurrences": [
     "20:133:12",
     "43:71:3",

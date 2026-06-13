@@ -1,8 +1,11 @@
 {
-  "id": 1484,
   "root": "ر م خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرمأ - رمث\n\n(رمخ) الراء والميم والخاء ليس بشيء. ويقال: إنَّ الرِّمْخ شجر .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرمأ - رمث\n\n(رمخ) الراء والميم والخاء ليس بشيء. ويقال: إنَّ الرِّمْخ شجر .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

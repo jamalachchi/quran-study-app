@@ -1,8 +1,21 @@
 {
-  "id": 3167,
   "root": "ق ر ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقذع - قذف\n\n(قرش) القاف والراء والشين أصلٌ صحيح يدلُّ على الجمع والتجمُّع. فالقَرْش: الجمع، يقال تَقَرَّشُوا، إذا تجمَّعوا. ويقولون: إنَّ قُريشاً سمِّيت بذلك. والمُقَرِّشة: السَّنة المَحْل، لأنَّ النّاسَ يضمُّون مواشِيَهم. ويقال: تقارَشَت الرِّماح\n\nقرص قرض\n\nفي الحَرْب، إذا تداخَلَ بعضُها في بعض. ويقولون: إنَّ قريشاً: دابَّةٌ تسكن البحر تغلبُ سائرَ الدَّوابّ. قال:\n\nـرَ بها سمِّيت قريشٌ قريشا\n\nوقريشٌ هي التي تَسْكُن البحـ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقذع - قذف\n\n(قرش) القاف والراء والشين أصلٌ صحيح يدلُّ على الجمع والتجمُّع. فالقَرْش: الجمع، يقال تَقَرَّشُوا، إذا تجمَّعوا. ويقولون: إنَّ قُريشاً سمِّيت بذلك. والمُقَرِّشة: السَّنة المَحْل، لأنَّ النّاسَ يضمُّون مواشِيَهم. ويقال: تقارَشَت الرِّماح\n\nقرص قرض\n\nفي الحَرْب، إذا تداخَلَ بعضُها في بعض. ويقولون: إنَّ قريشاً: دابَّةٌ تسكن البحر تغلبُ سائرَ الدَّوابّ. قال:\n\nـرَ بها سمِّيت قريشٌ قريشا\n\nوقريشٌ هي التي تَسْكُن البحـ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "settle) (76:16) قَوَارِيرَا مِنْ فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا silver-like [lit. gleaming] glass goblets they [the served] or [the servers] measure them exactly [in accordance with the drinker’s wishes].\n",
+      "definition_english": "settle) (76:16) قَوَارِيرَا مِنْ فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا silver-like [lit. gleaming] glass goblets they [the served] or [the servers] measure them exactly [in accordance with the drinker’s wishes].\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–r–sh gathering, to earn money, to make a living; to crunch, to gnash, to fracture; to duel, stabbing; to partake of food sparsely; shark. Of this root, قُرَيْش quraysh occurs once in the Qur’an.\nقُرَيْش Quraysh [proper n., in the diminutive] (little, or beautiful, shark) the tribe of Quraysh (in which Prophet Muḥammad was born and reared, so-named, it is said, because it was so powerful as to have been like the shark, able to devour other tribes while other tribes could not touch it. Quraysh was also much respected throughout Arabia because it was the custodian of the Kaʿba before Islam. When Muḥammad began his mission, many of the Quraysh rejected his message, hence the Qur’an urges Quraysh to worship the ‘Lord of the House’ (106:1–4) who gave them food after hunger and security after fear and who facilitated for them the two major trading journeys, one in the summer to the north and the other in the winter to the south. (106:1) لإِيلافِ قُرَيْشٍ [He did this] in order to make Quraysh secure (or, to keep Quraysh together as a cohesive unit, or, to help them continue with their summer and winter journeys (q.v. رِحْلَة)); * قُرَيْش name of Sura 106, Meccan sura, so-named because of the reference in verse 1 to the tribe of ‘Quraysh’.",
+      "definition_english": "q–r–sh gathering, to earn money, to make a living; to crunch, to gnash, to fracture; to duel, stabbing; to partake of food sparsely; shark. Of this root, قُرَيْش quraysh occurs once in the Qur’an.\nقُرَيْش Quraysh [proper n., in the diminutive] (little, or beautiful, shark) the tribe of Quraysh (in which Prophet Muḥammad was born and reared, so-named, it is said, because it was so powerful as to have been like the shark, able to devour other tribes while other tribes could not touch it. Quraysh was also much respected throughout Arabia because it was the custodian of the Kaʿba before Islam. When Muḥammad began his mission, many of the Quraysh rejected his message, hence the Qur’an urges Quraysh to worship the ‘Lord of the House’ (106:1–4) who gave them food after hunger and security after fear and who facilitated for them the two major trading journeys, one in the summer to the north and the other in the winter to the south. (106:1) لإِيلافِ قُرَيْشٍ [He did this] in order to make Quraysh secure (or, to keep Quraysh together as a cohesive unit, or, to help them continue with their summer and winter journeys (q.v. رِحْلَة)); * قُرَيْش name of Sura 106, Meccan sura, so-named because of the reference in verse 1 to the tribe of ‘Quraysh’."
+    }
+  ],
   "occurrences": []
 }

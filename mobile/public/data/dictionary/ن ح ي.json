@@ -1,8 +1,11 @@
 {
-  "id": 3949,
   "root": "ن ح ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنحو\n\n(نحي) النون والحاء والياء كلمةٌ واحدة، هي النِّحْي: سِقاء السَّمْن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنحو\n\n(نحي) النون والحاء والياء كلمةٌ واحدة، هي النِّحْي: سِقاء السَّمْن.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 1344,
   "root": "ذ ب ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذأب - ذأم\n\n(ذبح) الذال والباء والحاء أصلٌ واحد، وهو يدلُّ على الشّقّ. فالذَّبح: مصدر ذبَحْت الشّاةَ ذبحاً. والذِّبح: المذبوح. والذُّبَّاح: شُقوقٌ في أصول الأصابع. ويقال ذُبِحَ الدَّنُّ، إذا بُزِلَ. والمذابح: سيولٌ صغار تشقُّ الأرض شقّاً. وسعدٌ الذّابحُ: أحد السُّعود . والذِّبَح: نبتٌ، ولعله أن يكون شاذَّا من الأصل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذأب - ذأم\n\n(ذبح) الذال والباء والحاء أصلٌ واحد، وهو يدلُّ على الشّقّ. فالذَّبح: مصدر ذبَحْت الشّاةَ ذبحاً. والذِّبح: المذبوح. والذُّبَّاح: شُقوقٌ في أصول الأصابع. ويقال ذُبِحَ الدَّنُّ، إذا بُزِلَ. والمذابح: سيولٌ صغار تشقُّ الأرض شقّاً. وسعدٌ الذّابحُ: أحد السُّعود . والذِّبَح: نبتٌ، ولعله أن يكون شاذَّا من الأصل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–b–ḥ flood channels; a disease in the throat; to cut the throat, to slay, a butchered animal, to sacrifice, an animal fit or prepared for slaughter or sacrifice. Of this root, four forms occur nine times in the Qur’an: ذَبَح dhabaha four times; ذُبِح dhubiḥa once; يُذَبِّح yudhabbih three times and ذِبْح dhibḥ once.\nذَبَح dhabaha [v. trans.] 1 to slay (27:21) لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا أَوْ أَذْبَحَنَّهُ I will punish him severely or slaughter him 2 to ritually sacrifice (2:67) إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً God commands you to sacrifice a cow.\n\nذُبِح dhubiḥa [pass. v.] to be ritually sacrificed (5:3) وَمَا ذُبِحَ عَلَى النُّصُبِ and that which is sacrificed on idolatrous altars.\n\nيُذَبِّح yudhabbih [imperf. of v. II ذَبَّح dhabbaḥa, trans.] to be in the habit of slaughtering, to slaughter in number (28:4) يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ he deems as weak one group of theirs: slaughtering their sons and sparing their women.\n\nذِبْح dhibḥ [n.] an animal earmarked or fit to be sacrificed, a sacrificial animal (37:107) وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ We ransomed him with a momentous sacrifice.",
+      "definition_english": "dh–b–ḥ flood channels; a disease in the throat; to cut the throat, to slay, a butchered animal, to sacrifice, an animal fit or prepared for slaughter or sacrifice. Of this root, four forms occur nine times in the Qur’an: ذَبَح dhabaha four times; ذُبِح dhubiḥa once; يُذَبِّح yudhabbih three times and ذِبْح dhibḥ once.\nذَبَح dhabaha [v. trans.] 1 to slay (27:21) لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا أَوْ أَذْبَحَنَّهُ I will punish him severely or slaughter him 2 to ritually sacrifice (2:67) إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً God commands you to sacrifice a cow.\n\nذُبِح dhubiḥa [pass. v.] to be ritually sacrificed (5:3) وَمَا ذُبِحَ عَلَى النُّصُبِ and that which is sacrificed on idolatrous altars.\n\nيُذَبِّح yudhabbih [imperf. of v. II ذَبَّح dhabbaḥa, trans.] to be in the habit of slaughtering, to slaughter in number (28:4) يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ he deems as weak one group of theirs: slaughtering their sons and sparing their women.\n\nذِبْح dhibḥ [n.] an animal earmarked or fit to be sacrificed, a sacrificial animal (37:107) وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ We ransomed him with a momentous sacrifice."
+    }
+  ],
   "occurrences": [
     "14:6:17",
     "27:21:5",

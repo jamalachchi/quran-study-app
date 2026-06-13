@@ -1,8 +1,11 @@
 {
-  "id": 4421,
   "root": "و ش ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوسل - وسم\n\n(وشب) الواو والشين والباء: كلمة. يقال: أوباشٌ من النَّاس وأوشاب .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوسل - وسم\n\n(وشب) الواو والشين والباء: كلمة. يقال: أوباشٌ من النَّاس وأوشاب .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

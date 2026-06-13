@@ -1,9 +1,17 @@
 {
-  "id": 2994,
   "root": "ف ر ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفري\n\n(فرث) الفاء والراء والثاء أُصَيلٌ يدلُّ على شيء متفتِّت. يقال فَرَثَ كَبِدَه: فَتَّها. والفَرْث: ما في الكَرِش. ويقال على معنى الاستعارة: أفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم في بَليَّة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفري\n\n(فرث) الفاء والراء والثاء أُصَيلٌ يدلُّ على شيء متفتِّت. يقال فَرَثَ كَبِدَه: فَتَّها. والفَرْث: ما في الكَرِش. ويقال على معنى الاستعارة: أفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم في بَليَّة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–r–th dung; emptying out the contents of a sack or a belly; to\ninform on someone. Of this root, فَرْث farth, occurs once in the\nQur’an.\n\nفَرْث farth [n.] dung, faeces (16:66) نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ\nوَدَمٍ لَبَنًا خَالِصًا We give you to drink what is from inside their bellies,\nfrom the midst of dung and blood, pure [clean] milk.",
+      "definition_english": "f–r–th dung; emptying out the contents of a sack or a belly; to\ninform on someone. Of this root, فَرْث farth, occurs once in the\nQur’an.\n\nفَرْث farth [n.] dung, faeces (16:66) نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ\nوَدَمٍ لَبَنًا خَالِصًا We give you to drink what is from inside their bellies,\nfrom the midst of dung and blood, pure [clean] milk."
+    }
+  ],
   "occurrences": [
     "16:66:12"
   ]

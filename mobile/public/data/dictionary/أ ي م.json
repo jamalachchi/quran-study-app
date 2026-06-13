@@ -1,9 +1,17 @@
 {
-  "id": 177,
   "root": "أ ي م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأيس - أيض\n\n(أيم) الهمزة والياء والميم ثلاثة أصول متباينة: الدُّخَان، والحيّة، والمرأة لا زوج لها. أما الأوّل فقال الخليل: الإيَام الدُّخَان. قال أبو ذؤيب:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأيس - أيض\n\n(أيم) الهمزة والياء والميم ثلاثة أصول متباينة: الدُّخَان، والحيّة، والمرأة لا زوج لها. أما الأوّل فقال الخليل: الإيَام الدُّخَان. قال أبو ذؤيب:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–y–m defect, shortcoming; to be without spouse, to lose one’s spouse, widow, widower. Of this root, أَيَٰمَى ʾayāmā occurs once in the Qurʾan.\nأَيَٰمَى ʾayāmā [pl. of n./quasi-act. part. أَيِّم ʾayyim] a spouseless person, an unmarried person (24:32) وَأَنكِحُوا۟ الأَيَٰمَىٰ مِنكُمْ وَٱلصَّٰلِحِينَ مِنْ عِبَادِكُمْ marry off the single amongst you and those of your male and female slaves who are suitable [also: who are righteous].\n\nأَيْنَمَا ʾaynamā (see أ/و-ي/ن ʾ–w/y–n).",
+      "definition_english": "ʾ–y–m defect, shortcoming; to be without spouse, to lose one’s spouse, widow, widower. Of this root, أَيَٰمَى ʾayāmā occurs once in the Qurʾan.\nأَيَٰمَى ʾayāmā [pl. of n./quasi-act. part. أَيِّم ʾayyim] a spouseless person, an unmarried person (24:32) وَأَنكِحُوا۟ الأَيَٰمَىٰ مِنكُمْ وَٱلصَّٰلِحِينَ مِنْ عِبَادِكُمْ marry off the single amongst you and those of your male and female slaves who are suitable [also: who are righteous].\n\nأَيْنَمَا ʾaynamā (see أ/و-ي/ن ʾ–w/y–n)."
+    }
+  ],
   "occurrences": [
     "24:32:2"
   ]

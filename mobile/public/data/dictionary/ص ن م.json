@@ -1,9 +1,17 @@
 {
-  "id": 2201,
   "root": "ص ن م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصلق\n\n(صنم) الصاد والنون والميم كلمةٌ واحدةٌ لا فرعَ لها، وهي الصَّنَم. وكان شيئاً يُتَّخَذُ من خشبٍ أو فضّة أو نُحاسٍ فيُعبَد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصلق\n\n(صنم) الصاد والنون والميم كلمةٌ واحدةٌ لا فرعَ لها، وهي الصَّنَم. وكان شيئاً يُتَّخَذُ من خشبٍ أو فضّة أو نُحاسٍ فيُعبَد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–n–m idol, to shape or form or picture an idol for worship.\nThe philologists, however, are inclined to regard صَنَم ṣanam as a\nborrowing from Hebrew (also said to be from Persian). Of this\nroot, only أَصْنَام ʾaṣnām occurs five times in the Qur’an.\n\nأَصْنَام ʾaṣnām [pl. of n. صَنَم ṣanam] idols (14:35) رَبِّ اجْعَلْ هَٰذَا\nالْبَلَدَ آمِنًا وَاجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ الْأَصْنَامَ Lord, make this town safe and turn\nme and my offspring away from worshipping idols.\n\n539                                              ص/و/ب",
+      "definition_english": "ṣ–n–m idol, to shape or form or picture an idol for worship.\nThe philologists, however, are inclined to regard صَنَم ṣanam as a\nborrowing from Hebrew (also said to be from Persian). Of this\nroot, only أَصْنَام ʾaṣnām occurs five times in the Qur’an.\n\nأَصْنَام ʾaṣnām [pl. of n. صَنَم ṣanam] idols (14:35) رَبِّ اجْعَلْ هَٰذَا\nالْبَلَدَ آمِنًا وَاجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ الْأَصْنَامَ Lord, make this town safe and turn\nme and my offspring away from worshipping idols.\n\n539                                              ص/و/ب"
+    }
+  ],
   "occurrences": [
     "14:35:13",
     "21:57:3",

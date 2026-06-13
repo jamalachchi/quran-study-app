@@ -1,8 +1,16 @@
 {
-  "id": 1550,
   "root": "ر أ س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرأس - رأف\n\nالضُّحى وتراءَدَ. وترأّدت الحيّة: اهتَزّت في انسيابها. وكان الخليل يقول: الرِّئْد: مهموز: التِّرْب.\n\n(رأس) الراء والهمزة والسين أصلٌ يدل على تجمُّعٍ وارتفاع.\n\nفالرَّأْس رأسُ الإنسانِ وغيرِه. والرأس: الجماعة الضخمة في قول ابن كُلثوم:\n\nنَدُقُّ به السُّهولَةَ والحُزُونا\n\nبِرأسٍ من بني جُشَمِ بنِ بكرٍ\n\nوالأَرْأَسُ: الرّجُل العظيم الرأْس. ويقال بعيرٌ رَؤُوسٌ ، إِذا لم يَبْقَ لـه طِرْقٌ إلاّ في رأسه. وشاة رأْساءُ، إذا اسودَّ رأسُها. والرَّئيس: الذي قد ضُرِب [رأسُه]. ويقال سحابةٌ رائِسة، وهي التي تَقْدُم السَّحابَ. ويقال أنت على رئاس أمرك. والعامّة تقول: على رَأْس أمرك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرأس - رأف\n\nالضُّحى وتراءَدَ. وترأّدت الحيّة: اهتَزّت في انسيابها. وكان الخليل يقول: الرِّئْد: مهموز: التِّرْب.\n\n(رأس) الراء والهمزة والسين أصلٌ يدل على تجمُّعٍ وارتفاع.\n\nفالرَّأْس رأسُ الإنسانِ وغيرِه. والرأس: الجماعة الضخمة في قول ابن كُلثوم:\n\nنَدُقُّ به السُّهولَةَ والحُزُونا\n\nبِرأسٍ من بني جُشَمِ بنِ بكرٍ\n\nوالأَرْأَسُ: الرّجُل العظيم الرأْس. ويقال بعيرٌ رَؤُوسٌ ، إِذا لم يَبْقَ لـه طِرْقٌ إلاّ في رأسه. وشاة رأْساءُ، إذا اسودَّ رأسُها. والرَّئيس: الذي قد ضُرِب [رأسُه]. ويقال سحابةٌ رائِسة، وهي التي تَقْدُم السَّحابَ. ويقال أنت على رئاس أمرك. والعامّة تقول: على رَأْس أمرك.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–ʾ–s head, top part, uppermost section; first day of the month or the year; leader, chief; a leading horse, a domestic animal. Of this root, two forms occur 18 times in the Qur’an: رَأْس raʾs seven times and رُءُوس ruʾūs 11 times.\nرَأْس raʾs [n., pl. رُءُوس ruʾūs] 1 head (12:36) إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا I see myself carrying on my head bread 2 scalp (2:196) فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ so if anyone of you is ill, or has an ailment of the scalp, he should compensate 3 capital, principal (2:279) وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ but if you repent [after having been practising usury] then you are entitled only to [reclaim] your capital.",
+      "definition_english": "r–ʾ–s head, top part, uppermost section; first day of the month or the year; leader, chief; a leading horse, a domestic animal. Of this root, two forms occur 18 times in the Qur’an: رَأْس raʾs seven times and رُءُوس ruʾūs 11 times.\nرَأْس raʾs [n., pl. رُءُوس ruʾūs] 1 head (12:36) إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا I see myself carrying on my head bread 2 scalp (2:196) فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ so if anyone of you is ill, or has an ailment of the scalp, he should compensate 3 capital, principal (2:279) وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ but if you repent [after having been practising usury] then you are entitled only to [reclaim] your capital."
+    }
+  ],
   "occurrences": []
 }

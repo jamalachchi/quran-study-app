@@ -1,8 +1,11 @@
 {
-  "id": 3514,
   "root": "ل ج م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لجم) اللام والجيم والميم كلمةٌ، وهي اللِّجام. يقال: ألجَمْتُ الفَرَس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لجم) اللام والجيم والميم كلمةٌ، وهي اللِّجام. يقال: ألجَمْتُ الفَرَس.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

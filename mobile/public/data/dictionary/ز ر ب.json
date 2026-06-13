@@ -1,8 +1,16 @@
 {
-  "id": 1738,
   "root": "ز ر ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزبر\n\n(زرب) الزاء والراء والباء أصلٌ يدلُّ على بعض المأْوَى. فالزَّرْب زَرب الغنم، وهي حظيرتها. ويقال الزَّرِيبة الزُّبْية. والزَّريبة: قُتْرَة الصائد.\n\nزرد زرح زري",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزبر\n\n(زرب) الزاء والراء والباء أصلٌ يدلُّ على بعض المأْوَى. فالزَّرْب زَرب الغنم، وهي حظيرتها. ويقال الزَّرِيبة الزُّبْية. والزَّريبة: قُتْرَة الصائد.\n\nزرد زرح زري",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-r-b wooden sheep enclosure; entrance; lion’s den; waterfall course; carpet, field full of flowers. زَرَابِيّ zarābiyy, meaning carpets, is considered by some as a borrowing from Persian, Syriac or Ethiopic. Of this root, only زَرَابِيّ zarābiyy occurs once in the Qur’an.\nزَرَابِيّ zarābiyy [pl. of n. زَرْبِيَّة zarbiyyatun] luxurious carpets (88:16) وَزَرَابِيُّ مَبْثُوثَةٌ and luxurious carpets outspread.",
+      "definition_english": "z-r-b wooden sheep enclosure; entrance; lion’s den; waterfall course; carpet, field full of flowers. زَرَابِيّ zarābiyy, meaning carpets, is considered by some as a borrowing from Persian, Syriac or Ethiopic. Of this root, only زَرَابِيّ zarābiyy occurs once in the Qur’an.\nزَرَابِيّ zarābiyy [pl. of n. زَرْبِيَّة zarbiyyatun] luxurious carpets (88:16) وَزَرَابِيُّ مَبْثُوثَةٌ and luxurious carpets outspread."
+    }
+  ],
   "occurrences": []
 }

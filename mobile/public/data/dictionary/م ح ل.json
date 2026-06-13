@@ -1,9 +1,22 @@
 {
-  "id": 3687,
   "root": "م ح ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمحق - محك\n\n(محل) الميم والحاء واللام أصلٌ صحيح له معنيانِ: أحدهما قِلّة الخير، والآخَر الوِشاية والسِّعاية.\n\nفالمَحْل: انقطاع المطر ويُبْس الأرضِ من الكلأ. يقال: أرضٌ مُحُول، على فُعُول بالجمع. قال الخليل: يحمل ذلك على المواضع. وأمْحَلَت فهي مُمْحِل. وأمْحَل القوم. وزمانٌ ماحِل.\n\nوالمعنى الآخَرَ مَحَل به، إذا سعَى به. وفي الدعاء: \"لا تجعل القرآنَ بنا ماحلا\"، أي لا تجعله يَشهد عندك علينا بتركنا اتِّباعَه، أي اجعَلْنا ممّن يتبع القرآن ويعَمَل به.\n\nوما يُبايِن هذين المعنيين: لبنٌ مُمَحَّل، محَّله القوم، أي حَقَنوه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمحق - محك\n\n(محل) الميم والحاء واللام أصلٌ صحيح له معنيانِ: أحدهما قِلّة الخير، والآخَر الوِشاية والسِّعاية.\n\nفالمَحْل: انقطاع المطر ويُبْس الأرضِ من الكلأ. يقال: أرضٌ مُحُول، على فُعُول بالجمع. قال الخليل: يحمل ذلك على المواضع. وأمْحَلَت فهي مُمْحِل. وأمْحَل القوم. وزمانٌ ماحِل.\n\nوالمعنى الآخَرَ مَحَل به، إذا سعَى به. وفي الدعاء: \"لا تجعل القرآنَ بنا ماحلا\"، أي لا تجعله يَشهد عندك علينا بتركنا اتِّباعَه، أي اجعَلْنا ممّن يتبع القرآن ويعَمَل به.\n\nوما يُبايِن هذين المعنيين: لبنٌ مُمَحَّل، محَّله القوم، أي حَقَنوه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–l vertebra; might, to struggle; drought, hardship; to\ndefend, to be antagonistic, to carry out intrigues, to plot; to shift\nfrom one situation to another. Of this root, مِحَال miḥāl, occurs\nonce in the Qur’an.\n\nمِحَال miḥāl [v. n./n./coll. n.] disputing, plotting; prowess,\nstrength; vertebra (13:13) وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ they\ndispute about God yet He is Mighty in prowess.",
+      "definition_english": "m–ḥ–l vertebra; might, to struggle; drought, hardship; to\ndefend, to be antagonistic, to carry out intrigues, to plot; to shift\nfrom one situation to another. Of this root, مِحَال miḥāl, occurs\nonce in the Qur’an.\n\nمِحَال miḥāl [v. n./n./coll. n.] disputing, plotting; prowess,\nstrength; vertebra (13:13) وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ they\ndispute about God yet He is Mighty in prowess."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–l vertebra; might, to struggle; drought, hardship; to defend, to be antagonistic, to carry out intrigues, to plot; to shift from one situation to another. Of this root, محال miḥāl, occurs once in the Qur’an.\nمحال miḥāl [v. n./n./coll. n.] disputing, plotting; prowess, strength; vertebra (13:13) وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ they dispute about God yet He is Mighty in prowess.",
+      "definition_english": "m–ḥ–l vertebra; might, to struggle; drought, hardship; to defend, to be antagonistic, to carry out intrigues, to plot; to shift from one situation to another. Of this root, محال miḥāl, occurs once in the Qur’an.\nمحال miḥāl [v. n./n./coll. n.] disputing, plotting; prowess, strength; vertebra (13:13) وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ they dispute about God yet He is Mighty in prowess."
+    }
+  ],
   "occurrences": [
     "13:13:19"
   ]

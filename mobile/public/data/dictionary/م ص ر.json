@@ -1,9 +1,17 @@
 {
-  "id": 3763,
   "root": "م ص ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمصع - مصل\n\n(مصر) الميم والصاد والراء أصلٌ صحيح له ثلاثة معان.\n\nالأوّل جنسٌ من الحَلْب، والثاني تحديدٌ في شيء، والثالث عُضوٌ من الأعضاء.\n\nفالأوّل: المَصْر: الحَلْب بأطراف الأصابع وناقةٌ مَصورٌ: لبنُها بطيء الخروج لا تُحلَب إلاّ مَصْراً.\n\nقال ابن السكِّيت: المَصْر: حلب ما في الضَّرع. ويقال التمصُّر: حلب بقايا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمصع - مصل\n\n(مصر) الميم والصاد والراء أصلٌ صحيح له ثلاثة معان.\n\nالأوّل جنسٌ من الحَلْب، والثاني تحديدٌ في شيء، والثالث عُضوٌ من الأعضاء.\n\nفالأوّل: المَصْر: الحَلْب بأطراف الأصابع وناقةٌ مَصورٌ: لبنُها بطيء الخروج لا تُحلَب إلاّ مَصْراً.\n\nقال ابن السكِّيت: المَصْر: حلب ما في الضَّرع. ويقال التمصُّر: حلب بقايا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "م/ص/ر m–ṣ–r to milk with the tips of the fingers; to separate; to give\nsparsely; place where horses are trained; boundaries, city, to\nurbanise; Egypt; reddish clay; intestines. Of this root, only مِصْر\nmiṣr occurs five times in the Qur’an.\n\nمِصْر miṣr 1 [n.] city, town, urban dwelling (2:61) اهْبِطُوا مِصْرًا فَإِنَّ\nلَكُمْ مَا سَأَلْتُمْ go into a town and there you will find what you have\nasked for 2 [proper name] Egypt (43:51) أَلَيْسَ لِي مُلْكُ مِصْرَ is the\nKingdom of Egypt not mine?",
+      "definition_english": "م/ص/ر m–ṣ–r to milk with the tips of the fingers; to separate; to give\nsparsely; place where horses are trained; boundaries, city, to\nurbanise; Egypt; reddish clay; intestines. Of this root, only مِصْر\nmiṣr occurs five times in the Qur’an.\n\nمِصْر miṣr 1 [n.] city, town, urban dwelling (2:61) اهْبِطُوا مِصْرًا فَإِنَّ\nلَكُمْ مَا سَأَلْتُمْ go into a town and there you will find what you have\nasked for 2 [proper name] Egypt (43:51) أَلَيْسَ لِي مُلْكُ مِصْرَ is the\nKingdom of Egypt not mine?"
+    }
+  ],
   "occurrences": [
     "10:87:8",
     "12:21:5",

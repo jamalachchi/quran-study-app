@@ -1,9 +1,17 @@
 {
-  "id": 2629,
   "root": "ع ت ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعتو - عتب\n\n(عتب) العين والتاء والباء أصلٌ صحيح، يرجع كله إلى الأمر فيه بعضُ الصُّعوبة من كلامٍ أو غيره. من ذلك العَتَبة، وهي أسكُفَّة الباب، وإنَّما سمِّيت بذلك لارتفاعها عن المكان المطمئنّ السَّهل. وعَتَبات الدُّرْجة: [مَرَاقيها]، كلُّ مِرقاةٍ من الدُّرْجة عتَبة. ويشبّه بذلك العتَباتُ تكون في الجبال، والواحدة عَتَبة، وتجمع أيضاً على عَتَب. وكلُّ شيء جَسَا وجفا فهو يشتقُّ له هذا اللفظ، يقال فيه عَتَبٌ، إذا اعتراه ما يغيِّره عن الخُلوص. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعتو - عتب\n\n(عتب) العين والتاء والباء أصلٌ صحيح، يرجع كله إلى الأمر فيه بعضُ الصُّعوبة من كلامٍ أو غيره. من ذلك العَتَبة، وهي أسكُفَّة الباب، وإنَّما سمِّيت بذلك لارتفاعها عن المكان المطمئنّ السَّهل. وعَتَبات الدُّرْجة: [مَرَاقيها]، كلُّ مِرقاةٍ من الدُّرْجة عتَبة. ويشبّه بذلك العتَباتُ تكون في الجبال، والواحدة عَتَبة، وتجمع أيضاً على عَتَب. وكلُّ شيء جَسَا وجفا فهو يشتقُّ له هذا اللفظ، يقال فيه عَتَبٌ، إذا اعتراه ما يغيِّره عن الخُلوص. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "c-t-b flight of levelled stone steps up a mountain, threshold, lintel, stairs; anger, to be angry, to reprove, to have a bone to pick with someone, to reproach a friend amicably because of an alleged hurtful action committed by him, to explain oneself, to seek forgiveness. Of this root, three forms occur five times in the Qurʾan: يستعتبوا yastactibū once; يستعتبون yustactabūn three times and المعتبين al-muctabīn once.\nيستعتب yastactib [imperf. of v. X, intrans.] to ask for a chance to explain oneself, to seek permission to make amends (41:24) وإن يستعتبوا فما هم من المعتبين and even if they ask permission to make amends, they will not be among those granted such permission.\n\nيستعتب yustactab [pass. imperf. of v. X] to be asked to explain a mistake in order to be granted forgiveness (30:57) فيومئذ لا ينفع الذين ظلموا معذرتهم ولا هم يستعتبون on that Day the excuse of the unjust ones will be of no avail to them; nor will they be allowed to explain\n\n597",
+      "definition_english": "c-t-b flight of levelled stone steps up a mountain, threshold, lintel, stairs; anger, to be angry, to reprove, to have a bone to pick with someone, to reproach a friend amicably because of an alleged hurtful action committed by him, to explain oneself, to seek forgiveness. Of this root, three forms occur five times in the Qurʾan: يستعتبوا yastactibū once; يستعتبون yustactabūn three times and المعتبين al-muctabīn once.\nيستعتب yastactib [imperf. of v. X, intrans.] to ask for a chance to explain oneself, to seek permission to make amends (41:24) وإن يستعتبوا فما هم من المعتبين and even if they ask permission to make amends, they will not be among those granted such permission.\n\nيستعتب yustactab [pass. imperf. of v. X] to be asked to explain a mistake in order to be granted forgiveness (30:57) فيومئذ لا ينفع الذين ظلموا معذرتهم ولا هم يستعتبون on that Day the excuse of the unjust ones will be of no avail to them; nor will they be allowed to explain\n\n597"
+    }
+  ],
   "occurrences": [
     "16:84:14",
     "30:57:9",

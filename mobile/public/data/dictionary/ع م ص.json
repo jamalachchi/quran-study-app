@@ -1,8 +1,11 @@
 {
-  "id": 2563,
   "root": "ع م ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعمش - عمص\n\n(عمص) وأما العين والميم والصاد فليس فيه ما يصلح أن يذكر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعمش - عمص\n\n(عمص) وأما العين والميم والصاد فليس فيه ما يصلح أن يذكر.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

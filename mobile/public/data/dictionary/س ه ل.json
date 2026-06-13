@@ -1,9 +1,17 @@
 {
-  "id": 1843,
   "root": "س ه ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسهف\n\n(سهل) السين والهاء واللام أصلٌ واحد يدلُّ على لينٍ وخلاف حُزونة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسهف\n\n(سهل) السين والهاء واللام أصلٌ واحد يدلُّ على لينٍ وخلاف حُزونة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–h–l to be level, smooth, easy, convenient; amiable. Of this\nroot, only سُهُول suhūl occurs once in the Qurʾān.\n\nسُهُول suhūl [pl. of n. سَهْل sahl] plains, flat earth (7:74) وَبَوَّأَكُمْ فِي\nالْأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا and [We] established you in the land,\nthat you take for yourselves palaces on its plains.",
+      "definition_english": "s–h–l to be level, smooth, easy, convenient; amiable. Of this\nroot, only سُهُول suhūl occurs once in the Qurʾān.\n\nسُهُول suhūl [pl. of n. سَهْل sahl] plains, flat earth (7:74) وَبَوَّأَكُمْ فِي\nالْأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا and [We] established you in the land,\nthat you take for yourselves palaces on its plains."
+    }
+  ],
   "occurrences": [
     "7:74:13"
   ]

@@ -1,8 +1,11 @@
 {
-  "id": 2253,
   "root": "ص د م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصدق\n\n(صدم) الصاد والدال والميم كلمةٌ واحدةٌ، وهي الصَّدْم، وهو ضَرْب الشَّيءِ الصُّلْبِ بمثله.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصدق\n\n(صدم) الصاد والدال والميم كلمةٌ واحدةٌ، وهي الصَّدْم، وهو ضَرْب الشَّيءِ الصُّلْبِ بمثله.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

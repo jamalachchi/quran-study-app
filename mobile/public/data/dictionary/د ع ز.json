@@ -1,8 +1,11 @@
 {
-  "id": 1162,
   "root": "د ع ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعز) الدال والعين والزاء ليس بشيءٍ، ولا مُعَوَّلَ على قولِ من يقول: إنّه الدَّفْعُ والنِّكاح.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعز) الدال والعين والزاء ليس بشيءٍ، ولا مُعَوَّلَ على قولِ من يقول: إنّه الدَّفْعُ والنِّكاح.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

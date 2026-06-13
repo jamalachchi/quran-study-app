@@ -1,9 +1,17 @@
 {
-  "id": 3387,
   "root": "ك س ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكسع - كسف\n\n(كسل) الكاف والسين واللام أصلٌ صحيح، وهو التَّثاقُل عن الشَّيء والقُعود عن إتمامه أو عنه. من ذلك الكَسَل. والإكسال: أن يُخالِط الرّجلُ أهلَه ولا ينزِل. ويقال ذلك في فَحل الإبل أيضاً. وامرأةٌ مِكسالٌ: لا تكاد تَبرَحُ بيتها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكسع - كسف\n\n(كسل) الكاف والسين واللام أصلٌ صحيح، وهو التَّثاقُل عن الشَّيء والقُعود عن إتمامه أو عنه. من ذلك الكَسَل. والإكسال: أن يُخالِط الرّجلُ أهلَه ولا ينزِل. ويقال ذلك في فَحل الإبل أيضاً. وامرأةٌ مِكسالٌ: لا تكاد تَبرَحُ بيتها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–s–l laziness, to be sluggish, to be idle, to be negligent. Of\nthis root, كُسَالَىٰ kusālā occurs twice in the Qur’an.\n\nكُسَالَىٰ kusālā [pl. of quasi-act. part. كَسْلَان kaslān and كَسِل kasil,\nused adverbially] lazily, reluctantly, sluggishly (4:142) وَإِذَا قَامُوا إِلَى\nالصَّلَاةِ قَامُوا كُسَالَىٰ and when they stand up to pray, they do so\nsluggishly.",
+      "definition_english": "k–s–l laziness, to be sluggish, to be idle, to be negligent. Of\nthis root, كُسَالَىٰ kusālā occurs twice in the Qur’an.\n\nكُسَالَىٰ kusālā [pl. of quasi-act. part. كَسْلَان kaslān and كَسِل kasil,\nused adverbially] lazily, reluctantly, sluggishly (4:142) وَإِذَا قَامُوا إِلَى\nالصَّلَاةِ قَامُوا كُسَالَىٰ and when they stand up to pray, they do so\nsluggishly."
+    }
+  ],
   "occurrences": [
     "4:142:12",
     "9:54:17"

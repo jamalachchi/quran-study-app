@@ -1,9 +1,22 @@
 {
-  "id": 3307,
   "root": "ك و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كور) الكاف والواو والراء أصلٌ صحيحٌ يدلّ على دُوْرٍ وتجمُّع. من ذلك الكوْر: الدَّور. يقال كار يَكُورُ، إذا دار. وكَوْرُ العمامة: دَوْرُها. والكُورَةُ: الصُّقْع، لأنَّه يدُور على ما فيه من قُرىً. ويقال طعَنَه فكَوَّرَه، إذا ألقاه مجتمِعاً. ومنه قولُه تعالى: ] إذا الشَّمْسُ كُوِّرَتْ [ [التكوير 1]، كأنَّها جُمِعَت جَمْعاً، والكُور: الرَّحْل؛ لأنَّه يدور بغارِب البَعير؛ والجمع أكوار. فأمّا قولهم: \"الحَوْر بَعْدَ الكَور\"، فالصحيح عندهم: \"الحَوْر بعد الكَوْن\"، ومعناه حار، أي رجع ونَقَص بعدما كان. ومن قال بالراء فليس يبعُد، أي كان أمرُه متجمِّعاً، ثم حار ونَقَص. وقوله تعالى: ] يُكَوِّرُ اللَّيْلَ علَى النَّهَارِ [ [الزمر 5]، أي يُدير هذا على ذاك، ويُدير ذاك على هذا. كما جاء في التفسير: زِيد في هذا من ذلك، وفي ذاك [من هذا]. والكَوْر: قِطعةٌ من الإبل كأنَّها خمسون ومائة. وليس قياسُه بعيداً، لأنها إذا اجتمعت استدارت في مَبْرَكها. وكُوَّارة النَّحْل معروفة.\n\nومما يشِذُّ عن هذا الباب قولهم: اكتارَ الفَرسُ، إذا رفَعَ ذَنبَه في حُضْرِه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كور) الكاف والواو والراء أصلٌ صحيحٌ يدلّ على دُوْرٍ وتجمُّع. من ذلك الكوْر: الدَّور. يقال كار يَكُورُ، إذا دار. وكَوْرُ العمامة: دَوْرُها. والكُورَةُ: الصُّقْع، لأنَّه يدُور على ما فيه من قُرىً. ويقال طعَنَه فكَوَّرَه، إذا ألقاه مجتمِعاً. ومنه قولُه تعالى: ] إذا الشَّمْسُ كُوِّرَتْ [ [التكوير 1]، كأنَّها جُمِعَت جَمْعاً، والكُور: الرَّحْل؛ لأنَّه يدور بغارِب البَعير؛ والجمع أكوار. فأمّا قولهم: \"الحَوْر بَعْدَ الكَور\"، فالصحيح عندهم: \"الحَوْر بعد الكَوْن\"، ومعناه حار، أي رجع ونَقَص بعدما كان. ومن قال بالراء فليس يبعُد، أي كان أمرُه متجمِّعاً، ثم حار ونَقَص. وقوله تعالى: ] يُكَوِّرُ اللَّيْلَ علَى النَّهَارِ [ [الزمر 5]، أي يُدير هذا على ذاك، ويُدير ذاك على هذا. كما جاء في التفسير: زِيد في هذا من ذلك، وفي ذاك [من هذا]. والكَوْر: قِطعةٌ من الإبل كأنَّها خمسون ومائة. وليس قياسُه بعيداً، لأنها إذا اجتمعت استدارت في مَبْرَكها. وكُوَّارة النَّحْل معروفة.\n\nومما يشِذُّ عن هذا الباب قولهم: اكتارَ الفَرسُ، إذا رفَعَ ذَنبَه في حُضْرِه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "whereas in the affirmative كَاد kāda denotes that an action has not\ntaken place; cf. كَادَ يَفْعَلُ (kāda yafʿal) he almost did and كَادَ لَا يَفْعَلُ\n(kāda lā yafʿal), he almost did not, but he did with difficulty]: to\nbe on the point of’ (1) [in the affirmative] (7:150) إِنَّ الْقَوْمَ اسْتَضْعَفُونِي\nوَكَادُوا يَقْتُلُونَنِي these people deemed me weak and almost killed me!\n(2) [in the negative] (24:40) إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا if he holds out\nhis hand, he is scarcely able to see it.",
+      "definition_english": "whereas in the affirmative كَاد kāda denotes that an action has not\ntaken place; cf. كَادَ يَفْعَلُ (kāda yafʿal) he almost did and كَادَ لَا يَفْعَلُ\n(kāda lā yafʿal), he almost did not, but he did with difficulty]: to\nbe on the point of’ (1) [in the affirmative] (7:150) إِنَّ الْقَوْمَ اسْتَضْعَفُونِي\nوَكَادُوا يَقْتُلُونَنِي these people deemed me weak and almost killed me!\n(2) [in the negative] (24:40) إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا if he holds out\nhis hand, he is scarcely able to see it."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–w–r travel gear; bellows; to twist a turban around the head,\nto roll up; to harvest, to gather; succession of day and night;\ntownship. كُوِّرَت kuwwirat is described by some philologists as a\nborrowing from Persian. Of this root, two forms occur three times\nin the Qur’an: يُكَوِّر yukawwir twice and كُوِّر kuwwira once.\n\nيُكَوِّر yukawwir [imperf. of v. II] to roll up, to twist *(39:5) يُكَوِّرُ\nاللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ He sets the night to outstrip the\nday and the day to outstrip the night [lit. He wraps the night\naround the day and the day around the night].\n\nكُوِّر kuwwira [pass. of v. II] to be gathered, to be folded up, to\nbe covered up in darkness (81:1) إِذَا الشَّمْسُ كُوِّرَتْ when the sun is\nshrouded in darkness.\n\n* التكوير ʾal-takwīr name of Sura 81, Meccan sura, so-named\n  because of the reference in verse 1 to the ‘Shrouding’ of the sun\n  in darkness.",
+      "definition_english": "k–w–r travel gear; bellows; to twist a turban around the head,\nto roll up; to harvest, to gather; succession of day and night;\ntownship. كُوِّرَت kuwwirat is described by some philologists as a\nborrowing from Persian. Of this root, two forms occur three times\nin the Qur’an: يُكَوِّر yukawwir twice and كُوِّر kuwwira once.\n\nيُكَوِّر yukawwir [imperf. of v. II] to roll up, to twist *(39:5) يُكَوِّرُ\nاللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ He sets the night to outstrip the\nday and the day to outstrip the night [lit. He wraps the night\naround the day and the day around the night].\n\nكُوِّر kuwwira [pass. of v. II] to be gathered, to be folded up, to\nbe covered up in darkness (81:1) إِذَا الشَّمْسُ كُوِّرَتْ when the sun is\nshrouded in darkness.\n\n* التكوير ʾal-takwīr name of Sura 81, Meccan sura, so-named\n  because of the reference in verse 1 to the ‘Shrouding’ of the sun\n  in darkness."
+    }
+  ],
   "occurrences": [
     "39:5:5",
     "39:5:9",

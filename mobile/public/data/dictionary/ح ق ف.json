@@ -1,9 +1,17 @@
 {
-  "id": 837,
   "root": "ح ق ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحقب - حقد\n\n(حقف) الحاء والقاف والفاء أصلٌ واحد، وهو يدلُّ على مَيَل الشيء وعِوَجه: يقال احقوقَف الشيءُ، إذا مال، فهو مُحْقَوْقِفٌ وحَاقِفٌ. ومن ذلك الحديث: \"أنه مرَّ بظبيٍ حاقِفٍ في ظلِّ شجرة\" فهو الذي قد انحنى وتثنَّى في نَوْمِه. ولهذا قيل للرَّمل المنحني حِقْف، والجمع أحقاف. قال:\n\nبنا بَطْنُ خبتٍ ذي حِقافٍ عَقَنْقَلِ\n\nفلما أجزْنَا ساحةَ الحيِّ وانتحى\n\nويروى: \"ذي قِفاف\". وقال آخر:\n\n* سَمَاوةَ الهِلالِ حَتى احقوقَفا *\n\n{باب الحاء والكاف وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحقب - حقد\n\n(حقف) الحاء والقاف والفاء أصلٌ واحد، وهو يدلُّ على مَيَل الشيء وعِوَجه: يقال احقوقَف الشيءُ، إذا مال، فهو مُحْقَوْقِفٌ وحَاقِفٌ. ومن ذلك الحديث: \"أنه مرَّ بظبيٍ حاقِفٍ في ظلِّ شجرة\" فهو الذي قد انحنى وتثنَّى في نَوْمِه. ولهذا قيل للرَّمل المنحني حِقْف، والجمع أحقاف. قال:\n\nبنا بَطْنُ خبتٍ ذي حِقافٍ عَقَنْقَلِ\n\nفلما أجزْنَا ساحةَ الحيِّ وانتحى\n\nويروى: \"ذي قِفاف\". وقال آخر:\n\n* سَمَاوةَ الهِلالِ حَتى احقوقَفا *\n\n{باب الحاء والكاف وما يثلثهما}",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ-q-f a curved elongated sand dune, to curve, to turn, base of a mountain. Of this root, الأَحْقَافُ ʾal-ʾaḥqāf occurs once in the Qurʾan.\nالأَحْقَافُ ʾal-ʾaḥqāf [proper n.] the region inhabited by the people of ʿād, said to be located either near Ṭāʾif or Ḥaḍramawt in Arabia and marked by high sand dunes (46:21) وَاذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُ بِالْأَحْقَافِ mention the brother of [the tribe of] ʿād–when he warned his people among the sand dunes; * الأحقاف name of Sura 46, Meccan sura, so-named because of the reference in verse 2 to\n\n224            ح/ق/ق\n\nthe ‘Sand Dunes’ where the people of ʿād used to live.",
+      "definition_english": "ḥ-q-f a curved elongated sand dune, to curve, to turn, base of a mountain. Of this root, الأَحْقَافُ ʾal-ʾaḥqāf occurs once in the Qurʾan.\nالأَحْقَافُ ʾal-ʾaḥqāf [proper n.] the region inhabited by the people of ʿād, said to be located either near Ṭāʾif or Ḥaḍramawt in Arabia and marked by high sand dunes (46:21) وَاذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُ بِالْأَحْقَافِ mention the brother of [the tribe of] ʿād–when he warned his people among the sand dunes; * الأحقاف name of Sura 46, Meccan sura, so-named because of the reference in verse 2 to\n\n224            ح/ق/ق\n\nthe ‘Sand Dunes’ where the people of ʿād used to live."
+    }
+  ],
   "occurrences": [
     "46:21:7"
   ]

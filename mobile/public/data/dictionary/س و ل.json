@@ -1,9 +1,17 @@
 {
-  "id": 1857,
   "root": "س و ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسول - سوم\n\nيقال تساوَقَت الإبل: اضطرَبَتْ أعناقُها من الهُزال وسوء الحال. ويقال أيضاً: جاءت الإِبل ما تَسَاوَكُ هُزالاً، أي ما تحرِّك رؤوسَها. ومن هذا اشتق اسم السِّواك، وهو العُود نفسُه. والسِّواك استعماله أيضاً. قال ابن دريد: سُكْتُ الشيءَ سَوكاً، إذا دَلكتَه. ومنه اشتقاق السِّواك، يقال ساك فاهُ، فإذا قلت استاك لم تذكر الفم.\n\n(سول) السين والواو واللام أصلٌ يدلُّ على استرخاءٍ في شيء يقال سَوِلَ يَسْوَل سَوَلا. قال الهذليّ :\n\nسَحُّ نِجَاءِ الحَمَل الأَسْوَلِ\n\nكالسُّحْلِ البيض جَلا لونَها\n\nفأَمّا قولهم سَوّلتُ له الشيءَ، إذا زيّنْتَه له، فممكن أن تكون أعطيته سُؤلَه، على أن تكون الهمزة مُليَّنَةً من السُّؤل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسول - سوم\n\nيقال تساوَقَت الإبل: اضطرَبَتْ أعناقُها من الهُزال وسوء الحال. ويقال أيضاً: جاءت الإِبل ما تَسَاوَكُ هُزالاً، أي ما تحرِّك رؤوسَها. ومن هذا اشتق اسم السِّواك، وهو العُود نفسُه. والسِّواك استعماله أيضاً. قال ابن دريد: سُكْتُ الشيءَ سَوكاً، إذا دَلكتَه. ومنه اشتقاق السِّواك، يقال ساك فاهُ، فإذا قلت استاك لم تذكر الفم.\n\n(سول) السين والواو واللام أصلٌ يدلُّ على استرخاءٍ في شيء يقال سَوِلَ يَسْوَل سَوَلا. قال الهذليّ :\n\nسَحُّ نِجَاءِ الحَمَل الأَسْوَلِ\n\nكالسُّحْلِ البيض جَلا لونَها\n\nفأَمّا قولهم سَوّلتُ له الشيءَ، إذا زيّنْتَه له، فممكن أن تكون أعطيته سُؤلَه، على أن تكون الهمزة مُليَّنَةً من السُّؤل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–w–l tempting, talking someone into, enticing; wishing,\nquest. There seems to be a degree of overlapping in the\nphilologists’ treatment of this root and the root س/أ/ل s–ʾ–l. Of\nthis root, the form سَوَّل sawwala occurs four times in the Qurʾān.\n\nسَوَّل sawwala [v. II, trans.] to beguile, to talk into bad ideas\n(always with نَفْس) (12:18) بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا and they came with\nfalse blood on his shirt. He cried,\n‘No!, your souls have beguiled you into [doing] something.’",
+      "definition_english": "s–w–l tempting, talking someone into, enticing; wishing,\nquest. There seems to be a degree of overlapping in the\nphilologists’ treatment of this root and the root س/أ/ل s–ʾ–l. Of\nthis root, the form سَوَّل sawwala occurs four times in the Qurʾān.\n\nسَوَّل sawwala [v. II, trans.] to beguile, to talk into bad ideas\n(always with نَفْس) (12:18) بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا and they came with\nfalse blood on his shirt. He cried,\n‘No!, your souls have beguiled you into [doing] something.’"
+    }
+  ],
   "occurrences": [
     "12:18:8",
     "12:83:3",

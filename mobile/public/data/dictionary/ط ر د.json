@@ -1,9 +1,22 @@
 {
-  "id": 2465,
   "root": "ط ر د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطري - طرب\n\n(طرد) الطاء والراء والدال أصلٌ واحد صحيح يدلُّ على إبعاد. يقال طردْتهُ طرداً. وأَطْرَدَه السُّلطانُ وطَرَّدَه، إذا أخرجه عن بلده. والطَّرْد: معالجة أخْذ الصّيد. والطرِيدة: الصَّيْد. ومُطارَدَة الأقرانِ: حملُ بعضِهم على بعض؛ وقيل ذلك لأنَّ هذا يَطْرُد ذاك. والمِطْرَد: رمح صغير. ويقال لمحَجّة الطَّريق مَطْرَدَة . ويقال: اطَّرد الشَّيء اطراداً، إذا تابَعَ بعضُه بعضاً، وإِنما قيل ذلك تشبيهاً، كأنَّ الأوَّل يطرُدُ الثَّاني. ومنه قولُه:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطري - طرب\n\n(طرد) الطاء والراء والدال أصلٌ واحد صحيح يدلُّ على إبعاد. يقال طردْتهُ طرداً. وأَطْرَدَه السُّلطانُ وطَرَّدَه، إذا أخرجه عن بلده. والطَّرْد: معالجة أخْذ الصّيد. والطرِيدة: الصَّيْد. ومُطارَدَة الأقرانِ: حملُ بعضِهم على بعض؛ وقيل ذلك لأنَّ هذا يَطْرُد ذاك. والمِطْرَد: رمح صغير. ويقال لمحَجّة الطَّريق مَطْرَدَة . ويقال: اطَّرد الشَّيء اطراداً، إذا تابَعَ بعضُه بعضاً، وإِنما قيل ذلك تشبيهاً، كأنَّ الأوَّل يطرُدُ الثَّاني. ومنه قولُه:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "Qurʾan: طَبَعَ tabaʿa nine times and طُبِعَ tubiʿa twice.\nطَبَعَ tabaʿa a [v. intrans., pass. طُبِعَ tubiʿa] to seal, to seal up (7:100) وَنَطْبَعُ عَلَى قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ and We seal up their hearts so that they do not hear.",
+      "definition_english": "Qurʾan: طَبَعَ tabaʿa nine times and طُبِعَ tubiʿa twice.\nطَبَعَ tabaʿa a [v. intrans., pass. طُبِعَ tubiʿa] to seal, to seal up (7:100) وَنَطْبَعُ عَلَى قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ and We seal up their hearts so that they do not hear."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṭ-r-d fugitive, outcast, chased game; to banish, to expel, to drive away. Of this root, two forms occur in five places in the Qurʾan: طَرَدَ ṭarada three times and طَارِد ṭārid twice.\n562",
+      "definition_english": "ṭ-r-d fugitive, outcast, chased game; to banish, to expel, to drive away. Of this root, two forms occur in five places in the Qurʾan: طَرَدَ ṭarada three times and طَارِد ṭārid twice.\n562"
+    }
+  ],
   "occurrences": [
     "11:29:13",
     "11:30:7",

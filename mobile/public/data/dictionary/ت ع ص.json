@@ -1,8 +1,11 @@
 {
-  "id": 426,
   "root": "ت ع ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتره - ترب\n\n(تعص) التاء والعين والصاد كلمةٌ واحدة. ذكر ابنُ دريد أنّ التَّعِصَ الذي يشتكي عُنقَه من المَشْيِ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتره - ترب\n\n(تعص) التاء والعين والصاد كلمةٌ واحدة. ذكر ابنُ دريد أنّ التَّعِصَ الذي يشتكي عُنقَه من المَشْيِ .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

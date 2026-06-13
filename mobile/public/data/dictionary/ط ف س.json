@@ -1,8 +1,11 @@
 {
-  "id": 2389,
   "root": "ط ف س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطفو\n\n(طفس) الطاء والفاء والسين، يقولون طفس: مات، والطَّفَس الدَّرَن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطفو\n\n(طفس) الطاء والفاء والسين، يقولون طفس: مات، والطَّفَس الدَّرَن.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

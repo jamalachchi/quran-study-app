@@ -1,8 +1,11 @@
 {
-  "id": 629,
   "root": "ج ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجعم\n\n(جعن) الجيم والعين والنون شيءٌ لا أصْل لـه. وجَعْوَنة: اسم موضع. كذا قاله الخليل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجعم\n\n(جعن) الجيم والعين والنون شيءٌ لا أصْل لـه. وجَعْوَنة: اسم موضع. كذا قاله الخليل.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

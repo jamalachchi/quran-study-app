@@ -1,9 +1,17 @@
 {
-  "id": 2826,
   "root": "غ ز و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرب\n\n(غزو) الغين والزاء والحرف المعتل أصلانِ صحيحان، أحدهما طلب شيء، والآخر في بابِ اللِّقاح.\n\nفالأوَّل الغَزْو. *ويقال: غَزَوت أغزو. والغازي: الطَّالِبُ لذلك، والجمع غُزَاة وغَزِيٌّ أيضاً ، كما يقال لجماعة الحاجّ حَجيج. والمُغزِيَة: المرأة التي غزا زَوْجها.ويقال في النِّسبة إلى الغَزْو: غَزَوِيّ.\n\nوالثاني: قولهم: أغْزَت النَّاقةُ، إذا عَسُر لِقاحُها. وقال قومٌ: الأَتَان المُغْزِية: التي يتأخَّر نِتاجُها ثم تُنْتَج. قال الهذليّ :\n\nقِ يَقْرُو بها قَفَراتِ الصِّلالِ\n\nيُرِنُّ على مُغْزِياتِ العِقا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرب\n\n(غزو) الغين والزاء والحرف المعتل أصلانِ صحيحان، أحدهما طلب شيء، والآخر في بابِ اللِّقاح.\n\nفالأوَّل الغَزْو. *ويقال: غَزَوت أغزو. والغازي: الطَّالِبُ لذلك، والجمع غُزَاة وغَزِيٌّ أيضاً ، كما يقال لجماعة الحاجّ حَجيج. والمُغزِيَة: المرأة التي غزا زَوْجها.ويقال في النِّسبة إلى الغَزْو: غَزَوِيّ.\n\nوالثاني: قولهم: أغْزَت النَّاقةُ، إذا عَسُر لِقاحُها. وقال قومٌ: الأَتَان المُغْزِية: التي يتأخَّر نِتاجُها ثم تُنْتَج. قال الهذليّ :\n\nقِ يَقْرُو بها قَفَراتِ الصِّلالِ\n\nيُرِنُّ على مُغْزِياتِ العِقا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–z–w to intend, to seek something, to strive; to invade a\nterritory, to carry out a military offensive; sense, signification. Of\nthis root, only غُزًّى ghuzzā occurs once in the Qur’an.\n\nغُزًّى ghuzzā [pl. of act. part. غَازِي ghāzī] one who is\nparticipating in a military campaign, one who invades the\nterritory of others (3:156) إِذَا ضَرَبُوا فِي الْأَرْضِ أَوْ كَانُوا غُزًّى when they\nwere journeying in the land or were engaged in military\ncampaigns.",
+      "definition_english": "gh–z–w to intend, to seek something, to strive; to invade a\nterritory, to carry out a military offensive; sense, signification. Of\nthis root, only غُزًّى ghuzzā occurs once in the Qur’an.\n\nغُزًّى ghuzzā [pl. of act. part. غَازِي ghāzī] one who is\nparticipating in a military campaign, one who invades the\nterritory of others (3:156) إِذَا ضَرَبُوا فِي الْأَرْضِ أَوْ كَانُوا غُزًّى when they\nwere journeying in the land or were engaged in military\ncampaigns."
+    }
+  ],
   "occurrences": [
     "3:156:16"
   ]

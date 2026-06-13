@@ -1,9 +1,22 @@
 {
-  "id": 4407,
   "root": "و س ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوزر - وسط\n\n(وسق) الواو والسين والقاف: كلمةٌ تدلُّ على حَمْل الشيء. ووَسَقَتِ العينُ الماءَ: حَمَلَتْه . قال الله سبحانه: ] واللَّيْلِ ومَا وَسَقَ [ [الانشقاق 17]، أي جَمَعَ وحَمل. وقال في حَمْل الماء:\n\nكقابِضِ ماءٍ لم تَسِقْهُ أناملُه\n\nوإنِّي وإيَّاهم وشَوقاً إليهُم\n\nومنه الوَسْق، وهو سِتون صاعاً. وأوسَقْت البعير: حَمَّلتُه حِمْلَه. قال:\n\n* وأينَ وَسْقُ النَّاقةِ المُطَّبَعهْ *\n\nومما شذَّ عنه طائرٌ مِيساقٌ، وهو ما يصفِّق بجناحَيه إذا طار. وقد يُهمَز وقد ذكرناه .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوزر - وسط\n\n(وسق) الواو والسين والقاف: كلمةٌ تدلُّ على حَمْل الشيء. ووَسَقَتِ العينُ الماءَ: حَمَلَتْه . قال الله سبحانه: ] واللَّيْلِ ومَا وَسَقَ [ [الانشقاق 17]، أي جَمَعَ وحَمل. وقال في حَمْل الماء:\n\nكقابِضِ ماءٍ لم تَسِقْهُ أناملُه\n\nوإنِّي وإيَّاهم وشَوقاً إليهُم\n\nومنه الوَسْق، وهو سِتون صاعاً. وأوسَقْت البعير: حَمَّلتُه حِمْلَه. قال:\n\n* وأينَ وَسْقُ النَّاقةِ المُطَّبَعهْ *\n\nومما شذَّ عنه طائرٌ مِيساقٌ، وهو ما يصفِّق بجناحَيه إذا طار. وقد يُهمَز وقد ذكرناه .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "who makes extensive (51:47) وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ and We\nbuilt the heaven with power and We have made it vast.",
+      "definition_english": "who makes extensive (51:47) وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ and We\nbuilt the heaven with power and We have made it vast."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–s–q a camel’s load, a dry measure of a certain capacity; a\nflock of birds, a herd of animals; to load, a beast of burden; to\ncover up (of night), to rise up in the sky (of the moon), to become\na full moon, to shine upon the land below; to gather together, to\nbe complete, to be in perfect order. Of this root, two forms, وَسَق\nwasaqa and اتَّسَق ʾittasaqa, occur once each in the Qur’an.\n\nوَسَق wasaqa i [v. trans.] to gather together; to cover; to span;\nto enshroud (84:17) وَاللَّيْلِ وَمَا وَسَقَ by the night and all that it\ncovers.\n\nاتَّسَق ʾittasaqa [v. VIII, intrans.] to reach fullness, to realise\nfull potential; to become in good order (84:18) وَالْقَمَرِ إِذَا اتَّسَقَ by the\nmoon when it becomes full.",
+      "definition_english": "w–s–q a camel’s load, a dry measure of a certain capacity; a\nflock of birds, a herd of animals; to load, a beast of burden; to\ncover up (of night), to rise up in the sky (of the moon), to become\na full moon, to shine upon the land below; to gather together, to\nbe complete, to be in perfect order. Of this root, two forms, وَسَق\nwasaqa and اتَّسَق ʾittasaqa, occur once each in the Qur’an.\n\nوَسَق wasaqa i [v. trans.] to gather together; to cover; to span;\nto enshroud (84:17) وَاللَّيْلِ وَمَا وَسَقَ by the night and all that it\ncovers.\n\nاتَّسَق ʾittasaqa [v. VIII, intrans.] to reach fullness, to realise\nfull potential; to become in good order (84:18) وَالْقَمَرِ إِذَا اتَّسَقَ by the\nmoon when it becomes full."
+    }
+  ],
   "occurrences": [
     "84:17:3",
     "84:18:3"

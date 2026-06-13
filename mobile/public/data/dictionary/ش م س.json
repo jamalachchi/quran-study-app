@@ -1,9 +1,17 @@
 {
-  "id": 2011,
   "root": "ش م س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشمج\n\n(شمس) الشين والميم والسين أصلٌ يدلُّ على تلوُّنٍ وقِلَّة استقرار. فالشَّمس معروفة، وسمِّيت بذلك لأنَّها غير مستقرّة، هي أبداً متحرّكة. وقُرئَ: ] والشَّمْسُ تَجْرِي لاَ مُسْتَقَرَّ لَهَا [ [يس 38]. ويقال شَمَسَ يومُنا،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشمج\n\n(شمس) الشين والميم والسين أصلٌ يدلُّ على تلوُّنٍ وقِلَّة استقرار. فالشَّمس معروفة، وسمِّيت بذلك لأنَّها غير مستقرّة، هي أبداً متحرّكة. وقُرئَ: ] والشَّمْسُ تَجْرِي لاَ مُسْتَقَرَّ لَهَا [ [يس 38]. ويقال شَمَسَ يومُنا،",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ش/م/س sh–m–s the sun, intense heat, glaring light, to become sunny; (of a horse) to disobey and refuse to be mounted. Of this root, only الشَّمْس ʾal-shams occurs 33 times, one of which is without the definite article, in the Qurʾan.\nالشَّمْس ʾal-shams [n.] 1 the sun (71:16) وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا and He set the moon in them for a light and He set the sun for a lamp; * الشَّمْس name of Sura 91, Meccan sura, so-named because of the reference in verse 1 to ‘the Sun’ 2 [without the definite article] sun, scorching/intense heat (76:13) مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا they will be reclining in it on couches, seeing neither sun [scorching heat] nor biting cold.",
+      "definition_english": "ش/م/س sh–m–s the sun, intense heat, glaring light, to become sunny; (of a horse) to disobey and refuse to be mounted. Of this root, only الشَّمْس ʾal-shams occurs 33 times, one of which is without the definite article, in the Qurʾan.\nالشَّمْس ʾal-shams [n.] 1 the sun (71:16) وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا and He set the moon in them for a light and He set the sun for a lamp; * الشَّمْس name of Sura 91, Meccan sura, so-named because of the reference in verse 1 to ‘the Sun’ 2 [without the definite article] sun, scorching/intense heat (76:13) مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا they will be reclining in it on couches, seeing neither sun [scorching heat] nor biting cold."
+    }
+  ],
   "occurrences": [
     "10:5:4",
     "12:4:11",

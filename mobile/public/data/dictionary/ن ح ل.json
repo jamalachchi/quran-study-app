@@ -1,9 +1,17 @@
 {
-  "id": 3947,
   "root": "ن ح ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنحز - نحس\n\n(نحل) النون والحاء واللام كلماتٌ ثلاث: الأولى تدلُّ على دِقّةٍ وهُزال، والأخرى على عطاء، والثالثة على ادِّعاء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنحز - نحس\n\n(نحل) النون والحاء واللام كلماتٌ ثلاث: الأولى تدلُّ على دِقّةٍ وهُزال، والأخرى على عطاء، والثالثة على ادِّعاء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ḥ–l honey bees; free gift; to become emaciated; to purport to\nbe, to claim something false for oneself (such as a name, a virtue,\nan excuse). Of this root, two forms occur once each in the Qur’an:\nنَحْل naḥl and نِحْلَة niḥlatun.\n\nنَحْل naḥl [coll. n.] bees (16:68) وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ\nالْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ and your Lord inspired the bees\n[with an instinct], ‘Take for yourselves hives [lit. dwellings], from\nthe mountains, of the trees and of that which [people] build’;\n\n* النحل name of Sura 16, Meccan sura, so-named because of the\n  reference in verses 68–9 to the ‘Bees’ and their ways.\n\nنِحْلَة niḥlatun [n.; v. n.] interpreted by commentators either as a\ngift or a statutory gift. The context in which the word appears in\nthe Qur’an, however, strongly, suggests the latter interpretation\n(4:4) وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً مَرِيئًا give women their dowries as a\n[statutory] gift [upon marriage],\n\n923",
+      "definition_english": "n–ḥ–l honey bees; free gift; to become emaciated; to purport to\nbe, to claim something false for oneself (such as a name, a virtue,\nan excuse). Of this root, two forms occur once each in the Qur’an:\nنَحْل naḥl and نِحْلَة niḥlatun.\n\nنَحْل naḥl [coll. n.] bees (16:68) وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ\nالْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ and your Lord inspired the bees\n[with an instinct], ‘Take for yourselves hives [lit. dwellings], from\nthe mountains, of the trees and of that which [people] build’;\n\n* النحل name of Sura 16, Meccan sura, so-named because of the\n  reference in verses 68–9 to the ‘Bees’ and their ways.\n\nنِحْلَة niḥlatun [n.; v. n.] interpreted by commentators either as a\ngift or a statutory gift. The context in which the word appears in\nthe Qur’an, however, strongly, suggests the latter interpretation\n(4:4) وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً مَرِيئًا give women their dowries as a\n[statutory] gift [upon marriage],\n\n923"
+    }
+  ],
   "occurrences": [
     "16:68:4",
     "4:4:4"

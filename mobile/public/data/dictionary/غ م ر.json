@@ -1,9 +1,17 @@
 {
-  "id": 2767,
   "root": "غ م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغلق\n\n(غمر) الغين والميم والراء أصلٌ صحيح، يدلُّ على تغطيةٍ وسَتْرٍ في بعض الشِّدّة. من ذلك الغمْر: الماءُ الكثير، وسمّي بذلك لأنّه يغمرُ ما تَحتَه. ثم يشتقُّ من ذلك فيقال فَرسٌ غَمْر: كثير الجَرْي، شُبِّه جريُه في كثرته بالماء الغَمْر. ويقال للرَّجُل المِعطاء: غَمْر، وهو غَمْرُ الرِّداء. قال كثيِّر:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغلق\n\n(غمر) الغين والميم والراء أصلٌ صحيح، يدلُّ على تغطيةٍ وسَتْرٍ في بعض الشِّدّة. من ذلك الغمْر: الماءُ الكثير، وسمّي بذلك لأنّه يغمرُ ما تَحتَه. ثم يشتقُّ من ذلك فيقال فَرسٌ غَمْر: كثير الجَرْي، شُبِّه جريُه في كثرته بالماء الغَمْر. ويقال للرَّجُل المِعطاء: غَمْر، وهو غَمْرُ الرِّداء. قال كثيِّر:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–m–r open wasteland, tumultuous sea, to submerge, to overwhelm, hatred, grudge; ordinary people; oblivion; to be adventurous. Of this root, two forms occur four times in the Qurʾan: غَمْرَة ghamratun twice and غَمَرَات ghamarāt once.\nغَمْرَة ghamratun [n.; pl. غَمَرَات ghamarāt] inundation, flood of water, oblivion (23:63) بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِنْ هَذَا indeed their hearts are [steeped] in oblivion of all this.\n\nغَمَرَات ghamarāt [pl. n.] turbulences, throes (6:93) وَلَوْ تَرَى إِذِ الظَّالِمُونَ فِي غَمَرَاتِ الْمَوْتِ if you could only see when the wicked are in the throes of death.",
+      "definition_english": "gh–m–r open wasteland, tumultuous sea, to submerge, to overwhelm, hatred, grudge; ordinary people; oblivion; to be adventurous. Of this root, two forms occur four times in the Qurʾan: غَمْرَة ghamratun twice and غَمَرَات ghamarāt once.\nغَمْرَة ghamratun [n.; pl. غَمَرَات ghamarāt] inundation, flood of water, oblivion (23:63) بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِنْ هَذَا indeed their hearts are [steeped] in oblivion of all this.\n\nغَمَرَات ghamarāt [pl. n.] turbulences, throes (6:93) وَلَوْ تَرَى إِذِ الظَّالِمُونَ فِي غَمَرَاتِ الْمَوْتِ if you could only see when the wicked are in the throes of death."
+    }
+  ],
   "occurrences": [
     "23:54:3",
     "23:63:4",

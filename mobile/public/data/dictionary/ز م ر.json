@@ -1,9 +1,22 @@
 {
-  "id": 1672,
   "root": "ز م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزمن\n\n(زمر) الزاء والميم والراء أصلان: أحدهما يدلُّ على قِلّة الشيء، والآخر جنسٌ من الأصوات.\n\nفالأوّل الزَّمَر: قلّة الشِّعَْر. والزَّمِر: قليل الشَّعرْ. ويقال رجلٌ زَمِرُ المروءة، أي قليلها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزمن\n\n(زمر) الزاء والميم والراء أصلان: أحدهما يدلُّ على قِلّة الشيء، والآخر جنسٌ من الأصوات.\n\nفالأوّل الزَّمَر: قلّة الشِّعَْر. والزَّمِر: قليل الشَّعرْ. ويقال رجلٌ زَمِرُ المروءة، أي قليلها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "[previously] committed.\n",
+      "definition_english": "[previously] committed.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-m-r windpipe, playing a flute; base people; group of people.\nOf this root, only زُمَر zumar occurs twice in the Qurʾan.\n\nزُمَر zumar [pl. of n. زُمْرَة zumratun] groups of people,\ncongregated bodies of people, patches, clusters (39:71) وَسِيقَ الَّذِينَ\nكَفَرُوا إِلَى جَهَنَّمَ زُمَرًا and those who disbelieve are driven to Hell in\ngroups; * الزمر name of Sura 39, Meccan sura, so-named because\nof the reference in verses 71–5 to sorting out people into\n‘Groups’ on the Day of Judgement.",
+      "definition_english": "z-m-r windpipe, playing a flute; base people; group of people.\nOf this root, only زُمَر zumar occurs twice in the Qurʾan.\n\nزُمَر zumar [pl. of n. زُمْرَة zumratun] groups of people,\ncongregated bodies of people, patches, clusters (39:71) وَسِيقَ الَّذِينَ\nكَفَرُوا إِلَى جَهَنَّمَ زُمَرًا and those who disbelieve are driven to Hell in\ngroups; * الزمر name of Sura 39, Meccan sura, so-named because\nof the reference in verses 71–5 to sorting out people into\n‘Groups’ on the Day of Judgement."
+    }
+  ],
   "occurrences": [
     "39:71:6",
     "39:73:7"

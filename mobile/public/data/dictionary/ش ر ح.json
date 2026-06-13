@@ -1,9 +1,17 @@
 {
-  "id": 2125,
   "root": "ش ر ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشرث - شرج\n\n(شرح) الشين والراء والحاء أُصَيْلٌ يدلُّ على الفتح والبيان. من ذلك شرحت الكلام وغيرَهُ شَرْحاً، إِذا بيَّنتَه. واشتقاقهُ من تشريح اللحم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشرث - شرج\n\n(شرح) الشين والراء والحاء أُصَيْلٌ يدلُّ على الفتح والبيان. من ذلك شرحت الكلام وغيرَهُ شَرْحاً، إِذا بيَّنتَه. واشتقاقهُ من تشريح اللحم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–r–ḥ to slice, to cut into thin pieces; to dilate; to expound; to manifest, to reveal, to lay open, to display. Of this root, only شرح sharaḥa occurs five times in the Qurʾan.\nشرح sharaḥa a [v. trans.] to dilate, to ease up the constriction, to lay open (6:125) فَمَن يُرِدِ اللَّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ whosoever God wishes to guide, He (God) opens his heart to Islam [lit. expands his breast (i.e. the breast of the one He wishes to guide)]\n\n* الشرح (also known as الانشراح) names of Sura 94, Meccan sura, so-named because of mention in verse 1 of ‘the Expansion’ of the Prophet’s heart to the Truth.",
+      "definition_english": "sh–r–ḥ to slice, to cut into thin pieces; to dilate; to expound; to manifest, to reveal, to lay open, to display. Of this root, only شرح sharaḥa occurs five times in the Qurʾan.\nشرح sharaḥa a [v. trans.] to dilate, to ease up the constriction, to lay open (6:125) فَمَن يُرِدِ اللَّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ whosoever God wishes to guide, He (God) opens his heart to Islam [lit. expands his breast (i.e. the breast of the one He wishes to guide)]\n\n* الشرح (also known as الانشراح) names of Sura 94, Meccan sura, so-named because of mention in verse 1 of ‘the Expansion’ of the Prophet’s heart to the Truth."
+    }
+  ],
   "occurrences": [
     "16:106:15",
     "20:25:3",

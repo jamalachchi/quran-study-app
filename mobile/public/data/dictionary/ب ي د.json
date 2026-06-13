@@ -1,9 +1,17 @@
 {
-  "id": 381,
   "root": "ب ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبيح - بيد\n\n(بيد) الباء والياء والدال أصلٌ [واحدٌ]، وهو أن يُودِيَ الشيءُ. يقال بادَ الشيءُ بَيْداً وبُيُوداً، إذا أَوْدَى . والبَيْداءُ المفازة من هذا أيضاً. والجمعُ بينهما في المعنى ظاهرٌ. ويقال إنّ البَيْدَانَةَ الأتَانُ تَسكُن البيداءُ . فأمّا قولهم بَيْدَ، فكذا جاءَ بمعنى غيْرَ، يقال فُعِلَ كذا بَيْدَ أنّه كان كذا. وقد جاء في حديث",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبيح - بيد\n\n(بيد) الباء والياء والدال أصلٌ [واحدٌ]، وهو أن يُودِيَ الشيءُ. يقال بادَ الشيءُ بَيْداً وبُيُوداً، إذا أَوْدَى . والبَيْداءُ المفازة من هذا أيضاً. والجمعُ بينهما في المعنى ظاهرٌ. ويقال إنّ البَيْدَانَةَ الأتَانُ تَسكُن البيداءُ . فأمّا قولهم بَيْدَ، فكذا جاءَ بمعنى غيْرَ، يقال فُعِلَ كذا بَيْدَ أنّه كان كذا. وقد جاء في حديث",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–y–d desert; to vanish, to be cut off; to perish, to become\nextinct. Of this root, تَبِيدَ tabīd occurs once in the Qurʾan.\n\nتَبِيدَ tabīd [imperf. of v. بَادَ bāda, intrans.] to perish, to become\nextinct (18:35) مَا أَظُنُّ أَن تَبِيدَ هَٰذِهِ أَبَدًا I do not think that this will ever\nperish.\n\n122",
+      "definition_english": "b–y–d desert; to vanish, to be cut off; to perish, to become\nextinct. Of this root, تَبِيدَ tabīd occurs once in the Qurʾan.\n\nتَبِيدَ tabīd [imperf. of v. بَادَ bāda, intrans.] to perish, to become\nextinct (18:35) مَا أَظُنُّ أَن تَبِيدَ هَٰذِهِ أَبَدًا I do not think that this will ever\nperish.\n\n122"
+    }
+  ],
   "occurrences": [
     "18:35:10"
   ]

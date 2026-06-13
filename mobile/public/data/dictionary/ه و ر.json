@@ -1,9 +1,17 @@
 {
-  "id": 4147,
   "root": "ه و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهوي\n\n(هور) الهاء والواو والراء: أصلٌ يدلُّ على تساقُطِ شيء. منه تَهَوَّرَ البِناء: انهَدَم. وتهوّر اللّيلُ: انكسَرَ ظلامُه، كأنَّه تهدَّم ومرَّ. وتهوَّرَ الشِّتاء: ذهبَ أشدُّهُ. ويقولون للقطيع من الغَنم: هَوْرٌ؛ وهو صحِيحٌ لأنَّه مِن كثرته يتساقط بعضُه على بعض.\n\nومما شذَّ عن الباب قولهم: هُرْتُ فلاناً بكذا أهُورهُ: أزْنَنْتُه به. قال:\n\n* رأى أنَّني لا بالكثير أهُوره *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهوي\n\n(هور) الهاء والواو والراء: أصلٌ يدلُّ على تساقُطِ شيء. منه تَهَوَّرَ البِناء: انهَدَم. وتهوّر اللّيلُ: انكسَرَ ظلامُه، كأنَّه تهدَّم ومرَّ. وتهوَّرَ الشِّتاء: ذهبَ أشدُّهُ. ويقولون للقطيع من الغَنم: هَوْرٌ؛ وهو صحِيحٌ لأنَّه مِن كثرته يتساقط بعضُه على بعض.\n\nومما شذَّ عن الباب قولهم: هُرْتُ فلاناً بكذا أهُورهُ: أزْنَنْتُه به. قال:\n\n* رأى أنَّني لا بالكثير أهُوره *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–w–r to collapse, to crash down, to be weak; to pass away,\nto come to an end, death; to be reckless, to be rash; to endanger;\nto guess. Of this root, two forms occur once each in the Qur’an:\nاِنْهَارَ ʾinhāra and هَارِي hāri.\n\nاِنْهَارَ ʾinhāra [v. VII, intrans.] to collapse, to crumble, to crash\ndown (9:109) أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ he\nfounded his building upon the brink of a crumbling precipice, so\nit crashed down with him into the fire of Hell.\n\nهَارِي hāri [act. part.] faltering, shaky, teetering, crumbly\n(9:109) أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ he founded his building upon the\nbrink of a crumbling precipice.",
+      "definition_english": "h–w–r to collapse, to crash down, to be weak; to pass away,\nto come to an end, death; to be reckless, to be rash; to endanger;\nto guess. Of this root, two forms occur once each in the Qur’an:\nاِنْهَارَ ʾinhāra and هَارِي hāri.\n\nاِنْهَارَ ʾinhāra [v. VII, intrans.] to collapse, to crumble, to crash\ndown (9:109) أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ he\nfounded his building upon the brink of a crumbling precipice, so\nit crashed down with him into the fire of Hell.\n\nهَارِي hāri [act. part.] faltering, shaky, teetering, crumbly\n(9:109) أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ he founded his building upon the\nbrink of a crumbling precipice."
+    }
+  ],
   "occurrences": [
     "9:109:17",
     "9:109:18"

@@ -1,9 +1,17 @@
 {
-  "id": 755,
   "root": "ح د ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحدأ\n\nومما يشبَّه به وغُيِّرتْ بعضُ حركاته الحَدَأَةُ، شِبهُ فأسٍ تُنقر به الحجارة. قال:\n\n* كالحَدَأ الوَقيعِ *\n\nومما شذَّ عن الباب حَدِِئ* بالمكان: لَزِق.\n\n(حدب) الحاء والدال والباء أصلٌ واحد، وهو ارتفاع الشيء. فالحَدَب ما ارتفع من الأرض. قال الله تعالى: ] وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ [ [الأنبياء 96]. والحَدَب في الظَّهر؛ يقال حَدِب واحدَوْدَب. وناقة حَدْباء، إذا بدت حراقفُها؛ وكذلك الحِدْبار . يقال هُنّ حُدْبٌ حَدَابيرُ. فأمّا قولهم حَدِبَ عليه إذا عطَف وأشفق، فهو من هذا، لأنّه كأنّه جَنَأَ عليه من الإشفاق، وذلك شبيهٌ بالحَدَب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحدأ\n\nومما يشبَّه به وغُيِّرتْ بعضُ حركاته الحَدَأَةُ، شِبهُ فأسٍ تُنقر به الحجارة. قال:\n\n* كالحَدَأ الوَقيعِ *\n\nومما شذَّ عن الباب حَدِِئ* بالمكان: لَزِق.\n\n(حدب) الحاء والدال والباء أصلٌ واحد، وهو ارتفاع الشيء. فالحَدَب ما ارتفع من الأرض. قال الله تعالى: ] وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ [ [الأنبياء 96]. والحَدَب في الظَّهر؛ يقال حَدِب واحدَوْدَب. وناقة حَدْباء، إذا بدت حراقفُها؛ وكذلك الحِدْبار . يقال هُنّ حُدْبٌ حَدَابيرُ. فأمّا قولهم حَدِبَ عليه إذا عطَف وأشفق، فهو من هذا، لأنّه كأنّه جَنَأَ عليه من الإشفاق، وذلك شبيهٌ بالحَدَب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–d–b rocky hill; to be a hunchback; high waves, hardship,\ndifficult situation; to dote on, to take care of, care. Of this root,\nحَدَب ḥadab occurs once in the Qur’an.\n\nحَدَب ḥadab [n.] high rocky land (21:96) حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ\nوَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ until when the peoples of Gog and Magog are\nlet loose and they stream swiftly out of every highland.",
+      "definition_english": "h–d–b rocky hill; to be a hunchback; high waves, hardship,\ndifficult situation; to dote on, to take care of, care. Of this root,\nحَدَب ḥadab occurs once in the Qur’an.\n\nحَدَب ḥadab [n.] high rocky land (21:96) حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ\nوَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ until when the peoples of Gog and Magog are\nlet loose and they stream swiftly out of every highland."
+    }
+  ],
   "occurrences": [
     "21:96:9"
   ]

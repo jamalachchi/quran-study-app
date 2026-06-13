@@ -1,9 +1,17 @@
 {
-  "id": 2846,
   "root": "غ ط ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغضن - غضر\n\n(غطش) الغين والطاء والشين أصلٌ واحدٌ صحيح، يدلُّ على ظُلْمَةٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغضن - غضر\n\n(غطش) الغين والطاء والشين أصلٌ واحدٌ صحيح، يدلُّ على ظُلْمَةٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–ṭ–sh weak eye sight; (of night) to be dark, to cause to be\ndark; to be difficult; to travel through the land. Of this root, only\nأَغْطَش aghṭasha occurs once in the Qur’an.\n\nأَغْطَش aghṭasha [v. IV trans.] to make dark (79:29) وَأَغْطَشَ لَيْلَهَا\nوَأَخْرَجَ ضُحَاهَا giving darkness to its night and bringing out its\nmorning brightness.",
+      "definition_english": "gh–ṭ–sh weak eye sight; (of night) to be dark, to cause to be\ndark; to be difficult; to travel through the land. Of this root, only\nأَغْطَش aghṭasha occurs once in the Qur’an.\n\nأَغْطَش aghṭasha [v. IV trans.] to make dark (79:29) وَأَغْطَشَ لَيْلَهَا\nوَأَخْرَجَ ضُحَاهَا giving darkness to its night and bringing out its\nmorning brightness."
+    }
+  ],
   "occurrences": [
     "79:29:1"
   ]

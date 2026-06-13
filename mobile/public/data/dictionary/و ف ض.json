@@ -1,9 +1,22 @@
 {
-  "id": 4474,
   "root": "و ف ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفض) الواو والفاء والضاد: ثلاث كلماتٍ متباينة: الأولى أوْفَضَ إيفاضاً: أسرَعَ. وجاءَ على وَفْض وأوفاض، أي عَجَلة.\n\nوالثانية الأوفاض: الفِرَق من النَّاس.\n\nوالثالثة الوَفْضَة: الكنانة، وجمعها وِفَاضٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفض) الواو والفاء والضاد: ثلاث كلماتٍ متباينة: الأولى أوْفَضَ إيفاضاً: أسرَعَ. وجاءَ على وَفْض وأوفاض، أي عَجَلة.\n\nوالثانية الأوفاض: الفِرَق من النَّاس.\n\nوالثالثة الوَفْضَة: الكنانة، وجمعها وِفَاضٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "Qur’an.\nمَوْفُور mawfūr [pass. part.] made ample (17:63) فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ\nجَزَاءً مَوْفُورًا Hell will be your reward—an ample reward.",
+      "definition_english": "Qur’an.\nمَوْفُور mawfūr [pass. part.] made ample (17:63) فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ\nجَزَاءً مَوْفُورًا Hell will be your reward—an ample reward."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–f–ḍ leather base for a grinding stone, place where water\ngathers, leather bag; mixture of people, rabble; to hurry, to speed\nup, to chase; to go separate ways. Of this root, يُوفِضُون yūfiḍūn,\noccurs once in the Qur’an.\n\nيُوفِضُون yūfiḍūn [imperf. of v. IV أَوْفَض ʾawfaḍa, intrans.] to\nspeed up, to run fast, to hasten, to rally (70:43) كَأَنَّهُمْ إِلَى نُصُبٍ يُوفِضُونَ\nas if they are rallying to a flag.",
+      "definition_english": "w–f–ḍ leather base for a grinding stone, place where water\ngathers, leather bag; mixture of people, rabble; to hurry, to speed\nup, to chase; to go separate ways. Of this root, يُوفِضُون yūfiḍūn,\noccurs once in the Qur’an.\n\nيُوفِضُون yūfiḍūn [imperf. of v. IV أَوْفَض ʾawfaḍa, intrans.] to\nspeed up, to run fast, to hasten, to rally (70:43) كَأَنَّهُمْ إِلَى نُصُبٍ يُوفِضُونَ\nas if they are rallying to a flag."
+    }
+  ],
   "occurrences": [
     "70:43:9"
   ]

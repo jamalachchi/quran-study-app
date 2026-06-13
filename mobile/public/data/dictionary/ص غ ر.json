@@ -1,9 +1,22 @@
 {
-  "id": 2158,
   "root": "ص غ ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصعر\n\n(صغر) الصاد والغين والراء أصلٌ صحيح يدلُّ على قِلَّةٍ وحقارة. من ذلك الصِّغَر: ضدّ الكِبَر. والصَّغير: خلاف الكبير. والصاغِر: الرَّاضي بالضَّيمِ صُغْراً وصَغاراً. ويقال أصغَرت النَّاقةُ وأكبَرَتْ. والإِصْغار: حنينُها [الخفيض. والإِكبار :] العالي. قالت الخنساء:\n\n* لها حنينان إِصْغارٌ وإِكبارُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصعر\n\n(صغر) الصاد والغين والراء أصلٌ صحيح يدلُّ على قِلَّةٍ وحقارة. من ذلك الصِّغَر: ضدّ الكِبَر. والصَّغير: خلاف الكبير. والصاغِر: الرَّاضي بالضَّيمِ صُغْراً وصَغاراً. ويقال أصغَرت النَّاقةُ وأكبَرَتْ. والإِصْغار: حنينُها [الخفيض. والإِكبار :] العالي. قالت الخنساء:\n\n* لها حنينان إِصْغارٌ وإِكبارُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "صَاعِقَة ṣāʿiqatun [n.; pl. صَوَاعِق ṣawāʿiq] 1 a thunderbolt (4:153) فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ and they were struck by the thunderbolt for their injustice 2 deafening noise, thundering (2:19) يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ they put their fingers into their ears to keep out the [noise of] thunderclaps for fear of death.\n",
+      "definition_english": "صَاعِقَة ṣāʿiqatun [n.; pl. صَوَاعِق ṣawāʿiq] 1 a thunderbolt (4:153) فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ and they were struck by the thunderbolt for their injustice 2 deafening noise, thundering (2:19) يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ they put their fingers into their ears to keep out the [noise of] thunderclaps for fear of death.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–gh–r youth, being youthful; small, to be small, little, slight, to shrink; to be small in the eyes of others; to be base, contemptible. Of this root, five forms occur 13 times in the Qurʾan: صَاغِرُونَ ṣāghirūn five times; صَغِير ṣaghīr three times; صَغِيرَة ṣaghīratan twice; أَصْغَر ʾaṣghar twice and صَغَار ṣaghār once.\nصَاغِرُونَ ṣāghirūn [pl. of act. part. صَاغِر ṣāghir] one who is humiliated, humbled, disgraced (27:37) وَلَنُخْرِجَنَّهُم مِّنْهَا أَذِلَّةً وَهُمْ صَاغِرُونَ and we will drive them out of it, abased and humbled.\n\nصَغِير ṣaghīr [quasi-act. part., fem. صَغِيرَة ṣaghīratun] 1 small, slight (9:121) وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً إِلَّا كُتِبَ لَهُمْ and they never spend a little or a large amount [for God’s cause], or traverse a mountain pass, without it being recorded to them 2 young, youthful (17:24) وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا and say, ‘Lord, have mercy on them both, just as they reared me when I was young’.\n\nأَصْغَر ʾaṣghar [elat.] smaller, slighter, lesser (10:61) وَمَا تَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَلَا أَصْغَرَ مِن ذَٰلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ not even the weight of a speck of dust on earth or in heaven escapes from your Lord, nor what is less than that or greater, without it being [written] in a clear record.\n\nصَغَار ṣaghār [n.] humiliation, abasement (6:124) سَيُصِيبُ الَّذِينَ أَجْرَمُوا صَغَارٌ عِندَ اللَّهِ وَعَذَابٌ شَدِيدٌ abasement in the sight of God and severe torment will befall those who have committed evil.",
+      "definition_english": "ṣ–gh–r youth, being youthful; small, to be small, little, slight, to shrink; to be small in the eyes of others; to be base, contemptible. Of this root, five forms occur 13 times in the Qurʾan: صَاغِرُونَ ṣāghirūn five times; صَغِير ṣaghīr three times; صَغِيرَة ṣaghīratan twice; أَصْغَر ʾaṣghar twice and صَغَار ṣaghār once.\nصَاغِرُونَ ṣāghirūn [pl. of act. part. صَاغِر ṣāghir] one who is humiliated, humbled, disgraced (27:37) وَلَنُخْرِجَنَّهُم مِّنْهَا أَذِلَّةً وَهُمْ صَاغِرُونَ and we will drive them out of it, abased and humbled.\n\nصَغِير ṣaghīr [quasi-act. part., fem. صَغِيرَة ṣaghīratun] 1 small, slight (9:121) وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً إِلَّا كُتِبَ لَهُمْ and they never spend a little or a large amount [for God’s cause], or traverse a mountain pass, without it being recorded to them 2 young, youthful (17:24) وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا and say, ‘Lord, have mercy on them both, just as they reared me when I was young’.\n\nأَصْغَر ʾaṣghar [elat.] smaller, slighter, lesser (10:61) وَمَا تَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَلَا أَصْغَرَ مِن ذَٰلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ not even the weight of a speck of dust on earth or in heaven escapes from your Lord, nor what is less than that or greater, without it being [written] in a clear record.\n\nصَغَار ṣaghār [n.] humiliation, abasement (6:124) سَيُصِيبُ الَّذِينَ أَجْرَمُوا صَغَارٌ عِندَ اللَّهِ وَعَذَابٌ شَدِيدٌ abasement in the sight of God and severe torment will befall those who have committed evil."
+    }
+  ],
   "occurrences": [
     "10:61:34",
     "12:32:19",

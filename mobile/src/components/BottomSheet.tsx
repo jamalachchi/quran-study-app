@@ -220,14 +220,25 @@ export default function BottomSheet({ word, isOpen, onClose, onNavigateAyah, sel
             if (res.ok) {
               const dictJson = await res.json();
               rootOccurrences = dictJson.occurrences || [];
-              // Always load local definition so dictionary content never disappears
-              entries = [{
-                source_book: dictJson.source_book || 'ibn_faris',
-                definition: dictJson.definition || '',
-                definition_english: dictJson.definition_english || null
-              }];
-              if (dictJson.definition_english) {
-                loadedLocally = true;
+              if (dictJson.entries && dictJson.entries.length > 0) {
+                entries = dictJson.entries.map((ent: any) => ({
+                  source_book: ent.source_book,
+                  definition: ent.definition,
+                  definition_english: ent.definition_english || null
+                }));
+                if (entries.some(e => e.definition_english)) {
+                  loadedLocally = true;
+                }
+              } else {
+                // Always load local definition so dictionary content never disappears
+                entries = [{
+                  source_book: dictJson.source_book || 'ibn_faris',
+                  definition: dictJson.definition || '',
+                  definition_english: dictJson.definition_english || null
+                }];
+                if (dictJson.definition_english) {
+                  loadedLocally = true;
+                }
               }
             }
           } catch (e) {
@@ -237,7 +248,8 @@ export default function BottomSheet({ word, isOpen, onClose, onNavigateAyah, sel
           // Fallback to live API if not loaded locally (to fetch/translate the definition)
           if (!loadedLocally) {
             try {
-              if (entries.length > 0 && entries[0].definition) {
+              const ibnFarisEntry = entries.find(e => e.source_book === 'ibn_faris');
+              if (ibnFarisEntry && ibnFarisEntry.definition) {
                 // If we already have the local Arabic definition, send a stateless POST translation request
                 const res = await fetch(`${API_BASE_URL}/api/query`, {
                   method: "POST",
@@ -247,13 +259,13 @@ export default function BottomSheet({ word, isOpen, onClose, onNavigateAyah, sel
                   body: JSON.stringify({
                     type: "translate_root",
                     root: wordRoot,
-                    definition: entries[0].definition
+                    definition: ibnFarisEntry.definition
                   })
                 });
                 if (res.ok) {
                   const apiJson = await res.json();
                   if (apiJson && apiJson.definition_english) {
-                    entries[0].definition_english = apiJson.definition_english;
+                    ibnFarisEntry.definition_english = apiJson.definition_english;
                   }
                 }
               } else if (word!.location) {
@@ -508,7 +520,9 @@ export default function BottomSheet({ word, isOpen, onClose, onNavigateAyah, sel
                                 ? "Lane's Lexicon" 
                                 : entry.source_book === 'ibn_faris' 
                                   ? "Ibn Faris (Maqayis al-Lughah)" 
-                                  : entry.source_book}
+                                  : entry.source_book === 'quranic_usage'
+                                    ? "Dictionary of Quranic Usage (Badawi & Haleem)"
+                                    : entry.source_book}
                             </span>
                             
                             <div 
@@ -518,7 +532,7 @@ export default function BottomSheet({ word, isOpen, onClose, onNavigateAyah, sel
                               }}
                             />
                             
-                            {hasEnglish && (
+                            {hasEnglish && entry.source_book !== 'quranic_usage' && (
                               <div className="mt-3 border-t border-slate-100 dark:border-slate-800/60 pt-2.5">
                                 <button
                                   onClick={() => setShowArabicMap(prev => ({
@@ -678,7 +692,7 @@ export default function BottomSheet({ word, isOpen, onClose, onNavigateAyah, sel
                                                   return (
                                                     <>
                                                       <div 
-                                                        className="text-right font-arabic text-slate-800 dark:text-slate-150 text-base leading-loose select-all rtl-text font-medium" 
+                                                        className="text-right font-arabic text-slate-800 dark:text-slate-200 text-base leading-loose select-all rtl-text font-medium" 
                                                         dir="rtl"
                                                       >
                                                         {preview?.words

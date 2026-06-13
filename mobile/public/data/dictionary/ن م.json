@@ -1,8 +1,11 @@
 {
-  "id": 3842,
   "root": "ن م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\n(نم) النون والميم أصلٌ صحيح له معنيان: أحدهما إظهار شيءٍ وإبرازُه، والآخر لونٌ من الألوان.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\n(نم) النون والميم أصلٌ صحيح له معنيان: أحدهما إظهار شيءٍ وإبرازُه، والآخر لونٌ من الألوان.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

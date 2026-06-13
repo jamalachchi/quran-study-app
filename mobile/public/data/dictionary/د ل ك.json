@@ -1,9 +1,17 @@
 {
-  "id": 1203,
   "root": "د ل ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدلح\n\n(دلك) الدال واللام والكاف أصلٌ واحد يدلُّ على زَوالِ شيءٍ عن شيء، ولا يكون إلاَّ برِفْق. يقال دَلَكَت الشّمسُ: زالت. ويقال دَلَكَتْ غابت. والدَّلَكُ: وقتُ دُلوك الشَّمس. ومن الباب دَلَكْتُ الشَّيء، وذلك أنّك إذا فعلْتَ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدلح\n\n(دلك) الدال واللام والكاف أصلٌ واحد يدلُّ على زَوالِ شيءٍ عن شيء، ولا يكون إلاَّ برِفْق. يقال دَلَكَت الشّمسُ: زالت. ويقال دَلَكَتْ غابت. والدَّلَكُ: وقتُ دُلوك الشَّمس. ومن الباب دَلَكْتُ الشَّيء، وذلك أنّك إذا فعلْتَ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–l–k to rub; to try, to gain experience, a well-travelled camel, to be hard up; (of the sun) to pass the meridian, to set, to rise. Of this root, دُلُوك dulūk occurs once in the Qurʾan.\nدُلُوك dulūk [v. n./n.] (of the sun) interpreted as: setting, inclining over the meridian, or rising (17:78) أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ establish the prayer at the going down of the sun (or, at its crossing the zenith) until the darkness of the night.",
+      "definition_english": "d–l–k to rub; to try, to gain experience, a well-travelled camel, to be hard up; (of the sun) to pass the meridian, to set, to rise. Of this root, دُلُوك dulūk occurs once in the Qurʾan.\nدُلُوك dulūk [v. n./n.] (of the sun) interpreted as: setting, inclining over the meridian, or rising (17:78) أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ establish the prayer at the going down of the sun (or, at its crossing the zenith) until the darkness of the night."
+    }
+  ],
   "occurrences": [
     "17:78:3"
   ]

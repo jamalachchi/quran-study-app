@@ -1,9 +1,17 @@
 {
-  "id": 510,
   "root": "ث ق ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثفي - ثفر\n\n(ثقف) الثاء والقاف والفاء كلمة واحدة إليها يرجع الفروع، وهو إقامة دَرْءِ الشيء. ويقال ثَقَّفْتُ القناةَ إذا أقَمْتَ عِوَجَها. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثفي - ثفر\n\n(ثقف) الثاء والقاف والفاء كلمة واحدة إليها يرجع الفروع، وهو إقامة دَرْءِ الشيء. ويقال ثَقَّفْتُ القناةَ إذا أقَمْتَ عِوَجَها. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–q–f to straighten, to put into the correct shape; a capable\nperson; to locate, to catch, to overcome, to dispute. Of this root,\ntwo forms occur six times in the Qur’an: ثَقِفَ thaqifa four times\nand ثُقِفَ thuqifa twice.\n\nثَقِفَ thaqifa a [v. trans.] to catch, to overtake, to come upon, to\novercome, to gain the upper hand (60:2) إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً if\nthey gain the upper hand over you, they will revert to being your\nenemies.\n\nثُقِفَ thuqifa [pass.] to be found, to be overtaken, to be\novercome, to be caught (33:61) مَلْعُونِينَ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا\naccursed, wherever they are found, they will be seized and\n[fiercely] slain.",
+      "definition_english": "th–q–f to straighten, to put into the correct shape; a capable\nperson; to locate, to catch, to overcome, to dispute. Of this root,\ntwo forms occur six times in the Qur’an: ثَقِفَ thaqifa four times\nand ثُقِفَ thuqifa twice.\n\nثَقِفَ thaqifa a [v. trans.] to catch, to overtake, to come upon, to\novercome, to gain the upper hand (60:2) إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً if\nthey gain the upper hand over you, they will revert to being your\nenemies.\n\nثُقِفَ thuqifa [pass.] to be found, to be overtaken, to be\novercome, to be caught (33:61) مَلْعُونِينَ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا\naccursed, wherever they are found, they will be seized and\n[fiercely] slain."
+    }
+  ],
   "occurrences": [
     "2:191:3",
     "33:61:3",

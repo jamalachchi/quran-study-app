@@ -1,9 +1,22 @@
 {
-  "id": 2907,
   "root": "ف و ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفهم - فوت\n\n(فوت) الفاء والواو والتاء أُصَيلٌ صحيح يدلُّ على خلافِ إدراكِ الشّيءِ والوصولِ إليه. يقال: فاته الشَّيءُ فوتاً. وتفاوَتَ الشَّيئانِ: تباعَدَ ما بينهما، أي لم يُدرِك هذا ذاك. والافتيات: افتعالٌ من الفَوت، وهو السَّبق إلى الشَّيء دون الائتمار . يقال: فلانٌ لا يُفْتاتُ عليه، أي لا يُعْمَل شيءٌ دون أمرِه.\n\nومن الباب: الفَوْت: الفُرْجة بين الشَّيئين، كالفُرجة بين الإصبَعَين. والجمع أفوات. يقال: ماتَ موتَ الفَوات، إذا فُوجئَ، كأنَّه فاته ما أرادَ من وصيَّةٍ وشِبْهها. ويقال: هو منِّي فَوْتَ الرُّمح. وشَتَم رجلٌ آخرَ فقال: \"جعل الله تعالى رزقَه فوتَ فيه\"، أي حيث يراه ولا يصلُ إليه.\n\nفوج - فوح - فود - فور",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفهم - فوت\n\n(فوت) الفاء والواو والتاء أُصَيلٌ صحيح يدلُّ على خلافِ إدراكِ الشّيءِ والوصولِ إليه. يقال: فاته الشَّيءُ فوتاً. وتفاوَتَ الشَّيئانِ: تباعَدَ ما بينهما، أي لم يُدرِك هذا ذاك. والافتيات: افتعالٌ من الفَوت، وهو السَّبق إلى الشَّيء دون الائتمار . يقال: فلانٌ لا يُفْتاتُ عليه، أي لا يُعْمَل شيءٌ دون أمرِه.\n\nومن الباب: الفَوْت: الفُرْجة بين الشَّيئين، كالفُرجة بين الإصبَعَين. والجمع أفوات. يقال: ماتَ موتَ الفَوات، إذا فُوجئَ، كأنَّه فاته ما أرادَ من وصيَّةٍ وشِبْهها. ويقال: هو منِّي فَوْتَ الرُّمح. وشَتَم رجلٌ آخرَ فقال: \"جعل الله تعالى رزقَه فوتَ فيه\"، أي حيث يراه ولا يصلُ إليه.\n\nفوج - فوح - فود - فور",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "occurs once in the Qur’an.\nفُلَان fulān [masc. sing., fem. فُلَانَة fulānatun] unspecified person;\na substitute for the proper name of a man, so-and-so (25:28) يَا وَيْلَتَى\nلَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا woe is me! If only I had not taken so-and-so as\na friend!",
+      "definition_english": "occurs once in the Qur’an.\nفُلَان fulān [masc. sing., fem. فُلَانَة fulānatun] unspecified person;\na substitute for the proper name of a man, so-and-so (25:28) يَا وَيْلَتَى\nلَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا woe is me! If only I had not taken so-and-so as\na friend!"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–w–t to bypass, to miss, to escape the notice of, to ignore; to\n724",
+      "definition_english": "f–w–t to bypass, to miss, to escape the notice of, to ignore; to\n724"
+    }
+  ],
   "occurrences": [
     "34:51:6",
     "3:153:18",

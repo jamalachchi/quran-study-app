@@ -1,9 +1,22 @@
 {
-  "id": 1758,
   "root": "س ط ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسطح - سطر\n\n(سطر) السين والطاء والراء أصلٌ مطّرد يدلُّ على اصطفافِ الشيء، كالكتاب والشجر، وكلِّ شيء اصطَفَّ. فأمَّا الأساطير فكأنها أشياءُ كُتبت من\n\nسعف سعل\n\nالباطل فصار ذلك اسماً لها، مخصوصاً بها. يقال سَطَّر فلانٌ علينا تسطيراً، إذا جاء بالأباطيل. وواحد الأساطير إسطار وأُسطورة.\n\nومما شذ عن الباب المُسَيطِر ، وهو المتعهّد للشيء المتسلّط عليه.\n\n(باب السين والعين وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسطح - سطر\n\n(سطر) السين والطاء والراء أصلٌ مطّرد يدلُّ على اصطفافِ الشيء، كالكتاب والشجر، وكلِّ شيء اصطَفَّ. فأمَّا الأساطير فكأنها أشياءُ كُتبت من\n\nسعف سعل\n\nالباطل فصار ذلك اسماً لها، مخصوصاً بها. يقال سَطَّر فلانٌ علينا تسطيراً، إذا جاء بالأباطيل. وواحد الأساطير إسطار وأُسطورة.\n\nومما شذ عن الباب المُسَيطِر ، وهو المتعهّد للشيء المتسلّط عليه.\n\n(باب السين والعين وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "س/ر/ي s-r-y to seep, (of liquids) to spread unobtrusively; to remove; to travel by night. Of this root, three forms occur eight times in the Qur’an: يَسْرِي yasrī once; أَسْرَى ʾasrā six times and سَرِيًّا sariyyan once.\nيَسْرِي yasrī [imperf. of v. intrans.] to seep, to spread, to travel by night (89:4) وَاللَّيْلِ إِذا يَسْرِ by the night when it passes through/runs its course.\n\nأَسْرَى ʾasrā [v. IV, intrans.] to travel by night; [with prep. بـ] to cause or enable to travel by night, to transport someone by night (17:1) سُبْحانَ الَّذِي أَسْرى بِعَبْدِهِ لَيْلاً Glory be to Him who made His servant travel by night.\n\nسَرِيًّا sariyyan [n./act. part.] running stream of water, rivulet (or person of note and importance [from the root س/ر/و s-r-w], as suggested by some commentators) (19:24) فَناداها مِنْ تَحْتِها أَلاَّ تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا but a voice cried to her from below, ‘Do not sorrow (or, do not fret), your Lord has provided a stream (or, a person of consequence, that is the infant Jesus) under you.’\n\n* الإسراء name of Sura 17, Meccan sura, so-named because of the mention in verse 1 of the ‘night journey’ of the Prophet. Also called بني إسرائيل (see إسرائيل isرائيل).",
+      "definition_english": "س/ر/ي s-r-y to seep, (of liquids) to spread unobtrusively; to remove; to travel by night. Of this root, three forms occur eight times in the Qur’an: يَسْرِي yasrī once; أَسْرَى ʾasrā six times and سَرِيًّا sariyyan once.\nيَسْرِي yasrī [imperf. of v. intrans.] to seep, to spread, to travel by night (89:4) وَاللَّيْلِ إِذا يَسْرِ by the night when it passes through/runs its course.\n\nأَسْرَى ʾasrā [v. IV, intrans.] to travel by night; [with prep. بـ] to cause or enable to travel by night, to transport someone by night (17:1) سُبْحانَ الَّذِي أَسْرى بِعَبْدِهِ لَيْلاً Glory be to Him who made His servant travel by night.\n\nسَرِيًّا sariyyan [n./act. part.] running stream of water, rivulet (or person of note and importance [from the root س/ر/و s-r-w], as suggested by some commentators) (19:24) فَناداها مِنْ تَحْتِها أَلاَّ تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا but a voice cried to her from below, ‘Do not sorrow (or, do not fret), your Lord has provided a stream (or, a person of consequence, that is the infant Jesus) under you.’\n\n* الإسراء name of Sura 17, Meccan sura, so-named because of the mention in verse 1 of the ‘night journey’ of the Prophet. Also called بني إسرائيل (see إسرائيل isرائيل)."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-ṭ-r row of trees, palm trees, objects arranged in a sequence; written words in rows; falsehood; stories with no foundations. It has, however, been suggested that the root originated from a borrowing either from Greek or Persian. Of this root, five forms occur 16 times in the Qur’an: يَسْطُرُونَ yasṭurūn once; مَسْطُور masṭūr three times; مُسْتَطَر mustaṭar once; أَساطِير ʾasāṭīr nine times and مُسَيْطِر musayṭir twice.\nيَسْطُرُونَ yasṭurūn [imperf. v., trans.] to write, inscribe (68:1)\n\n436",
+      "definition_english": "s-ṭ-r row of trees, palm trees, objects arranged in a sequence; written words in rows; falsehood; stories with no foundations. It has, however, been suggested that the root originated from a borrowing either from Greek or Persian. Of this root, five forms occur 16 times in the Qur’an: يَسْطُرُونَ yasṭurūn once; مَسْطُور masṭūr three times; مُسْتَطَر mustaṭar once; أَساطِير ʾasāṭīr nine times and مُسَيْطِر musayṭir twice.\nيَسْطُرُونَ yasṭurūn [imperf. v., trans.] to write, inscribe (68:1)\n\n436"
+    }
+  ],
   "occurrences": [
     "16:24:8",
     "17:58:18",

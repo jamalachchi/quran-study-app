@@ -1,9 +1,17 @@
 {
-  "id": 697,
   "root": "ج و ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجوز\n\n(جوف) الجيم والواو والفاء كلمةٌ واحدة، وهي جَوْفُ الشيء. يقال هذا جَوْفُ الإنسان، وجوفُ كلِّ شيء. وطَعْنَةٌ جائِفَةٌ، إذا وصلت إلى الجَوْفِ. وقِدْرٌ جَوْفاءُ: واسعةُ الجَوْفِ. وجَوْفُ عَيْرٍ: مكانٌ حماهُ رجل اسمه حِمار. وفي المثل: \"أخْلَى مِنْ جَوْفِ عَيْر\". وأصله رجلٌ كان يحمي وادياً لـه. وقد ذُكر حديثُهُ في كتاب العين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجوز\n\n(جوف) الجيم والواو والفاء كلمةٌ واحدة، وهي جَوْفُ الشيء. يقال هذا جَوْفُ الإنسان، وجوفُ كلِّ شيء. وطَعْنَةٌ جائِفَةٌ، إذا وصلت إلى الجَوْفِ. وقِدْرٌ جَوْفاءُ: واسعةُ الجَوْفِ. وجَوْفُ عَيْرٍ: مكانٌ حماهُ رجل اسمه حِمار. وفي المثل: \"أخْلَى مِنْ جَوْفِ عَيْر\". وأصله رجلٌ كان يحمي وادياً لـه. وقد ذُكر حديثُهُ في كتاب العين.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–w–f belly, the interior, the inside; valley, to be hollow; to penetrate. Of this root, جَوْف jawf occurs once in the Qurʾan.\nجَوْف jawf [n.] the interior, the inside, cavity (33:4) مَا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِ God does not give a man two hearts inside him.\n\n184",
+      "definition_english": "j–w–f belly, the interior, the inside; valley, to be hollow; to penetrate. Of this root, جَوْف jawf occurs once in the Qurʾan.\nجَوْف jawf [n.] the interior, the inside, cavity (33:4) مَا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِ God does not give a man two hearts inside him.\n\n184"
+    }
+  ],
   "occurrences": [
     "33:4:8"
   ]

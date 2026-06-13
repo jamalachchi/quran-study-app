@@ -1,8 +1,16 @@
 {
-  "id": 1854,
   "root": "س و ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسور - سوط\n\n(سوف) السين والواو والفاء ثلاثة أصول: أحدها الشَّمُّ . يقال سُفْت الشَّيءَ أَسُوفُه سَوْفاً، وأَسَفْتُهُ. وذهب بعضُ أهل العلم إلى أنّ قولهم: بيننا وبينهم مَسافةٌ، مِنْ هذا. قال: وكان الدَّليل يَسُوف التُّرَابَ ليعلمَ على قصدٍ هو أم على جَور. وأنشدوا:\n\nسوق سوك\n\n* إذا الدّليلُ استافَ أخلاقَ الطُّرُق *\n\nأي شَمّها.\n\nوالأصل الثّاني: السُّوَاف: ذَهاب المال ومَرَضُه. يقال أساف الرّجُلُ، إذا وقع في مالِهِ السُّواف. قال حُميد بن ثور:\n\n* أَسَافا من المال التِّلادِ وأَعْدَما *\n\nوأمّا التأخير فالتسويف. يقال سوَّفتُه، إذا أخّرتَه، إذا قلتَ سوف أفعلُ كذا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسور - سوط\n\n(سوف) السين والواو والفاء ثلاثة أصول: أحدها الشَّمُّ . يقال سُفْت الشَّيءَ أَسُوفُه سَوْفاً، وأَسَفْتُهُ. وذهب بعضُ أهل العلم إلى أنّ قولهم: بيننا وبينهم مَسافةٌ، مِنْ هذا. قال: وكان الدَّليل يَسُوف التُّرَابَ ليعلمَ على قصدٍ هو أم على جَور. وأنشدوا:\n\nسوق سوك\n\n* إذا الدّليلُ استافَ أخلاقَ الطُّرُق *\n\nأي شَمّها.\n\nوالأصل الثّاني: السُّوَاف: ذَهاب المال ومَرَضُه. يقال أساف الرّجُلُ، إذا وقع في مالِهِ السُّواف. قال حُميد بن ثور:\n\n* أَسَافا من المال التِّلادِ وأَعْدَما *\n\nوأمّا التأخير فالتسويف. يقال سوَّفتُه، إذا أخّرتَه، إذا قلتَ سوف أفعلُ كذا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–w–f delaying, putting off, retarding, procrastinating. All\nthese meanings and forms seem to have been derived from the\nform and function of the particle سَوْفَ (sawfa). Like the particle سـ\n(sa-) [q.v.], particle سَوْفَ (occurring 42 times in the Qurʾān)\ndenotes the future and precedes the imperfect. They differ,\nhowever, in some respects; while سـ is prefixed to the verb and\nforms with it a single word, سَوْفَ keeps its integrity as an\nindependent word and, unlike سـ may be prefixed by لَـ (la) or فَـ\n(fa). Functionally, سَوْفَ signifies distant future (while سـ signifies\nthe immediate one) and generally adds emphasis to the context in\nwhich it appears. Some philologists regard the particle سـ as a\ncontracted form of سَوْفَ (93:5) وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى your Lord is\nsure to give you [so much] that you will be well satisfied.",
+      "definition_english": "s–w–f delaying, putting off, retarding, procrastinating. All\nthese meanings and forms seem to have been derived from the\nform and function of the particle سَوْفَ (sawfa). Like the particle سـ\n(sa-) [q.v.], particle سَوْفَ (occurring 42 times in the Qurʾān)\ndenotes the future and precedes the imperfect. They differ,\nhowever, in some respects; while سـ is prefixed to the verb and\nforms with it a single word, سَوْفَ keeps its integrity as an\nindependent word and, unlike سـ may be prefixed by لَـ (la) or فَـ\n(fa). Functionally, سَوْفَ signifies distant future (while سـ signifies\nthe immediate one) and generally adds emphasis to the context in\nwhich it appears. Some philologists regard the particle سـ as a\ncontracted form of سَوْفَ (93:5) وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى your Lord is\nsure to give you [so much] that you will be well satisfied."
+    }
+  ],
   "occurrences": []
 }

@@ -1,8 +1,11 @@
 {
-  "id": 1620,
   "root": "ز ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\n(باب ماجاء من كلام العرب أوله زاءٌ في المضاعف والمطابق)\n\n(زط) الزاء والطاء ليس بشيء. وزُطّ : كلمةٌ مولَّدة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\n(باب ماجاء من كلام العرب أوله زاءٌ في المضاعف والمطابق)\n\n(زط) الزاء والطاء ليس بشيء. وزُطّ : كلمةٌ مولَّدة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

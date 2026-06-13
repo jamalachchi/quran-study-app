@@ -1,8 +1,11 @@
 {
-  "id": 2463,
   "root": "ط ر ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطري - طرب\n\n(طرث) الطاء والراء والثاء كلمةٌ صحيحةٌ، وهي الطَُّـَرثُوث ، وهي نبْت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطري - طرب\n\n(طرث) الطاء والراء والثاء كلمةٌ صحيحةٌ، وهي الطَُّـَرثُوث ، وهي نبْت.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

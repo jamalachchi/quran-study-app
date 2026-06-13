@@ -1,9 +1,17 @@
 {
-  "id": 767,
   "root": "ح ر ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحرك - حرم\n\n(حرك) الحاء والراء والكاف أًصلٌ واحد، فالحركة ضدُّ السكون. ومن الباب الحارِكانِ، وهما ملتقى الكتِفَين، لأنَّهما لا يزالان يتحرَّكان. وكذلك الحراكيك، وهي الحراقِفُ، واحدتها حَرْكَكَة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحرك - حرم\n\n(حرك) الحاء والراء والكاف أًصلٌ واحد، فالحركة ضدُّ السكون. ومن الباب الحارِكانِ، وهما ملتقى الكتِفَين، لأنَّهما لا يزالان يتحرَّكان. وكذلك الحراكيك، وهي الحراقِفُ، واحدتها حَرْكَكَة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–r–k movement, to move, to be agile, to be lively and\nintelligent; the joint between the head and the neck. Of this root,\nتُحَرِّك tuḥarrik occurs once in the Qurʾan.\n\nتُحَرِّك tuḥarrik [imperf. of v. II حَرَّكَ ḥarraka, trans. with prep. بِ]\nto move, to stir (75:16) لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ [Prophet] do not\nmove your tongue with it [Qurʾanic verses as they are being\nrevealed] in an attempt to hasten it [your memorising of the\nRevelation].",
+      "definition_english": "h–r–k movement, to move, to be agile, to be lively and\nintelligent; the joint between the head and the neck. Of this root,\nتُحَرِّك tuḥarrik occurs once in the Qurʾan.\n\nتُحَرِّك tuḥarrik [imperf. of v. II حَرَّكَ ḥarraka, trans. with prep. بِ]\nto move, to stir (75:16) لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ [Prophet] do not\nmove your tongue with it [Qurʾanic verses as they are being\nrevealed] in an attempt to hasten it [your memorising of the\nRevelation]."
+    }
+  ],
   "occurrences": [
     "75:16:2"
   ]

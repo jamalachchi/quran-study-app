@@ -1,8 +1,11 @@
 {
-  "id": 1670,
   "root": "ز م ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزمن\n\n(زمح) الزاء والميم والحاء كلمةٌ واحدة. يقولون للرّجُل القَصير: زُمَّح.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزمن\n\n(زمح) الزاء والميم والحاء كلمةٌ واحدة. يقولون للرّجُل القَصير: زُمَّح.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

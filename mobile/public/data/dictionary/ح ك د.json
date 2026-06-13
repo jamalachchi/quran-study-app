@@ -1,8 +1,11 @@
 {
-  "id": 842,
   "root": "ح ك د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحكم\n\n(حكد) الحاء والكاف والدال حرفٌ من باب الإبدال. يقال للمَحْتِد المَحْكِد. وقد فسِّر في بابه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحكم\n\n(حكد) الحاء والكاف والدال حرفٌ من باب الإبدال. يقال للمَحْتِد المَحْكِد. وقد فسِّر في بابه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

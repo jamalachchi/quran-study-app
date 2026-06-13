@@ -1,8 +1,16 @@
 {
-  "id": 2047,
   "root": "ش ي أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشوه - شيأ\n\n(شيأ) الشين والياء والهمزة كلمةٌ واحدة. يقال شَيَّأ الله وجْهَه؛ إِذا دعا عليه بالقُبح. ووجهٌ مُشَيَّأٌ.وأنشد:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشوه - شيأ\n\n(شيأ) الشين والياء والهمزة كلمةٌ واحدة. يقال شَيَّأ الله وجْهَه؛ إِذا دعا عليه بالقُبح. ووجهٌ مُشَيَّأٌ.وأنشد:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "power, force. Of this root, شَوْكَة shawkatun occurs once in the\nQurʾan.\n\nشَوْكَة shawkatun [n.] thorn, spike; power, force, might; weapon,\narmour *(8:7) ذَاتَ الشَّوْكَةِ the fighting group, the armed detachment\n[lit. the one with the power]; *(8:7) غَيْرَ ذَاتِ الشَّوْكَةِ the trading\ncaravan [lit. the one without power (or, the unarmed group)].",
+      "definition_english": "power, force. Of this root, شَوْكَة shawkatun occurs once in the\nQurʾan.\n\nشَوْكَة shawkatun [n.] thorn, spike; power, force, might; weapon,\narmour *(8:7) ذَاتَ الشَّوْكَةِ the fighting group, the armed detachment\n[lit. the one with the power]; *(8:7) غَيْرَ ذَاتِ الشَّوْكَةِ the trading\ncaravan [lit. the one without power (or, the unarmed group)]."
+    }
+  ],
   "occurrences": []
 }

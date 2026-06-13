@@ -1,9 +1,22 @@
 {
-  "id": 3125,
   "root": "ق ب س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقبس - قبص\n\n[عبس 21]. ألهمَ كيف يُدْفَن. قال ابنُ دُرَيد: أرض قَبُورٌ: غامضة. ونَخْلَةٌ قَبُور [وكَبُوسٌ ]: يكون حَمْلُها في سَعَفها. ومكانُ القبور مَقْبَرَة ومَقْبُرَة.\n\n(قبس) القاف والباء والسين أصلٌ صحيحٌ يدلُّ على صفةٍ من صفات النَّار، ثمَّ يستعار. من ذلك القَبَس: شُعْلَةُ النَّار. قال الله تعالى في قِصَّة موسى عليه السلام: ] لَعَلِّي آتِيكُمْ مِنْهَا بِقَبَسٍ [ [طه 10]. ويقولون: أقْبَسْتُ الرّجُلَ عِلماً، وقَبَسْتُه ناراً.\n\nقال ابنُ دريد : قَبَسْتُ من فلانٍ ناراً، واقتَبَسْتُ منه علماً، وأَقْبَسَنِي قَبَساً.\n\nومن هذا القياس قولهم: فَحْلٌ قَبِيسٌ، وذلك إذا كان سريعَ الإلقاح، كأنَّهُ شُبِّهَ بِشُعْلَةِ النّار. قال:\n\n* فَأُمٌّ لَِقْوَةٌ وأبٌ قَبِيسُ *\n\nفأمَّا القِبْس فيقال إنَّه الأصل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقبس - قبص\n\n[عبس 21]. ألهمَ كيف يُدْفَن. قال ابنُ دُرَيد: أرض قَبُورٌ: غامضة. ونَخْلَةٌ قَبُور [وكَبُوسٌ ]: يكون حَمْلُها في سَعَفها. ومكانُ القبور مَقْبَرَة ومَقْبُرَة.\n\n(قبس) القاف والباء والسين أصلٌ صحيحٌ يدلُّ على صفةٍ من صفات النَّار، ثمَّ يستعار. من ذلك القَبَس: شُعْلَةُ النَّار. قال الله تعالى في قِصَّة موسى عليه السلام: ] لَعَلِّي آتِيكُمْ مِنْهَا بِقَبَسٍ [ [طه 10]. ويقولون: أقْبَسْتُ الرّجُلَ عِلماً، وقَبَسْتُه ناراً.\n\nقال ابنُ دريد : قَبَسْتُ من فلانٍ ناراً، واقتَبَسْتُ منه علماً، وأَقْبَسَنِي قَبَساً.\n\nومن هذا القياس قولهم: فَحْلٌ قَبِيسٌ، وذلك إذا كان سريعَ الإلقاح، كأنَّهُ شُبِّهَ بِشُعْلَةِ النّار. قال:\n\n* فَأُمٌّ لَِقْوَةٌ وأبٌ قَبِيسُ *\n\nفأمَّا القِبْس فيقال إنَّه الأصل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "قاف qāf functions in the Qur’an as: 1 opening verse of Sura 50. In\naddition to the general opinions concerning letters used in similar\npositions within the Qur’an (see الر ʾalif–lām–rā), the opening\nverse of the sura is also said to mean: ‘wisdom’, ‘the matter has\nbeen decided’, or to be a name of a mountain encompassing the\nworld (50:1) ق وَالْقُرْآنِ الْمَجِيدِ Qāf, by the glorious Qur’an 2 name\nof Sura 50, Meccan sura, so-named because of the reference in\nverse one to the letter ‘Qāf’.",
+      "definition_english": "قاف qāf functions in the Qur’an as: 1 opening verse of Sura 50. In\naddition to the general opinions concerning letters used in similar\npositions within the Qur’an (see الر ʾalif–lām–rā), the opening\nverse of the sura is also said to mean: ‘wisdom’, ‘the matter has\nbeen decided’, or to be a name of a mountain encompassing the\nworld (50:1) ق وَالْقُرْآنِ الْمَجِيدِ Qāf, by the glorious Qur’an 2 name\nof Sura 50, Meccan sura, so-named because of the reference in\nverse one to the letter ‘Qāf’."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–b–s flame, fire, firebrand, live coal, to try to acquire fire; to\nseek knowledge, to acquire knowledge; to adopt; good\ncountenance. Of this root, two forms occur three times in the\nQur’an: نَقْتَبِسُ naqtabis once and قَبَس qabas twice.\n\n732",
+      "definition_english": "q–b–s flame, fire, firebrand, live coal, to try to acquire fire; to\nseek knowledge, to acquire knowledge; to adopt; good\ncountenance. Of this root, two forms occur three times in the\nQur’an: نَقْتَبِسُ naqtabis once and قَبَس qabas twice.\n\n732"
+    }
+  ],
   "occurrences": [
     "20:10:13",
     "27:7:14",

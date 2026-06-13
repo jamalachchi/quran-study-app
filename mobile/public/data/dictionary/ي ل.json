@@ -1,8 +1,11 @@
 {
-  "id": 4541,
   "root": "ي ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الياء\n\n(يل) الياء واللام كلمة واحدة، هي اليَلَل: قصَر الأسنان. قال:\n\n* يَكْلَحُ الأرْوَقُ منها والأيَلّ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الياء\n\n(يل) الياء واللام كلمة واحدة، هي اليَلَل: قصَر الأسنان. قال:\n\n* يَكْلَحُ الأرْوَقُ منها والأيَلّ *",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

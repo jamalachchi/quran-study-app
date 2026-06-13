@@ -1,9 +1,17 @@
 {
-  "id": 786,
   "root": "ح س م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحسف - حسك\n\n(حسم) الحاء والسين والميم أصلٌ واحد، وهو قَطْع الشّيء عن آخره. فالحَسْم: القطع. وسُمِّي السيفُ حُساماً. ويقال حسامُه حَدّهُ، أيُّ ذلك كان فهو من القَطْع. فأما قوله تعالى: ] وَثَمَانِيَةَ أيَّامٍ حُسُوماً [ [الحاقة 7]، فيقال هي المتتابعة. ويقال الحسوم الشّؤم. ويقال سمِّيت حُسوماً لأنها حسمت الخيرَ عن أهلها. وهذا القول أقْيَس لما ذكرناه. ويقال للصبيّ السيِّئ الغذاء محسومٌ، كأنه قُطِع نماؤُه لَمَّا حُسِم غذاؤه. والحَسْم: أن تقطَعَ عِرقاً وتكويه بالنار كي لا تسيل دمُه. ولذلك يقال: احْسِم عنك هذا الأمر، أي اقطعه واكفِهِ نفسَك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحسف - حسك\n\n(حسم) الحاء والسين والميم أصلٌ واحد، وهو قَطْع الشّيء عن آخره. فالحَسْم: القطع. وسُمِّي السيفُ حُساماً. ويقال حسامُه حَدّهُ، أيُّ ذلك كان فهو من القَطْع. فأما قوله تعالى: ] وَثَمَانِيَةَ أيَّامٍ حُسُوماً [ [الحاقة 7]، فيقال هي المتتابعة. ويقال الحسوم الشّؤم. ويقال سمِّيت حُسوماً لأنها حسمت الخيرَ عن أهلها. وهذا القول أقْيَس لما ذكرناه. ويقال للصبيّ السيِّئ الغذاء محسومٌ، كأنه قُطِع نماؤُه لَمَّا حُسِم غذاؤه. والحَسْم: أن تقطَعَ عِرقاً وتكويه بالنار كي لا تسيل دمُه. ولذلك يقال: احْسِم عنك هذا الأمر، أي اقطعه واكفِهِ نفسَك.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–s–m cauterisation, burning, to cauterise; to cut, to finish, to\nterminate; to be decisive; unlucky, misfortune, evil omen;\nsuccessive. Of this root, حُسُوم ḥusūm occurs once in the Qurʾan.\n\nحُسُوم ḥusūm [pl. of act. part. حَاسِم ḥāsim] variously interpreted\nas: successive, consecutive, constant, unabated, evil-bringing,\nunlucky, destructive (69:7) سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا He\nmustered it [the soaring wind] against them for seven nights and\neight consecutive days.",
+      "definition_english": "h–s–m cauterisation, burning, to cauterise; to cut, to finish, to\nterminate; to be decisive; unlucky, misfortune, evil omen;\nsuccessive. Of this root, حُسُوم ḥusūm occurs once in the Qurʾan.\n\nحُسُوم ḥusūm [pl. of act. part. حَاسِم ḥāsim] variously interpreted\nas: successive, consecutive, constant, unabated, evil-bringing,\nunlucky, destructive (69:7) سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا He\nmustered it [the soaring wind] against them for seven nights and\neight consecutive days."
+    }
+  ],
   "occurrences": [
     "69:7:7"
   ]

@@ -1,8 +1,11 @@
 {
-  "id": 1511,
   "root": "ر ه ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرهأ - رهب\n\n(رهز) الراء والهاء والزاء كلمة تدلُّ على الرّهْز، وهو التحرُّك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرهأ - رهب\n\n(رهز) الراء والهاء والزاء كلمة تدلُّ على الرّهْز، وهو التحرُّك.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

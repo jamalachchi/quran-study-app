@@ -1,9 +1,17 @@
 {
-  "id": 3754,
   "root": "م ش ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمشج\n\n(مشج) الميم والشين والجيم أصلٌ صحيح، وهو الخَلْط. ونُطفةٌ أمشاجٌ، وذلك اختلاط الماء والدّم. ويقال إن الواحد مَشْجٌ ومَشَِج ومَشيج. قال الشاعر :\n\nخلافَ الصَّدر سِيطَ به مشيجُ\n\nكأنَّ النَّصلَ والفُوقَينِ منه",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمشج\n\n(مشج) الميم والشين والجيم أصلٌ صحيح، وهو الخَلْط. ونُطفةٌ أمشاجٌ، وذلك اختلاط الماء والدّم. ويقال إن الواحد مَشْجٌ ومَشَِج ومَشيج. قال الشاعر :\n\nخلافَ الصَّدر سِيطَ به مشيجُ\n\nكأنَّ النَّصلَ والفُوقَينِ منه",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–sh–j mixture of two colours, mixture of red and white,\nmixture of two things, to mix, to mingle, a mixture. Of this root,\nonly أَمْشَاج ʾamshāj occurs once in the Qur’an.\n\nأَمْشَاج ʾamshāj [pl. of مَشِيج mashīj; مَشْج mashj; مَشِج mashij; or\nمَشَج mashaj] mixture, composite, union (76:2) إِنَّا خَلَقْنَا الْإِنْسَانَ مِنْ نُطْفَةٍ\nأَمْشَاجٍ We created man from a composite drop of sperm-fluid.",
+      "definition_english": "m–sh–j mixture of two colours, mixture of red and white,\nmixture of two things, to mix, to mingle, a mixture. Of this root,\nonly أَمْشَاج ʾamshāj occurs once in the Qur’an.\n\nأَمْشَاج ʾamshāj [pl. of مَشِيج mashīj; مَشْج mashj; مَشِج mashij; or\nمَشَج mashaj] mixture, composite, union (76:2) إِنَّا خَلَقْنَا الْإِنْسَانَ مِنْ نُطْفَةٍ\nأَمْشَاجٍ We created man from a composite drop of sperm-fluid."
+    }
+  ],
   "occurrences": [
     "76:2:6"
   ]

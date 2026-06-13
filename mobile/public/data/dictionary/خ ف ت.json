@@ -1,9 +1,17 @@
 {
-  "id": 1029,
   "root": "خ ف ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخفي - خفت\n\n(خفت) الخاء والفاء والتاء أصلٌ واحدٌ، وهو إسرارٌ وكتمان. فالخَفْتُ: إسرار النُّطْق. وتخافَتَ الرّجُلانِ. قال الله تعالى: ] يَتَخَافَتُونَ بَيْنَهُمْ [ [طه 103]. ثم قال الشاعر:\n\nخفج - خفد - خفر - خفع\n\nوشَتَّانَ بينَ الجَهْرِ وَالمَنْطِق الخَفْتِ\n\nأُخاطِبُ جَهْراً إذْ لهنّ تَخافُتٌ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخفي - خفت\n\n(خفت) الخاء والفاء والتاء أصلٌ واحدٌ، وهو إسرارٌ وكتمان. فالخَفْتُ: إسرار النُّطْق. وتخافَتَ الرّجُلانِ. قال الله تعالى: ] يَتَخَافَتُونَ بَيْنَهُمْ [ [طه 103]. ثم قال الشاعر:\n\nخفج - خفد - خفر - خفع\n\nوشَتَّانَ بينَ الجَهْرِ وَالمَنْطِق الخَفْتِ\n\nأُخاطِبُ جَهْراً إذْ لهنّ تَخافُتٌ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "خ/ف/ت kh–f–t weakness caused by hunger, to become feeble; to become inaudible, to die down, to become soft, (of voice) to become subdued, to become still, to die suddenly. Of this root, two forms occur three times in the Qur’an: تُخَافِتْ tukhāfit once; and يَتَخَافَتْ yatakhāfat twice.\nتُخَافِتْ tukhāfit [imperf. of v. III خَافَتَ khāfata, intrans.] to endeavour to muffle one’s voice, to keep one’s voice inaudible (17:110) وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا and do not be loud in your prayer, or too quiet, but seek between these [lit. this] a way.\n\nيَتَخَافَتْ yatakhāfat [imperf. of v. VI تَخَافَتَ takhāfata, intrans.] to enjoin quietness on one another, to hold an exchange in low voices, to whisper (68:23) فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ so they went off, speaking to each other in whispers.",
+      "definition_english": "خ/ف/ت kh–f–t weakness caused by hunger, to become feeble; to become inaudible, to die down, to become soft, (of voice) to become subdued, to become still, to die suddenly. Of this root, two forms occur three times in the Qur’an: تُخَافِتْ tukhāfit once; and يَتَخَافَتْ yatakhāfat twice.\nتُخَافِتْ tukhāfit [imperf. of v. III خَافَتَ khāfata, intrans.] to endeavour to muffle one’s voice, to keep one’s voice inaudible (17:110) وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا and do not be loud in your prayer, or too quiet, but seek between these [lit. this] a way.\n\nيَتَخَافَتْ yatakhāfat [imperf. of v. VI تَخَافَتَ takhāfata, intrans.] to enjoin quietness on one another, to hold an exchange in low voices, to whisper (68:23) فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ so they went off, speaking to each other in whispers."
+    }
+  ],
   "occurrences": [
     "17:110:17",
     "20:103:1",

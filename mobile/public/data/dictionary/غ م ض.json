@@ -1,9 +1,22 @@
 {
-  "id": 2771,
   "root": "غ م ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغمص - غمض\n\n(غمض) الغين والميم والضاد أصلٌ صحيح يدلُّ على تطامُنٍ في الشَّيء وتداخُل. فالغَمْض: ما تطامَنَ من الأرض، وجمعه غُموض. ثم يقال: غَمَض الشَّيءُ من العِلم وغيرِه، فهو غامض، ودارٌ غامضةٌ، إذا لم تكن شارعةًَ بارزة.\n\nغمط - غمق - غمل\n\nونسبٌ غامضٌ: لا يُعرَف. وغمّض عينه وأغمَضَها بمعنىً. وهو قياس الباب. ويقال: ما ذُقْتُ غُمْضاً من النَّوم ولا غَِماضاً، أي كقدر ما تُغمَض فيه العين. ويقال: أغْمِضْ لي فيما بِعتَني، كأنَّك تريدُ الزِّيادةَ منه لرداءته والحطَّ من ثمنه. وهو أيضاً من إغماض العَين، أي اتركْه كأنَّك لا تراه. والمغَمِّضات: الذُّنوب يركبها الرَّجلُ وهو يَعرِفها لكنّه يغمّض عنها كأنّه لم يَرَها. ويقال: غُمِّضَت النّاقةُ، إذا رُدَّت عن الحَوض فحَمَلَت على الذَّائد مُغَمِّضة عينَينها فورَدَتْ. قال أبو النجم:\n\n* يُرسِلُها التَّغميضُ إن لم تُرسَلِ *\n\nوأغْمَضْت حدَّ السَّيف، إذا رقّقته، أي كأنَّك لرقَّته أخفيتَه عن العُيون.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغمص - غمض\n\n(غمض) الغين والميم والضاد أصلٌ صحيح يدلُّ على تطامُنٍ في الشَّيء وتداخُل. فالغَمْض: ما تطامَنَ من الأرض، وجمعه غُموض. ثم يقال: غَمَض الشَّيءُ من العِلم وغيرِه، فهو غامض، ودارٌ غامضةٌ، إذا لم تكن شارعةًَ بارزة.\n\nغمط - غمق - غمل\n\nونسبٌ غامضٌ: لا يُعرَف. وغمّض عينه وأغمَضَها بمعنىً. وهو قياس الباب. ويقال: ما ذُقْتُ غُمْضاً من النَّوم ولا غَِماضاً، أي كقدر ما تُغمَض فيه العين. ويقال: أغْمِضْ لي فيما بِعتَني، كأنَّك تريدُ الزِّيادةَ منه لرداءته والحطَّ من ثمنه. وهو أيضاً من إغماض العَين، أي اتركْه كأنَّك لا تراه. والمغَمِّضات: الذُّنوب يركبها الرَّجلُ وهو يَعرِفها لكنّه يغمّض عنها كأنّه لم يَرَها. ويقال: غُمِّضَت النّاقةُ، إذا رُدَّت عن الحَوض فحَمَلَت على الذَّائد مُغَمِّضة عينَينها فورَدَتْ. قال أبو النجم:\n\n* يُرسِلُها التَّغميضُ إن لم تُرسَلِ *\n\nوأغْمَضْت حدَّ السَّيف، إذا رقّقته، أي كأنَّك لرقَّته أخفيتَه عن العُيون.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "religion, and do not say anything about God except the truth.\n",
+      "definition_english": "religion, and do not say anything about God except the truth.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–m–ḍ to sleep, to close one’s eyes; to let go; to be obscure; to travel through unchartered land; to lower the price of goods because of their inferior quality; to ignore; to examine carefully. Of this root, only تُغْمِضُوا tughmiḍū occurs once in the Qurʾan.\nتُغْمِض tughmiḍ [imperf. of v. trans. with prep. فِي] to have the price of an article brought down because of its inferior quality (2:267) وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ وَلَسْتُمْ بِآخِذِيهِ إِلَّا أَنْ تُغْمِضُوا فِيهِ do not select the bad things from it [your property] for charity when you\n\n676",
+      "definition_english": "gh–m–ḍ to sleep, to close one’s eyes; to let go; to be obscure; to travel through unchartered land; to lower the price of goods because of their inferior quality; to ignore; to examine carefully. Of this root, only تُغْمِضُوا tughmiḍū occurs once in the Qurʾan.\nتُغْمِض tughmiḍ [imperf. of v. trans. with prep. فِي] to have the price of an article brought down because of its inferior quality (2:267) وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ وَلَسْتُمْ بِآخِذِيهِ إِلَّا أَنْ تُغْمِضُوا فِيهِ do not select the bad things from it [your property] for charity when you\n\n676"
+    }
+  ],
   "occurrences": [
     "2:267:23"
   ]

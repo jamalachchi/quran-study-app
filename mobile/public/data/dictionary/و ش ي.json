@@ -1,9 +1,17 @@
 {
-  "id": 4420,
   "root": "و ش ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوسل - وسم\n\n(وشي) الواو والشين والحرف المعتل: أصلانِ، أحدُهما يدلُّ على تحسينِ شيءٍ وتزيينه ، والآخر على نَماءٍ وزيادة.\n\nالأوَّل: وشَيْتُ الثَّوبَ أشِيهِ وَشْياً. ويقولون للذي يَكْذِب ويَنُِمُّ ويُزخرِفُ كلامَه: قد وَشَى، وهو واشٍ.\n\nوالأصل الآخر: المرأة الواشية: الكثيرة الوَلَد. ويقال ذلك لكلِّ ما يَلِد. والواشي: الرّجُل الكثير النَّسْل. والوَشْيُ: الكثْرة. ووَشَى بَنُو فلانٍ: كَثُروا. ومَا وَشَتْ هذه الماشيةُ عِندي، أي ما وَلَدت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوسل - وسم\n\n(وشي) الواو والشين والحرف المعتل: أصلانِ، أحدُهما يدلُّ على تحسينِ شيءٍ وتزيينه ، والآخر على نَماءٍ وزيادة.\n\nالأوَّل: وشَيْتُ الثَّوبَ أشِيهِ وَشْياً. ويقولون للذي يَكْذِب ويَنُِمُّ ويُزخرِفُ كلامَه: قد وَشَى، وهو واشٍ.\n\nوالأصل الآخر: المرأة الواشية: الكثيرة الوَلَد. ويقال ذلك لكلِّ ما يَلِد. والواشي: الرّجُل الكثير النَّسْل. والوَشْيُ: الكثْرة. ووَشَى بَنُو فلانٍ: كَثُروا. ومَا وَشَتْ هذه الماشيةُ عِندي، أي ما وَلَدت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–sh–y blotch of colour; to ornament; to speak in a sweet\ndeceptive manner, to gossip; to increase in wealth, to prise out\ninformation gently. Of this root, شِيَة shiyatun, occurs once in the\nQur’an.\n\nشِيَة shiyatun [n.] blotch of colour, blemish (2:71) مُسَلَّمَةٌ لَا شِيَةَ فِيهَا\nit is a perfect [cow], without a blemish on it.",
+      "definition_english": "w–sh–y blotch of colour; to ornament; to speak in a sweet\ndeceptive manner, to gossip; to increase in wealth, to prise out\ninformation gently. Of this root, شِيَة shiyatun, occurs once in the\nQur’an.\n\nشِيَة shiyatun [n.] blotch of colour, blemish (2:71) مُسَلَّمَةٌ لَا شِيَةَ فِيهَا\nit is a perfect [cow], without a blemish on it."
+    }
+  ],
   "occurrences": [
     "2:71:15"
   ]

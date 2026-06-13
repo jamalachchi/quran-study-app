@@ -1,8 +1,11 @@
 {
-  "id": 4216,
   "root": "ه ذ ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهدج\n\n(هذف) الهاء والذال والفاء. يقال سائقٌ هذَّافٌ: جادٌّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهدج\n\n(هذف) الهاء والذال والفاء. يقال سائقٌ هذَّافٌ: جادٌّ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

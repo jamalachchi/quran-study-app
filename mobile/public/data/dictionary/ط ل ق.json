@@ -1,9 +1,17 @@
 {
-  "id": 2400,
   "root": "ط ل ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطلع\n\n(طلق) الطاء واللام والقاف أصلٌ صحيحٌ مطّرد واحد، وهو يدلُّ على التَّخلية والإرسال. يقال انطلقَ الرّجل ينطلق انطلاقاً. ثمَّ ترجع الفروع إليه، تقول أطْلَقْتهُ إطلاقاً. والطِّلْق: الشيء الحلال، كأنَّه قد خُلِّيَ عنه فلم يُحظَر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطلع\n\n(طلق) الطاء واللام والقاف أصلٌ صحيحٌ مطّرد واحد، وهو يدلُّ على التَّخلية والإرسال. يقال انطلقَ الرّجل ينطلق انطلاقاً. ثمَّ ترجع الفروع إليه، تقول أطْلَقْتهُ إطلاقاً. والطِّلْق: الشيء الحلال، كأنَّه قد خُلِّيَ عنه فلم يُحظَر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t–l–q to be free, to free, to let go, to set off, to set out, to bring forth shoots; to be generous; to divorce. Of this root, four forms occur 23 times in the Qur’an: طَلَّق tallaqa 10 times; إِنطَلَقَ ʾintalaqa nine times; طَلَاق talāq twice and مُطَلَّقَات mutallaqāt twice.\nطَلَّق tallaqa [v. II, trans.] to divorce, to let go (2:230) فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَا أَن يَتَرَاجَعَا if he [the second husband] divorces her, there will be no blame if the two of them [the first husband and the wife] return to one another.\n\n571 ط/م/س\n\nإِنطَلَقَ ʾintalaqa [v. VII, intrans.] 1 to set out, to take off, to move off, to move on (68:23) فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ so they went off, speaking to each other in whispers 2 to function freely, to function without restriction (26:13) وَيَضِيقُ صَدْرِي وَلَا يَنطَلِقُ لِسَانِي and my chest [will] become constrained, and my tongue [will] not move.\n\nطَلَاق talāq [v. n./n.] [jur.] divorcing; divorce (2:229) الطَّلَاقُ مَرَّتَانِ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ divorce is [revocable only] twice, [after which husbands are] either to keep [the wives] equitably or release [them] with kindness; * الطلاق name of Sura 65, Medinan sura, so-named because of the reference in verses 1–7 to regulations concerning divorce.\n\nمُطَلَّقَات mutallaqāt [pl. of fem. pass. part. مُطَلَّقَة mutallaqatun] divorced women (2:241) وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ prescribed for divorced women is such maintenance as is equitable.",
+      "definition_english": "t–l–q to be free, to free, to let go, to set off, to set out, to bring forth shoots; to be generous; to divorce. Of this root, four forms occur 23 times in the Qur’an: طَلَّق tallaqa 10 times; إِنطَلَقَ ʾintalaqa nine times; طَلَاق talāq twice and مُطَلَّقَات mutallaqāt twice.\nطَلَّق tallaqa [v. II, trans.] to divorce, to let go (2:230) فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَا أَن يَتَرَاجَعَا if he [the second husband] divorces her, there will be no blame if the two of them [the first husband and the wife] return to one another.\n\n571 ط/م/س\n\nإِنطَلَقَ ʾintalaqa [v. VII, intrans.] 1 to set out, to take off, to move off, to move on (68:23) فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ so they went off, speaking to each other in whispers 2 to function freely, to function without restriction (26:13) وَيَضِيقُ صَدْرِي وَلَا يَنطَلِقُ لِسَانِي and my chest [will] become constrained, and my tongue [will] not move.\n\nطَلَاق talāq [v. n./n.] [jur.] divorcing; divorce (2:229) الطَّلَاقُ مَرَّتَانِ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ divorce is [revocable only] twice, [after which husbands are] either to keep [the wives] equitably or release [them] with kindness; * الطلاق name of Sura 65, Medinan sura, so-named because of the reference in verses 1–7 to regulations concerning divorce.\n\nمُطَلَّقَات mutallaqāt [pl. of fem. pass. part. مُطَلَّقَة mutallaqatun] divorced women (2:241) وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ prescribed for divorced women is such maintenance as is equitable."
+    }
+  ],
   "occurrences": [
     "18:71:1",
     "18:74:1",

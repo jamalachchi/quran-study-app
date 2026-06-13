@@ -1,9 +1,17 @@
 {
-  "id": 1676,
   "root": "ز م ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزمع\n\n(زمل) الزاء والميم واللام أصلان: أحدهما يدلُّ علىحَملِ ثِقْل من الأثقال، والآخر صوتٌ.\n\nفالأول الزَّامِلة، وهو بعيرٌ يستظهِرُ به الرَّجل، يحملُ عليه متاعَه. يقال ازدَمَلْت الشّيءَ، إذا حملتَه. ويقال عِيالاتٌ أَزْمَلَةٌ، أي كثيرة. وهذا من الباب، كأنَّهُمْ كَلُّ أحمالٍ، لا يضطلعون ولا يطيقون أنفسَهم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزمع\n\n(زمل) الزاء والميم واللام أصلان: أحدهما يدلُّ علىحَملِ ثِقْل من الأثقال، والآخر صوتٌ.\n\nفالأول الزَّامِلة، وهو بعيرٌ يستظهِرُ به الرَّجل، يحملُ عليه متاعَه. يقال ازدَمَلْت الشّيءَ، إذا حملتَه. ويقال عِيالاتٌ أَزْمَلَةٌ، أي كثيرة. وهذا من الباب، كأنَّهُمْ كَلُّ أحمالٍ، لا يضطلعون ولا يطيقون أنفسَهم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-m-l to run fast while veering to one side, to limp; to ride\nbehind another person, a companion; to hide, to wrap oneself. Of\nthis root, المزمّل ʾal-muzzammil occurs once in the Qurʾan.\n\nالمزمّل ʾal-muzzammil [an assimilated form of act. part. مُتَزَمِّل\nmutazammil] the wrapped-up one (73:1) يَا أَيُّهَا الْمُزَّمِّلُ you [Prophet],\nenfolded in your cloak!; * المزمّل name of Sura 73, Meccan sura,\nso-named because of the reference in verse 1 to ‘the One\nEnfolded in his Cloak’, denoting the Prophet.",
+      "definition_english": "z-m-l to run fast while veering to one side, to limp; to ride\nbehind another person, a companion; to hide, to wrap oneself. Of\nthis root, المزمّل ʾal-muzzammil occurs once in the Qurʾan.\n\nالمزمّل ʾal-muzzammil [an assimilated form of act. part. مُتَزَمِّل\nmutazammil] the wrapped-up one (73:1) يَا أَيُّهَا الْمُزَّمِّلُ you [Prophet],\nenfolded in your cloak!; * المزمّل name of Sura 73, Meccan sura,\nso-named because of the reference in verse 1 to ‘the One\nEnfolded in his Cloak’, denoting the Prophet."
+    }
+  ],
   "occurrences": [
     "73:1:2"
   ]

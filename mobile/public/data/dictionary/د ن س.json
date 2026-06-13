@@ -1,8 +1,11 @@
 {
-  "id": 1219,
   "root": "د ن س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدنـي - دنب\n\n(دنس) الدال والنون والسين كلمةٌ واحدة، وهي الدَّنَس، وهو اللَّطْخ بقبيحٍ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدنـي - دنب\n\n(دنس) الدال والنون والسين كلمةٌ واحدة، وهي الدَّنَس، وهو اللَّطْخ بقبيحٍ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 2473,
   "root": "ظ ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الظاء\n\nظعن - ظفر\n\n(باب الظاء والعين وما يثلثهما)\n\n(ظعن) الظاء والعين والنون أصلٌ واحدٌ صحيحٌ يدلُّ على الشُّخوص من مكانٍ إلى مكان. تقول: ظَعَنَ يظعَن ظَعْناً وظَعَنَاً، إذا شَخَصَ. قال الله سبحانه: ] وَجَعَلَ لَكُمْ مِنْ جُلُودِ الأَنْعَامِ بُيُوتاً تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ [ . والظَّعينة، ممَّا يقال فيه فقال قوم: هي المرأة، وقال آخرُونَ: الظَّعائِنُ الهوادِجُ، كان فيها نساءٌ أو لم يكن. وهذا أصحُّ القولين؛ لأنَّه من أدوات الرَّحِيل. والظَّعُون: البعير الذي يُعَدُّ للظَّعْن. ومن الباب الظِّعَان، وهو الحبل الذي يُشَدُّ به القَتَبُ على البعيرِ، وسمِّيَ بذلك ظِعَاناً لأنه أحدُ أدواتِ السَّير والظّعن. قال:\n\nوَدفَّانِ يشتفّان كلَّ ظِعَانِ\n\nله عُنقٌ تُلوِي بما وُصِلَت به\n\n(باب الظاء والفاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الظاء\n\nظعن - ظفر\n\n(باب الظاء والعين وما يثلثهما)\n\n(ظعن) الظاء والعين والنون أصلٌ واحدٌ صحيحٌ يدلُّ على الشُّخوص من مكانٍ إلى مكان. تقول: ظَعَنَ يظعَن ظَعْناً وظَعَنَاً، إذا شَخَصَ. قال الله سبحانه: ] وَجَعَلَ لَكُمْ مِنْ جُلُودِ الأَنْعَامِ بُيُوتاً تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ [ . والظَّعينة، ممَّا يقال فيه فقال قوم: هي المرأة، وقال آخرُونَ: الظَّعائِنُ الهوادِجُ، كان فيها نساءٌ أو لم يكن. وهذا أصحُّ القولين؛ لأنَّه من أدوات الرَّحِيل. والظَّعُون: البعير الذي يُعَدُّ للظَّعْن. ومن الباب الظِّعَان، وهو الحبل الذي يُشَدُّ به القَتَبُ على البعيرِ، وسمِّيَ بذلك ظِعَاناً لأنه أحدُ أدواتِ السَّير والظّعن. قال:\n\nوَدفَّانِ يشتفّان كلَّ ظِعَانِ\n\nله عُنقٌ تُلوِي بما وُصِلَت به\n\n(باب الظاء والفاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ẓ-ʿ-n to leave, to depart, to migrate, to move around in search of pasture; camel litters in which women travel, howdaj; women travelling in the company of men. Of this root, only ظَعْنِكُمْ ẓaʿnikum occurs once in the Qurʾan.\nظَعْن ẓaʿn [v. n.] journeying, travelling, in particular with the entire household (16:80) وَجَعَلَ لَكُم مِّن جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ and He has provided for you, from the hide of cattle, tents [lit. houses] that you find light on the day you travel and on the day you settle down.",
+      "definition_english": "ẓ-ʿ-n to leave, to depart, to migrate, to move around in search of pasture; camel litters in which women travel, howdaj; women travelling in the company of men. Of this root, only ظَعْنِكُمْ ẓaʿnikum occurs once in the Qurʾan.\nظَعْن ẓaʿn [v. n.] journeying, travelling, in particular with the entire household (16:80) وَجَعَلَ لَكُم مِّن جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ and He has provided for you, from the hide of cattle, tents [lit. houses] that you find light on the day you travel and on the day you settle down."
+    }
+  ],
   "occurrences": [
     "16:80:15"
   ]

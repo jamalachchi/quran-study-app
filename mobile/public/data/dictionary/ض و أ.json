@@ -1,8 +1,11 @@
 {
-  "id": 2317,
   "root": "ض و أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضمر - ضمز\n\n(ضوأ) الضاد والواو والهمزة أصلٌ صحيح، يدلُّ على نورٍ. من ذلك",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضمر - ضمز\n\n(ضوأ) الضاد والواو والهمزة أصلٌ صحيح، يدلُّ على نورٍ. من ذلك",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

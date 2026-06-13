@@ -1,8 +1,11 @@
 {
-  "id": 1951,
   "root": "ش ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشب - شت\n\n(شث) الشين والثاء ليس بأصل، إنما هو الشّثُّ: شَجر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشب - شت\n\n(شث) الشين والثاء ليس بأصل، إنما هو الشّثُّ: شَجر.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

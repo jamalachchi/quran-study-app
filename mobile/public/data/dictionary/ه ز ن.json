@@ -1,8 +1,11 @@
 {
-  "id": 4239,
   "root": "ه ز ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهزع\n\n(هزن) الهاء والزاء والنون ليس فيه إلا هَوازِن: قبيلة. يقولون: الهَوْزَن: الغُبار. والهَوْزَن: طائر .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهزع\n\n(هزن) الهاء والزاء والنون ليس فيه إلا هَوازِن: قبيلة. يقولون: الهَوْزَن: الغُبار. والهَوْزَن: طائر .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

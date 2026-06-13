@@ -1,8 +1,11 @@
 {
-  "id": 1678,
   "root": "ز ن ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزني\n\n(زنج) الزاء والنون والجيم ليس بشيء. على أَنهم يقولون الزَّنَج: العطش، ولا قياس لذلك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزني\n\n(زنج) الزاء والنون والجيم ليس بشيء. على أَنهم يقولون الزَّنَج: العطش، ولا قياس لذلك.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

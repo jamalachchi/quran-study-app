@@ -1,9 +1,17 @@
 {
-  "id": 4555,
   "root": "ي ق ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الياء\n\nيعر\n\n(يقن) الياء والقاف والنون: اليَقَن واليَقين: زَوال الشَّكِّ. يقال يَقِنْت، واستَيْقَنْت، وأيْقَنْت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الياء\n\nيعر\n\n(يقن) الياء والقاف والنون: اليَقَن واليَقين: زَوال الشَّكِّ. يقال يَقِنْت، واستَيْقَنْت، وأيْقَنْت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "y–q–n to be certain, to verify; conviction, unshakeable belief.\nOf this root, five forms occur 28 times in the Qur’an: يُوقِن yūqin\n12 times; اِسْتَيْقَنَ ʾistayqana twice; يَقِين yaqīn eight times; مُوقِنُون\nmūqinūn five times and مُسْتَيْقِنُون mustayqinūn once.\n\nيُوقِن yūqin [imperf. of v. IV أَيْقَنَ ʾayqana, intrans.] to firmly\nbelieve (2:4) وَبِالْآخِرَةِ هُمْ يُوقِنُونَ and in the Hereafter they firmly\nbelieve.\n\nاِسْتَيْقَنَ ʾistayqana [v. X] I [intrans.] to reach a firm belief\n(74:31) لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ that those who were given the Book\nbecome certain II [trans.] to find something absolutely certain, to\nascertain, to verify (27:14) وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا they\ndenied them, even though their souls acknowledged them as true,\nout of wickedness and arrogance.\n\nيَقِين yaqīn I [n.] a certainty (74:47) حَتَّى أَتَانَا الْيَقِينُ until the\nCertainty [death] came upon us II [quasi-act. part.] certain, sure\n(27:22) وَجِئْتُكَ مِنْ سَبَإٍ بِنَبَإٍ يَقِينٍ and I came to you from Sheba with a\nsure item of news.\n\nمُوقِنُون mūqinūn [pl. of act. part. مُوقِن mūqin] one who firmly\nbelieves, one who is certain, sure (6:75) وَلِيَكُونَ مِنَ الْمُوقِنِينَ that he\nmight be one of the firm believers.\n\nمُسْتَيْقِنُون mustayqinūn [pl. of act. part. مُسْتَيْقِن mustayqin] one\nwho has verified his beliefs, one who is absolutely certain,\nassured (45:32) إِنْ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ we only hazard a\nguess; we are not unshakably certain.\n\nيَمّ yamm [n., said to be of Syriac, Hebrew or Coptic origin; it appears\n\n1059",
+      "definition_english": "y–q–n to be certain, to verify; conviction, unshakeable belief.\nOf this root, five forms occur 28 times in the Qur’an: يُوقِن yūqin\n12 times; اِسْتَيْقَنَ ʾistayqana twice; يَقِين yaqīn eight times; مُوقِنُون\nmūqinūn five times and مُسْتَيْقِنُون mustayqinūn once.\n\nيُوقِن yūqin [imperf. of v. IV أَيْقَنَ ʾayqana, intrans.] to firmly\nbelieve (2:4) وَبِالْآخِرَةِ هُمْ يُوقِنُونَ and in the Hereafter they firmly\nbelieve.\n\nاِسْتَيْقَنَ ʾistayqana [v. X] I [intrans.] to reach a firm belief\n(74:31) لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ that those who were given the Book\nbecome certain II [trans.] to find something absolutely certain, to\nascertain, to verify (27:14) وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا they\ndenied them, even though their souls acknowledged them as true,\nout of wickedness and arrogance.\n\nيَقِين yaqīn I [n.] a certainty (74:47) حَتَّى أَتَانَا الْيَقِينُ until the\nCertainty [death] came upon us II [quasi-act. part.] certain, sure\n(27:22) وَجِئْتُكَ مِنْ سَبَإٍ بِنَبَإٍ يَقِينٍ and I came to you from Sheba with a\nsure item of news.\n\nمُوقِنُون mūqinūn [pl. of act. part. مُوقِن mūqin] one who firmly\nbelieves, one who is certain, sure (6:75) وَلِيَكُونَ مِنَ الْمُوقِنِينَ that he\nmight be one of the firm believers.\n\nمُسْتَيْقِنُون mustayqinūn [pl. of act. part. مُسْتَيْقِن mustayqin] one\nwho has verified his beliefs, one who is absolutely certain,\nassured (45:32) إِنْ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ we only hazard a\nguess; we are not unshakably certain.\n\nيَمّ yamm [n., said to be of Syriac, Hebrew or Coptic origin; it appears\n\n1059"
+    }
+  ],
   "occurrences": [
     "102:5:5",
     "102:7:4",

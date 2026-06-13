@@ -1,8 +1,16 @@
 {
-  "id": 3516,
   "root": "ل ج أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لجأ) اللام والجيم والهمزة كلمة واحدة، وهي اللَّجَأ والملجأ: المكان يُلتجَأ إليه. يقال: لجأت والتجأت. وقال في اللَّجَأ:\n\nلجب لحد لحز\n\nيا حَرَّ كَفَّيَّ من حَفْر القراميصِ\n\nجاء الشِّتاءُ ولمَّا أَتَّخِذْ لَجَأَ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لجأ) اللام والجيم والهمزة كلمة واحدة، وهي اللَّجَأ والملجأ: المكان يُلتجَأ إليه. يقال: لجأت والتجأت. وقال في اللَّجَأ:\n\nلجب لحد لحز\n\nيا حَرَّ كَفَّيَّ من حَفْر القراميصِ\n\nجاء الشِّتاءُ ولمَّا أَتَّخِذْ لَجَأَ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–j–ʾ refuge, shelter, retreat; to appeal to someone for help, to\nhave recourse to; to compel. Of this root, only مَلْجَأ maljaʾ occurs\nthree times in the Qur’an.\n\nمَلْجَأ maljaʾ [v. n./n of place] refuge, place of refuge, sanctuary\n(9:57) لَوْ يَجِدُونَ مَلْجَأً if they could find a place of refuge; or a cave;\nor somewhere to crawl into; they would bolt away to it in great\nhaste.",
+      "definition_english": "l–j–ʾ refuge, shelter, retreat; to appeal to someone for help, to\nhave recourse to; to compel. Of this root, only مَلْجَأ maljaʾ occurs\nthree times in the Qur’an.\n\nمَلْجَأ maljaʾ [v. n./n of place] refuge, place of refuge, sanctuary\n(9:57) لَوْ يَجِدُونَ مَلْجَأً if they could find a place of refuge; or a cave;\nor somewhere to crawl into; they would bolt away to it in great\nhaste."
+    }
+  ],
   "occurrences": []
 }

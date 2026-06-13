@@ -1,9 +1,17 @@
 {
-  "id": 691,
   "root": "ج و د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجود - جور\n\n* فللصَّخْرِ من جَوْخِ السّيُولِ وجيبُ *\n\nذكره ابن دريد، وذكر غيره: تجوَّخَتِ البئرُ انهارَت.\n\nوالمعرّب من ذلك الجَوْخَان، وهو البيدر .\n\n(جود) الجيم والواد والدال أصلٌ واحد، وهو التسمُّح بالشيء، وكثْرةُ العَطاء. يقال رجلٌ جَوَادٌ بَيِّن الجُودِ، وقومٌ أجْواد. والجَوْد: المطر الغزير. والجَواد: الفرسُ الذّريع والسّريع، والجمع* جِيادٌ. قال الله تعالى ] إذْ عُرِضَ عَلَيْهِ بِالعَشِيِّ الصَّافِنَاتُ الجِيَادُ [ [ص 31]. والمصدر الجُودَة. فأمّا قولهم: فلانٌ يُجاد إلى كذا، [فـ] كَأنه يُساقُ إليه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجود - جور\n\n* فللصَّخْرِ من جَوْخِ السّيُولِ وجيبُ *\n\nذكره ابن دريد، وذكر غيره: تجوَّخَتِ البئرُ انهارَت.\n\nوالمعرّب من ذلك الجَوْخَان، وهو البيدر .\n\n(جود) الجيم والواد والدال أصلٌ واحد، وهو التسمُّح بالشيء، وكثْرةُ العَطاء. يقال رجلٌ جَوَادٌ بَيِّن الجُودِ، وقومٌ أجْواد. والجَوْد: المطر الغزير. والجَواد: الفرسُ الذّريع والسّريع، والجمع* جِيادٌ. قال الله تعالى ] إذْ عُرِضَ عَلَيْهِ بِالعَشِيِّ الصَّافِنَاتُ الجِيَادُ [ [ص 31]. والمصدر الجُودَة. فأمّا قولهم: فلانٌ يُجاد إلى كذا، [فـ] كَأنه يُساقُ إليه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–w–d horses, to seek a horse; generosity, generous person; goodness, excellence, nobility; rain-laden clouds. Of this root, two forms occur once each in the Qurʾan: ٱلْجُودِىّ ʾal-Jūdiyyu and جِيَاد jiyād.\nٱلْجُودِىّ ʾal-Jūdiyy [proper name] the mountain upon which Noah’s ark settled, traditionally identified with Mount Ararat located in either Armenia or Syria and now said to be in Turkey (11:44) وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ and it [the Ark] settled on [Mount] Jūdiyy.\n\nجِيَاد jiyād [pl. of n./quasi act. part. جَوَاد jawād] horses, chargers; magnificent, the select, well-bred (38:31) إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ … when, at the close of the day, well-bred light-footed horses were paraded before him …",
+      "definition_english": "j–w–d horses, to seek a horse; generosity, generous person; goodness, excellence, nobility; rain-laden clouds. Of this root, two forms occur once each in the Qurʾan: ٱلْجُودِىّ ʾal-Jūdiyyu and جِيَاد jiyād.\nٱلْجُودِىّ ʾal-Jūdiyy [proper name] the mountain upon which Noah’s ark settled, traditionally identified with Mount Ararat located in either Armenia or Syria and now said to be in Turkey (11:44) وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ and it [the Ark] settled on [Mount] Jūdiyy.\n\nجِيَاد jiyād [pl. of n./quasi act. part. جَوَاد jawād] horses, chargers; magnificent, the select, well-bred (38:31) إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ … when, at the close of the day, well-bred light-footed horses were paraded before him …"
+    }
+  ],
   "occurrences": [
     "38:31:6"
   ]

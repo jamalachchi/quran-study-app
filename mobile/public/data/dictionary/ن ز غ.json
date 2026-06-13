@@ -1,9 +1,17 @@
 {
-  "id": 3977,
   "root": "ن ز غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنزع\n\n(نزغ) النون والزاء والغين كلمةٌ تدلُّ على إفسادٍ بين اثنين. ونَزَغَ بينَ القوم: أفسَدَ ذاتَ بَيْنِهم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنزع\n\n(نزغ) النون والزاء والغين كلمةٌ تدلُّ على إفسادٍ بين اثنين. ونَزَغَ بينَ القوم: أفسَدَ ذاتَ بَيْنِهم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–z–gh jab, nudge, to poke someone (with a finger or a spear);\nto sow dissension, to incite hatred, to insinuate, to defame. Of this\nroot, two forms occur six times in the Qur’an: نَزَغَ nazagha four\ntimes and نَزْغ nazgh twice.\n\nنَزَغَ nazagha a I [v. intrans. with بَيْن] to sow dissension, to plant\nhatred (12:100) مِنْ بَعْدِ أَنْ نَزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ إِخْوَتِي after Satan\nsowed discord between me and my brothers II [v. trans.] to\ninsinuate evil thoughts (7:200) وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ if\nan evil prompting from Satan should touch you, seek refuge with\nGod.\n\nنَزْغ nazgh [v. n.] act of insinuating evil in the hearts of people,\nplanting evil thoughts (41:36) وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ if\nan evil prompting from Satan should touch you, seek refuge with\nGod.",
+      "definition_english": "n–z–gh jab, nudge, to poke someone (with a finger or a spear);\nto sow dissension, to incite hatred, to insinuate, to defame. Of this\nroot, two forms occur six times in the Qur’an: نَزَغَ nazagha four\ntimes and نَزْغ nazgh twice.\n\nنَزَغَ nazagha a I [v. intrans. with بَيْن] to sow dissension, to plant\nhatred (12:100) مِنْ بَعْدِ أَنْ نَزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ إِخْوَتِي after Satan\nsowed discord between me and my brothers II [v. trans.] to\ninsinuate evil thoughts (7:200) وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ if\nan evil prompting from Satan should touch you, seek refuge with\nGod.\n\nنَزْغ nazgh [v. n.] act of insinuating evil in the hearts of people,\nplanting evil thoughts (41:36) وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ if\nan evil prompting from Satan should touch you, seek refuge with\nGod."
+    }
+  ],
   "occurrences": [
     "12:100:33",
     "17:53:9",

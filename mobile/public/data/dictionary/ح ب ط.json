@@ -1,9 +1,17 @@
 {
-  "id": 910,
   "root": "ح ب ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحبس\n\n(حبط) الحاء والباء والطاء أصلٌ واحدٌ يدلُّ على بطلانٍ أو ألَمٍ. يقال: أحبط اللهُ عملَ الكافر، أي أبطله.\n\nحبق - حبك - حبل\n\nوأمّا الألَم فالحَبَط: أن تأكل الدَّابةُ حَتَّى تُنْفَخ لذلك بطنُها. قال رسول الله صلى الله عليه وآله وسلم: \"إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ\".\n\nوسُمِّي الحارثُ الحَبَِطَ لأنّه كان في سفرٍ؛ فأصابه مثلُ هذا. وهم هؤلاء الذين يُسَمَّوْن الحَبِطَاتِ من تميم.\n\nومما يقرب من هذا الباب حَبِطَ الجِلدُ، إذا كانت به جراحٌ فَبَرَأت وبقيتْ بها آثارٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحبس\n\n(حبط) الحاء والباء والطاء أصلٌ واحدٌ يدلُّ على بطلانٍ أو ألَمٍ. يقال: أحبط اللهُ عملَ الكافر، أي أبطله.\n\nحبق - حبك - حبل\n\nوأمّا الألَم فالحَبَط: أن تأكل الدَّابةُ حَتَّى تُنْفَخ لذلك بطنُها. قال رسول الله صلى الله عليه وآله وسلم: \"إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ\".\n\nوسُمِّي الحارثُ الحَبَِطَ لأنّه كان في سفرٍ؛ فأصابه مثلُ هذا. وهم هؤلاء الذين يُسَمَّوْن الحَبِطَاتِ من تميم.\n\nومما يقرب من هذا الباب حَبِطَ الجِلدُ، إذا كانت به جراحٌ فَبَرَأت وبقيتْ بها آثارٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ–b–ṭ cattle disease of swelling of the stomach caused by overeating and gas, to bloat; to be frustrated, to come to nothing, to be undone, to be futile, to be of no avail. Of this root, two forms occur 16 times in the Qurʾan: حَبِطَ ḥabiṭa 12 times and أَحْبَطَ ʾaḥbaṭa four times.\nحَبِطَ ḥabiṭa a [v. intrans.] to be futile, to come to nothing, to be of no avail, to be in vain (39:65) لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ if you ascribe any partner [to God], all your work will come to nothing.\n\nأَحْبَطَ ʾaḥbaṭa [v. IV, trans.] to frustrate, to cause to come to nothing, to cause to be of no avail (33:19) أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ such people have not believed, so God brings their deeds to nothing.",
+      "definition_english": "ḥ–b–ṭ cattle disease of swelling of the stomach caused by overeating and gas, to bloat; to be frustrated, to come to nothing, to be undone, to be futile, to be of no avail. Of this root, two forms occur 16 times in the Qurʾan: حَبِطَ ḥabiṭa 12 times and أَحْبَطَ ʾaḥbaṭa four times.\nحَبِطَ ḥabiṭa a [v. intrans.] to be futile, to come to nothing, to be of no avail, to be in vain (39:65) لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ if you ascribe any partner [to God], all your work will come to nothing.\n\nأَحْبَطَ ʾaḥbaṭa [v. IV, trans.] to frustrate, to cause to come to nothing, to cause to be of no avail (33:19) أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ such people have not believed, so God brings their deeds to nothing."
+    }
+  ],
   "occurrences": [
     "11:16:9",
     "18:105:7",

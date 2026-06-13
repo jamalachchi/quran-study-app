@@ -1,9 +1,22 @@
 {
-  "id": 1899,
   "root": "س ح ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسحر - سحط\n\n(سحق) السين والحاء والقاف أصلان: أحدهما البعد، والآخر إنهاك الشَيء حتى يُبلغ به إلى حال البِلَى.\n\nفالأوّل السُّحْق، وهو البُعد، قال الله جلَّ ثناؤه: ] فَسُحْقاً لأَصْحابِ السَّعِيرِ [ [الملك 11]. والسَّحُوق: النَّخلة الطويلة، وسمِّيت بذلك لبعد أعلاها عن الأرض.\n\nوالأصل الثاني: سَحَقت الشيء أسحَقُهُ سَحقاً. والسَّحْق: الثوب البالي. ويقال سَحَقه البِلى فانسحق. ويستعار هذا حتَّى يقال إنَّ العين تسحق الدَّمع سحقاً. وأسحق الشَّيءُ، إذا انضمر وانضمّ. وأسحَقَ الضَّرعُ، إذا ذهب لبنُهُ وبَلِيَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسحر - سحط\n\n(سحق) السين والحاء والقاف أصلان: أحدهما البعد، والآخر إنهاك الشَيء حتى يُبلغ به إلى حال البِلَى.\n\nفالأوّل السُّحْق، وهو البُعد، قال الله جلَّ ثناؤه: ] فَسُحْقاً لأَصْحابِ السَّعِيرِ [ [الملك 11]. والسَّحُوق: النَّخلة الطويلة، وسمِّيت بذلك لبعد أعلاها عن الأرض.\n\nوالأصل الثاني: سَحَقت الشيء أسحَقُهُ سَحقاً. والسَّحْق: الثوب البالي. ويقال سَحَقه البِلى فانسحق. ويستعار هذا حتَّى يقال إنَّ العين تسحق الدَّمع سحقاً. وأسحق الشَّيءُ، إذا انضمر وانضمّ. وأسحَقَ الضَّرعُ، إذا ذهب لبنُهُ وبَلِيَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مسحورا you are only following a man who is bewitched.\nمسحرين musaḥḥarīn [pl. of pass. part. مسحّر musaḥḥar]\ncompletely bewitched; one who created with a stomach and lungs\nin order to eat, drink and breathe, i.e. a mere human being\n*(26:185) إن أنت من المسحرين but they replied, ‘You are bewitched’\n(or, only a human being) [lit. you are one created with stomach\nand other organs for eating and drinking].\n\nسحر saḥar [n.; pl. أسحار ʾashār] dawn, the time just before\ndawn, the small hours of the night (3:17) والمستغفرين بالأسحار and\nthose praying for forgiveness before dawn.",
+      "definition_english": "مسحورا you are only following a man who is bewitched.\nمسحرين musaḥḥarīn [pl. of pass. part. مسحّر musaḥḥar]\ncompletely bewitched; one who created with a stomach and lungs\nin order to eat, drink and breathe, i.e. a mere human being\n*(26:185) إن أنت من المسحرين but they replied, ‘You are bewitched’\n(or, only a human being) [lit. you are one created with stomach\nand other organs for eating and drinking].\n\nسحر saḥar [n.; pl. أسحار ʾashār] dawn, the time just before\ndawn, the small hours of the night (3:17) والمستغفرين بالأسحار and\nthose praying for forgiveness before dawn."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–ḥ–q to grind into fine dust; to be far off, to go very deeply.\nOf this root, two words occur once each in the Qur’an: سحقا\nsuḥqan and سحيق saḥīq.\n\nسحقا suḥqan [v. n. used interjectionally] away with! (67:11)\nفسحقا لأصحاب السعير away with the inhabitants of the blazing Fire.\n\nسحيق saḥīq [quasi-act. part.] distant; faraway, very deep\n(22:31) أو تهوي به الريح في مكان سحيق or the wind flings him in a\nfaraway place.\n\nإسحق ʾisḥāq (see alphabetically).",
+      "definition_english": "s–ḥ–q to grind into fine dust; to be far off, to go very deeply.\nOf this root, two words occur once each in the Qur’an: سحقا\nsuḥqan and سحيق saḥīq.\n\nسحقا suḥqan [v. n. used interjectionally] away with! (67:11)\nفسحقا لأصحاب السعير away with the inhabitants of the blazing Fire.\n\nسحيق saḥīq [quasi-act. part.] distant; faraway, very deep\n(22:31) أو تهوي به الريح في مكان سحيق or the wind flings him in a\nfaraway place.\n\nإسحق ʾisḥāq (see alphabetically)."
+    }
+  ],
   "occurrences": [
     "22:31:21",
     "67:11:3"

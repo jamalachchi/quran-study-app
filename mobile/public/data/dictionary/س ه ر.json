@@ -1,9 +1,17 @@
 {
-  "id": 1839,
   "root": "س ه ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسنه - سني\n\n(سهر) السين والهاء والراء معظم بابه الأرَق، وهو ذَهاب النوم. يقال سَهَرَ يَسْهَرُ سَهَراً. ويقال للأرض: السّاهرة، سمِّيت بذلك لأن عملها في النَّبت",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسنه - سني\n\n(سهر) السين والهاء والراء معظم بابه الأرَق، وهو ذَهاب النوم. يقال سَهَرَ يَسْهَرُ سَهَراً. ويقال للأرض: السّاهرة، سمِّيت بذلك لأن عملها في النَّبت",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–h–r staying up at night, insomnia; the earth’s surface, the\nEarth, desert. Of this root, only سَاهِرَة sāhiratun occurs once in the\nQurʾān.\n\nالسَّاهِرَةُ ʾal-sāhiratu [n.] flat, featureless earth (suggested also to\nmean Hell or the place of Judgement) (79:13–14) فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ\nفَإِذَا هُمْ بِالسَّاهِرَةِ all it will take is a single blast, and they will be on\nthe flat plain.",
+      "definition_english": "s–h–r staying up at night, insomnia; the earth’s surface, the\nEarth, desert. Of this root, only سَاهِرَة sāhiratun occurs once in the\nQurʾān.\n\nالسَّاهِرَةُ ʾal-sāhiratu [n.] flat, featureless earth (suggested also to\nmean Hell or the place of Judgement) (79:13–14) فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ\nفَإِذَا هُمْ بِالسَّاهِرَةِ all it will take is a single blast, and they will be on\nthe flat plain."
+    }
+  ],
   "occurrences": [
     "79:14:3"
   ]

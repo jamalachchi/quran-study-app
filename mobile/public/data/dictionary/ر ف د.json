@@ -1,9 +1,22 @@
 {
-  "id": 1447,
   "root": "ر ف د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرفث - رفد\n\n(رفد) الراء والفاء والدال أصلٌ واحدٌ مطّرد منقاس، وهو المعاوَنة والمظاهَرة بالعَطاء وغيره. فالرَّفْد مصدر رفَدَهُ يَرْفِدُه، إذا أعطاه. والاسم الرِّفْد. وجاء في الحديث: \"ويكون الفَيْء رِفْداً\"، أي يكون صِلاتٍ لا يوضَع مواضِعَه. ويقال ارتفَدْتَ من فلانٍ: أصبْتُ من كَسبه. وأُرفِدت المال: اكتسبته. والرافد: المُعين، والمُرْفِدُ أيضاً. ورفَدَ بنو فلانٍ فلاناً، إذا سَوَّدُوه عليهم وعظَّموه، وهو مرفَّد. والرّافِدانِ: دِجْلةُ والفرات. قال الفرزدق:\n\nفَزَارِيّاً أحَذَّ يَدِ القَميصِ\n\nبَعثْتَ على العِراق ورافديْهِ\n\nوترافدوا، إذا تعاوَنُوا عليه، والرِّفادة: شيءٌ كانت قريش تُرَافِدُ به في الجاهلية، يُخرِج كلُّ إنسانٍ شيئاً، ثم يشترون به للحاجِّ طعاماً وزَبيباً وشراباً. والرَّوافِد: خشب السَّقف؛ وهو من الباب؛ لأنه يُرفدَ بها السَّقْف. قال:\n\nبَخٍ لك بَخٍّ لبَحْرٍ خِضَمّْ\n\nروافِدُه أكرمُ الرّافداتِ\n\nوالمرفد: العُظَّامَة التي تعظِّم بها الرّسْحاء عَجِيزتَها. ومن الباب الرِّفْد، وهو القَدَح الضَّخم؛ وهو الرَّفْد والمِرْفَد أيضاً.\n\nرفز - رفس - رفش - رفص - رفض\n\nويقال المِرْفَد: الإناء الذي يُقْرَى فيه. والرَّفُود: الناقة تملأ الرِّفْد، وهو القدح الضخم، في حَلْبةٍ واحدة. والرُّفَيْدات: قومٌ من العرَب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرفث - رفد\n\n(رفد) الراء والفاء والدال أصلٌ واحدٌ مطّرد منقاس، وهو المعاوَنة والمظاهَرة بالعَطاء وغيره. فالرَّفْد مصدر رفَدَهُ يَرْفِدُه، إذا أعطاه. والاسم الرِّفْد. وجاء في الحديث: \"ويكون الفَيْء رِفْداً\"، أي يكون صِلاتٍ لا يوضَع مواضِعَه. ويقال ارتفَدْتَ من فلانٍ: أصبْتُ من كَسبه. وأُرفِدت المال: اكتسبته. والرافد: المُعين، والمُرْفِدُ أيضاً. ورفَدَ بنو فلانٍ فلاناً، إذا سَوَّدُوه عليهم وعظَّموه، وهو مرفَّد. والرّافِدانِ: دِجْلةُ والفرات. قال الفرزدق:\n\nفَزَارِيّاً أحَذَّ يَدِ القَميصِ\n\nبَعثْتَ على العِراق ورافديْهِ\n\nوترافدوا، إذا تعاوَنُوا عليه، والرِّفادة: شيءٌ كانت قريش تُرَافِدُ به في الجاهلية، يُخرِج كلُّ إنسانٍ شيئاً، ثم يشترون به للحاجِّ طعاماً وزَبيباً وشراباً. والرَّوافِد: خشب السَّقف؛ وهو من الباب؛ لأنه يُرفدَ بها السَّقْف. قال:\n\nبَخٍ لك بَخٍّ لبَحْرٍ خِضَمّْ\n\nروافِدُه أكرمُ الرّافداتِ\n\nوالمرفد: العُظَّامَة التي تعظِّم بها الرّسْحاء عَجِيزتَها. ومن الباب الرِّفْد، وهو القَدَح الضَّخم؛ وهو الرَّفْد والمِرْفَد أيضاً.\n\nرفز - رفس - رفش - رفص - رفض\n\nويقال المِرْفَد: الإناء الذي يُقْرَى فيه. والرَّفُود: الناقة تملأ الرِّفْد، وهو القدح الضخم، في حَلْبةٍ واحدة. والرُّفَيْدات: قومٌ من العرَب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "رَفَث rafath [v. n.; n.] 1 sexual intercourse (2:187) أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ it is permitted to you to lie with your wives during the night of the fast 2 foul or indecent speech (in an interpretation of 2:197) فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ there should be abstaining from indecent speech/sexual relations, misbehaviour or quarrelling during the time of the pilgrimage.\n",
+      "definition_english": "رَفَث rafath [v. n.; n.] 1 sexual intercourse (2:187) أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ it is permitted to you to lie with your wives during the night of the fast 2 foul or indecent speech (in an interpretation of 2:197) فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ there should be abstaining from indecent speech/sexual relations, misbehaviour or quarrelling during the time of the pilgrimage.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–f–d augmentation, addition; help, support, assistance; to deputise, a king’s deputy; to choose as a leader; share, portion, tributary. Of this root, two words occur once each in the Qur’an: رِفْد rifd and مَرْفُود marfūd.\nرِفْد rifd [v. n.; n.] addition, support, gift, a load (11:99) وَأُتْبِعُوا۟ فِى هَٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ they were pursued in this [life] by a curse and on the Day of Resurrection too; what a foul gift to be given!\n\nمَرْفُود marfūd [pass. part.] added on, loaded on, attached, given (11:99) وَأُتْبِعُوا۟ فِى هَٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ they were pursued in this [life] by a curse and on the Day of Resurrection too; what a foul gift to be given!",
+      "definition_english": "r–f–d augmentation, addition; help, support, assistance; to deputise, a king’s deputy; to choose as a leader; share, portion, tributary. Of this root, two words occur once each in the Qur’an: رِفْد rifd and مَرْفُود marfūd.\nرِفْد rifd [v. n.; n.] addition, support, gift, a load (11:99) وَأُتْبِعُوا۟ فِى هَٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ they were pursued in this [life] by a curse and on the Day of Resurrection too; what a foul gift to be given!\n\nمَرْفُود marfūd [pass. part.] added on, loaded on, attached, given (11:99) وَأُتْبِعُوا۟ فِى هَٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ they were pursued in this [life] by a curse and on the Day of Resurrection too; what a foul gift to be given!"
+    }
+  ],
   "occurrences": [
     "11:99:8",
     "11:99:9"

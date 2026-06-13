@@ -1,9 +1,17 @@
 {
-  "id": 3017,
   "root": "ف ص ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفزع\n\n(فصح) الفاء والصاد والحاء أصلٌ يدلُّ على خُلوصٍ في شيءٍ ونقاء من الشَّوب. من ذلك: اللِّسان الفصيح: الطَّليق. والكلام الفصيح: العربيّ. والأصلُ أفْصَحَ اللّ‍بَنُ: سكنت رَُِغوتُه. وأفْصَحَ الرّجل: تكلَّم بالعربيَّة. وفَصُح: جادت",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفزع\n\n(فصح) الفاء والصاد والحاء أصلٌ يدلُّ على خُلوصٍ في شيءٍ ونقاء من الشَّوب. من ذلك: اللِّسان الفصيح: الطَّليق. والكلام الفصيح: العربيّ. والأصلُ أفْصَحَ اللّ‍بَنُ: سكنت رَُِغوتُه. وأفْصَحَ الرّجل: تكلَّم بالعربيَّة. وفَصُح: جادت",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–ṣ–ḥ breaking of the dawn light; to be eloquent, to express\noneself clearly. One form of this root, أَفْصَح ʾafṣaḥ, occurs once in\nthe Qur’an.\n\nأَفْصَح ʾafṣaḥ [elat.] more/most able to express oneself,\nmore/most eloquent (28:34) وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا and my\nbrother Aaron is more eloquent than I in speech.",
+      "definition_english": "f–ṣ–ḥ breaking of the dawn light; to be eloquent, to express\noneself clearly. One form of this root, أَفْصَح ʾafṣaḥ, occurs once in\nthe Qur’an.\n\nأَفْصَح ʾafṣaḥ [elat.] more/most able to express oneself,\nmore/most eloquent (28:34) وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا and my\nbrother Aaron is more eloquent than I in speech."
+    }
+  ],
   "occurrences": [
     "28:34:4"
   ]

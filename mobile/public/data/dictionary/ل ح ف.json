@@ -1,9 +1,17 @@
 {
-  "id": 3523,
   "root": "ل ح ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لحف) اللام والحاء والفاء أصلٌ يدلُّ على اشتمالٍ وملازَمة. يقال: التَحَف باللِّحاف يلتحِف. ولاحَفَه: لازَمَه. وألْحَفَ السّائل: أَلَحَّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لحف) اللام والحاء والفاء أصلٌ يدلُّ على اشتمالٍ وملازَمة. يقال: التَحَف باللِّحاف يلتحِف. ولاحَفَه: لازَمَه. وألْحَفَ السّائل: أَلَحَّ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–ḥ–f outer garment, bedcover, to wrap up; to bestow a\nfavour, to request or ask persistently, to demand urgently. Of this\nroot, only إِلْحَاف ʾilḥāf occurs once in the Qur’an.\n\nإِلْحَاف ʾilḥāf [v. n. used adverbially] persistence, importunity\n(2:273) لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا you will recognise them by their\ncharacteristics; they do not beg people persistently.",
+      "definition_english": "l–ḥ–f outer garment, bedcover, to wrap up; to bestow a\nfavour, to request or ask persistently, to demand urgently. Of this\nroot, only إِلْحَاف ʾilḥāf occurs once in the Qur’an.\n\nإِلْحَاف ʾilḥāf [v. n. used adverbially] persistence, importunity\n(2:273) لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا you will recognise them by their\ncharacteristics; they do not beg people persistently."
+    }
+  ],
   "occurrences": [
     "2:273:22"
   ]

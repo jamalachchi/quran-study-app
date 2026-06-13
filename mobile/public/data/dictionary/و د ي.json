@@ -1,9 +1,17 @@
 {
-  "id": 4375,
   "root": "و د ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوحم - وحي\n\n(ودي) الواو والدال والحرف المعتل: ثلاثُ كلماتٍ غير منقاسة: الأولى وَدَى الفرسُ ليَضرِبَ أو يبول، إذا أدْلَى. ومنه الوَدْي: ماءٌ يخرج من الإنسان كالمَذْي.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوحم - وحي\n\n(ودي) الواو والدال والحرف المعتل: ثلاثُ كلماتٍ غير منقاسة: الأولى وَدَى الفرسُ ليَضرِبَ أو يبول، إذا أدْلَى. ومنه الوَدْي: ماءٌ يخرج من الإنسان كالمَذْي.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–d–y a place where running water gathers, (of liquid) to run,\na valley; a branch, palm tree saplings; blood money; death, to be\ntaken by death. Of this root, three forms occur 12 times in the\nQur’an: دِيَة diyatun twice; وَادِي wādī eight times and أَوْدِيَة\nʾawdiyatun twice.\n\nدِيَة diyatun [n.] indemnity or compensation paid to the family\nof a victim (4:92) وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَى أَهْلِهِ\nand whoever kills a believer by mistake, then [upon him is] freeing of a believing slave and [paying] compensation to\nhis [the victim’s] family, unless they charitably forgo [it].\n\nوَادِي wādī [n., pl. أَوْدِيَة ʾawdiyatun] 1 valley (14:37) رَبَّنَا إِنِّي أَسْكَنْتُ\nمِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِنْدَ بَيْتِكَ الْمُحَرَّمِ our Lord, I have settled some\nof my offspring in an uncultivated valley, close to Your Sacred\nHouse 2 water channel, river bed, ravine (13:17) أَنْزَلَ مِنَ السَّمَاءِ مَاءً\nفَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا He sends water from the sky, so riverbeds flow,\neach according to its capacity 3 (metaphorically) a kind of\nthought, a kind of meaning, subject (26:224–5) وَالشُّعَرَاءُ يَتَّبِعُهُمُ\nالْغَاوُونَ أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ and the poets: only those who are lost in\nerror follow them—do you not see how they freely wander from\none subject to the next [lit. rove aimlessly in every valley]?",
+      "definition_english": "w–d–y a place where running water gathers, (of liquid) to run,\na valley; a branch, palm tree saplings; blood money; death, to be\ntaken by death. Of this root, three forms occur 12 times in the\nQur’an: دِيَة diyatun twice; وَادِي wādī eight times and أَوْدِيَة\nʾawdiyatun twice.\n\nدِيَة diyatun [n.] indemnity or compensation paid to the family\nof a victim (4:92) وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَى أَهْلِهِ\nand whoever kills a believer by mistake, then [upon him is] freeing of a believing slave and [paying] compensation to\nhis [the victim’s] family, unless they charitably forgo [it].\n\nوَادِي wādī [n., pl. أَوْدِيَة ʾawdiyatun] 1 valley (14:37) رَبَّنَا إِنِّي أَسْكَنْتُ\nمِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِنْدَ بَيْتِكَ الْمُحَرَّمِ our Lord, I have settled some\nof my offspring in an uncultivated valley, close to Your Sacred\nHouse 2 water channel, river bed, ravine (13:17) أَنْزَلَ مِنَ السَّمَاءِ مَاءً\nفَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا He sends water from the sky, so riverbeds flow,\neach according to its capacity 3 (metaphorically) a kind of\nthought, a kind of meaning, subject (26:224–5) وَالشُّعَرَاءُ يَتَّبِعُهُمُ\nالْغَاوُونَ أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ and the poets: only those who are lost in\nerror follow them—do you not see how they freely wander from\none subject to the next [lit. rove aimlessly in every valley]?"
+    }
+  ],
   "occurrences": [
     "13:17:6",
     "14:37:6",

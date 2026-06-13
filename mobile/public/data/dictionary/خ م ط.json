@@ -1,9 +1,17 @@
 {
-  "id": 1051,
   "root": "خ م ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخمص\n\n(خمط) الخاء والميم والطاء أصلان: أحدهما الانجراد والمَلاسَة، والآخَر التسلُّط والصِّيَال.\n\nفأمّا الأوّل فقولهم: خَمَطْتُ الشّاةَ، وذلك [إذا] نزعْتَ جلدَها وشويتَها. فإن نُزِع الشّعر فذلك السَّمْط. وأصل ذلك من الخَمْط، وهو كلُّ شيءٍ لا شَوكَ له.\n\nوالأصل الثاني: قولُهم تخمَّطَ الفَحلُ، إذا هاج وهَدَرَ. وأصلُه مِن تخمّط البحرُ، وذلك خِبُّه والتطامُ أمواجِه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخمص\n\n(خمط) الخاء والميم والطاء أصلان: أحدهما الانجراد والمَلاسَة، والآخَر التسلُّط والصِّيَال.\n\nفأمّا الأوّل فقولهم: خَمَطْتُ الشّاةَ، وذلك [إذا] نزعْتَ جلدَها وشويتَها. فإن نُزِع الشّعر فذلك السَّمْط. وأصل ذلك من الخَمْط، وهو كلُّ شيءٍ لا شَوكَ له.\n\nوالأصل الثاني: قولُهم تخمَّطَ الفَحلُ، إذا هاج وهَدَرَ. وأصلُه مِن تخمّط البحرُ، وذلك خِبُّه والتطامُ أمواجِه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–m–ṭ type of lotus tree; bitter fruit, inedible fruit; fragrance\nof the blossoms of fruit-bearing trees; to ferment, to be haughty;\nto take by force. Of this root, خَمْط khamṭ occurs once in the\nQur’an.\n\nخَمْط khamṭ [n.] bitter fruit (also said to mean few fruits)\n(34:16) وبدلناهم بجنتيهم جنتين ذواتي أكل خمط and We replaced for them\ntheir two gardens with two others that yielded bitter fruit.",
+      "definition_english": "kh–m–ṭ type of lotus tree; bitter fruit, inedible fruit; fragrance\nof the blossoms of fruit-bearing trees; to ferment, to be haughty;\nto take by force. Of this root, خَمْط khamṭ occurs once in the\nQur’an.\n\nخَمْط khamṭ [n.] bitter fruit (also said to mean few fruits)\n(34:16) وبدلناهم بجنتيهم جنتين ذواتي أكل خمط and We replaced for them\ntheir two gardens with two others that yielded bitter fruit."
+    }
+  ],
   "occurrences": [
     "34:16:11"
   ]

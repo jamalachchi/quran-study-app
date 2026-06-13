@@ -1,8 +1,11 @@
 {
-  "id": 3060,
   "root": "ق ل خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقلت\n\n(قلخ) القاف واللام والخاء كلمة واحدةٌ، يقولون: إنَّ القَلْخ: هَدير الجمل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقلت\n\n(قلخ) القاف واللام والخاء كلمة واحدةٌ، يقولون: إنَّ القَلْخ: هَدير الجمل.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

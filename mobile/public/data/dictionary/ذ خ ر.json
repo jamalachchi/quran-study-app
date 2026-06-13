@@ -1,9 +1,17 @@
 {
-  "id": 1348,
   "root": "ذ خ ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذأب - ذأم\n\n(ذخر) الذال والخاء والراء يدلُّ على إحرازِ شيءٍ يحفظُه. يقال ذخَرْتُ الشّيءَ أَذْخَرُه ذَخْراً. فإذا قلت افتعلت من ذلك قلت ادّخرتُ. ومن الباب المذاخِر، وهو اسمٌ يجمع جَوفَ الإنسان وعُروقَه. قال منظور :\n\nفلمَّا سقيناها العَكِيس تملَّأَتْ\n\nمَذاخِرُها وازداد رَشْحاً وريدُها\n\nويقولون: ملأ البَعيرُ مَذاخِرَه، أي جوفَه. والإذْخِرُ، ليس من الباب: نبتٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذأب - ذأم\n\n(ذخر) الذال والخاء والراء يدلُّ على إحرازِ شيءٍ يحفظُه. يقال ذخَرْتُ الشّيءَ أَذْخَرُه ذَخْراً. فإذا قلت افتعلت من ذلك قلت ادّخرتُ. ومن الباب المذاخِر، وهو اسمٌ يجمع جَوفَ الإنسان وعُروقَه. قال منظور :\n\nفلمَّا سقيناها العَكِيس تملَّأَتْ\n\nمَذاخِرُها وازداد رَشْحاً وريدُها\n\nويقولون: ملأ البَعيرُ مَذاخِرَه، أي جوفَه. والإذْخِرُ، ليس من الباب: نبتٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–kh–r the lower section of the stomach, stored provisions, treasure, to select, to store up, to treasure. Of this root, only تَدَّخِرُون taddakhirūn occurs once in the Qur’an.\nتَدَّخِر taddakhir [imperf. of v. VIII ادَّخَر iddakhara, an assimilated form of اِذْتَخَر idhtakhara, trans.] to store up (3:49) ... وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ ... and I tell you what you eat (or, what you may eat) and what you store (or, what you may store) in your houses ....",
+      "definition_english": "dh–kh–r the lower section of the stomach, stored provisions, treasure, to select, to store up, to treasure. Of this root, only تَدَّخِرُون taddakhirūn occurs once in the Qur’an.\nتَدَّخِر taddakhir [imperf. of v. VIII ادَّخَر iddakhara, an assimilated form of اِذْتَخَر idhtakhara, trans.] to store up (3:49) ... وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ ... and I tell you what you eat (or, what you may eat) and what you store (or, what you may store) in your houses ...."
+    }
+  ],
   "occurrences": [
     "3:49:35"
   ]

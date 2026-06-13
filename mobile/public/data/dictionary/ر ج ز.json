@@ -1,9 +1,22 @@
 {
-  "id": 1583,
   "root": "ر ج ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرجح - رجز\n\n(رجز) الراء والجيم والزاء أصلٌ يدلُّ على اضطرابٍ. من ذلك الرَّجَزُ: داءٌ يصيبُ الإبلَ في أعجازِها، فإذا ثارت النّاقةُ ارتعشَتْ فَخِذاها.\n\nومن هذا اشتقاق الرَّجَزِ من الشِّعر؛ لأنه مقطوع مضطرب . والرِّجازة: كِساءٌ يُجْعَل فيه أحجارٌ [تعلّق ] بأحد جانِبَي الهَودج إذا مالَ؛ وهو يَضطَرِبُ. والرِّجَازة أيضاً: صوفٌ يعلّق على الهَودج يُزَيَّن به. فأما الرِّجْز الذي\n\nرجس رجع\n\nهو العذاب، والذي هو الصَّنَم، في قوله جلّ ثناؤه: ] والرِّجْزَ فاهْجُرْ [ [المدثر 5]، فذاك من باب الإبدال؛ لأن أصلَه السّينُ؛ وقد ذُكِر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرجح - رجز\n\n(رجز) الراء والجيم والزاء أصلٌ يدلُّ على اضطرابٍ. من ذلك الرَّجَزُ: داءٌ يصيبُ الإبلَ في أعجازِها، فإذا ثارت النّاقةُ ارتعشَتْ فَخِذاها.\n\nومن هذا اشتقاق الرَّجَزِ من الشِّعر؛ لأنه مقطوع مضطرب . والرِّجازة: كِساءٌ يُجْعَل فيه أحجارٌ [تعلّق ] بأحد جانِبَي الهَودج إذا مالَ؛ وهو يَضطَرِبُ. والرِّجَازة أيضاً: صوفٌ يعلّق على الهَودج يُزَيَّن به. فأما الرِّجْز الذي\n\nرجس رجع\n\nهو العذاب، والذي هو الصَّنَم، في قوله جلّ ثناؤه: ] والرِّجْزَ فاهْجُرْ [ [المدثر 5]، فذاك من باب الإبدال؛ لأن أصلَه السّينُ؛ وقد ذُكِر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "رُجَّت rujjia [pass. of v. رَجَّ rajja, trans.] to be shaken, to be caused\nto quake (56:4) إِذَا رُجَّتِ الْأَرْضُ رَجًّا when the earth is shaken\nviolently.\n\nرَجّ rajj [v. n. used adverbially] the act of shaking, the act of\nquaking (56:4) إِذَا رُجَّتِ الْأَرْضُ رَجًّا when the earth is shaken\nviolently.",
+      "definition_english": "رُجَّت rujjia [pass. of v. رَجَّ rajja, trans.] to be shaken, to be caused\nto quake (56:4) إِذَا رُجَّتِ الْأَرْضُ رَجًّا when the earth is shaken\nviolently.\n\nرَجّ rajj [v. n. used adverbially] the act of shaking, the act of\nquaking (56:4) إِذَا رُجَّتِ الْأَرْضُ رَجًّا when the earth is shaken\nviolently."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–j–z ballast used to steady a camel’s hawdaj/litter, weakness;\nplague, filth, abomination, guilt, devil’s insinuation, the\nworshipping of idols. Of this root, two forms occur 10 times in\nthe Qur’an: رِجْز rijz nine times and رُجْز rujz once.\n\nرِجْز rijz [n.] punishment, affliction (7:162) فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِنَ\nالسَّمَاءِ so We sent them a punishment from heaven for\ntheir wrongdoing; *(8:11) رِجْزَ الشَّيْطَانِ Satan’s insinuation [lit.\nSatan’s affliction].\n\nرُجْز rujz [n.] filth, abomination; sinning; idolatry (74:5) وَالرُّجْزَ\nفَاهْجُرْ and shun all abominations.",
+      "definition_english": "r–j–z ballast used to steady a camel’s hawdaj/litter, weakness;\nplague, filth, abomination, guilt, devil’s insinuation, the\nworshipping of idols. Of this root, two forms occur 10 times in\nthe Qur’an: رِجْز rijz nine times and رُجْز rujz once.\n\nرِجْز rijz [n.] punishment, affliction (7:162) فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِنَ\nالسَّمَاءِ so We sent them a punishment from heaven for\ntheir wrongdoing; *(8:11) رِجْزَ الشَّيْطَانِ Satan’s insinuation [lit.\nSatan’s affliction].\n\nرُجْز rujz [n.] filth, abomination; sinning; idolatry (74:5) وَالرُّجْزَ\nفَاهْجُرْ and shun all abominations."
+    }
+  ],
   "occurrences": [
     "29:34:7",
     "2:59:13",

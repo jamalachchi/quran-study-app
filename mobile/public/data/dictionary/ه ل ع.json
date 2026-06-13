@@ -1,9 +1,17 @@
 {
-  "id": 4273,
   "root": "ه ل ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهفا - هفت\n\n(هلع) الهاء واللام والعين: يدلُّ على سُرعةٍ وحِدَّة. وناقة هِلْوَاعٌ: حديدة سريعة. ونعامةٌ هالِعٌ كذلك. ومنه الهَلَعُ في الإنسان: شِبْه الحِرْص. ورجلٌ هَلِعٌ وهَلُوع.\n\nقال ابن السِّكِّيت: رجلٌ هُلْعَة يَهْلَعُ ويَجْزَع سريعاً. ويقال: ما لَهُ هِلَّعٌ ولا هِلَّعة، أي جَدْيٌ ولا عَنَاق، وسمِّيا بذلك لنَزقِهما.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهفا - هفت\n\n(هلع) الهاء واللام والعين: يدلُّ على سُرعةٍ وحِدَّة. وناقة هِلْوَاعٌ: حديدة سريعة. ونعامةٌ هالِعٌ كذلك. ومنه الهَلَعُ في الإنسان: شِبْه الحِرْص. ورجلٌ هَلِعٌ وهَلُوع.\n\nقال ابن السِّكِّيت: رجلٌ هُلْعَة يَهْلَعُ ويَجْزَع سريعاً. ويقال: ما لَهُ هِلَّعٌ ولا هِلَّعة، أي جَدْيٌ ولا عَنَاق، وسمِّيا بذلك لنَزقِهما.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–l–ʿ to be restless, to be anxious, to be fearful; to be mean,\nto be greedy, to become hungry; a cowardly person, dread,\nanxiety, fear, impatience; a fast-running she-camel. Of this root,\nهَلُوع halūʿ occurs once in the Qur’an.\n\nهَلُوع halūʿ [intens. act. part.] variously interpreted as greedy,\ngiven to anxiety, having a restless disposition, impatient, fickle\n(70:19) إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا indeed, man was created fickle, given to\nanxiety.",
+      "definition_english": "h–l–ʿ to be restless, to be anxious, to be fearful; to be mean,\nto be greedy, to become hungry; a cowardly person, dread,\nanxiety, fear, impatience; a fast-running she-camel. Of this root,\nهَلُوع halūʿ occurs once in the Qur’an.\n\nهَلُوع halūʿ [intens. act. part.] variously interpreted as greedy,\ngiven to anxiety, having a restless disposition, impatient, fickle\n(70:19) إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا indeed, man was created fickle, given to\nanxiety."
+    }
+  ],
   "occurrences": [
     "70:19:4"
   ]

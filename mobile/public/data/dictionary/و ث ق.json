@@ -1,9 +1,17 @@
 {
-  "id": 4334,
   "root": "و ث ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وثق) الواو والثاء والقاف كلمةٌ تدلُّ على عَقْدٍ وإحكام. ووثَّقْت الشّيءَ: أحكَمْتُه. وناقةٌ موثَّقَة الخَلْق. والمِيثاق: العَهدُ المُحكَم. وهو ثِقَةٌ. وقد وَثِقْتُ به.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وثق) الواو والثاء والقاف كلمةٌ تدلُّ على عَقْدٍ وإحكام. ووثَّقْت الشّيءَ: أحكَمْتُه. وناقةٌ موثَّقَة الخَلْق. والمِيثاق: العَهدُ المُحكَم. وهو ثِقَةٌ. وقد وَثِقْتُ به.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–th–q shackles, bonds, to tie up, to secure; to be firm; to\ntrust; to pledge, covenant, to give one’s solemn agreement. Of\nthis root, six forms occur 34 times in the Qur’an: وَاثَقَ wāthaqa\nonce; يُوثِق yūthiq once; وَثَاق wathāq twice; وُثْقَى wuthqā twice; مَوْثِق\nmawthiq three times and مِيثَاق mīthāq 25 times.\n\nوَاثَقَ wāthaqa [v. III, trans.] to bind someone to oneself, to\nexchange pledges with (5:7) وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُمْ بِهِ\nso remember God’s blessing on you and the pledge with which\n\n1011",
+      "definition_english": "w–th–q shackles, bonds, to tie up, to secure; to be firm; to\ntrust; to pledge, covenant, to give one’s solemn agreement. Of\nthis root, six forms occur 34 times in the Qur’an: وَاثَقَ wāthaqa\nonce; يُوثِق yūthiq once; وَثَاق wathāq twice; وُثْقَى wuthqā twice; مَوْثِق\nmawthiq three times and مِيثَاق mīthāq 25 times.\n\nوَاثَقَ wāthaqa [v. III, trans.] to bind someone to oneself, to\nexchange pledges with (5:7) وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُمْ بِهِ\nso remember God’s blessing on you and the pledge with which\n\n1011"
+    }
+  ],
   "occurrences": [
     "12:66:18",
     "12:66:7",

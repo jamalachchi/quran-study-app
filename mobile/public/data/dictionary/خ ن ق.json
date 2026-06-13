@@ -1,9 +1,17 @@
 {
-  "id": 1062,
   "root": "خ ن ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخنق\n\nفالخَنُوفُ: النّاقةُ الليِّنة اليدينِ في السَّير. والمصدر الخِناف. قال الأعشى:\n\nيداها خِنافاً ليِّناً غيرَ أجرَدَا\n\nوأذْرَتْ برِجْلَيْها النَّفِيَّ وراجَعَتْ\n\nقالوا: والخِناف أيضاً في العُنق: أن تُمِيلَه إذا مُدّ بزِمامها. والخَنيف: جنسٌ من الكَتّان أردأ ما يكونُ منه. وفي الحديث: \"تَخَرَّقَتْ عَنَّا الخُنُف، وأحرَقَ بطونَنا التَّمر\". وقال:\n\nعَلى كالخَنِيفِ السَّحْقِ يَدعُو به الصَّدَى\n\nله قُلُبٌ عُفَّى الحِياضِ أُجُونُ\n\n(خنق) الخاء والنون والقاف أصلٌ واحد يدلُّ على ضيقٍ. فالخانق: الشِّعْب الضَّيِّق. وقال بعضُ أهل العلم: إنَّ أهل اليَمن يسمُّون الزُّقاق خانقاً. والخَنِق مصدر خَنَقَه يخنِقُه خَنِقاً . قال بعض أهل العلم: لا يقال خَنْقاً. والمِخْنَقَةُ: القِلادة.\n\nخوي - خوب - خوت\n\n{باب الخاء والواو وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخنق\n\nفالخَنُوفُ: النّاقةُ الليِّنة اليدينِ في السَّير. والمصدر الخِناف. قال الأعشى:\n\nيداها خِنافاً ليِّناً غيرَ أجرَدَا\n\nوأذْرَتْ برِجْلَيْها النَّفِيَّ وراجَعَتْ\n\nقالوا: والخِناف أيضاً في العُنق: أن تُمِيلَه إذا مُدّ بزِمامها. والخَنيف: جنسٌ من الكَتّان أردأ ما يكونُ منه. وفي الحديث: \"تَخَرَّقَتْ عَنَّا الخُنُف، وأحرَقَ بطونَنا التَّمر\". وقال:\n\nعَلى كالخَنِيفِ السَّحْقِ يَدعُو به الصَّدَى\n\nله قُلُبٌ عُفَّى الحِياضِ أُجُونُ\n\n(خنق) الخاء والنون والقاف أصلٌ واحد يدلُّ على ضيقٍ. فالخانق: الشِّعْب الضَّيِّق. وقال بعضُ أهل العلم: إنَّ أهل اليَمن يسمُّون الزُّقاق خانقاً. والخَنِق مصدر خَنَقَه يخنِقُه خَنِقاً . قال بعض أهل العلم: لا يقال خَنْقاً. والمِخْنَقَةُ: القِلادة.\n\nخوي - خوب - خوت\n\n{باب الخاء والواو وما يثلثهما}",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–n–q to strangle, to stifle, to choke, an animal killed by\nchoking; necklace; constriction, the mouth of a valley, small\napertures; diphtheria. Of this root, مُنْخَنِقَة munkhaniqatun occurs\nonce in the Qur’an.\n\nمُنْخَنِقَة munkhaniqatun [pass. part.] [jur.] strangled (animal)\n(5:3) حرمت عليكم الميتة والدم ولحم الخنزير وما أهل لغير الله به والمنخنقة\n... forbidden to you [for food] are un-slaughtered dead\nanimals; blood; pigs’ meat; anything consecrated to other than\nGod; strangled animals, those killed by violent blows …",
+      "definition_english": "kh–n–q to strangle, to stifle, to choke, an animal killed by\nchoking; necklace; constriction, the mouth of a valley, small\napertures; diphtheria. Of this root, مُنْخَنِقَة munkhaniqatun occurs\nonce in the Qur’an.\n\nمُنْخَنِقَة munkhaniqatun [pass. part.] [jur.] strangled (animal)\n(5:3) حرمت عليكم الميتة والدم ولحم الخنزير وما أهل لغير الله به والمنخنقة\n... forbidden to you [for food] are un-slaughtered dead\nanimals; blood; pigs’ meat; anything consecrated to other than\nGod; strangled animals, those killed by violent blows …"
+    }
+  ],
   "occurrences": [
     "5:3:12"
   ]

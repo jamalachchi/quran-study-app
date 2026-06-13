@@ -1,8 +1,11 @@
 {
-  "id": 1654,
   "root": "ز ك ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزعب\n\n(زكل) الزاء والكاف واللام ليس بأصل، وقد جاءت فيه كلمة: الزَّوَنْكَل من الرجال: القصير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزعب\n\n(زكل) الزاء والكاف واللام ليس بأصل، وقد جاءت فيه كلمة: الزَّوَنْكَل من الرجال: القصير.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

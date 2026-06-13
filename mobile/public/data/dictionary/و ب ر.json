@@ -1,9 +1,17 @@
 {
-  "id": 4319,
   "root": "و ب ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وبر) الواو والباء والراء كلماتٌ لا تَنقاس، بل هي منفردة. فالوَبَر معروفٌ. والوَبْر: دابّةٌ. وبناتُ أوْبَرَ: شِبْهُ الكَمء الصغار. وما بالدار وابِرٌ، أي أحد.\n\nوحكى بعضُهم: وبَّر في منْزلهِ توبيراً: لم يبرحه. ووَبْرٌ: أحد أيّامِ العجوز.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وبر) الواو والباء والراء كلماتٌ لا تَنقاس، بل هي منفردة. فالوَبَر معروفٌ. والوَبْر: دابّةٌ. وبناتُ أوْبَرَ: شِبْهُ الكَمء الصغار. وما بالدار وابِرٌ، أي أحد.\n\nوحكى بعضُهم: وبَّر في منْزلهِ توبيراً: لم يبرحه. ووَبْرٌ: أحد أيّامِ العجوز.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–b–r hair of camels, goats, foxes or rabbits; Bedouin; to\nobliterate one’s tracks; to pollinate palm trees. Of this root, أَوْبَار\nʾawbār, occurs once in the Qur’an.\n\nأَوْبَار ʾawbār [pl. of masc. n. وَبَر wabar] fur, animal hair (16:80)\nوَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَى حِينٍ and [appointed for you]\nfrom their wool, their fur and their hair, furnishings and comfort\n\n1009",
+      "definition_english": "w–b–r hair of camels, goats, foxes or rabbits; Bedouin; to\nobliterate one’s tracks; to pollinate palm trees. Of this root, أَوْبَار\nʾawbār, occurs once in the Qur’an.\n\nأَوْبَار ʾawbār [pl. of masc. n. وَبَر wabar] fur, animal hair (16:80)\nوَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَى حِينٍ and [appointed for you]\nfrom their wool, their fur and their hair, furnishings and comfort\n\n1009"
+    }
+  ],
   "occurrences": [
     "16:80:20"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 3301,
   "root": "ك ه ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهل) الكاف والهاء واللام أصلٌ يدلُّ على قُوَّة في الشَّيء أو اجتماع جِبِلَّة. من ذلك الكَاهل: ما بين الكتِفين: سمِّي بذلك لقُوّته. ويقولون للرَّجُل المجتمِع إذا وَخَطه الشَّيب: كَهْل، وامرأة كَهْلة. قال:\n\nأُمارِسُ الكَهلة والصَّبِيَّا\n\nولا أعود بعدَها كَرِيَّا\n\nوأمَّا قولُهم للنَّبات: اكتَهَلَ، فإنما [هو] تشبيه بالرّجل الكهل. واكتهالُ الروضة: أن يعمَّها النَّوْر. قال الأعشى:\n\n* مُؤزَّر بعَميم النبتِ مكتهلُ *\n\nكهم كهن كوي كوب - كود",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهل) الكاف والهاء واللام أصلٌ يدلُّ على قُوَّة في الشَّيء أو اجتماع جِبِلَّة. من ذلك الكَاهل: ما بين الكتِفين: سمِّي بذلك لقُوّته. ويقولون للرَّجُل المجتمِع إذا وَخَطه الشَّيب: كَهْل، وامرأة كَهْلة. قال:\n\nأُمارِسُ الكَهلة والصَّبِيَّا\n\nولا أعود بعدَها كَرِيَّا\n\nوأمَّا قولُهم للنَّبات: اكتَهَلَ، فإنما [هو] تشبيه بالرّجل الكهل. واكتهالُ الروضة: أن يعمَّها النَّوْر. قال الأعشى:\n\n* مُؤزَّر بعَميم النبتِ مكتهلُ *\n\nكهم كهن كوي كوب - كود",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–h–l the back of the torso, the base of the neck; to burden, a\nperson supporting the family; to be at the height of one’s strength;\nmiddle-aged person. Of this root, كَهْل kahl occurs twice in the\nQur’an.\n\n823",
+      "definition_english": "k–h–l the back of the torso, the base of the neck; to burden, a\nperson supporting the family; to be at the height of one’s strength;\nmiddle-aged person. Of this root, كَهْل kahl occurs twice in the\nQur’an.\n\n823"
+    }
+  ],
   "occurrences": [
     "3:46:5",
     "5:110:20"

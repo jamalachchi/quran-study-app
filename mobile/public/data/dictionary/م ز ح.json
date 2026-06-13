@@ -1,8 +1,11 @@
 {
-  "id": 3738,
   "root": "م ز ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمرخ - مرد\n\n(مزح) الميم والزاء والحاء كلمة واحدة. يقولون: مَزَح مَزْحاً ومُزَاحَة : داعَبَ؛ وهي الممازَحَة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمرخ - مرد\n\n(مزح) الميم والزاء والحاء كلمة واحدة. يقولون: مَزَح مَزْحاً ومُزَاحَة : داعَبَ؛ وهي الممازَحَة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

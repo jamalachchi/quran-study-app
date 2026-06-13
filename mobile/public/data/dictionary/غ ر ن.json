@@ -1,8 +1,11 @@
 {
-  "id": 2820,
   "root": "غ ر ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرف - غرق\n\n(غرن) الغين والراء والنون كلمةٌ واحدة، يقولون إنَّ الغَرِين : ما يَبقى في الحوض من مائه* وطِينِه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرف - غرق\n\n(غرن) الغين والراء والنون كلمةٌ واحدة، يقولون إنَّ الغَرِين : ما يَبقى في الحوض من مائه* وطِينِه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

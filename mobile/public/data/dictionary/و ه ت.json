@@ -1,8 +1,11 @@
 {
-  "id": 4525,
   "root": "و ه ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهت) الواو والهاء والتاء. يقال: أوهَتَ اللَّحمُ، إذا أنْتَنَ، يُوهِتُ إيهاتاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهت) الواو والهاء والتاء. يقال: أوهَتَ اللَّحمُ، إذا أنْتَنَ، يُوهِتُ إيهاتاً.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,22 @@
 {
-  "id": 4238,
   "root": "ه ز م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهزع\n\n(هزم) الهاء والزاء والميم أصلٌ صحيحٌ يدلُّ على غَمْز وكَسْر. فالهَزْم: أن تَغْمِزَ الشيءَ بيدك فيَنْهَزمَ إلى داخل، كالقِثّاءةِ والبِطِّيخة. ومنه الهَزِيمة في الحَرْب. وغيثٌ هَزِيم: متبعِّق. وهَزِيم الرَّعدِ: صوتُه، كأنّه يتكسَّر، من قولهم: تهزَّمَ السِّقاء: يَبِس فتشقَّقَ.\n\nومن الباب اهتَزَمْتُ الشَّاةَ: ذبحتُها. والهَزْمة: ما تطامَنَ منَ الأرض.\n\nومما ليس من هذا القياس المِهزام: عُودٌ يُجعلُ في رأسه نارٌ، تلعب به صِبيانُ الأعراب. قال جرير:\n\nهزن - هزأ - هزب - هزج\n\n* وتَلْعَبُ المِهزاما *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهزع\n\n(هزم) الهاء والزاء والميم أصلٌ صحيحٌ يدلُّ على غَمْز وكَسْر. فالهَزْم: أن تَغْمِزَ الشيءَ بيدك فيَنْهَزمَ إلى داخل، كالقِثّاءةِ والبِطِّيخة. ومنه الهَزِيمة في الحَرْب. وغيثٌ هَزِيم: متبعِّق. وهَزِيم الرَّعدِ: صوتُه، كأنّه يتكسَّر، من قولهم: تهزَّمَ السِّقاء: يَبِس فتشقَّقَ.\n\nومن الباب اهتَزَمْتُ الشَّاةَ: ذبحتُها. والهَزْمة: ما تطامَنَ منَ الأرض.\n\nومما ليس من هذا القياس المِهزام: عُودٌ يُجعلُ في رأسه نارٌ، تلعب به صِبيانُ الأعراب. قال جرير:\n\nهزن - هزأ - هزب - هزج\n\n* وتَلْعَبُ المِهزاما *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "mocking, scorning, deriding (45:35) ذَٰلِكُمْ بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا\nthis is because you received God’s revelations with ridicule and\nwere deluded by worldly life.",
+      "definition_english": "mocking, scorning, deriding (45:35) ذَٰلِكُمْ بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا\nthis is because you received God’s revelations with ridicule and\nwere deluded by worldly life."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–z–m lowland; crevice, dent, groove, crack; to defeat, to\nvanquish, to rob someone of his rights; roll of thunder; disaster, to\nkill; emaciated animals. Of this root, three forms occur once each\nin the Qur’an: هَزَمَ hazama; يُهْزَم yuhzam and مَهْزُوم mahzūm.\n\nهَزَمَ hazama i [v. trans., pass. imperf. v. يُهْزَم yuhzam] to defeat\n(2:251) فَهَزَمُوهُمْ بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ and so by God’s leave they\ndefeated them and David killed Goliath.\n\nمَهْزُوم mahzūm [pass. part.] defeated, vanquished, put to flight\n\n986",
+      "definition_english": "h–z–m lowland; crevice, dent, groove, crack; to defeat, to\nvanquish, to rob someone of his rights; roll of thunder; disaster, to\nkill; emaciated animals. Of this root, three forms occur once each\nin the Qur’an: هَزَمَ hazama; يُهْزَم yuhzam and مَهْزُوم mahzūm.\n\nهَزَمَ hazama i [v. trans., pass. imperf. v. يُهْزَم yuhzam] to defeat\n(2:251) فَهَزَمُوهُمْ بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ and so by God’s leave they\ndefeated them and David killed Goliath.\n\nمَهْزُوم mahzūm [pass. part.] defeated, vanquished, put to flight\n\n986"
+    }
+  ],
   "occurrences": [
     "2:251:1",
     "38:11:4",

@@ -1,9 +1,22 @@
 {
-  "id": 4545,
   "root": "ي ب س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الياء\n\nيبس - يتم\n\n] أفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا [ [الرعد 31]، أي أفلم يَعلَمْ. وأنشدوا:\n\nألم تَيأَسُوا أنِّي ابنُ فارِسِ زَهْدَمِ\n\nأقولُ لَهُم بالشِّعْبِ إذ يأسِرُونَني\n\n(يبس) الياء والباء والسين: أصلٌ صحيح يدلُّ على جفاف. يقال: يَبِس الشّيءُ يَيْبَس ويَيْبِس. واليَبْس: يابس النَّبت. قال ابن السِّكِّيت: هو جمع يابس. واليَبَس بفتح الباء: المكان يفارقه الماء فيَيْبَس. ويقال يَبِسَتِ الأرضُ: ذَهَبَ ماؤها ونَداها؛ وأيْبَسَتْ: كَثُر يَبْسها. وقال الشَّيبانيّ: امرأة يَبَسٌ، إذا لم تَنَلْ خيراً. قال:\n\n* إلى عجوزٍ شَنّة الوجهِ يَبَسْ *\n\nويَبِيس الماء: العَرَقُ إذا يَبِس. والأيْبَسانِ: ما لا لحمَ عليه من السَّاق والكَعْب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الياء\n\nيبس - يتم\n\n] أفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا [ [الرعد 31]، أي أفلم يَعلَمْ. وأنشدوا:\n\nألم تَيأَسُوا أنِّي ابنُ فارِسِ زَهْدَمِ\n\nأقولُ لَهُم بالشِّعْبِ إذ يأسِرُونَني\n\n(يبس) الياء والباء والسين: أصلٌ صحيح يدلُّ على جفاف. يقال: يَبِس الشّيءُ يَيْبَس ويَيْبِس. واليَبْس: يابس النَّبت. قال ابن السِّكِّيت: هو جمع يابس. واليَبَس بفتح الباء: المكان يفارقه الماء فيَيْبَس. ويقال يَبِسَتِ الأرضُ: ذَهَبَ ماؤها ونَداها؛ وأيْبَسَتْ: كَثُر يَبْسها. وقال الشَّيبانيّ: امرأة يَبَسٌ، إذا لم تَنَلْ خيراً. قال:\n\n* إلى عجوزٍ شَنّة الوجهِ يَبَسْ *\n\nويَبِيس الماء: العَرَقُ إذا يَبِس. والأيْبَسانِ: ما لا لحمَ عليه من السَّاق والكَعْب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "وَالْمَرْجَانُ they are like rubies and coral.\n",
+      "definition_english": "وَالْمَرْجَانُ they are like rubies and coral.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "y–b–s dry land (as opposed to the sea), hard, arid; to be\nafflicted with famine; to keep silent, to be too drunk; to have\nunpleasant countenances. Of this root, three forms occur four\ntimes in the Qur’an: يَبَس yabas once; يَابِس yābis once and\nيَابِسَات yābisāt twice.\n\nيَبَس yabas [v. n./quasi-act. part.] dryness/dry (20:77) فَاضْرِبْ لَهُمْ\nطَرِيقًا فِي الْبَحْرِ يَبَسًا and strike for them a path across the sea [which\nwill become] dry.\n\nيَابِس yābis [quasi-act. part., pl. fem. يَابِسَات yābisāt] dry,\nwithered (12:43) وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ and seven green ears\nof corn and [seven] others withered.",
+      "definition_english": "y–b–s dry land (as opposed to the sea), hard, arid; to be\nafflicted with famine; to keep silent, to be too drunk; to have\nunpleasant countenances. Of this root, three forms occur four\ntimes in the Qur’an: يَبَس yabas once; يَابِس yābis once and\nيَابِسَات yābisāt twice.\n\nيَبَس yabas [v. n./quasi-act. part.] dryness/dry (20:77) فَاضْرِبْ لَهُمْ\nطَرِيقًا فِي الْبَحْرِ يَبَسًا and strike for them a path across the sea [which\nwill become] dry.\n\nيَابِس yābis [quasi-act. part., pl. fem. يَابِسَات yābisāt] dry,\nwithered (12:43) وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ and seven green ears\nof corn and [seven] others withered."
+    }
+  ],
   "occurrences": [
     "12:43:15",
     "12:46:16",

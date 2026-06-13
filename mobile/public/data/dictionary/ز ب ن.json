@@ -1,9 +1,22 @@
 {
-  "id": 1723,
   "root": "ز ب ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزبر\n\n(زبن) الزاء والباء والنون أصلٌ واحدٌ يدلُّ على الدّفع. يقال ناقة زَبُون، إذا زَبَنَتْ حالبَها. والحرب تزبِنُ النّاسَ، إذا صَدَمتهم. وحربٌ زَبُون. ورجلٌ ذو زَبُّونةٍ، إذا كان مانعاً لجانبِه دَفُوعاً عن نفسه. قال:\n\nوزَبُّوناتِ أشْوسَ تَيَّحانِ\n\nبذَبِّي الذَّمَّ عن حَسبِي بمالِي\n\nويقال فيه زَبُّونَةٌ، أي كِبر، ولا يكونُ كذا إلاّ وهو دافعٌ عن نفسه. والزَّبانِيَةُ سُمُّوا بذلك، لأنّهم يدفعون أهلَ النار إلى النار. فأمَّا المُزابَنَة فبيع الثمر في رؤوس النّخل، وهو الذي جاء الحديث بالنَّهي عنه. وقال أهل العلم: إنّه مما يكون بعد ذلك من النِّزاع والمدافَعة. ويقولون إن الزَّبْن البُعْد. وأما زُبَانَى العقرب فيجوز أن يكون من هذا أيضاً، كأَنّها تدفَع عن نفسها به، ويجوز أن يكون شاذّاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزبر\n\n(زبن) الزاء والباء والنون أصلٌ واحدٌ يدلُّ على الدّفع. يقال ناقة زَبُون، إذا زَبَنَتْ حالبَها. والحرب تزبِنُ النّاسَ، إذا صَدَمتهم. وحربٌ زَبُون. ورجلٌ ذو زَبُّونةٍ، إذا كان مانعاً لجانبِه دَفُوعاً عن نفسه. قال:\n\nوزَبُّوناتِ أشْوسَ تَيَّحانِ\n\nبذَبِّي الذَّمَّ عن حَسبِي بمالِي\n\nويقال فيه زَبُّونَةٌ، أي كِبر، ولا يكونُ كذا إلاّ وهو دافعٌ عن نفسه. والزَّبانِيَةُ سُمُّوا بذلك، لأنّهم يدفعون أهلَ النار إلى النار. فأمَّا المُزابَنَة فبيع الثمر في رؤوس النّخل، وهو الذي جاء الحديث بالنَّهي عنه. وقال أهل العلم: إنّه مما يكون بعد ذلك من النِّزاع والمدافَعة. ويقولون إن الزَّبْن البُعْد. وأما زُبَانَى العقرب فيجوز أن يكون من هذا أيضاً، كأَنّها تدفَع عن نفسها به، ويجوز أن يكون شاذّاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "زُبُر zubur (2) [pl. of n. زُبْرَة zubratun] lumps, large pieces, fractions (23:53) فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ but they split their community (or, teachings) [lit. affair] into sects, each faction rejoicing in what they have.\nزُبَر zubar [pl. of n. زُبْرَة zubratun] lump, large piece (18:96) آتُونِي زُبَرَ الْحَدِيدِ bring me lumps of iron!",
+      "definition_english": "زُبُر zubur (2) [pl. of n. زُبْرَة zubratun] lumps, large pieces, fractions (23:53) فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ but they split their community (or, teachings) [lit. affair] into sects, each faction rejoicing in what they have.\nزُبَر zubar [pl. of n. زُبْرَة zubratun] lump, large piece (18:96) آتُونِي زُبَرَ الْحَدِيدِ bring me lumps of iron!"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-b-n to push, to kick; to sell dates on the tree by estimating their quantity; to divert, to keep good things away. زَبَانِيَة zabāniyatun is considered by some as a borrowing from either Akkadian or Syriac. Of this root, only زَبَانِيَة zabāniyatun occurs once in the Qur’an.\nزَبَانِيَة zabāniyatun [pl. of n. possibly زِبْنِيّ zibniyy; زِبْنِيَة zibniyatun; زَبَانِيّ zabāniyy; زَابِن zābin; or coll. n. without sing.] guardians of Hell (96:17–18) فَلْيَدْعُ نَادِيَهُ سَنَدْعُ الزَّبَانِيَةَ let him summon his comrades; We shall summon the guardians of Hell.\n\nزَبُور zabūr (see ز/ب/ر z-b-r).",
+      "definition_english": "z-b-n to push, to kick; to sell dates on the tree by estimating their quantity; to divert, to keep good things away. زَبَانِيَة zabāniyatun is considered by some as a borrowing from either Akkadian or Syriac. Of this root, only زَبَانِيَة zabāniyatun occurs once in the Qur’an.\nزَبَانِيَة zabāniyatun [pl. of n. possibly زِبْنِيّ zibniyy; زِبْنِيَة zibniyatun; زَبَانِيّ zabāniyy; زَابِن zābin; or coll. n. without sing.] guardians of Hell (96:17–18) فَلْيَدْعُ نَادِيَهُ سَنَدْعُ الزَّبَانِيَةَ let him summon his comrades; We shall summon the guardians of Hell.\n\nزَبُور zabūr (see ز/ب/ر z-b-r)."
+    }
+  ],
   "occurrences": [
     "96:18:2"
   ]

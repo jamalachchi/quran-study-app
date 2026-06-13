@@ -1,9 +1,22 @@
 {
-  "id": 415,
   "root": "ت ر ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nترص - ترع\n\n(ترف) التاء والراء والفاء كلمة واحدة، وهي التُّرْفَة. يقال رجلٌ مُترفٌ مُنَعَّمٌ، وتَرَّفَهُ أهلُه إذا نعمّوه بالطَّعام الطّيِّب والشيء يُخَصُّ به. وفي كتاب الخليل: التُّرفَة الهَنَةُ في الشَّفَة العُلْيا. وهذا غلطٌ، إنّما هي التُِّفرَةُ وقد ذُكرت .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nترص - ترع\n\n(ترف) التاء والراء والفاء كلمة واحدة، وهي التُّرْفَة. يقال رجلٌ مُترفٌ مُنَعَّمٌ، وتَرَّفَهُ أهلُه إذا نعمّوه بالطَّعام الطّيِّب والشيء يُخَصُّ به. وفي كتاب الخليل: التُّرفَة الهَنَةُ في الشَّفَة العُلْيا. وهذا غلطٌ، إنّما هي التُِّفرَةُ وقد ذُكرت .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "occur 22 times in the Qurʾān: تُرَاب turāb 17 times; أَتْرَاب ʾatrāb\nthree times; تَرَائِب tarāʾib once and مَتْرَبَة matrabatun once.\n\nتُرَاب turāb [n.] dust, earth (30:20) وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ one\nof His wonders is His creating you from dust.\n\nأَتْرَاب ʾatrāb [pl. of n. تِرْب tirb] people of similar age,\nplaymates, companions (38:52) وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ and with\nthem are those restraining their glances, of equal age.\n\nتَرَائِب tarāʾib [pl. of n. تَرِيبَة tarībatun] collarbone, upper chest,\nribs (86:7) يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ\nit [liquid] issues from between\nthe loins and breast bones.\n\nمَتْرَبَة matrabatun [n./v. n.] the state of being covered with dust\n*(90:16) ذَا مَتْرَبَةٍ abjectly poor, nothing between him and the earth\n[lit. in the state of being covered with dust].",
+      "definition_english": "occur 22 times in the Qurʾān: تُرَاب turāb 17 times; أَتْرَاب ʾatrāb\nthree times; تَرَائِب tarāʾib once and مَتْرَبَة matrabatun once.\n\nتُرَاب turāb [n.] dust, earth (30:20) وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ one\nof His wonders is His creating you from dust.\n\nأَتْرَاب ʾatrāb [pl. of n. تِرْب tirb] people of similar age,\nplaymates, companions (38:52) وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ and with\nthem are those restraining their glances, of equal age.\n\nتَرَائِب tarāʾib [pl. of n. تَرِيبَة tarībatun] collarbone, upper chest,\nribs (86:7) يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ\nit [liquid] issues from between\nthe loins and breast bones.\n\nمَتْرَبَة matrabatun [n./v. n.] the state of being covered with dust\n*(90:16) ذَا مَتْرَبَةٍ abjectly poor, nothing between him and the earth\n[lit. in the state of being covered with dust]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-r-f a watering place within easy access, (of plants) to be\nwatered; good food; to live in luxury, to provide with lavish\nmeans, affluence. Of this root, three forms occur eight times in\nthe Qurʾān: أَتْرَف ʾatrafa once; أُتْرِف utrifa twice and مُتْرَفُون\nmutrafūn five times.\n\nأَتْرَف ʾatrafa [v. IV, trans.] to provide with the good things of\nthis life, to cause to be opulent (23:33) وَأَتْرَفْنَاهُمْ فِي الْحَيَاةِ الدُّنْيَا and We\nhad granted them ease and plenty in this life.\n\nأُتْرِف utrifa [pass. of v. IV] to be made opulent, to be\ncorrupted by ease of living (11:116) وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ\nwhile\nthe evildoers revelled in pursuing the ease of living which was\ngranted them.\n\nمُتْرَفُون mutrafūn [pl. of pass. part. مُتْرَف mutraf] those endowed\nwith the good things of this life, ones spoilt by wealth and easy\nliving (17:16) وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ\nفَدَمَّرْنَاهَا تَدْمِيرًا and if We desire to destroy a township, We command\nthe affluent of its inhabitants, and they commit abominations in it,\nso the word [judgement] is passed against it and We destroy it\nutterly.\n\n133",
+      "definition_english": "t-r-f a watering place within easy access, (of plants) to be\nwatered; good food; to live in luxury, to provide with lavish\nmeans, affluence. Of this root, three forms occur eight times in\nthe Qurʾān: أَتْرَف ʾatrafa once; أُتْرِف utrifa twice and مُتْرَفُون\nmutrafūn five times.\n\nأَتْرَف ʾatrafa [v. IV, trans.] to provide with the good things of\nthis life, to cause to be opulent (23:33) وَأَتْرَفْنَاهُمْ فِي الْحَيَاةِ الدُّنْيَا and We\nhad granted them ease and plenty in this life.\n\nأُتْرِف utrifa [pass. of v. IV] to be made opulent, to be\ncorrupted by ease of living (11:116) وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ\nwhile\nthe evildoers revelled in pursuing the ease of living which was\ngranted them.\n\nمُتْرَفُون mutrafūn [pl. of pass. part. مُتْرَف mutraf] those endowed\nwith the good things of this life, ones spoilt by wealth and easy\nliving (17:16) وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ\nفَدَمَّرْنَاهَا تَدْمِيرًا and if We desire to destroy a township, We command\nthe affluent of its inhabitants, and they commit abominations in it,\nso the word [judgement] is passed against it and We destroy it\nutterly.\n\n133"
+    }
+  ],
   "occurrences": [
     "11:116:23",
     "17:16:7",

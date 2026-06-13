@@ -1,9 +1,17 @@
 {
-  "id": 1880,
   "root": "س ب ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسبط - سبع\n\n(سبق) السين والباء والقاف أصل واحد صحيح يدل على التقديم. يقال سَبَقَ يَسْبِق سَبْقاً. فأما السَّبَق فهو الخَطَر الذي يأخذه السَّابق.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسبط - سبع\n\n(سبق) السين والباء والقاف أصل واحد صحيح يدل على التقديم. يقال سَبَقَ يَسْبِق سَبْقاً. فأما السَّبَق فهو الخَطَر الذي يأخذه السَّابق.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s—b—q being ahead, in front, outpacing, outstripping. Of this root, six forms occur 37 times in the Qurʾan: سبق sabaqa twice; استبق ʾistabaqa five times; سبق sabq once; سابق sābiq eight times and مسبوق masbūq twice.\nسبق sabaqa i I [v. intrans.] 1 to go past, to go before (20:99) كذلك نقص عليك من أنباء ما قد سبق in this way We relate to you [Prophet] stories of what went on before; *(8:68) لولا كتاب من الله سبق had it not been for a decree from God that had already been issued; *(11:40) إلا من سبق عليه القول except those against whom the sentence has already been passed [lit. the word has passed against them] II [v. trans.] 1 to do something before others (7:80) أتأتون الفاحشة ما سبقكم بها من أحد من العالمين how can you practise the obscenity which not one community before you has",
+      "definition_english": "s—b—q being ahead, in front, outpacing, outstripping. Of this root, six forms occur 37 times in the Qurʾan: سبق sabaqa twice; استبق ʾistabaqa five times; سبق sabq once; سابق sābiq eight times and مسبوق masbūq twice.\nسبق sabaqa i I [v. intrans.] 1 to go past, to go before (20:99) كذلك نقص عليك من أنباء ما قد سبق in this way We relate to you [Prophet] stories of what went on before; *(8:68) لولا كتاب من الله سبق had it not been for a decree from God that had already been issued; *(11:40) إلا من سبق عليه القول except those against whom the sentence has already been passed [lit. the word has passed against them] II [v. trans.] 1 to do something before others (7:80) أتأتون الفاحشة ما سبقكم بها من أحد من العالمين how can you practise the obscenity which not one community before you has"
+    }
+  ],
   "occurrences": [
     "10:19:10",
     "11:110:9",

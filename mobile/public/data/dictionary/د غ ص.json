@@ -1,8 +1,11 @@
 {
-  "id": 1170,
   "root": "د غ ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دغص) الدال والغين والصاد، كلمةٌ تقال للَّحْمة التي تموج فوقَ رُكبة البَعير: الدّاغصة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دغص) الدال والغين والصاد، كلمةٌ تقال للَّحْمة التي تموج فوقَ رُكبة البَعير: الدّاغصة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

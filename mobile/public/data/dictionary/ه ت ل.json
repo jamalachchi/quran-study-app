@@ -1,8 +1,11 @@
 {
-  "id": 4193,
   "root": "ه ت ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهبو\n\n(هتل) الهاء والتاء واللام كلمةٌ واحدة. هَتَلَتِ السَّماء: هَطَلَت: وسحائب هُتَّلٌ وهُطّل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهبو\n\n(هتل) الهاء والتاء واللام كلمةٌ واحدة. هَتَلَتِ السَّماء: هَطَلَت: وسحائب هُتَّلٌ وهُطّل.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

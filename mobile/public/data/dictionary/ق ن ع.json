@@ -1,9 +1,22 @@
 {
-  "id": 3090,
   "root": "ق ن ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقنب\n\n(قنع) القاف والنون والعين أصلانِ صحيحان، أحدُهما يدلُّ على الإقبال على الشيء، ثمَّ تَختلفُ معانيه مع اتِّفاق القياس؛ والآخَر يدلُّ على استدارة في شيء.\n\nفالأوَّل الإقناع: الإقبال بالوجه على الشَّيء. يقال: أقْنَعَ لهُ يُقنِع إقناعاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقنب\n\n(قنع) القاف والنون والعين أصلانِ صحيحان، أحدُهما يدلُّ على الإقبال على الشيء، ثمَّ تَختلفُ معانيه مع اتِّفاق القياس؛ والآخَر يدلُّ على استدارة في شيء.\n\nفالأوَّل الإقناع: الإقبال بالوجه على الشَّيء. يقال: أقْنَعَ لهُ يُقنِع إقناعاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "render them simply as ‘a great amount’ or ‘a fortune’ (3:75) وَمِنْ\nأَهْلِ الْكِتَابِ مَنْ إِنْ تَأْمَنْهُ بِقِنْطَارٍ يُؤَدِّهِ إِلَيْكَ of the people of the Book there is\nhe who, if you trust him with a ton of gold, he will return it to you.\n\nمُقَنْطَرَة muqanṭaratun [pass. part.] stacked up in heaps (3:14) زُيِّنَ\nلِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ made\nalluring to humankind is the love of passions–women, sons,\nheaped piles of gold and silver.",
+      "definition_english": "render them simply as ‘a great amount’ or ‘a fortune’ (3:75) وَمِنْ\nأَهْلِ الْكِتَابِ مَنْ إِنْ تَأْمَنْهُ بِقِنْطَارٍ يُؤَدِّهِ إِلَيْكَ of the people of the Book there is\nhe who, if you trust him with a ton of gold, he will return it to you.\n\nمُقَنْطَرَة muqanṭaratun [pass. part.] stacked up in heaps (3:14) زُيِّنَ\nلِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ made\nalluring to humankind is the love of passions–women, sons,\nheaped piles of gold and silver."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–n–ʿ to be content; to be convinced, to persuade, temperance;\ngreed; to crane the neck in submission; camel hump; mask, veil,\nto mask. Of this root, two forms occur once each in the Qur’an:\nقَانِع qāniʿ and مُقْنِعِي muqniʿī.\n\nقَانِع qāniʿ [act. part.] one who is content with his meagre lot,\none who asks for alms gently (22:36) فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ so\neat of it and feed the one who does not ask, and the one who begs.\n\nمُقْنِعِي muqniʿī [pl. of act. part. مُقْنِع muqniʿ, in construct (الإضافة)]\none who lifts up the head (14:43) مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ rushing\nforward, craning their necks.",
+      "definition_english": "q–n–ʿ to be content; to be convinced, to persuade, temperance;\ngreed; to crane the neck in submission; camel hump; mask, veil,\nto mask. Of this root, two forms occur once each in the Qur’an:\nقَانِع qāniʿ and مُقْنِعِي muqniʿī.\n\nقَانِع qāniʿ [act. part.] one who is content with his meagre lot,\none who asks for alms gently (22:36) فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ so\neat of it and feed the one who does not ask, and the one who begs.\n\nمُقْنِعِي muqniʿī [pl. of act. part. مُقْنِع muqniʿ, in construct (الإضافة)]\none who lifts up the head (14:43) مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ rushing\nforward, craning their necks."
+    }
+  ],
   "occurrences": [
     "14:43:2",
     "22:36:21"

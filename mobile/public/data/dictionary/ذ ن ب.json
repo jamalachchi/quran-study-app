@@ -1,9 +1,17 @@
 {
-  "id": 1324,
   "root": "ذ ن ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذنب\n\n{باب الذال والنون وما يثلثهما}\n\n(ذنب) الذال والنون والباء أصول ثلاثة: أحدها الجُرم، والآخر مؤخَّر الشيء، والثالث كالحظِّ والنّصيب.\n\nفالأوّل الذّنب والجُرم. يقال أَذْنَبَ يُذْنِبُ. والاسم الذّنْب، وهو مُذْنِبٌ. والأصل الآخر الذّنَب، وهو مؤخر الدوابّ ، ولذلك سُمِّي الأتباعُ الذُّنَابَى. والمَذَانب: مَذانب التِّلاع، وهي مَسَايل الماء فيها. والمذنِّب من الرُّطَب: ما أرْطَبَ بَعضُه. ويقال للفرس الطويل الذّنب: ذَنُوب. والذِّناب: عَقِبُ كلِّ شيء. والذّانب: التابع؛ وكذلك المستَذْنِبُ: الذي يكون عند أذناب الإبل. قال الشاعر :\n\n* مثل الأَجيرِ استَذْنَبَ الرّواحلاَ *\n\nفأمّا الذّنائب فمكانٌ، وفيه يقول القائل :\n\nفقد أَبْكِي من اللّيل القصيرِ\n\nفإِنْ يَكُ بالذَّنائِبِ طالَ ليلِي\n\nوالله أعلم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذنب\n\n{باب الذال والنون وما يثلثهما}\n\n(ذنب) الذال والنون والباء أصول ثلاثة: أحدها الجُرم، والآخر مؤخَّر الشيء، والثالث كالحظِّ والنّصيب.\n\nفالأوّل الذّنب والجُرم. يقال أَذْنَبَ يُذْنِبُ. والاسم الذّنْب، وهو مُذْنِبٌ. والأصل الآخر الذّنَب، وهو مؤخر الدوابّ ، ولذلك سُمِّي الأتباعُ الذُّنَابَى. والمَذَانب: مَذانب التِّلاع، وهي مَسَايل الماء فيها. والمذنِّب من الرُّطَب: ما أرْطَبَ بَعضُه. ويقال للفرس الطويل الذّنب: ذَنُوب. والذِّناب: عَقِبُ كلِّ شيء. والذّانب: التابع؛ وكذلك المستَذْنِبُ: الذي يكون عند أذناب الإبل. قال الشاعر :\n\n* مثل الأَجيرِ استَذْنَبَ الرّواحلاَ *\n\nفأمّا الذّنائب فمكانٌ، وفيه يقول القائل :\n\nفقد أَبْكِي من اللّيل القصيرِ\n\nفإِنْ يَكُ بالذَّنائِبِ طالَ ليلِي\n\nوالله أعلم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–n–b tail, tail end, consequence; guilt, crime, sin, to sin; the end of the valley, the place where floodwater gathers, a great bucket; share, portion. Of this root, three forms appear 39 times in the Qur’an: ذَنْب dhanb 11 times; ذُنُوب dhunūb 26 times; and ذَنُوب dhanūb twice.\nذَنْب dhanb [n., pl. ذُنُوب dhunūb] 1 sin (39:53) إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا God forgives all sins 2 a charge, an accusation (26:14) وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ they have a charge against me, and I fear that they may kill me 3 crime (81:9) وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنبٍ قُتِلَتْ when the baby girl buried alive is asked for what crime she was\n\n335",
+      "definition_english": "dh–n–b tail, tail end, consequence; guilt, crime, sin, to sin; the end of the valley, the place where floodwater gathers, a great bucket; share, portion. Of this root, three forms appear 39 times in the Qur’an: ذَنْب dhanb 11 times; ذُنُوب dhunūb 26 times; and ذَنُوب dhanūb twice.\nذَنْب dhanb [n., pl. ذُنُوب dhunūb] 1 sin (39:53) إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا God forgives all sins 2 a charge, an accusation (26:14) وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ they have a charge against me, and I fear that they may kill me 3 crime (81:9) وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنبٍ قُتِلَتْ when the baby girl buried alive is asked for what crime she was\n\n335"
+    }
+  ],
   "occurrences": [
     "12:29:6",
     "12:97:5",

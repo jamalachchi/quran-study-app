@@ -1,8 +1,11 @@
 {
-  "id": 4162,
   "root": "ه ي س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هيس) الهاء والياء والسين. يقولون: الهَيْسُ: السَّيْرُ. قال:\n\n* إحدَى لياليكِ فهِيسِي هِيسِي *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هيس) الهاء والياء والسين. يقولون: الهَيْسُ: السَّيْرُ. قال:\n\n* إحدَى لياليكِ فهِيسِي هِيسِي *",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

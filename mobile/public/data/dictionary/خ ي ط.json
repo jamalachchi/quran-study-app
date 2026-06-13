@@ -1,9 +1,17 @@
 {
-  "id": 1085,
   "root": "خ ي ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخيب - خير\n\n(خيط) الخاء والياء والطاء أصلٌ واحد يدلُّ على امتدادِ الشَّيء في دِقّةٍ، ثم يحمل عليه فيقال في بعض ما يكون منتصِباً. فالخَيْط معروفٌ. والخَيط الأبيض: بياضُ النهار. والخيط الأسود: سوادُ الليل. قال الله تعالى: ] حَتَّى يَتَبَيَّنَ لَكُمُ الخَيْطُ الأَبْيضُ مِنَ الخَيْطِ الأَسْوَدِ مِنَ الفَجْرِ [ [البقرة آية 187]. ويقال لما يَسِيلُ من لُعاب الشَّمس: خَيْطُ باطلٍ. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخيب - خير\n\n(خيط) الخاء والياء والطاء أصلٌ واحد يدلُّ على امتدادِ الشَّيء في دِقّةٍ، ثم يحمل عليه فيقال في بعض ما يكون منتصِباً. فالخَيْط معروفٌ. والخَيط الأبيض: بياضُ النهار. والخيط الأسود: سوادُ الليل. قال الله تعالى: ] حَتَّى يَتَبَيَّنَ لَكُمُ الخَيْطُ الأَبْيضُ مِنَ الخَيْطِ الأَسْوَدِ مِنَ الفَجْرِ [ [البقرة آية 187]. ويقال لما يَسِيلُ من لُعاب الشَّمس: خَيْطُ باطلٍ. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-y-ṭ thread, wire, string, rope; to sew, to stitch up, needle,\ntailor, tailoring. Of this root, two forms occur three times in the\nQurʾān: خَيْط khayṭ twice and خِيَاط khiyāṭ once.\n\nخَيْط khayṭ [n.] streak; line; thread (2:187) وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ\nٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ eat and drink until the white\nthread/streak of dawn becomes distinct for you from the black.\n\nخِيَاط khiyāṭ [n. of inst.] needle (7:40) وَلَا يَدْخُلُونَ ٱلْجَنَّةَ حَتَّىٰ يَلِجَ ٱلْجَمَلُ\nفِى سَمِّ ٱلْخِيَاطِ and they will not enter the Garden until a thick\nrope/camel passes through the eye of a needle.",
+      "definition_english": "kh-y-ṭ thread, wire, string, rope; to sew, to stitch up, needle,\ntailor, tailoring. Of this root, two forms occur three times in the\nQurʾān: خَيْط khayṭ twice and خِيَاط khiyāṭ once.\n\nخَيْط khayṭ [n.] streak; line; thread (2:187) وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ\nٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ eat and drink until the white\nthread/streak of dawn becomes distinct for you from the black.\n\nخِيَاط khiyāṭ [n. of inst.] needle (7:40) وَلَا يَدْخُلُونَ ٱلْجَنَّةَ حَتَّىٰ يَلِجَ ٱلْجَمَلُ\nفِى سَمِّ ٱلْخِيَاطِ and they will not enter the Garden until a thick\nrope/camel passes through the eye of a needle."
+    }
+  ],
   "occurrences": [
     "2:187:36",
     "2:187:39",

@@ -1,8 +1,11 @@
 {
-  "id": 2599,
   "root": "ع ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعيث\n\n(عيد) العين والياء والدال قد مضى ذكره في محلِّه، لأن ذلك هو الأصل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعيث\n\n(عيد) العين والياء والدال قد مضى ذكره في محلِّه، لأن ذلك هو الأصل.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

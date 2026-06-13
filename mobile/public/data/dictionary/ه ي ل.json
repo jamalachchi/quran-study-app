@@ -1,9 +1,17 @@
 {
-  "id": 4170,
   "root": "ه ي ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هيل) الهاء والياء واللام كلمةٌ واحدةٌ تَدُلُّ على دَفْعِ شيء يمكن كَيْلُه دفعاً من غير كَيْل. وهِلْتُ الطَّعامَ أهِيلُه هَيْلاً: أرسَلْتُه. قال الله سبحانه: ] وَكَانَتِ الجِبالُ كَثِيباً مَهِيلاً [ [المزمل 14]. ومنه قولُهم: \"جاءَ بالهَيْل والهَيْلُمَان\"، أي الشَّيء الكثير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هيل) الهاء والياء واللام كلمةٌ واحدةٌ تَدُلُّ على دَفْعِ شيء يمكن كَيْلُه دفعاً من غير كَيْل. وهِلْتُ الطَّعامَ أهِيلُه هَيْلاً: أرسَلْتُه. قال الله سبحانه: ] وَكَانَتِ الجِبالُ كَثِيباً مَهِيلاً [ [المزمل 14]. ومنه قولُهم: \"جاءَ بالهَيْل والهَيْلُمَان\"، أي الشَّيء الكثير.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–l to pour down, to slide down (of sand or earth in a pit)\nto trickle down, to heap up (sand or earth), to cause to pour down,\navalanching sand dunes, to gang up; a halo. Of this root, مَهِيل\nmahīl occurs once in the Qur’an.\n\nمَهِيل mahīl [quasi-pass. part.] made to avalanche, caused to\nslide down, made to collapse (73:14) يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ\nالْجِبَالُ كَثِيبًا مَهِيلًا on the Day when the earth and the mountains will\ntremble and the mountains will become collapsing sand dunes.",
+      "definition_english": "h–y–l to pour down, to slide down (of sand or earth in a pit)\nto trickle down, to heap up (sand or earth), to cause to pour down,\navalanching sand dunes, to gang up; a halo. Of this root, مَهِيل\nmahīl occurs once in the Qur’an.\n\nمَهِيل mahīl [quasi-pass. part.] made to avalanche, caused to\nslide down, made to collapse (73:14) يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ\nالْجِبَالُ كَثِيبًا مَهِيلًا on the Day when the earth and the mountains will\ntremble and the mountains will become collapsing sand dunes."
+    }
+  ],
   "occurrences": [
     "73:14:8"
   ]

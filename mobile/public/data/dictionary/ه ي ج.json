@@ -1,9 +1,17 @@
 {
-  "id": 4160,
   "root": "ه ي ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n* لو كانَ مَعْنِيَّا بِها لَهَيَّتا *\n\nويقولون في معنى هَيْت لك: هَلُمَّ.\n\n(هيج) الهاء والياء والجيم أصلان صحيحان: أحدهما يدلُّ على ثَوَران شيء، والآخر على يُبْس نَبَات. فالأوّل: هاجَ الفحلُ هَيْجاً وهِياجاً. وكذلك الدَّم: والهَيْجاء تمدُّ وتقصر. وهِجت الشَّرَّ وهيَّجْته. وهيَّجْتُ النّاقَة فانبعثَتْ. ويقال للنَّاقةِ النَّزوع إلى وَطَنِها: مِهياج.\n\nوالآخَر قولهم: هاجَ البقلُ، إذا اصفرَّ ليَيْبَس. وأرضٌ هائجة: يَبِس بقلُها. وأهْيَجْتُ الأرضَ: صادفتُ نباتَها هائجاً قد ذَوَى. قال رؤبة:\n\n* وَأهْيَجَ الخَلصَاءَ من ذات البُرَقْ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n* لو كانَ مَعْنِيَّا بِها لَهَيَّتا *\n\nويقولون في معنى هَيْت لك: هَلُمَّ.\n\n(هيج) الهاء والياء والجيم أصلان صحيحان: أحدهما يدلُّ على ثَوَران شيء، والآخر على يُبْس نَبَات. فالأوّل: هاجَ الفحلُ هَيْجاً وهِياجاً. وكذلك الدَّم: والهَيْجاء تمدُّ وتقصر. وهِجت الشَّرَّ وهيَّجْته. وهيَّجْتُ النّاقَة فانبعثَتْ. ويقال للنَّاقةِ النَّزوع إلى وَطَنِها: مِهياج.\n\nوالآخَر قولهم: هاجَ البقلُ، إذا اصفرَّ ليَيْبَس. وأرضٌ هائجة: يَبِس بقلُها. وأهْيَجْتُ الأرضَ: صادفتُ نباتَها هائجاً قد ذَوَى. قال رؤبة:\n\n* وَأهْيَجَ الخَلصَاءَ من ذات البُرَقْ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–j to get excited, to be stirred up, to be furious, to be\ninflamed; war; to cause to dry up, to wither away, to shrivel, to be\nthirsty. Of this root, يَهِيج yahīj occurs twice in the Qur’an.\n\nيَهِيج yahīj [imperf. of v. هَاجَ hāja, intrans.] (of plants) to reach\nmaturity, to ripen; to dry up, to wither away, to shrivel (39:21) ثُمَّ\nيُخْرِجُ بِهِ زَرْعًا مُخْتَلِفًا أَلْوَانُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُ حُطَامًا then He brings\nforth with it vegetation of various colours/types; then it withers\naway, so you see it turning yellow [also interpreted as: it\nflourishes then you see it turning yellow].",
+      "definition_english": "h–y–j to get excited, to be stirred up, to be furious, to be\ninflamed; war; to cause to dry up, to wither away, to shrivel, to be\nthirsty. Of this root, يَهِيج yahīj occurs twice in the Qur’an.\n\nيَهِيج yahīj [imperf. of v. هَاجَ hāja, intrans.] (of plants) to reach\nmaturity, to ripen; to dry up, to wither away, to shrivel (39:21) ثُمَّ\nيُخْرِجُ بِهِ زَرْعًا مُخْتَلِفًا أَلْوَانُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُ حُطَامًا then He brings\nforth with it vegetation of various colours/types; then it withers\naway, so you see it turning yellow [also interpreted as: it\nflourishes then you see it turning yellow]."
+    }
+  ],
   "occurrences": [
     "39:21:20",
     "57:20:20"

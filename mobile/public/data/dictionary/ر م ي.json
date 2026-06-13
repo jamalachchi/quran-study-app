@@ -1,9 +1,17 @@
 {
-  "id": 1479,
   "root": "ر م ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرمن - رمي\n\n(رمي) الراء والميم والحرف المعتل أصلٌ واحد، وهو نَبْذ الشَّيء. ثم يحمل عليه اشتقاقاً واستعارة. تقول رَمَيْتُ الشيء أرمِيه. وكانت بينهم رِمِّيَّا، على فِعِّيلَى. وأرمَيْتُ على المائة: زِدْتُ عليها. فإن قيلَ فهذه الكلمة ما",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرمن - رمي\n\n(رمي) الراء والميم والحرف المعتل أصلٌ واحد، وهو نَبْذ الشَّيء. ثم يحمل عليه اشتقاقاً واستعارة. تقول رَمَيْتُ الشيء أرمِيه. وكانت بينهم رِمِّيَّا، على فِعِّيلَى. وأرمَيْتُ على المائة: زِدْتُ عليها. فإن قيلَ فهذه الكلمة ما",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-m-y to throw, to cast, to cast away, to throw off; to shoot at, to hunt, target, aim, projectiles; to come in succession; to accuse, to defame; share, usury. Of this root, رَمَى ramā occurs nine times in the Qur’an.\nرَمَى i ramā [v. trans.] 1 to throw out, to hurl (77:32) إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ it hurls sparks as large as tree trunks 2 to pelt (105:4) تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ pelting them with pellets of hard-baked clay 3 to throw [a spear], to shoot [an arrow] (in an interpretation of 8:17) وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى and when you threw [pebbles/a spear] (or, aimed [an arrow or a spear]) it was not you who threw, but God 4 to accuse (4:112) وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا whoever commits a fault or a sin then accuses an innocent [person] of it 5 [jur.] to defame, to accuse of adultery, in particular (24:4) وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ شُهَدَاءَ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا those who accuse chaste women [of adultery], and then fail to provide four witnesses—give them eighty lashes, and reject their testimony ever after.",
+      "definition_english": "r-m-y to throw, to cast, to cast away, to throw off; to shoot at, to hunt, target, aim, projectiles; to come in succession; to accuse, to defame; share, usury. Of this root, رَمَى ramā occurs nine times in the Qur’an.\nرَمَى i ramā [v. trans.] 1 to throw out, to hurl (77:32) إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ it hurls sparks as large as tree trunks 2 to pelt (105:4) تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ pelting them with pellets of hard-baked clay 3 to throw [a spear], to shoot [an arrow] (in an interpretation of 8:17) وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى and when you threw [pebbles/a spear] (or, aimed [an arrow or a spear]) it was not you who threw, but God 4 to accuse (4:112) وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا whoever commits a fault or a sin then accuses an innocent [person] of it 5 [jur.] to defame, to accuse of adultery, in particular (24:4) وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ شُهَدَاءَ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا those who accuse chaste women [of adultery], and then fail to provide four witnesses—give them eighty lashes, and reject their testimony ever after."
+    }
+  ],
   "occurrences": [
     "105:4:1",
     "24:23:3",

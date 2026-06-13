@@ -1,9 +1,17 @@
 {
-  "id": 2423,
   "root": "ط و د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطهم - طوي\n\n(طود) الطاء والواو والدال أصلٌ صحيح، وفيه كلمةٌ واحدةٌ. فالطَّود: الجَبَل العظيم. قال الله سبحانه: ] فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيْمِ [ [الشعراء 63]. ويقولون: \"طَوَّدَ في الجبل، إذا طَوَّف، كأنه فعل مشتقٌّ من الطود.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطهم - طوي\n\n(طود) الطاء والواو والدال أصلٌ صحيح، وفيه كلمةٌ واحدةٌ. فالطَّود: الجَبَل العظيم. قال الله سبحانه: ] فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيْمِ [ [الشعراء 63]. ويقولون: \"طَوَّدَ في الجبل، إذا طَوَّف، كأنه فعل مشتقٌّ من الطود.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t–w–d a great mountain; to be firm; to travel far and wide; to strive to earn a living. Of this root, طَوْد tawd occurs once in the Qur’an.\nطَوْد tawd [n.] mountain (26:63) فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ it parted, and each part was as a great mountain.",
+      "definition_english": "t–w–d a great mountain; to be firm; to travel far and wide; to strive to earn a living. Of this root, طَوْد tawd occurs once in the Qur’an.\nطَوْد tawd [n.] mountain (26:63) فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ it parted, and each part was as a great mountain."
+    }
+  ],
   "occurrences": [
     "26:63:12"
   ]

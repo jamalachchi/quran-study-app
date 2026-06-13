@@ -1,9 +1,17 @@
 {
-  "id": 3074,
   "root": "ق م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقلع\n\n(قمر) القاف والميم والراء أصلٌ صحيح يدلُّ على بَياضٍ في شيء، ثم يفرّع منه. من ذلك القَمَر: قَمَر السَّماء، سمِّي قمراً لبياضه. وحمارٌ أقمر، أي أبيض. وتصغير القَمَر قُمَيْر: قال:\n\nـنَ فقالت له الفتاتان قُوما\n\nوقميرٍ بدا ابن خمسٍ وعشريـ\n\nويقال: تقمَّرتُه: أتيتُه في القَمْراء. ويقولون: قَمِرَ التَّمْر: وأقْمَرَ، إذا ضَرَبَهُ البردُ فذهبت حلاوتُه قبل أن يَنضَج. ويقال: تَقَمَّر الأسدُ، إذا خَرَجَ يطلبُ الصيد في القَمْرَاء، قال:\n\nثَبْتِ الجَنَانِ مُعَاوِدِ التَّطْعانِ\n\nسَقَط العِشاءُ به على مُتَقمِّرٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقلع\n\n(قمر) القاف والميم والراء أصلٌ صحيح يدلُّ على بَياضٍ في شيء، ثم يفرّع منه. من ذلك القَمَر: قَمَر السَّماء، سمِّي قمراً لبياضه. وحمارٌ أقمر، أي أبيض. وتصغير القَمَر قُمَيْر: قال:\n\nـنَ فقالت له الفتاتان قُوما\n\nوقميرٍ بدا ابن خمسٍ وعشريـ\n\nويقال: تقمَّرتُه: أتيتُه في القَمْراء. ويقولون: قَمِرَ التَّمْر: وأقْمَرَ، إذا ضَرَبَهُ البردُ فذهبت حلاوتُه قبل أن يَنضَج. ويقال: تَقَمَّر الأسدُ، إذا خَرَجَ يطلبُ الصيد في القَمْرَاء، قال:\n\nثَبْتِ الجَنَانِ مُعَاوِدِ التَّطْعانِ\n\nسَقَط العِشاءُ به على مُتَقمِّرٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–m–r moon, moonlight; whiteness, greyness; to hunt; to win\nin gambling, to stake; to deceive. Of this root, قَمَر qamar occurs\n27 times in the Qur’an.\n\nقَمَر qamar [n.] 1 the moon (36:39) وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ\nكَالْعُرْجُونِ الْقَدِيمِ and the moon, We have set it in phases [lit. measured\nit into stations] until it becomes like a shrivelled, old, date-palm\nstalk; * القمر name of Sura 54, Meccan sura, so-named because of\nthe reference in verse 1 to ‘the Moon’ 2 a moon (25:61) تَبَارَكَ الَّذِي\nجَعَلَ فِي السَّمَاءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَاجًا وَقَمَرًا مُنِيرًا exalted is He who\nplaced constellations in the heavens, and placed in them a great\nlantern and an illuminating moon.",
+      "definition_english": "q–m–r moon, moonlight; whiteness, greyness; to hunt; to win\nin gambling, to stake; to deceive. Of this root, قَمَر qamar occurs\n27 times in the Qur’an.\n\nقَمَر qamar [n.] 1 the moon (36:39) وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ\nكَالْعُرْجُونِ الْقَدِيمِ and the moon, We have set it in phases [lit. measured\nit into stations] until it becomes like a shrivelled, old, date-palm\nstalk; * القمر name of Sura 54, Meccan sura, so-named because of\nthe reference in verse 1 to ‘the Moon’ 2 a moon (25:61) تَبَارَكَ الَّذِي\nجَعَلَ فِي السَّمَاءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَاجًا وَقَمَرًا مُنِيرًا exalted is He who\nplaced constellations in the heavens, and placed in them a great\nlantern and an illuminating moon."
+    }
+  ],
   "occurrences": [
     "10:5:6",
     "12:4:12",

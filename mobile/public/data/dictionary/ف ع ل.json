@@ -1,9 +1,22 @@
 {
-  "id": 3029,
   "root": "ف ع ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفضح - فضخ\n\n(فعل) الفاء العين واللام أصلٌ صحيح يدلُّ على إحداث شيء من عملٍ وغيره. من ذلك: فَعَلْتُ كذا أفعلُه فَعْلا. وكانت مِن فُلانٍ فَعْلةٌ حَسَنَةٌ أو قبيحة. والفِعَال جمع فِعْل. والفَعَال، بفتح الفاء: الكَرَم وما يُفْعَل من حَسَن.\n\nوبقيت كلمةٌ ما أدري كيف صحّتها. يقولون: الفِعَال: خَشَبة الفأس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفضح - فضخ\n\n(فعل) الفاء العين واللام أصلٌ صحيح يدلُّ على إحداث شيء من عملٍ وغيره. من ذلك: فَعَلْتُ كذا أفعلُه فَعْلا. وكانت مِن فُلانٍ فَعْلةٌ حَسَنَةٌ أو قبيحة. والفِعَال جمع فِعْل. والفَعَال، بفتح الفاء: الكَرَم وما يُفْعَل من حَسَن.\n\nوبقيت كلمةٌ ما أدري كيف صحّتها. يقولون: الفِعَال: خَشَبة الفأس.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–l–k).\nفِطْرَة fiṭratun [n.] creation * فِطْرَةَ اللَّهِ the genesis of creation, the\noriginal unadulterated nature of things, natural disposition (30:30)\nفَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا so set up your face [set\nyour purpose] to the religion, upright–[this is] the natural\ndisposition God instilled in humankind.\n\n* الانفطار ʾal-ʾinfiṭār name of Sura 82, Meccan sura, so-named\n  because of the reference in verse 1 to the sky being ‘Split Apart’.\n\nفُطُور fuṭūr [v. n.] flaw, inadequacy, defect (67:3) الَّذِي خَلَقَ سَبْعَ\nسَمَاوَاتٍ طِبَاقًا مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِنْ فُطُورٍ\nHe who created the seven heavens one above the other; you will\nsee no disparity in the creation of the Beneficent, so look around\nyou–can you see any flaw?\n\nمُنْفَطِر munfaṭir [quasi-act. part.] split, rent apart (73:17–18) يَوْمًا\nيَجْعَلُ الْوِلْدَانَ شِيبًا السَّمَاءُ مُنْفَطِرٌ بِهِ a Day that will turn children grey-\nhaired, [a Day] in which the sky will be split apart.",
+      "definition_english": "m–l–k).\nفِطْرَة fiṭratun [n.] creation * فِطْرَةَ اللَّهِ the genesis of creation, the\noriginal unadulterated nature of things, natural disposition (30:30)\nفَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا so set up your face [set\nyour purpose] to the religion, upright–[this is] the natural\ndisposition God instilled in humankind.\n\n* الانفطار ʾal-ʾinfiṭār name of Sura 82, Meccan sura, so-named\n  because of the reference in verse 1 to the sky being ‘Split Apart’.\n\nفُطُور fuṭūr [v. n.] flaw, inadequacy, defect (67:3) الَّذِي خَلَقَ سَبْعَ\nسَمَاوَاتٍ طِبَاقًا مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِنْ فُطُورٍ\nHe who created the seven heavens one above the other; you will\nsee no disparity in the creation of the Beneficent, so look around\nyou–can you see any flaw?\n\nمُنْفَطِر munfaṭir [quasi-act. part.] split, rent apart (73:17–18) يَوْمًا\nيَجْعَلُ الْوِلْدَانَ شِيبًا السَّمَاءُ مُنْفَطِرٌ بِهِ a Day that will turn children grey-\nhaired, [a Day] in which the sky will be split apart."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–ʿ–l to act, to do, to work, to labour, to toil. Of this root, eight\nforms occur 108 times in the Qur’an: فَعَل faʿala 85 times; فُعِل\nfuʿila three times; فِعْل fiʿl once; فَعْلَة faʿlatun once; فَاعِل fāʿil once;\nفَاعِلِين fāʿilīn eight times; فَعَّال faʿʿāl twice and مَفْعُول mafʿūl seven\ntimes.\n\nفَعَل faʿala a [v. trans.] 1 to do (2:197) وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ\nwhatever you do of goodness, God is fully aware of it 2 to commit\n(3:135) وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا\nthose who, when they have committed a sinful deed or have [otherwise]\nsinned against themselves, remember God, so they implore\n\n718",
+      "definition_english": "f–ʿ–l to act, to do, to work, to labour, to toil. Of this root, eight\nforms occur 108 times in the Qur’an: فَعَل faʿala 85 times; فُعِل\nfuʿila three times; فِعْل fiʿl once; فَعْلَة faʿlatun once; فَاعِل fāʿil once;\nفَاعِلِين fāʿilīn eight times; فَعَّال faʿʿāl twice and مَفْعُول mafʿūl seven\ntimes.\n\nفَعَل faʿala a [v. trans.] 1 to do (2:197) وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ\nwhatever you do of goodness, God is fully aware of it 2 to commit\n(3:135) وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا\nthose who, when they have committed a sinful deed or have [otherwise]\nsinned against themselves, remember God, so they implore\n\n718"
+    }
+  ],
   "occurrences": [
     "105:1:4",
     "10:106:12",

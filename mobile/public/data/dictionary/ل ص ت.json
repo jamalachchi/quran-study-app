@@ -1,8 +1,11 @@
 {
-  "id": 3558,
   "root": "ل ص ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلسب\n\n(لصت) اللام والصاد والتاء. يقولون: اللَّصْتُ: اللِّصّ.\n\n(باب اللام والطاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلسب\n\n(لصت) اللام والصاد والتاء. يقولون: اللَّصْتُ: اللِّصّ.\n\n(باب اللام والطاء وما يثلثهما)",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

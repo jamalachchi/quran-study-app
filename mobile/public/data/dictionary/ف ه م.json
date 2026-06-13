@@ -1,9 +1,17 @@
 {
-  "id": 2906,
   "root": "ف ه م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفهم - فوت\n\nقال الخليل: الفَيْهق: الواسعُ من كلِّ شيء، حتى يقالُ مفازةٌ فيهق. قال: ومُنفهق الوادي: متَّسَعه.\n\nومما شذَّ عن هذا الأصل: الفَهْقَة: عظمٌ عند فائق الرَّأس مشرفٌ على اللَّهاة.\n\n(فهم) الفاء والهاء والميم عِلْم الشيء، كذا يقولون أهلُ اللغة . وفَهمٌ: قبيلة.\n\n(باب الفاء والواو وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفهم - فوت\n\nقال الخليل: الفَيْهق: الواسعُ من كلِّ شيء، حتى يقالُ مفازةٌ فيهق. قال: ومُنفهق الوادي: متَّسَعه.\n\nومما شذَّ عن هذا الأصل: الفَهْقَة: عظمٌ عند فائق الرَّأس مشرفٌ على اللَّهاة.\n\n(فهم) الفاء والهاء والميم عِلْم الشيء، كذا يقولون أهلُ اللغة . وفَهمٌ: قبيلة.\n\n(باب الفاء والواو وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–h–m to understand, to comprehend. Of this root, فَهَّم\nfahhama, occurs once in the Qur’an.\n\nفَهَّم fahhama [v. II, doubly trans.] to cause someone to\nunderstand something, to cause someone to comprehend\nsomething (21:79) فَفَهَّمْنَاهَا سُلَيْمَانَ and We made Solomon understand\nit [the case].",
+      "definition_english": "f–h–m to understand, to comprehend. Of this root, فَهَّم\nfahhama, occurs once in the Qur’an.\n\nفَهَّم fahhama [v. II, doubly trans.] to cause someone to\nunderstand something, to cause someone to comprehend\nsomething (21:79) فَفَهَّمْنَاهَا سُلَيْمَانَ and We made Solomon understand\nit [the case]."
+    }
+  ],
   "occurrences": [
     "21:79:1"
   ]

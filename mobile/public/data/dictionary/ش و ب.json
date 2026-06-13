@@ -1,9 +1,17 @@
 {
-  "id": 2034,
   "root": "ش و ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشوي\n\n(شوب) الشين والواو والباء أصلٌ واحدٌ، وهو الخَلْط. يقال: شُبْتُ الشيءَ أشوبُه شَوباً. قال أهلُ اللُّغة: وسمِّي العَسَل شَوباً، لأنَّه كان عندهم مِزاجاً لغيره من الأشربة. والشِّياب: اسمٌ لما يُمزَج به. ويقولون: ما عنده شوبٌ ولا رَوب. فالشَّوب: العَسَل. والرّوب: اللبن الرائب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشوي\n\n(شوب) الشين والواو والباء أصلٌ واحدٌ، وهو الخَلْط. يقال: شُبْتُ الشيءَ أشوبُه شَوباً. قال أهلُ اللُّغة: وسمِّي العَسَل شَوباً، لأنَّه كان عندهم مِزاجاً لغيره من الأشربة. والشِّياب: اسمٌ لما يُمزَج به. ويقولون: ما عنده شوبٌ ولا رَوب. فالشَّوب: العَسَل. والرّوب: اللبن الرائب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ش/و/ب sh–w–b (of drinks) to mix, to mingle, to adulterate; a trace; to\navoid, to stay away from; insincerity, guile, deceit. Of this\nroot, شَوْب shawb occurs once in the Qurʾan.\n\nشَوْب shawb [n.] a mix, something with which another is mixed\n(37:67) ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ then they will have, on top of it, a\ndose of scalding water.",
+      "definition_english": "ش/و/ب sh–w–b (of drinks) to mix, to mingle, to adulterate; a trace; to\navoid, to stay away from; insincerity, guile, deceit. Of this\nroot, شَوْب shawb occurs once in the Qurʾan.\n\nشَوْب shawb [n.] a mix, something with which another is mixed\n(37:67) ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ then they will have, on top of it, a\ndose of scalding water."
+    }
+  ],
   "occurrences": [
     "37:67:5"
   ]

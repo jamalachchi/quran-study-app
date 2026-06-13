@@ -1,9 +1,17 @@
 {
-  "id": 110,
   "root": "أ ص ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأصل\n\nورجل أَشِرٌ وأَشُرٌ. والأُشُر رقّة وحِدّةٌ في أطراف الأسنان: قال طرفة:\n\nبَدّلَتْهُ الشَّمْسُ من مَنْبِتِهِ\n\nبرَداً أبْيَضَ مَصقُولَ الأُشُرْ\n\nوأشَرت الخشبَة بالمئشار من هذا.\n\n(باب الهمزة والصاد وما بعدهما في الثلاثي)\n\n(أصل) الهمزة والصاد واللام، ثلاثة أصولٍ متباعدٍ بعضُها من بعض، أحدها: أساس الشيء، والثاني: الحيّة، والثالث: ما كان من النّهار بعد العشيّ. فأما الأوّل فالأصل أصل الشيء، قال الكِسائيّ في قولهم: \"لا أصْلَ له ولا فَصل له \": إنّ الأصل الحسب، والفَصْل اللسان. ويقال مَجْدٌ أصيلٌ. وأمّا الأصَلة فالحيّة العظيمة. وفي الحديث في ذكر الدجّال: \"كأَنّ رأسَهُ أصَلَةٌ\". وأمّا الزمان",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأصل\n\nورجل أَشِرٌ وأَشُرٌ. والأُشُر رقّة وحِدّةٌ في أطراف الأسنان: قال طرفة:\n\nبَدّلَتْهُ الشَّمْسُ من مَنْبِتِهِ\n\nبرَداً أبْيَضَ مَصقُولَ الأُشُرْ\n\nوأشَرت الخشبَة بالمئشار من هذا.\n\n(باب الهمزة والصاد وما بعدهما في الثلاثي)\n\n(أصل) الهمزة والصاد واللام، ثلاثة أصولٍ متباعدٍ بعضُها من بعض، أحدها: أساس الشيء، والثاني: الحيّة، والثالث: ما كان من النّهار بعد العشيّ. فأما الأوّل فالأصل أصل الشيء، قال الكِسائيّ في قولهم: \"لا أصْلَ له ولا فَصل له \": إنّ الأصل الحسب، والفَصْل اللسان. ويقال مَجْدٌ أصيلٌ. وأمّا الأصَلة فالحيّة العظيمة. وفي الحديث في ذكر الدجّال: \"كأَنّ رأسَهُ أصَلَةٌ\". وأمّا الزمان",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–ṣ–l base, root, foundation; to be deep-rooted; to eradicate;\ntime before sunset. Of this root, four forms occur 10 times in the\nQur’an: أَصْل ʾaṣl twice; أُصُول ʾuṣūl twice; أَصِيل ʾaṣīl four times and\nآصَال ʾāṣāl three times.\n\nأَصْل ʾaṣl [n.] 1 bottom, base (37:64) إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ\nit is a tree that emerges in the bottom of the blazing Fire 2 [pl.\nأُصُول ʾuṣūl] root, stem (59:5) مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا\nفَبِإِذْنِ اللَّهِ whatever palm trees you have cut down or left standing on\ntheir roots–[it was done] by God’s leave.\n\nأَصِيل ʾaṣīl [n.; pl. آصَال ʾāṣāl] time before sunset, evening\n(13:15) وَلِلَّهِ يَسْجُدُ مَنْ فِي السَّمَاوَاتِ وَالأَرْضِ طَوْعًا وَكَرْهًا وَظِلالُهُمْ بِالْغُدُوِّ وَالآصَالِ\neverything that is in the heavens and the Earth prostrates to God\nin the mornings and in the evenings, as do their shadows,\nwillingly or unwillingly; *(33:42) وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً and glorify\nHim [morning and evening] constantly, at all times.",
+      "definition_english": "ʾ–ṣ–l base, root, foundation; to be deep-rooted; to eradicate;\ntime before sunset. Of this root, four forms occur 10 times in the\nQur’an: أَصْل ʾaṣl twice; أُصُول ʾuṣūl twice; أَصِيل ʾaṣīl four times and\nآصَال ʾāṣāl three times.\n\nأَصْل ʾaṣl [n.] 1 bottom, base (37:64) إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ\nit is a tree that emerges in the bottom of the blazing Fire 2 [pl.\nأُصُول ʾuṣūl] root, stem (59:5) مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا\nفَبِإِذْنِ اللَّهِ whatever palm trees you have cut down or left standing on\ntheir roots–[it was done] by God’s leave.\n\nأَصِيل ʾaṣīl [n.; pl. آصَال ʾāṣāl] time before sunset, evening\n(13:15) وَلِلَّهِ يَسْجُدُ مَنْ فِي السَّمَاوَاتِ وَالأَرْضِ طَوْعًا وَكَرْهًا وَظِلالُهُمْ بِالْغُدُوِّ وَالآصَالِ\neverything that is in the heavens and the Earth prostrates to God\nin the mornings and in the evenings, as do their shadows,\nwillingly or unwillingly; *(33:42) وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً and glorify\nHim [morning and evening] constantly, at all times."
+    }
+  ],
   "occurrences": [
     "13:15:11",
     "14:24:11",

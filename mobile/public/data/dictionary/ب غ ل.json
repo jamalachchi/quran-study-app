@@ -1,9 +1,17 @@
 {
-  "id": 308,
   "root": "ب غ ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبعط\n\n(بغل) الباء والغين واللام يدلُّ على قُوَّةٍ في الجِسم. من ذلك البَغْل، قال قومٌ: سُمِّيَ بذلك لقُوَّةِ خَلْقِه. وقد قالوا: سُمّيَ بَغْلاً من التّبْغيل، وهو ضربٌ من السَّيْرِ. والذي نَذْهَبُ إليه أنَّ التَّبغيلَ مشتقٌّ من سَيْر البَغْل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبعط\n\n(بغل) الباء والغين واللام يدلُّ على قُوَّةٍ في الجِسم. من ذلك البَغْل، قال قومٌ: سُمِّيَ بذلك لقُوَّةِ خَلْقِه. وقد قالوا: سُمّيَ بَغْلاً من التّبْغيل، وهو ضربٌ من السَّيْرِ. والذي نَذْهَبُ إليه أنَّ التَّبغيلَ مشتقٌّ من سَيْر البَغْل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-gh-l mule; to be stupid, to affect stupidity. Of this root, بِغَال\nbighāl, which is a borrowing from Ethiopic, occurs once in the\nQurʾan.\n\nبِغَال bighāl [pl. of n. بَغْل baghl] mules (16:8) وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ\nand horses, mules and donkeys for you to ride [them].",
+      "definition_english": "b-gh-l mule; to be stupid, to affect stupidity. Of this root, بِغَال\nbighāl, which is a borrowing from Ethiopic, occurs once in the\nQurʾan.\n\nبِغَال bighāl [pl. of n. بَغْل baghl] mules (16:8) وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ\nand horses, mules and donkeys for you to ride [them]."
+    }
+  ],
   "occurrences": [
     "16:8:2"
   ]

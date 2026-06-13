@@ -1,9 +1,17 @@
 {
-  "id": 1916,
   "root": "س د ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسخب - سخت\n\n(سدر) السين والدال والراء أصلٌ واحدٌ يدلُّ على شِبه الحَيْرة واضطراب الرأي. يقولون: السادر المتحيِّر. ويقولون سَدِرَ بصرُهُ يَسْدَر، وذلك إذا اسمدَّ وتحيَّرَ. ويقولون: السَّادر هو الذي لا يبالي ما صَنَعَ، ولا يهتمُّ بشيء. قال طرفة:\n\nفتناهَيتُ وقد صَابَتْ بقُرّْ\n\nسادراً أحْسَِب غَيِّي رَشَداً\n\nفأمَّا قولهم: سَدَرت المرأة شعرها، فهو من باب الإبدال، مثل سدلتُ، وذلك إذا أرسلَتْه. وكذلك قولهم: \"جاء يضربُ أسدرَيْه\"، وهو من الإبدال، والأصل فيه الصاد، وقد ذُكر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسخب - سخت\n\n(سدر) السين والدال والراء أصلٌ واحدٌ يدلُّ على شِبه الحَيْرة واضطراب الرأي. يقولون: السادر المتحيِّر. ويقولون سَدِرَ بصرُهُ يَسْدَر، وذلك إذا اسمدَّ وتحيَّرَ. ويقولون: السَّادر هو الذي لا يبالي ما صَنَعَ، ولا يهتمُّ بشيء. قال طرفة:\n\nفتناهَيتُ وقد صَابَتْ بقُرّْ\n\nسادراً أحْسَِب غَيِّي رَشَداً\n\nفأمَّا قولهم: سَدَرت المرأة شعرها، فهو من باب الإبدال، مثل سدلتُ، وذلك إذا أرسلَتْه. وكذلك قولهم: \"جاء يضربُ أسدرَيْه\"، وهو من الإبدال، والأصل فيه الصاد، وقد ذُكر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–d–r flowing down, continuing without interruption; lote\ntree. Of this root, only سدرة sidratun and سدر sidr occur twice each\nin the Qur’an.\n\nسدرة sidratun [n.; collect n. سدر sidr] lote tree (34:16) جنتين ذواتي\nأكل خمط وأثل وشيء من سدر قليل and We replaced for them their two\ngardens with two others that yielded bitter fruit, tamarisk bushes\nand a few lote trees; *(53:14) سدرة المنتهى the Lote tree marking the\nend of the road, the pinnacle Lote tree, the Lote tree of maximum\nlimit, the Lote tree beyond which neither angel nor prophet may\npass and which casts its shade over Paradise, this tree, said to be\nlocated either in the sixth or seventh Heaven, marks the point\n\n429",
+      "definition_english": "s–d–r flowing down, continuing without interruption; lote\ntree. Of this root, only سدرة sidratun and سدر sidr occur twice each\nin the Qur’an.\n\nسدرة sidratun [n.; collect n. سدر sidr] lote tree (34:16) جنتين ذواتي\nأكل خمط وأثل وشيء من سدر قليل and We replaced for them their two\ngardens with two others that yielded bitter fruit, tamarisk bushes\nand a few lote trees; *(53:14) سدرة المنتهى the Lote tree marking the\nend of the road, the pinnacle Lote tree, the Lote tree of maximum\nlimit, the Lote tree beyond which neither angel nor prophet may\npass and which casts its shade over Paradise, this tree, said to be\nlocated either in the sixth or seventh Heaven, marks the point\n\n429"
+    }
+  ],
   "occurrences": [
     "34:16:15",
     "53:14:2",

@@ -1,8 +1,11 @@
 {
-  "id": 4233,
   "root": "ه ر د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهرس - هرش\n\n(هرد) الهاء والراء والدال كلماتٌ تدلُّ على معالجةِ شيءٍ بصِبْغ أو ما",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهرس - هرش\n\n(هرد) الهاء والراء والدال كلماتٌ تدلُّ على معالجةِ شيءٍ بصِبْغ أو ما",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

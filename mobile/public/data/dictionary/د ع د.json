@@ -1,8 +1,11 @@
 {
-  "id": 1160,
   "root": "د ع د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعد) الدال والعين والدال ليس بشيء. وربَّما سَمَّوا المرأة \"دَعْدَ\".",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دعد) الدال والعين والدال ليس بشيء. وربَّما سَمَّوا المرأة \"دَعْدَ\".",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

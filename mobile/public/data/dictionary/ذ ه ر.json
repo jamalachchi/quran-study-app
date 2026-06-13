@@ -1,8 +1,11 @@
 {
-  "id": 1326,
   "root": "ذ ه ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذهب - ذهر\n\n(ذهر) الذال والهاء والراء ليس بأصلٍ. وربَّما قالوا ذَهِرَ فُوهُ، إذا اسودّت أسنانُه.\n\nذهل - ذهن - ذوي",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذهب - ذهر\n\n(ذهر) الذال والهاء والراء ليس بأصلٍ. وربَّما قالوا ذَهِرَ فُوهُ، إذا اسودّت أسنانُه.\n\nذهل - ذهن - ذوي",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

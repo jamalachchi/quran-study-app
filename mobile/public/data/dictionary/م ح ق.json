@@ -1,9 +1,22 @@
 {
-  "id": 3685,
   "root": "م ح ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمحق - محك\n\nوامتَحَضْتُ أنا: شرِبت المَحْض. وأمحضْتُك الحديثَ: صَدَقْتُكَه. وكذا النصيحة [و] الوُدّ. قال:\n\nتَعلُو اللّئيم بضربٍ فيه إمحاضُ\n\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ\n\n(محق) الميم والحاء والقاف كلماتٌ تدلُّ على نُقصان. ومَحَقه: نَقصه. وكلُّ شيء نَقَصَ وُصِف بهذا. والمحَاق : آخِر الشَّهر إذا تمحَّق الهِلال. ومَحَقه الله: ذهَب ببَركتِه . وقال قوم: أمْحَقَه؛ وهو رديء. وقال أبو عمرو: الإمحاق أن يَهلِك كمحاقِ الهلال. وقولهم: ماحِقُ الصَّيف: شِدَّة حَرِّه، أي إنّه بشدَّة الحرِّ يمحَق النبات، أي يُوبِسُه، ويذهبُ به، وقال ابن دريد ، في قول القائل :\n\nنَقيع السّمّ أو قَرْنٌ محيقُ\n\nيقلّب صعدةً جرداء فيها\n\nإنه ليس من المحق، إنما هو مفعول من حُقْت أَحُوق وحِقت أَحيق، أي دَلكت وملَّست.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمحق - محك\n\nوامتَحَضْتُ أنا: شرِبت المَحْض. وأمحضْتُك الحديثَ: صَدَقْتُكَه. وكذا النصيحة [و] الوُدّ. قال:\n\nتَعلُو اللّئيم بضربٍ فيه إمحاضُ\n\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ\n\n(محق) الميم والحاء والقاف كلماتٌ تدلُّ على نُقصان. ومَحَقه: نَقصه. وكلُّ شيء نَقَصَ وُصِف بهذا. والمحَاق : آخِر الشَّهر إذا تمحَّق الهِلال. ومَحَقه الله: ذهَب ببَركتِه . وقال قوم: أمْحَقَه؛ وهو رديء. وقال أبو عمرو: الإمحاق أن يَهلِك كمحاقِ الهلال. وقولهم: ماحِقُ الصَّيف: شِدَّة حَرِّه، أي إنّه بشدَّة الحرِّ يمحَق النبات، أي يُوبِسُه، ويذهبُ به، وقال ابن دريد ، في قول القائل :\n\nنَقيع السّمّ أو قَرْنٌ محيقُ\n\nيقلّب صعدةً جرداء فيها\n\nإنه ليس من المحق، إنما هو مفعول من حُقْت أَحُوق وحِقت أَحيق، أي دَلكت وملَّست.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–q waning of the moon, moonless nights; to diminish, to\nblot out, to eradicate; to uproot, to annihilate; sharp blade. Of this\nroot, only يَمْحَق yamḥaq, occurs twice in the Qur’an.\n\nيَمْحَق yamḥaq [imperf. of v. مَحَق maḥaqa, trans.] 1 to eradicate,\nto vanquish (3:141) وَيَمْحَقُ الْكَافِرِينَ and He vanquishes the\ndisbelievers 2 to cause to decrease, to diminish, to blight (2:276)\nيَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ God blights usury, but blesses charitable\ndeeds [with multiple increase].",
+      "definition_english": "m–ḥ–q waning of the moon, moonless nights; to diminish, to\nblot out, to eradicate; to uproot, to annihilate; sharp blade. Of this\nroot, only يَمْحَق yamḥaq, occurs twice in the Qur’an.\n\nيَمْحَق yamḥaq [imperf. of v. مَحَق maḥaqa, trans.] 1 to eradicate,\nto vanquish (3:141) وَيَمْحَقُ الْكَافِرِينَ and He vanquishes the\ndisbelievers 2 to cause to decrease, to diminish, to blight (2:276)\nيَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ God blights usury, but blesses charitable\ndeeds [with multiple increase]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–q waning of the moon, moonless nights; to diminish, to blot out, to eradicate; to uproot, to annihilate; sharp blade. Of this root, only يمحق yamḥaq, occurs twice in the Qur’an.\nيمحق yamḥaq [imperf. of v. محق maḥaqa, trans.] 1 to eradicate, to vanquish (3:141) وَيَمْحَقَ الْكَافِرِينَ and He vanquishes the disbelievers 2 to cause to decrease, to diminish, to blight (2:276) يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ God blights usury, but blesses charitable deeds [with multiple increase].",
+      "definition_english": "m–ḥ–q waning of the moon, moonless nights; to diminish, to blot out, to eradicate; to uproot, to annihilate; sharp blade. Of this root, only يمحق yamḥaq, occurs twice in the Qur’an.\nيمحق yamḥaq [imperf. of v. محق maḥaqa, trans.] 1 to eradicate, to vanquish (3:141) وَيَمْحَقَ الْكَافِرِينَ and He vanquishes the disbelievers 2 to cause to decrease, to diminish, to blight (2:276) يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ God blights usury, but blesses charitable deeds [with multiple increase]."
+    }
+  ],
   "occurrences": [
     "2:276:1",
     "3:141:5"

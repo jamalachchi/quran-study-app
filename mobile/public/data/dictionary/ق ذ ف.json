@@ -1,9 +1,17 @@
 {
-  "id": 3161,
   "root": "ق ذ ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقذع - قذف\n\n(قذف) القاف والذال والفاء أصلٌ يدلُّ على الرَّمي والطَّرح. يقال: قَذَفَ الشَّيءَ يقذِفُه قذْفاً، إذا رمى به. وبلدةٌ قَذوف، أي طَرُوحٌ لبُعدها تَترامى بالسَّفْر. ومنزلٌ قَذَفٌ وقذيف، أي بعيد. وناقةٌ مقذوفة باللَّحم، كأنها رُمِيت\n\nقذل- قذم - قذي\n\nبه. والقِذاف: سرعة السَّير. وفرسٌ [متقاذفٌ ] سريع العَدْو، كأنَّه يَترامَى في عَدْوه.\n\nومن الباب أقذافُ الجبلِ: نواحِيه، الواحد قَذَف. والقَذيفة: الشيءُ يُرمَى به. قال:\n\nفصارت ضَواةً في لهازِمِ ضِرزِمِ\n\nقذيفةُ شيطانٍ رجيمٍ رمَى بها\n\nالضَّواة: السِّلْعة. والضِّرْزِم. الناقة المسِنَّة. وقَذَفَ: قاءَ، كأنَّه رمَى به.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقذع - قذف\n\n(قذف) القاف والذال والفاء أصلٌ يدلُّ على الرَّمي والطَّرح. يقال: قَذَفَ الشَّيءَ يقذِفُه قذْفاً، إذا رمى به. وبلدةٌ قَذوف، أي طَرُوحٌ لبُعدها تَترامى بالسَّفْر. ومنزلٌ قَذَفٌ وقذيف، أي بعيد. وناقةٌ مقذوفة باللَّحم، كأنها رُمِيت\n\nقذل- قذم - قذي\n\nبه. والقِذاف: سرعة السَّير. وفرسٌ [متقاذفٌ ] سريع العَدْو، كأنَّه يَترامَى في عَدْوه.\n\nومن الباب أقذافُ الجبلِ: نواحِيه، الواحد قَذَف. والقَذيفة: الشيءُ يُرمَى به. قال:\n\nفصارت ضَواةً في لهازِمِ ضِرزِمِ\n\nقذيفةُ شيطانٍ رجيمٍ رمَى بها\n\nالضَّواة: السِّلْعة. والضِّرْزِم. الناقة المسِنَّة. وقَذَفَ: قاءَ، كأنَّه رمَى به.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–dh–f to cast away, to throw, to shoot; to be fast, to run quickly; side, protrusion. Of this root, two forms occur in nine places in the Qur’an: قَذَف qadhafa eight times and يُقْذَف yuqdhaf once.\nقَذَف qadhafa i [v. trans.; pass. imperf. يُقْذَفُونَ yuqdhafūn] 1 to cast, to throw, to fling (20:39) أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ cast him into the chest, then cast it in the river; let the river wash him/it onto the bank 2 to pelt, to hurl (21:18) بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ no!, We hurl the truth against falsehood, and it breaks its head; *(34:53) وَيَقْذِفُونَ بِالْغَيْبِ they make wild guesses at the unknown, they conjecture wildly, they are shooting in the dark.",
+      "definition_english": "q–dh–f to cast away, to throw, to shoot; to be fast, to run quickly; side, protrusion. Of this root, two forms occur in nine places in the Qur’an: قَذَف qadhafa eight times and يُقْذَف yuqdhaf once.\nقَذَف qadhafa i [v. trans.; pass. imperf. يُقْذَفُونَ yuqdhafūn] 1 to cast, to throw, to fling (20:39) أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ cast him into the chest, then cast it in the river; let the river wash him/it onto the bank 2 to pelt, to hurl (21:18) بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ no!, We hurl the truth against falsehood, and it breaks its head; *(34:53) وَيَقْذِفُونَ بِالْغَيْبِ they make wild guesses at the unknown, they conjecture wildly, they are shooting in the dark."
+    }
+  ],
   "occurrences": [
     "20:39:2",
     "20:39:5",

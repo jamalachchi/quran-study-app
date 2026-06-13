@@ -1,9 +1,17 @@
 {
-  "id": 3958,
   "root": "ن خ ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنخط - نخع\n\n(نخل) النون والخاء واللام: كلمةٌ تدلُّ على انتقاء الشَّيء واختياره.وانتخلته: استقصيت حَتّى أخذتُ أفضلَه. وعندنا أنَّ النَّخلَ سمِّي به لأنَّه أشرف كلِّ شجرٍ ذي ساق، الواحدة نَخْلة. والنَّخْل: نَخلك الدَّقيق بالمُنْخُل، وما سقَطَ منه فهو نُخَالة . والنَّخْل: ضربٌ من الحَلْي على صورة النَّخْل. قال:\n\n* قد اكتَسَتْ من أرنَبٍ ونَخْلِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنخط - نخع\n\n(نخل) النون والخاء واللام: كلمةٌ تدلُّ على انتقاء الشَّيء واختياره.وانتخلته: استقصيت حَتّى أخذتُ أفضلَه. وعندنا أنَّ النَّخلَ سمِّي به لأنَّه أشرف كلِّ شجرٍ ذي ساق، الواحدة نَخْلة. والنَّخْل: نَخلك الدَّقيق بالمُنْخُل، وما سقَطَ منه فهو نُخَالة . والنَّخْل: ضربٌ من الحَلْي على صورة النَّخْل. قال:\n\n* قد اكتَسَتْ من أرنَبٍ ونَخْلِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–kh–l palm trees, date palms; the select; the dregs, to sieve\nout, to sift. Of this root, three forms occur 20 times in the Qur’an:\nنَخْلَة nakhlatun twice; نَخْل nakhl 11 times and نَخِيل nakhīl seven\ntimes.\n\nنَخْلَة nakhlatun [unit n., coll. n. نَخْل nakhl and نَخِيل nakhīl] date\npalm (6:99) وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ and from the date palm,\nfrom its pollen, [spring] clusters of low-hanging dates.",
+      "definition_english": "n–kh–l palm trees, date palms; the select; the dregs, to sieve\nout, to sift. Of this root, three forms occur 20 times in the Qur’an:\nنَخْلَة nakhlatun twice; نَخْل nakhl 11 times and نَخِيل nakhīl seven\ntimes.\n\nنَخْلَة nakhlatun [unit n., coll. n. نَخْل nakhl and نَخِيل nakhīl] date\npalm (6:99) وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ and from the date palm,\nfrom its pollen, [spring] clusters of low-hanging dates."
+    }
+  ],
   "occurrences": [
     "13:4:9",
     "16:11:6",

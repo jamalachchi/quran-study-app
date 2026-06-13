@@ -1,9 +1,17 @@
 {
-  "id": 1469,
   "root": "ر ك ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرقط - رقع\n\n(ركن) الراء والكاف والنون أصلٌ واحد يدلُّ على قوَّة. فرُكن الشَّيء: جانبه الأقوى. وهو يأوي إلى رُكْنٍ شديد، أي عِزٍّ ومَنْعَة. ومن الباب رَكَنْتُ إليه أرْكَن. وهي كلمة نادرة على فَعَلْتُ أفْعَلُ من غير حَرفِ حلق. وفلانٌ ركينٌ، أي وقور ثابت. والمرْكن: الإِجَّانة. ويقال: جبلٌ رَكِينٌ ، أي له أركان عالية. وركَنْت إليه أي مِلْتُ؛ وهو من الباب، لأنه سكن إليه وثبت عنده. قال",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرقط - رقع\n\n(ركن) الراء والكاف والنون أصلٌ واحد يدلُّ على قوَّة. فرُكن الشَّيء: جانبه الأقوى. وهو يأوي إلى رُكْنٍ شديد، أي عِزٍّ ومَنْعَة. ومن الباب رَكَنْتُ إليه أرْكَن. وهي كلمة نادرة على فَعَلْتُ أفْعَلُ من غير حَرفِ حلق. وفلانٌ ركينٌ، أي وقور ثابت. والمرْكن: الإِجَّانة. ويقال: جبلٌ رَكِينٌ ، أي له أركان عالية. وركَنْت إليه أي مِلْتُ؛ وهو من الباب، لأنه سكن إليه وثبت عنده. قال",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-k-n corner; power, might, to be mighty, strong ally, support, to find support in, to lean upon, to rely upon; family; calm, confident. Of this root, two words occur twice each in the Qur’an: تَرْكَن tarkan and رُكْن rukn.\nتَرْكَن tarkan [imperf. of v. رَكَنَ rakana, intrans. with prep. إِلَى] to incline towards, to seek support in (17:74) وَلَوْلَا أَن ثَبَّتْنَاكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا had We not made you stand firm, you would almost have inclined towards them a little.\n\nرُكْن rukn [n.] corner; support; might (11:80) قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَى رُكْنٍ شَدِيدٍ he said, ‘If only I had power against you, or could rely on a strong support [lit. take refuge in a fortified corner]’; *(51:39) فَتَوَلَّى بِرُكْنِهِ but he relied on his support [lit. turned away with his power].",
+      "definition_english": "r-k-n corner; power, might, to be mighty, strong ally, support, to find support in, to lean upon, to rely upon; family; calm, confident. Of this root, two words occur twice each in the Qur’an: تَرْكَن tarkan and رُكْن rukn.\nتَرْكَن tarkan [imperf. of v. رَكَنَ rakana, intrans. with prep. إِلَى] to incline towards, to seek support in (17:74) وَلَوْلَا أَن ثَبَّتْنَاكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا had We not made you stand firm, you would almost have inclined towards them a little.\n\nرُكْن rukn [n.] corner; support; might (11:80) قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَى رُكْنٍ شَدِيدٍ he said, ‘If only I had power against you, or could rely on a strong support [lit. take refuge in a fortified corner]’; *(51:39) فَتَوَلَّى بِرُكْنِهِ but he relied on his support [lit. turned away with his power]."
+    }
+  ],
   "occurrences": [
     "11:113:2",
     "11:80:10",

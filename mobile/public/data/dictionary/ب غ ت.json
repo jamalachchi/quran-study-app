@@ -1,9 +1,17 @@
 {
-  "id": 312,
   "root": "ب غ ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبغت - بغث\n\nقال الأصمعي: دَفَعْنا بَغْيَ السّماءِ خَلْفَنا ، أي مُعْظَم مَطَرِها.\n\nوالبَغْي: الظْلم. قال:\n\nبَغَى، والبَغْيُ مَرْتَعُهُ وَخِيمُ\n\nولكنَّ الفَتَى حَمَلَ بنَ بَدْرٍ\n\nوربما قالوا لاختيال الفرس ومَرَحِهِ بَغْيٌ.\n\nقال الخليل: ولا يُقال فَرَسٌ باغٍ.\n\n(بغت) الباء والغين والتاء أصلٌ واحدٌ لا يُقاس عليه، منه البغْت، وهو أَنْ يفجَأَ الشيءُ. قال:\n\n* وأعْظَمُ شيءٍ حِينَ يَفْجَؤُك البَغْتُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبغت - بغث\n\nقال الأصمعي: دَفَعْنا بَغْيَ السّماءِ خَلْفَنا ، أي مُعْظَم مَطَرِها.\n\nوالبَغْي: الظْلم. قال:\n\nبَغَى، والبَغْيُ مَرْتَعُهُ وَخِيمُ\n\nولكنَّ الفَتَى حَمَلَ بنَ بَدْرٍ\n\nوربما قالوا لاختيال الفرس ومَرَحِهِ بَغْيٌ.\n\nقال الخليل: ولا يُقال فَرَسٌ باغٍ.\n\n(بغت) الباء والغين والتاء أصلٌ واحدٌ لا يُقاس عليه، منه البغْت، وهو أَنْ يفجَأَ الشيءُ. قال:\n\n* وأعْظَمُ شيءٍ حِينَ يَفْجَؤُك البَغْتُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-gh-t surprise is the single concept denoted by the root. Of\nthis root, بَغْتَة baghtatan occurs 13 times in the Qurʾan.\n\nبَغْتَة baghtatun [n. used adverbially] by surprise, suddenly\n(6:31) حَتَّىٰ إِذَا جَاءَتْهُمُ السَّاعَةُ بَغْتَةً until the Hour comes upon them\nsuddenly.",
+      "definition_english": "b-gh-t surprise is the single concept denoted by the root. Of\nthis root, بَغْتَة baghtatan occurs 13 times in the Qurʾan.\n\nبَغْتَة baghtatun [n. used adverbially] by surprise, suddenly\n(6:31) حَتَّىٰ إِذَا جَاءَتْهُمُ السَّاعَةُ بَغْتَةً until the Hour comes upon them\nsuddenly."
+    }
+  ],
   "occurrences": [
     "12:107:11",
     "21:40:3",

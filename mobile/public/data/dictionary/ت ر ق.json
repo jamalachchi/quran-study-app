@@ -1,9 +1,17 @@
 {
-  "id": 416,
   "root": "ت ر ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nترص - ترع\n\n(ترق) التاء والراء والقاف ليس فيه شيءٌ غير التَّرْقُوَة، فإنّ الخليل زعَمَ أنّها فَعْلُوَة، وهو عظمٌ وصَلَ ما بين ثُغْرة النَّحْرِ والعاتق.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nترص - ترع\n\n(ترق) التاء والراء والقاف ليس فيه شيءٌ غير التَّرْقُوَة، فإنّ الخليل زعَمَ أنّها فَعْلُوَة، وهو عظمٌ وصَلَ ما بين ثُغْرة النَّحْرِ والعاتق.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ت/ر/ق t-r-q (no evidence of verbal root) collarbone, the uppermost\nof the chest. Of this root, only تَرَاقِي tarāqī occurs once.\n\nتَرَاقِي tarāqī (read as تَرَاق tarāq, with the final ī elided, for\nrhyming harmony with following verses) [pl. of n. تَرْقُوَة\ntarquwatun] collarbone, the uppermost part of the chest *(75:26)\nإِذَا بَلَغَتِ التَّرَاقِي when life is about to abandon the body; when a\nperson is on the point of expiring [lit. when it [the soul, life, last\nbreath] reaches the collarbone].",
+      "definition_english": "ت/ر/ق t-r-q (no evidence of verbal root) collarbone, the uppermost\nof the chest. Of this root, only تَرَاقِي tarāqī occurs once.\n\nتَرَاقِي tarāqī (read as تَرَاق tarāq, with the final ī elided, for\nrhyming harmony with following verses) [pl. of n. تَرْقُوَة\ntarquwatun] collarbone, the uppermost part of the chest *(75:26)\nإِذَا بَلَغَتِ التَّرَاقِي when life is about to abandon the body; when a\nperson is on the point of expiring [lit. when it [the soul, life, last\nbreath] reaches the collarbone]."
+    }
+  ],
   "occurrences": [
     "75:26:4"
   ]

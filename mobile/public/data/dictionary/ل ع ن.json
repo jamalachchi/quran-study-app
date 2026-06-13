@@ -1,9 +1,17 @@
 {
-  "id": 3566,
   "root": "ل ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلعق - لعن\n\n(لعن) اللام والعين والنون أصلٌ صحيحٌ يدلُّ على إبعادٍ وإطرادٍ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلعق - لعن\n\n(لعن) اللام والعين والنون أصلٌ صحيحٌ يدلُّ على إبعادٍ وإطرادٍ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–ʿ–n to drive away, to eject, to reject; to curse, to damn; to\ntorture, imprecation; the devil; scarecrow. Of this root, seven\nforms occur 41 times in the Qur’an: لَعَنَ laʿana 20 times; لُعِنَ\nluʿina three times; لَعْن laʿn once; لَعْنَة laʿnatun 14 times; لَاعِنُونَ\nlāʿinūn once; مَلْعُونِين malʿūnīn once and مَلْعُونَة malʿūnatun once.\n\n843",
+      "definition_english": "l–ʿ–n to drive away, to eject, to reject; to curse, to damn; to\ntorture, imprecation; the devil; scarecrow. Of this root, seven\nforms occur 41 times in the Qur’an: لَعَنَ laʿana 20 times; لُعِنَ\nluʿina three times; لَعْن laʿn once; لَعْنَة laʿnatun 14 times; لَاعِنُونَ\nlāʿinūn once; مَلْعُونِين malʿūnīn once and مَلْعُونَة malʿūnatun once.\n\n843"
+    }
+  ],
   "occurrences": [
     "11:18:20",
     "11:60:5",

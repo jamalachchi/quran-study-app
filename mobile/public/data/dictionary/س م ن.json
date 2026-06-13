@@ -1,9 +1,17 @@
 {
-  "id": 1808,
   "root": "س م ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسلق\n\n(سمن) السين والميم والنون أصلٌ يدل على خلاف الضُّمْر والهزال. من ذلك السِّمَن، يقال هو سمين. والسَّمْن من هذا.\n\nومما شذَّ عن هذا الأصل كلامٌ يقال إن أهل اليمن يقولونه دونَ العرب، يقولونَ: سَمّنْتُ الشّيءَ، إِذا بَرّدْتَه. والتَّسْمِين: التَّبْريد. ويقال إنَّ الحجّاج قُدِّمت إليه سمكة فقال للذي عمِلها: \"سَمِّنْها\" يريد بَرِّدْها .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسلق\n\n(سمن) السين والميم والنون أصلٌ يدل على خلاف الضُّمْر والهزال. من ذلك السِّمَن، يقال هو سمين. والسَّمْن من هذا.\n\nومما شذَّ عن هذا الأصل كلامٌ يقال إن أهل اليمن يقولونه دونَ العرب، يقولونَ: سَمّنْتُ الشّيءَ، إِذا بَرّدْتَه. والتَّسْمِين: التَّبْريد. ويقال إنَّ الحجّاج قُدِّمت إليه سمكة فقال للذي عمِلها: \"سَمِّنْها\" يريد بَرِّدْها .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–m–n to be fat, to fatten; melted purified butter. Of this root, three forms occur four times in the Qurʾan: يسمن yusmin once سمين samīn once and سمان simān twice.\nيسمن yusmin [imperf. of v. IV أسمن ʾasmana, trans.] to fatten, to benefit, to nourish (88:6–7) لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ with no food for them except bitter dry thorns that neither nourish nor satisfy hunger.\n\nسمين samīn [quasi-act. part.; pl. سمان simān] fat, well-fed (12:43) إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ I see [in my dreams] seven fat cows being eaten by seven lean ones.",
+      "definition_english": "s–m–n to be fat, to fatten; melted purified butter. Of this root, three forms occur four times in the Qurʾan: يسمن yusmin once سمين samīn once and سمان simān twice.\nيسمن yusmin [imperf. of v. IV أسمن ʾasmana, trans.] to fatten, to benefit, to nourish (88:6–7) لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ with no food for them except bitter dry thorns that neither nourish nor satisfy hunger.\n\nسمين samīn [quasi-act. part.; pl. سمان simān] fat, well-fed (12:43) إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ I see [in my dreams] seven fat cows being eaten by seven lean ones."
+    }
+  ],
   "occurrences": [
     "12:43:7",
     "12:46:8",

@@ -1,9 +1,17 @@
 {
-  "id": 1815,
   "root": "س م د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسمه - سمو\n\n(سمد) السين والميم والدال أصلٌ يدلُّ على مضيٍّ قُدُماً من غير تعريج. يقال سمَدت الإبلُ في سيرها. إذا جَدّتْ ومَضَت على رؤوسها. وقال الرَّاجز:\n\n* سَوَامِدُ الليلِ خفافُ الأزوادْ *\n\nيقول: ليس في بطونها عَلَف. ومن الباب السُّمود الذي هو اللَّهو. والسَّامد هو اللاهي. ومنه قوله جلَّ وعلا: ] وأَنْتُمْ سَامِدُونَ [ [النجم 61]، أي لاهون. وهو قياس الباب؛ لأنَّ اللاهي يمضي في أمره غير معرِّج ولا مُتَمَكِّث. وينشدون:\n\nثمّ دَع عنكَ السُّمودا\n\nقيل قُمْ فانظر إليهم\n\nفأمَّا قولهم سَمَّد رأسه، إذا استأصل شَعره، فذلك من باب الإبدال؛ لأن أصله الباء، وقد ذكر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسمه - سمو\n\n(سمد) السين والميم والدال أصلٌ يدلُّ على مضيٍّ قُدُماً من غير تعريج. يقال سمَدت الإبلُ في سيرها. إذا جَدّتْ ومَضَت على رؤوسها. وقال الرَّاجز:\n\n* سَوَامِدُ الليلِ خفافُ الأزوادْ *\n\nيقول: ليس في بطونها عَلَف. ومن الباب السُّمود الذي هو اللَّهو. والسَّامد هو اللاهي. ومنه قوله جلَّ وعلا: ] وأَنْتُمْ سَامِدُونَ [ [النجم 61]، أي لاهون. وهو قياس الباب؛ لأنَّ اللاهي يمضي في أمره غير معرِّج ولا مُتَمَكِّث. وينشدون:\n\nثمّ دَع عنكَ السُّمودا\n\nقيل قُمْ فانظر إليهم\n\nفأمَّا قولهم سَمَّد رأسه، إذا استأصل شَعره، فذلك من باب الإبدال؛ لأن أصله الباء، وقد ذكر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–m–d to be elevated, to raise the head and thrust out the chest in pride; to be heedless; to be playful; to be careless. Of this root, only سامدون sāmidūn occurs once in the Qurʾan.\nسامد sāmid [act. part.] (one who is) proud; playful; rejoicing; heedless (53:59–61) أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ وَتَضْحَكُونَ وَلَا تَبْكُونَ وَأَنتُمْ سَـٰمِدُونَ do you marvel at this statement, laughing heedlessly instead of weeping, and playfully amusing yourselves?",
+      "definition_english": "s–m–d to be elevated, to raise the head and thrust out the chest in pride; to be heedless; to be playful; to be careless. Of this root, only سامدون sāmidūn occurs once in the Qurʾan.\nسامد sāmid [act. part.] (one who is) proud; playful; rejoicing; heedless (53:59–61) أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ وَتَضْحَكُونَ وَلَا تَبْكُونَ وَأَنتُمْ سَـٰمِدُونَ do you marvel at this statement, laughing heedlessly instead of weeping, and playfully amusing yourselves?"
+    }
+  ],
   "occurrences": [
     "53:61:2"
   ]

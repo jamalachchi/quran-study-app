@@ -1,9 +1,17 @@
 {
-  "id": 4027,
   "root": "ن ض د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنضد - نضر\n\n(نضد) النون والضاد والدال أصلٌ صحيح يدلُّ على ضَمّ شيءٍ إلى شيءٍ في اتِّساقٍ وجمعٍ، منتصباً أو عريضاً. ونَضَدْتُ الشيءَ بعضَه إلى بعضٍ متَّسقاً أو مِن فَوق. والنَّضَد: المنضود من الثِّياب. قال النابغة:\n\nورفَّعْته إلى السَّجْفَينِ فالنَّضَدِ\n\nخَلَّتْ سبيلَ أتِيٍّ كان يحبسُه\n\nوالنَّضَد: السَّرِيرُ يُنضَد عليه المتاع. وأنْضاد الجِبال: جنادلُ بعضُها فوق بعض. والنَّضَد من السَّحاب كالصَّبير، يكون بعضُه إلى بعض، والجمع أنضاد. وأنضادُ القوم: جماعاتهم وعَدَدُهم. ونَضَدُ الرَّجُلِ: أعمامُه وأخوالُه الذين يتجمَّعون لنُصرته. والنَّضَد: الشَّرَف. ونَضائد الدِّيباج: جمع نَضِيدة، وهي الوِسادةُ وما حُشِيَ من المَتَاع. قال ابن دريد : وما نُضِد بعضُه على بعضٍ فهو نَضِيد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنضد - نضر\n\n(نضد) النون والضاد والدال أصلٌ صحيح يدلُّ على ضَمّ شيءٍ إلى شيءٍ في اتِّساقٍ وجمعٍ، منتصباً أو عريضاً. ونَضَدْتُ الشيءَ بعضَه إلى بعضٍ متَّسقاً أو مِن فَوق. والنَّضَد: المنضود من الثِّياب. قال النابغة:\n\nورفَّعْته إلى السَّجْفَينِ فالنَّضَدِ\n\nخَلَّتْ سبيلَ أتِيٍّ كان يحبسُه\n\nوالنَّضَد: السَّرِيرُ يُنضَد عليه المتاع. وأنْضاد الجِبال: جنادلُ بعضُها فوق بعض. والنَّضَد من السَّحاب كالصَّبير، يكون بعضُه إلى بعض، والجمع أنضاد. وأنضادُ القوم: جماعاتهم وعَدَدُهم. ونَضَدُ الرَّجُلِ: أعمامُه وأخوالُه الذين يتجمَّعون لنُصرته. والنَّضَد: الشَّرَف. ونَضائد الدِّيباج: جمع نَضِيدة، وهي الوِسادةُ وما حُشِيَ من المَتَاع. قال ابن دريد : وما نُضِد بعضُه على بعضٍ فهو نَضِيد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ḍ–d pile of things, bunches of fruit growing in rows over\none another, layers of clouds, stack of stones; the family elders.\nOf this root, two forms occur three times in the Qur’an: نَضِيد\nnaḍīd once and مَنْضُود manḍūd twice.\n\nنَضِيد naḍīd [pass. part.] arranged in rows, stacked up on top of\neach other (50:10) وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ and palm trees, lofty\nand laden with fruit.\n\nمَنْضُود manḍūd [pass. part.] 1 arranged in rows, clustered, piled\nup (56:29) وَطَلْحٍ مَنْضُودٍ and clustered acacia 2 sequenced, one after\n\n946",
+      "definition_english": "n–ḍ–d pile of things, bunches of fruit growing in rows over\none another, layers of clouds, stack of stones; the family elders.\nOf this root, two forms occur three times in the Qur’an: نَضِيد\nnaḍīd once and مَنْضُود manḍūd twice.\n\nنَضِيد naḍīd [pass. part.] arranged in rows, stacked up on top of\neach other (50:10) وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ and palm trees, lofty\nand laden with fruit.\n\nمَنْضُود manḍūd [pass. part.] 1 arranged in rows, clustered, piled\nup (56:29) وَطَلْحٍ مَنْضُودٍ and clustered acacia 2 sequenced, one after\n\n946"
+    }
+  ],
   "occurrences": [
     "11:82:12",
     "50:10:5",

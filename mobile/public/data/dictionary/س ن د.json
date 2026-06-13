@@ -1,9 +1,17 @@
 {
-  "id": 1829,
   "root": "س ن د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسنه - سني\n\n(سند) السين والنون والداء أصلٌ واحدٌ يدلُّ على انضمام الشيء إلى الشيء. يقال سَنَدتُ إلى الشيء أَسْنُدُ سنوداً، واستندت استناداً. وأسندتُ غيري إسناداً. والسِّناد: النّاقة القويّة، كأنها أُسنِدت من ظهرها إلى شيءٍ قويّ. والمُسْنَدُ: الدهرُ؛ لأن بعضَه متضامّ. وفَلان سَنَدٌ، أي معتمَدٌ. والسَّنَد: ما أقبل عليك من الجبل، وذلك إذا علا عن السَّفْح. والإسناد في الحديث: أن يُسْنَد إلى قائله، وهو ذلك القياس. فأمَّا السِّناد الذي في الشعر فيقال إنَّهُ اختلافُ حركتي الرِّدفين. قال أبو عبيدة: وذلك كقوله:\n\n* كأنَّ عيونَهن عيونُ عِينِِ *\n\nثم قال:\n\n* وأصبح رأسُهُ مثلَ اللُّجَيْنِ *\n\nوهذا مشتق من قولهم: خرج القوم متسانِدين، إذا كانوا على راياتٍ شتى. وهذا من الباب؛ لأنَّ كلَّ واحدةٍ من الجماعة قد ساندت رايةً.\n\nسنط سنع - سنف",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسنه - سني\n\n(سند) السين والنون والداء أصلٌ واحدٌ يدلُّ على انضمام الشيء إلى الشيء. يقال سَنَدتُ إلى الشيء أَسْنُدُ سنوداً، واستندت استناداً. وأسندتُ غيري إسناداً. والسِّناد: النّاقة القويّة، كأنها أُسنِدت من ظهرها إلى شيءٍ قويّ. والمُسْنَدُ: الدهرُ؛ لأن بعضَه متضامّ. وفَلان سَنَدٌ، أي معتمَدٌ. والسَّنَد: ما أقبل عليك من الجبل، وذلك إذا علا عن السَّفْح. والإسناد في الحديث: أن يُسْنَد إلى قائله، وهو ذلك القياس. فأمَّا السِّناد الذي في الشعر فيقال إنَّهُ اختلافُ حركتي الرِّدفين. قال أبو عبيدة: وذلك كقوله:\n\n* كأنَّ عيونَهن عيونُ عِينِِ *\n\nثم قال:\n\n* وأصبح رأسُهُ مثلَ اللُّجَيْنِ *\n\nوهذا مشتق من قولهم: خرج القوم متسانِدين، إذا كانوا على راياتٍ شتى. وهذا من الباب؛ لأنَّ كلَّ واحدةٍ من الجماعة قد ساندت رايةً.\n\nسنط سنع - سنف",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–n–d to support, to prop up, to recline. Of this root, only مُسَنَّدَة musannadatun occurs once in the Qurʾan.\nمُسَنَّدَة musannadatun [pass. part. fem. of v. II سند sannad] propped up, supported (63:4) وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ when you see them, their outward appearance pleases you–when they speak, you listen to what they say–but they might as well be propped-up timbers.\n\nسندس sundus, an early borrowing from Persian occurring three times in the Qurʾan, meaning fine silk (18:31) وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِّن سُندُسٍ they will be wearing garments of fine green silk.",
+      "definition_english": "s–n–d to support, to prop up, to recline. Of this root, only مُسَنَّدَة musannadatun occurs once in the Qurʾan.\nمُسَنَّدَة musannadatun [pass. part. fem. of v. II سند sannad] propped up, supported (63:4) وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ when you see them, their outward appearance pleases you–when they speak, you listen to what they say–but they might as well be propped-up timbers.\n\nسندس sundus, an early borrowing from Persian occurring three times in the Qurʾan, meaning fine silk (18:31) وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِّن سُندُسٍ they will be wearing garments of fine green silk."
+    }
+  ],
   "occurrences": [
     "63:4:11"
   ]

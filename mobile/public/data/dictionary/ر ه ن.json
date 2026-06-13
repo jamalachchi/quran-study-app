@@ -1,9 +1,17 @@
 {
-  "id": 1520,
   "root": "ر ه ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرهق - رهك\n\n(رهن) الراء والهاء والنون أصلٌ يدل على ثباتِ شيءٍ يُمسَك بحقٍّ أو غيره. من ذلك الرَّهْن: الشيءُ يُرْهَن. تقول رهَنْت الشيءَ رهْناً؛ ولا يقال أرهَنْتُ. والشيء الرَّاهن: الثابت الدائم. ورَهَن لك الشيءُ: أقام. وأرهنْتُه لك: أقمتُه. وقال أبو زيد: أرْهَنْتُ في السِّلعة إرهاناً: غالَيْتُ فيها. وَهو من الغَلاء خاصَّة. قال:\n\n* عِيدِيَّةً أُرْهِنَتْ فيها الدَّنانيرُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرهق - رهك\n\n(رهن) الراء والهاء والنون أصلٌ يدل على ثباتِ شيءٍ يُمسَك بحقٍّ أو غيره. من ذلك الرَّهْن: الشيءُ يُرْهَن. تقول رهَنْت الشيءَ رهْناً؛ ولا يقال أرهَنْتُ. والشيء الرَّاهن: الثابت الدائم. ورَهَن لك الشيءُ: أقام. وأرهنْتُه لك: أقمتُه. وقال أبو زيد: أرْهَنْتُ في السِّلعة إرهاناً: غالَيْتُ فيها. وَهو من الغَلاء خاصَّة. قال:\n\n* عِيدِيَّةً أُرْهِنَتْ فيها الدَّنانيرُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-h-n pledge, security, pawn, to place as security; hostage, to give as hostage; to venture, to risk, to wager; binding, to be subject to; to make constant. Of this root, three words occur once each in the Qur’an: رَهِين rahīn; رَهِينَة rahīnatun and رِهَان rihān.\nرَهِين rahīn [quasi-pass. part., fem. رَهِينَة rahīnatun] bound, pledged (74:38) كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ every soul is held in pledge for what it does.\n\nرِهَان rihān [v. n., pl. of n. رَهْن rahn] security, surety; pledges (2:283) فَإِن كُنتُمْ عَلَى سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَّقْبُوضَةٌ but if you are on a journey, and cannot find a scribe, then [the method should be that] securities are handed over.",
+      "definition_english": "r-h-n pledge, security, pawn, to place as security; hostage, to give as hostage; to venture, to risk, to wager; binding, to be subject to; to make constant. Of this root, three words occur once each in the Qur’an: رَهِين rahīn; رَهِينَة rahīnatun and رِهَان rihān.\nرَهِين rahīn [quasi-pass. part., fem. رَهِينَة rahīnatun] bound, pledged (74:38) كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ every soul is held in pledge for what it does.\n\nرِهَان rihān [v. n., pl. of n. رَهْن rahn] security, surety; pledges (2:283) فَإِن كُنتُمْ عَلَى سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَّقْبُوضَةٌ but if you are on a journey, and cannot find a scribe, then [the method should be that] securities are handed over."
+    }
+  ],
   "occurrences": [
     "2:283:8",
     "52:21:19",

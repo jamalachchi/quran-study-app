@@ -1,9 +1,17 @@
 {
-  "id": 4245,
   "root": "ه ش م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهزع\n\n(هشم) الهاء والشين والميم أصلٌ يدلُّ على كسْر الشَّيء الأجوفِ وغيرِ الأجوف وهشَمْتُهُ هَشْماً. والهاشِمَة: الشَّجَّة تَهْشِمُ عظمَ الرّأْس. ومُجْمَعٌ على أن هاشماً سمِّي به لأنَّه هَشَمَ الثرِيد، واسمه عَمرو. والهشيم من النَّبات: اليابس\n\nهشل - هشر - هصم - هصر\n\nالمتكسِّر. ورجلٌ هشِيمٌ: ضعيف البَدَن. وربما قالوا: تهشَّمَ فُلانٌ على فلان، أي تعطَّفَ. وهو من الباب. واهتَشَمَ ما في ضَرع النّاقة: احتَلَبَه ، وهو القياس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهزع\n\n(هشم) الهاء والشين والميم أصلٌ يدلُّ على كسْر الشَّيء الأجوفِ وغيرِ الأجوف وهشَمْتُهُ هَشْماً. والهاشِمَة: الشَّجَّة تَهْشِمُ عظمَ الرّأْس. ومُجْمَعٌ على أن هاشماً سمِّي به لأنَّه هَشَمَ الثرِيد، واسمه عَمرو. والهشيم من النَّبات: اليابس\n\nهشل - هشر - هصم - هصر\n\nالمتكسِّر. ورجلٌ هشِيمٌ: ضعيف البَدَن. وربما قالوا: تهشَّمَ فُلانٌ على فلان، أي تعطَّفَ. وهو من الباب. واهتَشَمَ ما في ضَرع النّاقة: احتَلَبَه ، وهو القياس.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–sh–m to break down, to crumble, to crack; to be frail, to be\nbrittle; dry stalks, straw, dry herbage, land with dry, dead trees;\nlowlands. Of this root, هَشِيم hashīm occurs twice in the Qur’an.\n\nهَشِيم hashīm [quasi-pass. part.] dry herbage, dry vegetation,\ncrumbling straw, dry stubble (18:45) فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ so it\nbecomes dry stubble that the winds blow away.",
+      "definition_english": "h–sh–m to break down, to crumble, to crack; to be frail, to be\nbrittle; dry stalks, straw, dry herbage, land with dry, dead trees;\nlowlands. Of this root, هَشِيم hashīm occurs twice in the Qur’an.\n\nهَشِيم hashīm [quasi-pass. part.] dry herbage, dry vegetation,\ncrumbling straw, dry stubble (18:45) فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ so it\nbecomes dry stubble that the winds blow away."
+    }
+  ],
   "occurrences": [
     "18:45:15",
     "54:31:7"

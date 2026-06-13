@@ -1,9 +1,22 @@
 {
-  "id": 3745,
   "root": "م س خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمسخ - مسد\n\nومما شذَّ عن الباب قولهم: رجل تِمْسَحٌ: مارِدٌ خبيث. وممكن أن يكون هذا تشبيهاً بالذي يسمَّى التِّمساح.\n\n(مسخ) الميم والسين والخاء كلمتانِ: إحداهما المَسخ، وهو يدلُّ على تشويهٍ وقِلّة طَعْم الشَّيء ومَسَخَه الله: شوَّهَ خَلْقَه من صورةٍ حسنةٍ إلى قبيحة. ورجل مَسيخٌ: لا ملاحةَ له. وطعامٌ مَسيخٌ: لا مِلح له ولا طَعم. قال:\n\nفَلاَ أنتَ حُلوٌ ولا أنتَ مُرّْ\n\nوأنت مسيخٌ كلَحْم الحُوارِ\n\nويقولون: مَسَخْتُ الناقةَ، إذا أدبَرْتَها بالإنعاب.\n\nوالكلمة الأخرى: القِسِيُّ الماسِخيّة، تنسب إلى ماسِخةَ: رجلٍ من الأَسْد. قال:\n\nمِن الماسخيّاتِ القِسِيَّ المُوَتَّرا\n\nفقرَّبْتُ مُبْراةً تخالُ ضُلوعَها",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمسخ - مسد\n\nومما شذَّ عن الباب قولهم: رجل تِمْسَحٌ: مارِدٌ خبيث. وممكن أن يكون هذا تشبيهاً بالذي يسمَّى التِّمساح.\n\n(مسخ) الميم والسين والخاء كلمتانِ: إحداهما المَسخ، وهو يدلُّ على تشويهٍ وقِلّة طَعْم الشَّيء ومَسَخَه الله: شوَّهَ خَلْقَه من صورةٍ حسنةٍ إلى قبيحة. ورجل مَسيخٌ: لا ملاحةَ له. وطعامٌ مَسيخٌ: لا مِلح له ولا طَعم. قال:\n\nفَلاَ أنتَ حُلوٌ ولا أنتَ مُرّْ\n\nوأنت مسيخٌ كلَحْم الحُوارِ\n\nويقولون: مَسَخْتُ الناقةَ، إذا أدبَرْتَها بالإنعاب.\n\nوالكلمة الأخرى: القِسِيُّ الماسِخيّة، تنسب إلى ماسِخةَ: رجلٍ من الأَسْد. قال:\n\nمِن الماسخيّاتِ القِسِيَّ المُوَتَّرا\n\nفقرَّبْتُ مُبْراةً تخالُ ضُلوعَها",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "Jesus is described as being supported with the ‘Holy Spirit’\n(2:87). Critically, the Qur’an refutes the notion of Jesus’s\ncrucifixion, stating that he ‘was not killed, nor was he crucified,\nbut it appeared to them so’ (4:155; 3:55).",
+      "definition_english": "Jesus is described as being supported with the ‘Holy Spirit’\n(2:87). Critically, the Qur’an refutes the notion of Jesus’s\ncrucifixion, stating that he ‘was not killed, nor was he crucified,\nbut it appeared to them so’ (4:155; 3:55)."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–s–kh to distort, to transmute, to transform into an ugly\nshape or ugly character, to disfigure; tasteless food, a plain\nperson; to wear an animal thin by too much work. Of this root,\nonly مَسَخْنَاهُمْ masakhnāhum, occurs once in the Qur’an.\n\nمَسَخَ masakha a [v. trans.] to transmute, to transform, to change\nthe nature of something for the worse, to disfigure (36:67) وَلَوْ نَشَاءُ\nلَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ and had We willed, We would have transmuted\nthem in their places.",
+      "definition_english": "m–s–kh to distort, to transmute, to transform into an ugly\nshape or ugly character, to disfigure; tasteless food, a plain\nperson; to wear an animal thin by too much work. Of this root,\nonly مَسَخْنَاهُمْ masakhnāhum, occurs once in the Qur’an.\n\nمَسَخَ masakha a [v. trans.] to transmute, to transform, to change\nthe nature of something for the worse, to disfigure (36:67) وَلَوْ نَشَاءُ\nلَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ and had We willed, We would have transmuted\nthem in their places."
+    }
+  ],
   "occurrences": [
     "36:67:3"
   ]

@@ -1,8 +1,11 @@
 {
-  "id": 2388,
   "root": "ط ف ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطفو\n\n(طفر) الطاء والفاء الراء كلمةٌ صحيحةٌ، يقال طَفَر: وثَب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطفو\n\n(طفر) الطاء والفاء الراء كلمةٌ صحيحةٌ، يقال طَفَر: وثَب.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

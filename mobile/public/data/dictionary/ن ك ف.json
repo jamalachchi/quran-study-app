@@ -1,9 +1,17 @@
 {
-  "id": 4112,
   "root": "ن ك ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنكع - نكف\n\n(نكف) النون والكاف والفاء أصلان: أحدُهما يدلُّ على قطع شيء وتنحيته، والآخر على عضوٍ من الأعضاء، ثم يقاس عليه.\n\nفالأوّل النَّكْف: تنحِيتُك الدُّموعَ عن خدِّكَ بإصبعك. ويقولون: رأينا غيثاً ما نكَفَه أحدٌ سار يوماً ولا يومين. يقول: ما قَطَعه. وبَحرٌ لا يُنْكَف، مثل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنكع - نكف\n\n(نكف) النون والكاف والفاء أصلان: أحدُهما يدلُّ على قطع شيء وتنحيته، والآخر على عضوٍ من الأعضاء، ثم يقاس عليه.\n\nفالأوّل النَّكْف: تنحِيتُك الدُّموعَ عن خدِّكَ بإصبعك. ويقولون: رأينا غيثاً ما نكَفَه أحدٌ سار يوماً ولا يومين. يقول: ما قَطَعه. وبَحرٌ لا يُنْكَف، مثل",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–k–f to wipe tears from the cheek with one’s finger, to be\ndisdainful, to snub, to loathe, to be haughty. Of this root, اِسْتَنْكَف\nʾistankafa, occurs three times in the Qur’an.\n\nاِسْتَنْكَف ʾistankafa [v. X intrans.] to become haughty, to disdain,\nto look down upon (4:172) لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ the\nMessiah would never disdain to be a servant of God.",
+      "definition_english": "n–k–f to wipe tears from the cheek with one’s finger, to be\ndisdainful, to snub, to loathe, to be haughty. Of this root, اِسْتَنْكَف\nʾistankafa, occurs three times in the Qur’an.\n\nاِسْتَنْكَف ʾistankafa [v. X intrans.] to become haughty, to disdain,\nto look down upon (4:172) لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ the\nMessiah would never disdain to be a servant of God."
+    }
+  ],
   "occurrences": [
     "4:172:12",
     "4:172:2",

@@ -1,9 +1,17 @@
 {
-  "id": 901,
   "root": "ح ي ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حيق) الحاء والياء والقاف كلمةٌ واحدة، وهو نُزولُ الشيء بالشيء، يقال حاق به السُّوءُ يَحِيق. قال الله تعالى: ] وَلاَ يَحِيقُ المَكْرُ السَّـيِّئُ إلاَّ بِأَهْلِهِ [ [فاطر 43].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حيق) الحاء والياء والقاف كلمةٌ واحدة، وهو نُزولُ الشيء بالشيء، يقال حاق به السُّوءُ يَحِيق. قال الله تعالى: ] وَلاَ يَحِيقُ المَكْرُ السَّـيِّئُ إلاَّ بِأَهْلِهِ [ [فاطر 43].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–q to surround, to encompass; to come back against, hardship; retribution, befitting punishment. Of this root, حَاق ḥāqa\n",
+      "definition_english": "h–y–q to surround, to encompass; to come back against, hardship; retribution, befitting punishment. Of this root, حَاق ḥāqa\n"
+    }
+  ],
   "occurrences": [
     "11:8:17",
     "16:34:5",

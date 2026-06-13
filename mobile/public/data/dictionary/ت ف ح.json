@@ -1,8 +1,11 @@
 {
-  "id": 431,
   "root": "ت ف ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتفل - تفه\n\n(تفح) التاء والفاء والحاء كلمة واحدة، وهي التُّفَّاح.\n\n(باب التاء والقاف وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتفل - تفه\n\n(تفح) التاء والفاء والحاء كلمة واحدة، وهي التُّفَّاح.\n\n(باب التاء والقاف وما يثلثهما)",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

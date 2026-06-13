@@ -1,9 +1,22 @@
 {
-  "id": 2029,
   "root": "ش ه ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشهر - شهق\n\nالحقُّ وعلى مَنْ هو. وامرأةٌ مُشْهِد، إِذا حضر زوجها، كما يقال للغائب زوجُها: مُغِيب. فأمَّا قولهم أشْهَدَ الرّجُلُ، إِذا مَذَى، فكأنَّهُ محمولٌ على الذي ذكرناه من الماء الذي يخرج على رأس المولود.\n\nومما شذّ عن هذا الأصل: الشُّهْد: العسلُ في شَمَعِها؛ ويجمع على الشِّهاد. قال:\n\nلُبابَ البُرِّ يُلبَكُ بالشِّهادِ\n\nإلى رُدُحٍ من الشِّيزَى مِلاءٍ\n\n(شهر) الشين والهاء والراء أصلٌ صحيح يدلُّ على وضوحٍ في الأمر وإِضاءة. من ذلك الشَّهر، وهو في كلام العرب الهِلال، ثمَّ سمِّي كلُّ ثلاثين يوماً باسم الهلال، فقيل شهر. قد اتَّفق فيه العربُ والعجم؛ فإنَّ العجم يسمُّون ثلاثين يوماً باسم الهلال في لغتهم. والدليل على هذا قولُ ذي الرّمّة:\n\nفأَصْبَحَ أَجْلَى الطرفِ ما يستزيدُهُ\n\nيَرَى الشَّهرَ قبلَ الناسِ وهو نحيلُ\n\nوالشُّهرة: وضوح الأمر. وشَهَرَ سيفَه، إِذا انتضاه. وقد شُهِر فلانٌ في الناس بكذا، فهو مشهور، وقد شَهَرُوه. ويقال: أَشْهَرْنا بالمكان، إِذا أَقَمنا به شهراً. وشَهْرانُ: قبيلة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشهر - شهق\n\nالحقُّ وعلى مَنْ هو. وامرأةٌ مُشْهِد، إِذا حضر زوجها، كما يقال للغائب زوجُها: مُغِيب. فأمَّا قولهم أشْهَدَ الرّجُلُ، إِذا مَذَى، فكأنَّهُ محمولٌ على الذي ذكرناه من الماء الذي يخرج على رأس المولود.\n\nومما شذّ عن هذا الأصل: الشُّهْد: العسلُ في شَمَعِها؛ ويجمع على الشِّهاد. قال:\n\nلُبابَ البُرِّ يُلبَكُ بالشِّهادِ\n\nإلى رُدُحٍ من الشِّيزَى مِلاءٍ\n\n(شهر) الشين والهاء والراء أصلٌ صحيح يدلُّ على وضوحٍ في الأمر وإِضاءة. من ذلك الشَّهر، وهو في كلام العرب الهِلال، ثمَّ سمِّي كلُّ ثلاثين يوماً باسم الهلال، فقيل شهر. قد اتَّفق فيه العربُ والعجم؛ فإنَّ العجم يسمُّون ثلاثين يوماً باسم الهلال في لغتهم. والدليل على هذا قولُ ذي الرّمّة:\n\nفأَصْبَحَ أَجْلَى الطرفِ ما يستزيدُهُ\n\nيَرَى الشَّهرَ قبلَ الناسِ وهو نحيلُ\n\nوالشُّهرة: وضوح الأمر. وشَهَرَ سيفَه، إِذا انتضاه. وقد شُهِر فلانٌ في الناس بكذا، فهو مشهور، وقد شَهَرُوه. ويقال: أَشْهَرْنا بالمكان، إِذا أَقَمنا به شهراً. وشَهْرانُ: قبيلة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–h–r new moon, lunar month; to make manifest or public;\nfame, famous, to make famous; to make notorious. Of this root,\nfour forms occur 21 times in the Qurʾan: شَهْر shahr 12 times; شَهْرَيْنِ\nshahrayn twice; شُهُور shuhūr once and أَشْهُر ʾashhur six times.\n\nشَهْر shahr [n., pl. شُهُور shuhūr, pl. of paucity أَشْهُر ʾashhur]\n\n501",
+      "definition_english": "sh–h–r new moon, lunar month; to make manifest or public;\nfame, famous, to make famous; to make notorious. Of this root,\nfour forms occur 21 times in the Qurʾan: شَهْر shahr 12 times; شَهْرَيْنِ\nshahrayn twice; شُهُور shuhūr once and أَشْهُر ʾashhur six times.\n\nشَهْر shahr [n., pl. شُهُور shuhūr, pl. of paucity أَشْهُر ʾashhur]\n\n501"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "[lunar] month (2:197) الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ the pilgrimage takes place\nduring prescribed [lunar] months; *(9:5) الْأَشْهُرُ الْحُرُمُ the [four]\nforbidden months being the last twenty days of Dhūʾl-Ḥijjati, the\nmonths of Muḥarram, Ṣafar and Rabīʿ al-ʾawwal and the first ten\ndays of Rabīʿ al-Thānī, constituting the grace period, given to\nthe idolators after having broken their treaty with the Prophet,\nafter which they would be fought. These months should not be\nconfused with the customary four forbidden months of Rajab,\nDhūʾl-Qaʿdati, Dhūʾl-Ḥijjati and Muḥarram, referred to in (2:217\nand 9:36) (see حُرُم ḥurum).",
+      "definition_english": "[lunar] month (2:197) الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ the pilgrimage takes place\nduring prescribed [lunar] months; *(9:5) الْأَشْهُرُ الْحُرُمُ the [four]\nforbidden months being the last twenty days of Dhūʾl-Ḥijjati, the\nmonths of Muḥarram, Ṣafar and Rabīʿ al-ʾawwal and the first ten\ndays of Rabīʿ al-Thānī, constituting the grace period, given to\nthe idolators after having broken their treaty with the Prophet,\nafter which they would be fought. These months should not be\nconfused with the customary four forbidden months of Rajab,\nDhūʾl-Qaʿdati, Dhūʾl-Ḥijjati and Muḥarram, referred to in (2:217\nand 9:36) (see حُرُم ḥurum)."
+    }
+  ],
   "occurrences": [
     "2:185:1",
     "2:185:16",

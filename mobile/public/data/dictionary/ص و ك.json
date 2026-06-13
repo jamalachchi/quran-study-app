@@ -1,8 +1,11 @@
 {
-  "id": 2218,
   "root": "ص و ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصوك - صوم\n\n(صوك) الصاد والواو والكاف كلمةٌ واحدةٌ. يقال لقيتُه أوَّل صَوْكٍ، أي أوّلَ وَهْلة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصوك - صوم\n\n(صوك) الصاد والواو والكاف كلمةٌ واحدةٌ. يقال لقيتُه أوَّل صَوْكٍ، أي أوّلَ وَهْلة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

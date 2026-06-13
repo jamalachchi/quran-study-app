@@ -1,9 +1,17 @@
 {
-  "id": 4471,
   "root": "و ف د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفد) الواو والفاء والدال: أصلٌ صحيح يدلُّ على إشراف وطُلوع. منه الوَافد: القَوم يَفِدُون. والوَفْد: ذِرْوَة الحَبْل من الرَّمل المُشرِف. والوافد من الإبل: ما يَسبِقُ سائِرَها . والإيفاد: الإسراع، والوافدانِ هما عظمانِ ناشِزانِ من الخَدَّين عند المَضْغ. وإذا هَرِمَ الإنسانُ غارَ وافِدهُ. قال الأعشى:\n\nـنِ مُخْتلفَ اللَّوْنِ أعْشَى ضَرِيرا\n\nرأتْ رجلاً غائرَ الوافدَيْـ\n\nوأوْفَدَ على الشَّيء وأوْفَى: أشرَفَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفد) الواو والفاء والدال: أصلٌ صحيح يدلُّ على إشراف وطُلوع. منه الوَافد: القَوم يَفِدُون. والوَفْد: ذِرْوَة الحَبْل من الرَّمل المُشرِف. والوافد من الإبل: ما يَسبِقُ سائِرَها . والإيفاد: الإسراع، والوافدانِ هما عظمانِ ناشِزانِ من الخَدَّين عند المَضْغ. وإذا هَرِمَ الإنسانُ غارَ وافِدهُ. قال الأعشى:\n\nـنِ مُخْتلفَ اللَّوْنِ أعْشَى ضَرِيرا\n\nرأتْ رجلاً غائرَ الوافدَيْـ\n\nوأوْفَدَ على الشَّيء وأوْفَى: أشرَفَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–f–d the fastest camel in a caravan; distinguished group of\ntravellers, honoured group arriving at the residence of a\nhigh-ranking person, an envoy between high-ranking people; to\narrive. Of this root, وَفْد wafd, occurs once in the Qur’an.\n\nوَفْد wafd [coll. n.] honoured company, a group who come into\nthe presence of a high-ranking person (19:85) يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى\nالرَّحْمَٰنِ وَفْدًا on the Day We gather the righteous as an honoured\ncompany before the Lord of Mercy.",
+      "definition_english": "w–f–d the fastest camel in a caravan; distinguished group of\ntravellers, honoured group arriving at the residence of a\nhigh-ranking person, an envoy between high-ranking people; to\narrive. Of this root, وَفْد wafd, occurs once in the Qur’an.\n\nوَفْد wafd [coll. n.] honoured company, a group who come into\nthe presence of a high-ranking person (19:85) يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى\nالرَّحْمَٰنِ وَفْدًا on the Day We gather the righteous as an honoured\ncompany before the Lord of Mercy."
+    }
+  ],
   "occurrences": [
     "19:85:6"
   ]

@@ -1,9 +1,22 @@
 {
-  "id": 1446,
   "root": "ر ف ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرفث - رفد\n\n(رفث) الراء والفاء والثاء أصلٌ واحدٌ، وهو كلُّ كلام يُستَحْيا من إظهاره. وأصلُه الرَّفَثُ، وهو النِّكاح. قال الله جلّ ثناؤُه: ] أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إلى نِسَائِكُمْ [ [البقرة 187]. والرّفَث: [الفُحْش] في الكلام. يقال أَرْفَثَ وَرَفَثَ.",
-  "definition_english": "### Core Semantic Principles\nThe letters *Rāʾ*, *Fāʾ*, and *Thāʾ* (ر ف ث) share a single, unified core principle. This principle refers to **all forms of speech that one would feel modesty or shame in expressing openly**.\n\n### Derivations & Evidence\nThe fundamental origin (*aṣl*) of the term *al-rafath* is **marital sexual intercourse**. This primary meaning serves as the conceptual source for the broader semantic field of the root.\n\nIbn Faris supports this foundational understanding by quoting the Glorious Quran:\n*   \"It has been made lawful for you, on the night of the fast, to approach your wives.\" (Quran 2:187)\n    *   In this verse, *al-rafath* (الرَّفَثُ) directly signifies engaging in sexual relations within marriage. Ibn Faris cites this passage to underscore that the root's most basic and original application is to the intimate act of intercourse, particularly in a context where its mention is euphemistic or pertains to private conduct. The verse clarifies a ruling during Ramadan, making conjugal relations permissible during the night.\n\nExpanding from this core meaning, *al-rafath* also denotes **indecency or obscenity (*al-fuḥsh*) in speech**. This derivation reflects the idea that just as marital intimacy is a private matter, any language that is vulgar, sexually explicit, or otherwise inappropriate for public discourse falls under the same principle of 'shameful speech'.\n\nBoth the verbal forms *arfaṯa* (أَرْفَثَ) and *rafaṯa* (رَفَثَ) are employed to describe the act of uttering such indecent or shameful speech.",
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرفث - رفد\n\n(رفث) الراء والفاء والثاء أصلٌ واحدٌ، وهو كلُّ كلام يُستَحْيا من إظهاره. وأصلُه الرَّفَثُ، وهو النِّكاح. قال الله جلّ ثناؤُه: ] أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إلى نِسَائِكُمْ [ [البقرة 187]. والرّفَث: [الفُحْش] في الكلام. يقال أَرْفَثَ وَرَفَثَ.",
+      "definition_english": "### Core Semantic Principles\nThe letters *Rāʾ*, *Fāʾ*, and *Thāʾ* (ر ف ث) share a single, unified core principle. This principle refers to **all forms of speech that one would feel modesty or shame in expressing openly**.\n\n### Derivations & Evidence\nThe fundamental origin (*aṣl*) of the term *al-rafath* is **marital sexual intercourse**. This primary meaning serves as the conceptual source for the broader semantic field of the root.\n\nIbn Faris supports this foundational understanding by quoting the Glorious Quran:\n*   \"It has been made lawful for you, on the night of the fast, to approach your wives.\" (Quran 2:187)\n    *   In this verse, *al-rafath* (الرَّفَثُ) directly signifies engaging in sexual relations within marriage. Ibn Faris cites this passage to underscore that the root's most basic and original application is to the intimate act of intercourse, particularly in a context where its mention is euphemistic or pertains to private conduct. The verse clarifies a ruling during Ramadan, making conjugal relations permissible during the night.\n\nExpanding from this core meaning, *al-rafath* also denotes **indecency or obscenity (*al-fuḥsh*) in speech**. This derivation reflects the idea that just as marital intimacy is a private matter, any language that is vulgar, sexually explicit, or otherwise inappropriate for public discourse falls under the same principle of 'shameful speech'.\n\nBoth the verbal forms *arfaṯa* (أَرْفَثَ) and *rafaṯa* (رَفَثَ) are employed to describe the act of uttering such indecent or shameful speech."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "رَغَب raghab [v. n.] coveting, desire, wish, longing (21:90) وَيَدْعُونَنَا رَغَبًا وَرَهَبًا and they called upon Us out of longing and awe.\nرَاغِب rāghib [act. part., pl. رَاغِبُونَ rāghibūn] hoping, desiring, wishing for, eager to (9:59) إِنَّا إِلَى ٱللَّهِ رَٰغِبُونَ to God alone we turn in hope, towards God [we look] desiring Him.",
+      "definition_english": "رَغَب raghab [v. n.] coveting, desire, wish, longing (21:90) وَيَدْعُونَنَا رَغَبًا وَرَهَبًا and they called upon Us out of longing and awe.\nرَاغِب rāghib [act. part., pl. رَاغِبُونَ rāghibūn] hoping, desiring, wishing for, eager to (9:59) إِنَّا إِلَى ٱللَّهِ رَٰغِبُونَ to God alone we turn in hope, towards God [we look] desiring Him."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–f–th obscenity, indecency, indecent action or speech, to behave in an obscene manner, sexual intercourse. Of this root, رَفَث rafath occurs twice in the Qur’an.\n374",
+      "definition_english": "r–f–th obscenity, indecency, indecent action or speech, to behave in an obscene manner, sexual intercourse. Of this root, رَفَث rafath occurs twice in the Qur’an.\n374"
+    }
+  ],
   "occurrences": [
     "2:187:5",
     "2:197:9"

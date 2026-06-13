@@ -1,9 +1,17 @@
 {
-  "id": 1108,
   "root": "خ ت م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخبن\n\n(ختم) الخاء والتاء والميم أصلٌ واحد، وهو بُلوغ آخِرِ الشّيء. يقال خَتَمْتُ العَمَل، وخَتم القارئ السُّورة. فأمَّا الخَتْم، وهو الطَّبع على الشَّيء، فذلك من الباب أيضاً؛ لأنّ الطَّبْع على الشيءِ لا يكون إلاّ بعد بلوغ آخِرِه، في الأحراز. والخاتَم مشتقٌّ منه؛ لأنّ به يُختَم. ويقال الخاتِمُ، والخاتام، والخَيْتام. قال:\n\n* أخذْتِ خاتامِي بغيرِ حَقِّ *\n\nوالنبي صلى الله عليه وسلم خاتَِمُ الأنبياء؛ لأنّه آخِرُهم. وخِتام كلِّ مشروبٍ: آخِرُه. قال الله تعالى: ] خِتَامُهُ مِسْكٌ [ [المطففين 26]، أي إنّ آخرَ ما يجِدونه منه عند شُربهم إياه رائِحَةُ المسك.\n\nختا - خثر - خثل - خثم - خثا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخبن\n\n(ختم) الخاء والتاء والميم أصلٌ واحد، وهو بُلوغ آخِرِ الشّيء. يقال خَتَمْتُ العَمَل، وخَتم القارئ السُّورة. فأمَّا الخَتْم، وهو الطَّبع على الشَّيء، فذلك من الباب أيضاً؛ لأنّ الطَّبْع على الشيءِ لا يكون إلاّ بعد بلوغ آخِرِه، في الأحراز. والخاتَم مشتقٌّ منه؛ لأنّ به يُختَم. ويقال الخاتِمُ، والخاتام، والخَيْتام. قال:\n\n* أخذْتِ خاتامِي بغيرِ حَقِّ *\n\nوالنبي صلى الله عليه وسلم خاتَِمُ الأنبياء؛ لأنّه آخِرُهم. وخِتام كلِّ مشروبٍ: آخِرُه. قال الله تعالى: ] خِتَامُهُ مِسْكٌ [ [المطففين 26]، أي إنّ آخرَ ما يجِدونه منه عند شُربهم إياه رائِحَةُ المسك.\n\nختا - خثر - خثل - خثم - خثا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–t–m a seal, sealing material, to seal up, to enclose, to block,\nto secure, to cover up, to brand, to mark, a ring, to wear a ring; to\ncomplete, to conclude, the end part, the concluding one,\nconclusion. Of this root, four forms occur eight times in the\nQur’an: خَتَمَ khatama five times; خَاتَم khātam once; خِتَام khitām once\nand مَّخْتُوم makhtūm once.\n\nخَتَمَ khatama i [v. trans. with prep. عَلَى] to seal up (36:65) الْيَوْمَ\nنَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ on this day We will seal up their mouths,\nbut their hands will speak to Us.\n\nخَاتَم khātam [act. part./n.] concluding one, final seal (33:40) مَّا\nكَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ Muḥammad is not\n\n255",
+      "definition_english": "kh–t–m a seal, sealing material, to seal up, to enclose, to block,\nto secure, to cover up, to brand, to mark, a ring, to wear a ring; to\ncomplete, to conclude, the end part, the concluding one,\nconclusion. Of this root, four forms occur eight times in the\nQur’an: خَتَمَ khatama five times; خَاتَم khātam once; خِتَام khitām once\nand مَّخْتُوم makhtūm once.\n\nخَتَمَ khatama i [v. trans. with prep. عَلَى] to seal up (36:65) الْيَوْمَ\nنَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ on this day We will seal up their mouths,\nbut their hands will speak to Us.\n\nخَاتَم khātam [act. part./n.] concluding one, final seal (33:40) مَّا\nكَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ Muḥammad is not\n\n255"
+    }
+  ],
   "occurrences": [
     "2:7:1",
     "33:40:11",

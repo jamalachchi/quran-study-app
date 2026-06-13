@@ -1,9 +1,22 @@
 {
-  "id": 1733,
   "root": "ز ح ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزبر\n\n(زحف) الزاء والحاء والفاء أصلٌ واحدٌ يدلُّ على الاندفاع والمضيّ قُدُماً. فالزَّحف: الجماعة يَزْحَفون إلى العدوّ. والصبيّ يزحَف على الأرض قبل المشي. والبعير إذا أعيا فجرَّ فِرْسِنَه فهو يزحَف. وهي إبلٌ زواحفُ، الواحدة زَاحفة. قال:\n\n* على زَوَاحف نُزْجِيَهَا مَحَاسِيرِ *\n\nزخر زرع\n\nويقال زَحَفَ الدَّبَا، إذا مضى قُدُماً. والزاحف: السهم الذي يقع دون الغَرَض ثم يزحَف. والله أعلم بالصواب.\n\n(باب الزاء والخاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزبر\n\n(زحف) الزاء والحاء والفاء أصلٌ واحدٌ يدلُّ على الاندفاع والمضيّ قُدُماً. فالزَّحف: الجماعة يَزْحَفون إلى العدوّ. والصبيّ يزحَف على الأرض قبل المشي. والبعير إذا أعيا فجرَّ فِرْسِنَه فهو يزحَف. وهي إبلٌ زواحفُ، الواحدة زَاحفة. قال:\n\n* على زَوَاحف نُزْجِيَهَا مَحَاسِيرِ *\n\nزخر زرع\n\nويقال زَحَفَ الدَّبَا، إذا مضى قُدُماً. والزاحف: السهم الذي يقع دون الغَرَض ثم يزحَف. والله أعلم بالصواب.\n\n(باب الزاء والخاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مُزَحْزِح muzahziḥ [act. part.] one who causes something or someone to be shifted or removed (2:96) يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ any of them would long to be granted longevity for ever [lit. a thousand years], even though being granted longevity would not shift them from the torment.\n",
+      "definition_english": "مُزَحْزِح muzahziḥ [act. part.] one who causes something or someone to be shifted or removed (2:96) يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ any of them would long to be granted longevity for ever [lit. a thousand years], even though being granted longevity would not shift them from the torment.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-ḥ-f to crawl, to creep, to drag oneself along, (of an army) to advance en masse, to advance steadily and slowly, to march. Of this root, only زَحْفًا zaḥfan occurs once in the Qur’an.\nزَحْف zaḥf [v. n. used adverbially] marching, battling (8:15) إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ when you meet the disbelievers marching to battle, never turn your backs on them.",
+      "definition_english": "z-ḥ-f to crawl, to creep, to drag oneself along, (of an army) to advance en masse, to advance steadily and slowly, to march. Of this root, only زَحْفًا zaḥfan occurs once in the Qur’an.\nزَحْف zaḥf [v. n. used adverbially] marching, battling (8:15) إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ when you meet the disbelievers marching to battle, never turn your backs on them."
+    }
+  ],
   "occurrences": [
     "8:15:8"
   ]

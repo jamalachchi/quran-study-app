@@ -1,9 +1,17 @@
 {
-  "id": 591,
   "root": "ج ذ و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجذم - جذو\n\n(جذو) الجيم والذال والواو أصلٌ يدلّ على الانتصاب. يقال جَذَوْتُ على أطراف أصابعي، إذا قمت. قال:\n\nوصَنَّاجَةٌ تَجْذُو على حدِّ مَنْسِِمِ\n\nإذا شِئْتُ غَنَّتَنِي دَهَاقِينُ قريةٍ\n\nقال الخليل: يقال جَذَا يجذُو، مثل جثا يجثُو، إلاّ أنّ جذا أَدَلُّ على",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجذم - جذو\n\n(جذو) الجيم والذال والواو أصلٌ يدلّ على الانتصاب. يقال جَذَوْتُ على أطراف أصابعي، إذا قمت. قال:\n\nوصَنَّاجَةٌ تَجْذُو على حدِّ مَنْسِِمِ\n\nإذا شِئْتُ غَنَّتَنِي دَهَاقِينُ قريةٍ\n\nقال الخليل: يقال جَذَا يجذُو، مثل جثا يجثُو، إلاّ أنّ جذا أَدَلُّ على",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–dh–w the base of a tree, to stand firm, to be erect; firebrand, burning log. Of this root, جَذْوَة jadhwatun occurs once in the Qurʾan.\nجَذْوَة jadhwatun [n.] firebrand, piece of burning wood, burning branch (28:29) امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ النَّارِ wait! I have caught site of a fire; perhaps I may bring you news from there, or a burning brand, that you may warm\n\n159",
+      "definition_english": "j–dh–w the base of a tree, to stand firm, to be erect; firebrand, burning log. Of this root, جَذْوَة jadhwatun occurs once in the Qurʾan.\nجَذْوَة jadhwatun [n.] firebrand, piece of burning wood, burning branch (28:29) امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ النَّارِ wait! I have caught site of a fire; perhaps I may bring you news from there, or a burning brand, that you may warm\n\n159"
+    }
+  ],
   "occurrences": [
     "28:29:23"
   ]

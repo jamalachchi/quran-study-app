@@ -1,9 +1,17 @@
 {
-  "id": 1058,
   "root": "خ ن س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخنب\n\n(خنس) الخاء والنون والسين أصلٌ واحد يدلُّ على استخفاءٍ وتستُّر. قالوا: الخَنْس الذهاب في خِفْية. يقال خَنسْتُ عنه. وأخْنَسْتُ عنه حقَّه. والخُنَّس: النُّجوم تَخْنِس في المَغيب. وقال قوم: سُمِّيت بذلك لأنّها تَخفَى نهاراً وتطلُع ليلاً. والخنّاس في صِفة الشَّيطان؛ لأنّه يَخْنِسُ إذا ذُكر الله تعالى. ومن هذا الباب الخَنَسُ في الأنف. انحِطاط القصَبة. والبقرُ كلُّها خُنْسٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخنب\n\n(خنس) الخاء والنون والسين أصلٌ واحد يدلُّ على استخفاءٍ وتستُّر. قالوا: الخَنْس الذهاب في خِفْية. يقال خَنسْتُ عنه. وأخْنَسْتُ عنه حقَّه. والخُنَّس: النُّجوم تَخْنِس في المَغيب. وقال قوم: سُمِّيت بذلك لأنّها تَخفَى نهاراً وتطلُع ليلاً. والخنّاس في صِفة الشَّيطان؛ لأنّه يَخْنِسُ إذا ذُكر الله تعالى. ومن هذا الباب الخَنَسُ في الأنف. انحِطاط القصَبة. والبقرُ كلُّها خُنْسٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–n–s to contract, to withdraw, to hide in, to shrink away, to\ncause to draw back; deer’s shelter. Of this root, two forms occur\nonce each in the Qur’an: خنّاس khannās; and خنّس khunnas.\n\nخَنَّاس khannās [intens. act. part.] one given to drawing back,\nshrinking away [epithet of the Devil, so described because he\n\n288                                        خ/ن/ق\n\nfails to come forward to assist his followers in their time of need,\nor because he slinks away when God’s name is mentioned, or\nbecause he sneaks up on people unnoticed to tempt them]\n*(114:4) الخناس the slinking, the sneaking, the devious one.\n\nخُنَّس khunnas [pl. of quasi-act. part. خانس khānis] the planets\nwhich retrace their own courses. Reference in verse (81:15) فلا\nأقسم بالخنس الجوار الكنس I swear by the planets that recede, move, and\nhide is said by philologists to be to the ‘luminous five’, namely,\nMars, Saturn, Jupiter, Venus and Mercury, so described because\nthey are observed to have a bi-directional motion, thus earning for\nthemselves another epithet of ‘the puzzled planets’. Other\ninterpreters, however, take the reference to be generally to the\nstars in their rising and setting orbits.",
+      "definition_english": "kh–n–s to contract, to withdraw, to hide in, to shrink away, to\ncause to draw back; deer’s shelter. Of this root, two forms occur\nonce each in the Qur’an: خنّاس khannās; and خنّس khunnas.\n\nخَنَّاس khannās [intens. act. part.] one given to drawing back,\nshrinking away [epithet of the Devil, so described because he\n\n288                                        خ/ن/ق\n\nfails to come forward to assist his followers in their time of need,\nor because he slinks away when God’s name is mentioned, or\nbecause he sneaks up on people unnoticed to tempt them]\n*(114:4) الخناس the slinking, the sneaking, the devious one.\n\nخُنَّس khunnas [pl. of quasi-act. part. خانس khānis] the planets\nwhich retrace their own courses. Reference in verse (81:15) فلا\nأقسم بالخنس الجوار الكنس I swear by the planets that recede, move, and\nhide is said by philologists to be to the ‘luminous five’, namely,\nMars, Saturn, Jupiter, Venus and Mercury, so described because\nthey are observed to have a bi-directional motion, thus earning for\nthemselves another epithet of ‘the puzzled planets’. Other\ninterpreters, however, take the reference to be generally to the\nstars in their rising and setting orbits."
+    }
+  ],
   "occurrences": [
     "114:4:4",
     "81:15:3"

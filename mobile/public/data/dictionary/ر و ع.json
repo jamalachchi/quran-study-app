@@ -1,9 +1,17 @@
 {
-  "id": 1528,
   "root": "ر و ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nروض - روع\n\n(روع) الراء والواو والعين أصلٌ واحد يدلُّ على فزَع أو مُستَقَرِّ فزَع. من ذلك الرَّوْع. يقال رَوَّعت فُلاناً ورُعْتُه: أفزَعْتُه. والأرْوَع من الرجال: ذو الجِسم والجَهَارَة، كأنَّه مِن ذلك يَرُوع مَن يراه. والرَّوْعاء من الإبل: الحديدة",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nروض - روع\n\n(روع) الراء والواو والعين أصلٌ واحد يدلُّ على فزَع أو مُستَقَرِّ فزَع. من ذلك الرَّوْع. يقال رَوَّعت فُلاناً ورُعْتُه: أفزَعْتُه. والأرْوَع من الرجال: ذو الجِسم والجَهَارَة، كأنَّه مِن ذلك يَرُوع مَن يراه. والرَّوْعاء من الإبل: الحديدة",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-w-ʿ fright, to frighten, to take fright; to scare, to alarm, to surprise; to impress with beauty, to fire the imagination, to be inspired; to be extreme (in beauty); heart/soul/mind. Of this root, رَوْع rawʿ occurs once in the Qur’an.\nروغ rawʿ [n.] dread, awe, apprehension, fear (11:74) فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَّوْعُ وَجَاءَتْهُ الْبُشْرَى يُجَادِلُنَا فِي قَوْمِ لُوطٍ then, when the fear left Abraham and the good news came to him, he began to plead with Us for Lot’s people.",
+      "definition_english": "r-w-ʿ fright, to frighten, to take fright; to scare, to alarm, to surprise; to impress with beauty, to fire the imagination, to be inspired; to be extreme (in beauty); heart/soul/mind. Of this root, رَوْع rawʿ occurs once in the Qur’an.\nروغ rawʿ [n.] dread, awe, apprehension, fear (11:74) فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَّوْعُ وَجَاءَتْهُ الْبُشْرَى يُجَادِلُنَا فِي قَوْمِ لُوطٍ then, when the fear left Abraham and the good news came to him, he began to plead with Us for Lot’s people."
+    }
+  ],
   "occurrences": [
     "11:74:5"
   ]

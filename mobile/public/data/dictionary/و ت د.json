@@ -1,9 +1,22 @@
 {
-  "id": 4327,
   "root": "و ت د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وتد) الواو والتاء والدال: كلمةٌ واحدة، هي الوَتِد، يقال: وَتَدَهُ، وتِدْ وتِدَكَ. ويقال وَتْد أيضاً . ووَتِد الأذن: الذي في باطِنِها كأنَّه وَتِد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وتد) الواو والتاء والدال: كلمةٌ واحدة، هي الوَتِد، يقال: وَتَدَهُ، وتِدْ وتِدَكَ. ويقال وَتْد أيضاً . ووَتِد الأذن: الذي في باطِنِها كأنَّه وَتِد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "for a while.\n",
+      "definition_english": "for a while.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–t–d peg, pin, stake, tent peg, to fix firmly; to stay at home,\nto be firmly established. Of this root, أَوْتَاد ʾawtād occurs three\ntimes in the Qur’an.\n\nأَوْتَاد ʾawtād [pl. of n. وَتِد watid] pegs, stakes (78:6–7) أَلَمْ نَجْعَلِ\nالْأَرْضَ مِهَادًا وَالْجِبَالَ أَوْتَادًا did We not make the earth an expanse, and\nthe mountains pegs?\n\nthe mountains as [stabilising] pegs?",
+      "definition_english": "w–t–d peg, pin, stake, tent peg, to fix firmly; to stay at home,\nto be firmly established. Of this root, أَوْتَاد ʾawtād occurs three\ntimes in the Qur’an.\n\nأَوْتَاد ʾawtād [pl. of n. وَتِد watid] pegs, stakes (78:6–7) أَلَمْ نَجْعَلِ\nالْأَرْضَ مِهَادًا وَالْجِبَالَ أَوْتَادًا did We not make the earth an expanse, and\nthe mountains pegs?\n\nthe mountains as [stabilising] pegs?"
+    }
+  ],
   "occurrences": [
     "38:12:8",
     "78:7:2",

@@ -1,9 +1,17 @@
 {
-  "id": 4439,
   "root": "و ط ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوضم\n\n(وطن) الواو والطاء والنون: كلمةٌ صحيحة. فالوَطَن: مَحَلُّ الإنسان. وأوطان الغَنَم: مَرَابضها . وأوْطَنْتُ الأرضَ: اتَّخذتُها وَطناً. والمِيطانُ: الغاية .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوضم\n\n(وطن) الواو والطاء والنون: كلمةٌ صحيحة. فالوَطَن: مَحَلُّ الإنسان. وأوطان الغَنَم: مَرَابضها . وأوْطَنْتُ الأرضَ: اتَّخذتُها وَطناً. والمِيطانُ: الغاية .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ṭ–n habitat; a battlefield, a place where something is done;\nto settle in, to reconcile oneself to something. Of this root, مَوَاطِن\nmawāṭin, occurs once in the Qur’an.\n\nمَوَاطِن mawāṭin [pl. of n. of place مَوْطِن mawṭin] places where\nbattles are fought, battlefields (also battles, by extension) (9:25) لَقَدْ\nنَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ God has helped you [believers] on many\nbattlefields.",
+      "definition_english": "w–ṭ–n habitat; a battlefield, a place where something is done;\nto settle in, to reconcile oneself to something. Of this root, مَوَاطِن\nmawāṭin, occurs once in the Qur’an.\n\nمَوَاطِن mawāṭin [pl. of n. of place مَوْطِن mawṭin] places where\nbattles are fought, battlefields (also battles, by extension) (9:25) لَقَدْ\nنَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ God has helped you [believers] on many\nbattlefields."
+    }
+  ],
   "occurrences": [
     "9:25:5"
   ]

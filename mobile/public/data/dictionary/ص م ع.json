@@ -1,9 +1,17 @@
 {
-  "id": 2191,
   "root": "ص م ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصلق\n\n(صمع) الصاد والميم والعين أصلٌ واحدٌ، يدلُّ على لطافةٍ في الشّيء وتضامٍّ. قال الخليلُ وغيره: كلُّ منضمٍّ فهو متصمِّع. قال: ومن ذلك اشتقاق الصَّومعة. ومن ذلك الصَّمع في الأُذنَين. يقال هو أصمعُ، إِذا كان أَلصَق الأذنين. ويقال: قلبٌ أصمع، أي لطيف ذكيّ. ويقال للبُهْمَى إِذا ارتفعت ولم تتفَقأ: صَمْعاء. وذلك أنَّها [إِذا] كانت كذا كانت منْضَمَّةً لطيفة. وإِذا تلطَّخَ الشَّيء بالشيء فتجمَّعَ كريش السَّهم فهو متصمِّع. قال:\n\nصمغ - صمك صمل\n\nسهماً فخرّ وريشُه مُتصمِّعُ\n\nفرمَى فأنفَذَ من نَحُوصٍ عائطٍ\n\nأي متلطّخ بالدّم منْضمّ. والكلاب صُمْعُ الكعوب، أي صغارُها ولِطافُها قال النابغة:\n\n* صُمْعُ الكُعوبِ بريئاتٌ من الحَردِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصلق\n\n(صمع) الصاد والميم والعين أصلٌ واحدٌ، يدلُّ على لطافةٍ في الشّيء وتضامٍّ. قال الخليلُ وغيره: كلُّ منضمٍّ فهو متصمِّع. قال: ومن ذلك اشتقاق الصَّومعة. ومن ذلك الصَّمع في الأُذنَين. يقال هو أصمعُ، إِذا كان أَلصَق الأذنين. ويقال: قلبٌ أصمع، أي لطيف ذكيّ. ويقال للبُهْمَى إِذا ارتفعت ولم تتفَقأ: صَمْعاء. وذلك أنَّها [إِذا] كانت كذا كانت منْضَمَّةً لطيفة. وإِذا تلطَّخَ الشَّيء بالشيء فتجمَّعَ كريش السَّهم فهو متصمِّع. قال:\n\nصمغ - صمك صمل\n\nسهماً فخرّ وريشُه مُتصمِّعُ\n\nفرمَى فأنفَذَ من نَحُوصٍ عائطٍ\n\nأي متلطّخ بالدّم منْضمّ. والكلاب صُمْعُ الكعوب، أي صغارُها ولِطافُها قال النابغة:\n\n* صُمْعُ الكُعوبِ بريئاتٌ من الحَردِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–m–ʿ high tapering building; to be of small ears, to be sharp\nand tapering at the end; to be courageous. صَوْمَعَة ṣawmaʿatun is\nclassified by the philologists under this root, but it could be a\nborrowing from Ethiopic. Of this root, one form, صَوَامِع ṣawāmiʿ,\noccurs once in the Qur’an.\n\nصَوَامِع ṣawāmiʿ [pl. of n. صَوْمَعَة ṣawmaʿatun] cloisters,\n\n537                                              ص/ن/ع\n\nmonasteries (22:40) وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَامِعُ\nوَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرٌ were it not for God repelling\nsome people by means of others, many monasteries, churches,\nsynagogues and mosques, where God’s name is much mentioned,\nwould surely have been destroyed.",
+      "definition_english": "ṣ–m–ʿ high tapering building; to be of small ears, to be sharp\nand tapering at the end; to be courageous. صَوْمَعَة ṣawmaʿatun is\nclassified by the philologists under this root, but it could be a\nborrowing from Ethiopic. Of this root, one form, صَوَامِع ṣawāmiʿ,\noccurs once in the Qur’an.\n\nصَوَامِع ṣawāmiʿ [pl. of n. صَوْمَعَة ṣawmaʿatun] cloisters,\n\n537                                              ص/ن/ع\n\nmonasteries (22:40) وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَامِعُ\nوَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرٌ were it not for God repelling\nsome people by means of others, many monasteries, churches,\nsynagogues and mosques, where God’s name is much mentioned,\nwould surely have been destroyed."
+    }
+  ],
   "occurrences": [
     "22:40:19"
   ]

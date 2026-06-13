@@ -1,9 +1,17 @@
 {
-  "id": 1935,
   "root": "س ر ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسرح - سرد\n\n(سرح) السين والراء والحاء أصلٌ مطّرد واحد، وهو يدلُّ على الانطلاق. يقال منه أمر سريح، إذا لم يكن فيه تعويق ولا مَطْل. ثمَّ يحمل على هذا السَّراح وهو الطَّلاق؛ يقال سَرَّحت المرأةَ. وفي كتاب الله تعالى: ] أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ [ [البقرة 231]. والسُّرُح: النّاقة السريعة. ومن الباب المنْسرح، وهو العريانُ الخارج من ثيابه. والسَّرْح: المال السَّائم. والسارح: الرَّاعي. ويقال السَّارح: الرجل الذي لـه السَّرْح. وأمَّا الشجرة العظيمة فهي السَّرْحة، ولعلَّه أن يكون شاذاً عن هذا الأصل. ويمكن أن تسمَّى سَرْحة لانسراح أغصانها وذَهابها في الجهات. قال عنترة:\n\nبَطلٍ كأنّ ثيابَه في سرحَةٍ\n\nيُحذَى نِعالَ السِّبتِ ليس بتَوأَمِ\n\nومن الباب السِّرحانُ: الذِّئب، سمِّي به لأنَّه ينسرح في مَطالبه. وكذلك الأسدُ إذا سُمِّي سِرحانا.\n\nوأما السَّريحة فقطعةٌ من الثِّياب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسرح - سرد\n\n(سرح) السين والراء والحاء أصلٌ مطّرد واحد، وهو يدلُّ على الانطلاق. يقال منه أمر سريح، إذا لم يكن فيه تعويق ولا مَطْل. ثمَّ يحمل على هذا السَّراح وهو الطَّلاق؛ يقال سَرَّحت المرأةَ. وفي كتاب الله تعالى: ] أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ [ [البقرة 231]. والسُّرُح: النّاقة السريعة. ومن الباب المنْسرح، وهو العريانُ الخارج من ثيابه. والسَّرْح: المال السَّائم. والسارح: الرَّاعي. ويقال السَّارح: الرجل الذي لـه السَّرْح. وأمَّا الشجرة العظيمة فهي السَّرْحة، ولعلَّه أن يكون شاذاً عن هذا الأصل. ويمكن أن تسمَّى سَرْحة لانسراح أغصانها وذَهابها في الجهات. قال عنترة:\n\nبَطلٍ كأنّ ثيابَه في سرحَةٍ\n\nيُحذَى نِعالَ السِّبتِ ليس بتَوأَمِ\n\nومن الباب السِّرحانُ: الذِّئب، سمِّي به لأنَّه ينسرح في مَطالبه. وكذلك الأسدُ إذا سُمِّي سِرحانا.\n\nوأما السَّريحة فقطعةٌ من الثِّياب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-r-ḥ to go to pasture, to set free. Of this root, four forms occur seven times in the Qur’an: تَسْرَحُون tasraḥūn once; أُسَرِّحْ ʾusarriḥ three times; سَراحًا sarāḥan twice and تَسْرِيح tasrīḥ once.\nتَسْرَحُون tasraḥūn [imperf. of v. intrans.] to go out to pasture (16:6) وَلَكُمْ فِيها جَمالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ and in them there is beauty for you when you bring them home [to rest] and when you drive them out [to pasture].\n\nأُسَرِّحْ ʾusarriḥ [imperf. of v. II, trans.] to set free, to release, to grant a divorce to (33:28) إِنْ كُنْتُنَّ تُرِدْنَ الْحَياةَ الدُّنْيا وَزِينَتَها فَتَعالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَراحًا جَمِيلا if you desire the present life and its finery, then come, I will make provision for you and release you [from the\n\n431",
+      "definition_english": "s-r-ḥ to go to pasture, to set free. Of this root, four forms occur seven times in the Qur’an: تَسْرَحُون tasraḥūn once; أُسَرِّحْ ʾusarriḥ three times; سَراحًا sarāḥan twice and تَسْرِيح tasrīḥ once.\nتَسْرَحُون tasraḥūn [imperf. of v. intrans.] to go out to pasture (16:6) وَلَكُمْ فِيها جَمالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ and in them there is beauty for you when you bring them home [to rest] and when you drive them out [to pasture].\n\nأُسَرِّحْ ʾusarriḥ [imperf. of v. II, trans.] to set free, to release, to grant a divorce to (33:28) إِنْ كُنْتُنَّ تُرِدْنَ الْحَياةَ الدُّنْيا وَزِينَتَها فَتَعالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَراحًا جَمِيلا if you desire the present life and its finery, then come, I will make provision for you and release you [from the\n\n431"
+    }
+  ],
   "occurrences": [
     "16:6:7",
     "2:229:6",

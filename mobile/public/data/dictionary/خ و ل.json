@@ -1,9 +1,22 @@
 {
-  "id": 1079,
   "root": "خ و ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخوث\n\n(خول) الخاء والواو واللام أصلٌ واحد يدلُّ على تعهُّد الشَّيء. مِن ذلك: \"إنَّه كان يتخوَّلُهم بالموعظة \"، أي كان يتعَّدُهم بها. وفلان خَوْلِيُّ مالٍ، إذا كان يُصلِحه. ومنه: خَوَّلك اللهُ مالاً، أي أعطاكَه؛ لأنّ المال يُتَخوَّل، أي يُتَعَهَّد. ومنه خَوَلُ الرّجُل، وهم حَشَمُه. أصله أنَّ الواحدَ خائل، وهو",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخوث\n\n(خول) الخاء والواو واللام أصلٌ واحد يدلُّ على تعهُّد الشَّيء. مِن ذلك: \"إنَّه كان يتخوَّلُهم بالموعظة \"، أي كان يتعَّدُهم بها. وفلان خَوْلِيُّ مالٍ، إذا كان يُصلِحه. ومنه: خَوَّلك اللهُ مالاً، أي أعطاكَه؛ لأنّ المال يُتَخوَّل، أي يُتَعَهَّد. ومنه خَوَلُ الرّجُل، وهم حَشَمُه. أصله أنَّ الواحدَ خائل، وهو",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-w-l (there is a degree of overlap between this root and\n",
+      "definition_english": "kh-w-l (there is a degree of overlap between this root and\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-w-l) imagining, to fancy, to suppose, to guess, to\npresuppose, to foresee; spectre, ghost, apparition, shadow; pride,\nconceit, snobbery; horse riders, horses; maternal uncle and aunt;\nmole (on skin). Of this root, three forms occur nine times in the\nQurʾān: يُخَيَّل yukhayyal once; مُخْتَال mukhtāl three times and خَيْل\nkhayl five times.\n\nيُخَيَّل yukhayyal [imperf. of pass. v. II خُيِّل khuyyila] to be made\nto appear in an imaginary form, to be made to look like\nsomething else (20:66) فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ\nlo and behold, their ropes and staffs were made—through their\nsorcery—to appear to him to be moving.\n\nمُخْتَال mukhtāl [quasi-act. part.] arrogant, proud, conceited\n(31:18) إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ God does not love any of the\narrogant boastful [people].\n\nخَيْل khayl [coll. n.] 1 horses (16:8) وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا\nوَزِينَةً and horses, mules and donkeys for you to ride [them] and as\nan adornment 2 cavalry, riding forces (17:64) وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ\nوَرَجِلِكَ and assail them with the noise of your cavalry and infantry.",
+      "definition_english": "kh-w-l) imagining, to fancy, to suppose, to guess, to\npresuppose, to foresee; spectre, ghost, apparition, shadow; pride,\nconceit, snobbery; horse riders, horses; maternal uncle and aunt;\nmole (on skin). Of this root, three forms occur nine times in the\nQurʾān: يُخَيَّل yukhayyal once; مُخْتَال mukhtāl three times and خَيْل\nkhayl five times.\n\nيُخَيَّل yukhayyal [imperf. of pass. v. II خُيِّل khuyyila] to be made\nto appear in an imaginary form, to be made to look like\nsomething else (20:66) فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ\nlo and behold, their ropes and staffs were made—through their\nsorcery—to appear to him to be moving.\n\nمُخْتَال mukhtāl [quasi-act. part.] arrogant, proud, conceited\n(31:18) إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ God does not love any of the\narrogant boastful [people].\n\nخَيْل khayl [coll. n.] 1 horses (16:8) وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا\nوَزِينَةً and horses, mules and donkeys for you to ride [them] and as\nan adornment 2 cavalry, riding forces (17:64) وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ\nوَرَجِلِكَ and assail them with the noise of your cavalry and infantry."
+    }
+  ],
   "occurrences": [
     "24:61:40",
     "24:61:43",

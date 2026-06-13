@@ -1,9 +1,17 @@
 {
-  "id": 821,
   "root": "ح ف د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحفي\n\n(حفد) الحاء والفاء والدال أصلٌ يدلُّ على الخِفَّة في العمل، والتجمُّع. فالحفَدة: الأعوان؛ لأنّه يجتمع فيهم التجمّع والتخفُّف، واحدُهم حافد. والسُّرْعة إلى الطاعة حَفْدٌ، ولذلك يقال في دعاء القنوت: \"إليك نسعى ونَحْفِدُ\". قال:\n\n* يا ابنَ التي على قَعُودٍ حَفَّادْ *\n\nويقال في قولـه تعالى: ] وَجَعَلَ لَكُمْ مِنْ أَزْواجِكُمْ بَنِينَ وَحَفَدَةً [ [النحل 72]، إنّهم الأعوان-وهو الصحيح- ويقال الأَختَانُ، ويقال الحَفدةُ ولدُ الوَلدَ. والمِحْفَد: مكيالٌ يكال به. ويقال في باب السرعة والخفّة سيفٌ محتفِد، أي سريع القطع. والحفَدانُ: تدارُك السَّير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحفي\n\n(حفد) الحاء والفاء والدال أصلٌ يدلُّ على الخِفَّة في العمل، والتجمُّع. فالحفَدة: الأعوان؛ لأنّه يجتمع فيهم التجمّع والتخفُّف، واحدُهم حافد. والسُّرْعة إلى الطاعة حَفْدٌ، ولذلك يقال في دعاء القنوت: \"إليك نسعى ونَحْفِدُ\". قال:\n\n* يا ابنَ التي على قَعُودٍ حَفَّادْ *\n\nويقال في قولـه تعالى: ] وَجَعَلَ لَكُمْ مِنْ أَزْواجِكُمْ بَنِينَ وَحَفَدَةً [ [النحل 72]، إنّهم الأعوان-وهو الصحيح- ويقال الأَختَانُ، ويقال الحَفدةُ ولدُ الوَلدَ. والمِحْفَد: مكيالٌ يكال به. ويقال في باب السرعة والخفّة سيفٌ محتفِد، أي سريع القطع. والحفَدانُ: تدارُك السَّير.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ-f-d briskness; to care for, to aid; entourage, household; daughters, extended family, grandchildren, in-laws, family lineage. Of this root, one form, حَفَدَةٌ ḥafadatun occurs once in the Qurʾan.\nحَفَدَةٌ ḥafadatun [pl. of n./act. part. حَافِد ḥāfid] 1 grandchildren, offspring, in-laws generally (in an interpretation of 16:72) وَجَعَلَ لَكُم مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً and He has given you through your spouses children and grandchildren 2 daughters (in another interpretation of 16:72) وَجَعَلَ لَكُم مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً and He has given you through your spouses sons and daughters.",
+      "definition_english": "ḥ-f-d briskness; to care for, to aid; entourage, household; daughters, extended family, grandchildren, in-laws, family lineage. Of this root, one form, حَفَدَةٌ ḥafadatun occurs once in the Qurʾan.\nحَفَدَةٌ ḥafadatun [pl. of n./act. part. حَافِد ḥāfid] 1 grandchildren, offspring, in-laws generally (in an interpretation of 16:72) وَجَعَلَ لَكُم مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً and He has given you through your spouses children and grandchildren 2 daughters (in another interpretation of 16:72) وَجَعَلَ لَكُم مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً and He has given you through your spouses sons and daughters."
+    }
+  ],
   "occurrences": [
     "16:72:12"
   ]

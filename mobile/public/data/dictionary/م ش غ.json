@@ -1,8 +1,11 @@
 {
-  "id": 3750,
   "root": "م ش غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمسخ - مسد\n\n(مشغ) الميم والشين والغين كلمةٌ واحدة، مَشَّغه بالقبيح، لطّخه. قال:\n\n* أعلُو وعِرضي ليس بالممشَّغِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمسخ - مسد\n\n(مشغ) الميم والشين والغين كلمةٌ واحدة، مَشَّغه بالقبيح، لطّخه. قال:\n\n* أعلُو وعِرضي ليس بالممشَّغِ *",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

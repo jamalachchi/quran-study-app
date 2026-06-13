@@ -1,8 +1,11 @@
 {
-  "id": 4052,
   "root": "ن ع ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنعس - نعش\n\n(نعط) النون والعين والطاء. يقولون: ناعِط: حيٌّ من هَمْدان.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنعس - نعش\n\n(نعط) النون والعين والطاء. يقولون: ناعِط: حيٌّ من هَمْدان.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

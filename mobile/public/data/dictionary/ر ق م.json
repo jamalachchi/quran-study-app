@@ -1,9 +1,22 @@
 {
-  "id": 1456,
   "root": "ر ق م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرقل - رقم\n\n(رقم) الراء والقاف والميم* أصلٌ واحد يدلُّ على خَطٍّ وكتابةٍ وما أشبَهَ ذلك . فالرَّقْم: الخَطّ. والرَّقيم: الكتاب. ويقال للحاذق في صِناعته: هو يرقُم في الماء. قال:\n\nعلى نَأْيِكُمْ إن كان في الماءِ راقمُ\n\nسَأرْقُم في الماءِ القَراحِ إليكُم\n\nوكلُّ ثوبٍ وُشِيَ فهو رَقْمٌ. والأرقَم من الحيات: ما على ظهره كالنَّقْش. قال الخليل بن أحمد: الرَّقْم تعجيم الكتاب. يقال كتابٌ مرقوم، إِذا بُيِّنَت حروفُه\n\nرقن - رقي - رقأ\n\nبعلاماتها من التّنقيط. ورَقْمَتا الفَرَسِ والحِمار: الأثران بباطن أعضادهما. ويقال للرَّوْضَة رَقْمَة، وإِنَّمَا سُمِّيت بذلك لأنَّها كالرَّقْم على الأرض. ويقال لأرض بها نباتٌ قليل: مرقُومة.\n\nومما شذَّ عن الباب قولُهم للدّاهية: الرَّقِم. وليس ببعيدٍ أن يكون من قياس الباب؛ لأنَّها إذا نزلت أثَّرَتْ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرقل - رقم\n\n(رقم) الراء والقاف والميم* أصلٌ واحد يدلُّ على خَطٍّ وكتابةٍ وما أشبَهَ ذلك . فالرَّقْم: الخَطّ. والرَّقيم: الكتاب. ويقال للحاذق في صِناعته: هو يرقُم في الماء. قال:\n\nعلى نَأْيِكُمْ إن كان في الماءِ راقمُ\n\nسَأرْقُم في الماءِ القَراحِ إليكُم\n\nوكلُّ ثوبٍ وُشِيَ فهو رَقْمٌ. والأرقَم من الحيات: ما على ظهره كالنَّقْش. قال الخليل بن أحمد: الرَّقْم تعجيم الكتاب. يقال كتابٌ مرقوم، إِذا بُيِّنَت حروفُه\n\nرقن - رقي - رقأ\n\nبعلاماتها من التّنقيط. ورَقْمَتا الفَرَسِ والحِمار: الأثران بباطن أعضادهما. ويقال للرَّوْضَة رَقْمَة، وإِنَّمَا سُمِّيت بذلك لأنَّها كالرَّقْم على الأرض. ويقال لأرض بها نباتٌ قليل: مرقُومة.\n\nومما شذَّ عن الباب قولُهم للدّاهية: الرَّقِم. وليس ببعيدٍ أن يكون من قياس الباب؛ لأنَّها إذا نزلت أثَّرَتْ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "رَقَبَة raqabatun [n., pl. رِقَاب riqāb] 1 neck (47:4) فَضَرْبَ ٱلرِّقَابِ striking the necks 2 slave (58:3) فَتَحْرِيرُ رَقَبَةٍ the freeing of a slave; *(2:177) [those who spend their money] in the cause of liberating slaves [lit. in the necks].\n",
+      "definition_english": "رَقَبَة raqabatun [n., pl. رِقَاب riqāb] 1 neck (47:4) فَضَرْبَ ٱلرِّقَابِ striking the necks 2 slave (58:3) فَتَحْرِيرُ رَقَبَةٍ the freeing of a slave; *(2:177) [those who spend their money] in the cause of liberating slaves [lit. in the necks].\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–q–m speckles, speckled snake, markings, stripes, writings, dotting, to mark, to dot, to write; a great number; side of the valley, place where flood waters gather. ٱلرَّقِيم ʾal-raqīm, classified under this root, is considered by some philologists to be a borrowing from Greek. Of this root, two forms occur three times in the Qur’an: رَقِيم raqīm once and مَرْقُوم marqūm twice.\nرَقِيم raqīm [n.; quasi-pass. part.] variously interpreted as the name of the town from which the Men of the Cave came; a plate of lead or stone upon which the name of those men were\n\n378",
+      "definition_english": "r–q–m speckles, speckled snake, markings, stripes, writings, dotting, to mark, to dot, to write; a great number; side of the valley, place where flood waters gather. ٱلرَّقِيم ʾal-raqīm, classified under this root, is considered by some philologists to be a borrowing from Greek. Of this root, two forms occur three times in the Qur’an: رَقِيم raqīm once and مَرْقُوم marqūm twice.\nرَقِيم raqīm [n.; quasi-pass. part.] variously interpreted as the name of the town from which the Men of the Cave came; a plate of lead or stone upon which the name of those men were\n\n378"
+    }
+  ],
   "occurrences": [
     "18:9:6",
     "83:20:2",

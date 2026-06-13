@@ -1,9 +1,17 @@
 {
-  "id": 1434,
   "root": "ر غ م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرعج - رعد\n\n(رغم) الراء والغين والميم أصلان: أحدهما التُّراب، والآخر المَذْهَب. فالأول الرَّغام، وهو التُّراب. ومنه \"أرغَمَ الله أنفَه\" أي ألصقه بالرَّغام. ومنه",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرعج - رعد\n\n(رغم) الراء والغين والميم أصلان: أحدهما التُّراب، والآخر المَذْهَب. فالأول الرَّغام، وهو التُّراب. ومنه \"أرغَمَ الله أنفَه\" أي ألصقه بالرَّغام. ومنه",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–gh–m nose, pride; to be angry, to reject, to dispute, aversion; to compel, compulsion; dust, soil; humiliation; escape, refuge, places of refuge. Of this verb, مُرَٰغَم murāgham occurs once in the Qur’an.\nمُرَٰغَم murāgham [n. of place] places of escape, places of refuge, alternative places to one’s homes (4:100) وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً whosoever emigrates in the cause of God will find in the land many alternative places in which to settle, and plenty.",
+      "definition_english": "r–gh–m nose, pride; to be angry, to reject, to dispute, aversion; to compel, compulsion; dust, soil; humiliation; escape, refuge, places of refuge. Of this verb, مُرَٰغَم murāgham occurs once in the Qur’an.\nمُرَٰغَم murāgham [n. of place] places of escape, places of refuge, alternative places to one’s homes (4:100) وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً whosoever emigrates in the cause of God will find in the land many alternative places in which to settle, and plenty."
+    }
+  ],
   "occurrences": [
     "4:100:9"
   ]

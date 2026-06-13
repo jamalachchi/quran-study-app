@@ -1,8 +1,11 @@
 {
-  "id": 351,
   "root": "ب ه ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبنو\n\n(بهث) الباء والهاء والثاء ليس بأصل، وقد سُمِّي الرجل بُهثَة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبنو\n\n(بهث) الباء والهاء والثاء ليس بأصل، وقد سُمِّي الرجل بُهثَة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

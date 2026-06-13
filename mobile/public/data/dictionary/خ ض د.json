@@ -1,9 +1,17 @@
 {
-  "id": 1019,
   "root": "خ ض د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخضب - خضد\n\n(خضد) الخاء والضاد والدال أصلٌ واحدٌ مطّرِدٌ، وهو يدلُّ على تَثَّنٍّ في شيءٍ ليِّن. يقال انخضد العُود انخِضاداً، إذا تَثَنَّى من غير كَسْر. وخَضَدتُه: ثَنَيْتُه. وربَّما زادُوا في المعنى فقالوا: خَضَدْتُ الشجرةَ، إذا كَسَرت شوكتَها. ونباتٌ خَضيدٌ. والأصلُ هو الأوَّل؛ لأنّ الخضيد هو الرّيَّان الناعم الذي يتثنَّى لِلِينه. فأما قولُ النَّابغة:\n\nفيه رُكامٌ من اليَنْبُوتِ والخَضَدِ\n\nيَمُدُّهُ كلُّ وادٍ مُتْرَعٍ لجِبٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخضب - خضد\n\n(خضد) الخاء والضاد والدال أصلٌ واحدٌ مطّرِدٌ، وهو يدلُّ على تَثَّنٍّ في شيءٍ ليِّن. يقال انخضد العُود انخِضاداً، إذا تَثَنَّى من غير كَسْر. وخَضَدتُه: ثَنَيْتُه. وربَّما زادُوا في المعنى فقالوا: خَضَدْتُ الشجرةَ، إذا كَسَرت شوكتَها. ونباتٌ خَضيدٌ. والأصلُ هو الأوَّل؛ لأنّ الخضيد هو الرّيَّان الناعم الذي يتثنَّى لِلِينه. فأما قولُ النَّابغة:\n\nفيه رُكامٌ من اليَنْبُوتِ والخَضَدِ\n\nيَمُدُّهُ كلُّ وادٍ مُتْرَعٍ لجِبٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–ḍ–d to twist, to crack, to cut the thorns off a branch; to become stale, to become shrivelled; to munch on soft fruit; to be a glutton. Of this root, مَخْضُود makhḍūd occurs once in the Qur’an.\nمَخْضُود makhḍūd [pass. part.] one with its thorns cut off, thornless, laden with fruit (56:28) فِي سِدْرٍ مَخْضُودٍ among thornless lote trees.",
+      "definition_english": "kh–ḍ–d to twist, to crack, to cut the thorns off a branch; to become stale, to become shrivelled; to munch on soft fruit; to be a glutton. Of this root, مَخْضُود makhḍūd occurs once in the Qur’an.\nمَخْضُود makhḍūd [pass. part.] one with its thorns cut off, thornless, laden with fruit (56:28) فِي سِدْرٍ مَخْضُودٍ among thornless lote trees."
+    }
+  ],
   "occurrences": [
     "56:28:3"
   ]

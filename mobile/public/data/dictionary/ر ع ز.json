@@ -1,8 +1,11 @@
 {
-  "id": 1427,
   "root": "ر ع ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرعج - رعد\n\n(رعز) الراء والعين والزاء ليس بشيء. على أنّهم يقولون: المُرَاعِزُ: المُعاتِبُ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرعج - رعد\n\n(رعز) الراء والعين والزاء ليس بشيء. على أنّهم يقولون: المُرَاعِزُ: المُعاتِبُ .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

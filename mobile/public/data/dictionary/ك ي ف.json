@@ -1,9 +1,17 @@
 {
-  "id": 3317,
   "root": "ك ي ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كيف) الكاف والياء والفاء كلمةٌ. يقولون: الكِيفة: الكِسْفة من الثّوب. فأمَّا كيفَ فكلمةٌ موضوعة يُستفهَم بها عن حالِ الإنسان فيقال: كيف هو؟ فيقال: صالح.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كيف) الكاف والياء والفاء كلمةٌ. يقولون: الكِيفة: الكِسْفة من الثّوب. فأمَّا كيفَ فكلمةٌ موضوعة يُستفهَم بها عن حالِ الإنسان فيقال: كيف هو؟ فيقال: صالح.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–y–f to cut; manner, mode, fashion, state. Of this root, كَيْف\nkayfa occurs 83 times in the Qur’an.\n\nكَيْف kayfa 1 [interrogative n., of which instances occurring in\nthe Qur’an seem to function as rhetorical questions] ‘How!, In\nwhat way!’ (19:29) فَأَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا she\npointed towards him, [but] they said, ‘How can we converse with\none who is [still] in the cradle, a [mere] baby boy?!’ 2\n[adverbial] manner in which action is performed or takes place\n(25:45) أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ have you not considered the way of\nyour Lord, how He lengthens the shadow?",
+      "definition_english": "k–y–f to cut; manner, mode, fashion, state. Of this root, كَيْف\nkayfa occurs 83 times in the Qur’an.\n\nكَيْف kayfa 1 [interrogative n., of which instances occurring in\nthe Qur’an seem to function as rhetorical questions] ‘How!, In\nwhat way!’ (19:29) فَأَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا she\npointed towards him, [but] they said, ‘How can we converse with\none who is [still] in the cradle, a [mere] baby boy?!’ 2\n[adverbial] manner in which action is performed or takes place\n(25:45) أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ have you not considered the way of\nyour Lord, how He lengthens the shadow?"
+    }
+  ],
   "occurrences": [
     "105:1:3",
     "10:14:9",

@@ -1,8 +1,11 @@
 {
-  "id": 2052,
   "root": "ش ي ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشيح\n\n(شيص) الشين والياء والصاد. يقال إنَّ الشِّيص أردأ التَّمْر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشيح\n\n(شيص) الشين والياء والصاد. يقال إنَّ الشِّيص أردأ التَّمْر.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

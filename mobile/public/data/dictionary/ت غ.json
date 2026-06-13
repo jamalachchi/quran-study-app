@@ -1,8 +1,11 @@
 {
-  "id": 395,
   "root": "ت غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\n(تغ) التاء والغين ليس أصلاً. ويقولون: التغتغة حكايةُ صوت أو ضَحِك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\n(تغ) التاء والغين ليس أصلاً. ويقولون: التغتغة حكايةُ صوت أو ضَحِك.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,8 +1,11 @@
 {
-  "id": 1321,
   "root": "ذ م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذكر\n\n(ذمر) الذال والميم والراء أصلٌ واحدٌ يدلُّ على شِدّةٍ في خَلْق وخُلُق، من",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذكر\n\n(ذمر) الذال والميم والراء أصلٌ واحدٌ يدلُّ على شِدّةٍ في خَلْق وخُلُق، من",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

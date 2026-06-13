@@ -1,8 +1,11 @@
 {
-  "id": 4553,
   "root": "ي ف ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الياء\n\nيعر\n\n(يفن) الياء والفاء والنون. يقولون: اليَفَنُ: الشَّيخ الكبير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الياء\n\nيعر\n\n(يفن) الياء والفاء والنون. يقولون: اليَفَنُ: الشَّيخ الكبير.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

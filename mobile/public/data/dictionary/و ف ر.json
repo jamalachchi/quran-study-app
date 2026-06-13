@@ -1,9 +1,17 @@
 {
-  "id": 4472,
   "root": "و ف ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفر) الواو والفاء والراء: كلمةٌ تدلُّ على كثرةٍ وتَمام. وَفَرَ الشّيءُ يَفِرُ، وهو مَوفورٌ، ووَفَرَه الله. ومنه وَفْرةُ الشَّعر: دُون الجُمَّة. واشتقاق اسم المالِ الوَفْرِ منه. قال:\n\nوفز - وفض - وفع - وقل\n\nعلى رَمَثٍ في الشَّرْم ليس لنا وَفْرُ\n\nتمَنَّيْتُ من حُبِّي بُثينَةَ أنَّنا\n\nوالوفْراءُ : المزادة لم يُنْقَص من أديمها شَيء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وفر) الواو والفاء والراء: كلمةٌ تدلُّ على كثرةٍ وتَمام. وَفَرَ الشّيءُ يَفِرُ، وهو مَوفورٌ، ووَفَرَه الله. ومنه وَفْرةُ الشَّعر: دُون الجُمَّة. واشتقاق اسم المالِ الوَفْرِ منه. قال:\n\nوفز - وفض - وفع - وقل\n\nعلى رَمَثٍ في الشَّرْم ليس لنا وَفْرُ\n\nتمَنَّيْتُ من حُبِّي بُثينَةَ أنَّنا\n\nوالوفْراءُ : المزادة لم يُنْقَص من أديمها شَيء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–f–r abundance; to be plentiful, to increase; to receive in full;\nto complete. Of this root, مَوْفُور mawfūr, occurs once in the\n\n1036",
+      "definition_english": "w–f–r abundance; to be plentiful, to increase; to receive in full;\nto complete. Of this root, مَوْفُور mawfūr, occurs once in the\n\n1036"
+    }
+  ],
   "occurrences": [
     "17:63:10"
   ]

@@ -1,8 +1,11 @@
 {
-  "id": 2309,
   "root": "ض ن ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضمر - ضمز\n\n(ضنط) الضاد والنون والطاء، يقولون فيه إنَّ الضِّنَاط: الزِّحام الكثير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضمر - ضمز\n\n(ضنط) الضاد والنون والطاء، يقولون فيه إنَّ الضِّنَاط: الزِّحام الكثير.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 1851,
   "root": "س و ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسور - سوط\n\n(سوط) السين والواو والطاء أصلٌ يدلُّ على مخالطة الشَّيءِ الشيءَ. يقال سُطت الشّيءَ: خلطتُ بعضَهُ ببعض. وسَوَّط فلانٌ أمرَهُ تسويطاً، إذا خَلَطَه. قال الشَّاعر:\n\nفَسُطْها ذَميمَ الرّأيِ غيرَ موفَّقٍ\n\nفلستَ على تسويطها بمُعان\n\nسوع سوغ - سوف\n\nومن الباب السَّوط، لأنّه يُخالِط الجِلدة؛ يقال سُطْتُهُ بالسَّوط: ضربتُهُ. وأمَّا قولهم في تسمية النَّصيب سَوطاً فهو من هذا. قال الله جلَّ ثناؤه: ] فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ [ [الفجر 13]، أي نَصيباً من العذاب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسور - سوط\n\n(سوط) السين والواو والطاء أصلٌ يدلُّ على مخالطة الشَّيءِ الشيءَ. يقال سُطت الشّيءَ: خلطتُ بعضَهُ ببعض. وسَوَّط فلانٌ أمرَهُ تسويطاً، إذا خَلَطَه. قال الشَّاعر:\n\nفَسُطْها ذَميمَ الرّأيِ غيرَ موفَّقٍ\n\nفلستَ على تسويطها بمُعان\n\nسوع سوغ - سوف\n\nومن الباب السَّوط، لأنّه يُخالِط الجِلدة؛ يقال سُطْتُهُ بالسَّوط: ضربتُهُ. وأمَّا قولهم في تسمية النَّصيب سَوطاً فهو من هذا. قال الله جلَّ ثناؤه: ] فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ [ [الفجر 13]، أي نَصيباً من العذاب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–w–ṭ mixing things together, a mixture, whipping, whisking;\npunishment; confusion; type, share, portion. Of this root, only سَوْط\nsawṭ occurs once in the Qurʾān.\n\nسَوْط sawṭ [n.] a whip, scourge; dose, share; an assortment, a\nmixture. (89:13) فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ your Lord let a scourge of\npunishment loose on them.\n\n466                             س/و/ع",
+      "definition_english": "s–w–ṭ mixing things together, a mixture, whipping, whisking;\npunishment; confusion; type, share, portion. Of this root, only سَوْط\nsawṭ occurs once in the Qurʾān.\n\nسَوْط sawṭ [n.] a whip, scourge; dose, share; an assortment, a\nmixture. (89:13) فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ your Lord let a scourge of\npunishment loose on them.\n\n466                             س/و/ع"
+    }
+  ],
   "occurrences": [
     "89:13:4"
   ]

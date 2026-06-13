@@ -1,9 +1,22 @@
 {
-  "id": 1705,
   "root": "ز ي ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزول - زون\n\n(زيت) الزاء والياء والتاء كلمةٌ واحدة، وهي الزّيت، معروف. ويقال زِتُّه، إذا دهنْتَه بالزّيت. وهو مَزْيوت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزول - زون\n\n(زيت) الزاء والياء والتاء كلمةٌ واحدة، وهي الزّيت، معروف. ويقال زِتُّه، إذا دهنْتَه بالزّيت. وهو مَزْيوت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "being mindful of God.\nزَاد zād [coll. n.] food provisions (in particular for a journey)\n(2:197) وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى furnish yourselves with [the\nnecessary] provisions—indeed, the best provision [to take with\nyou in your journey to the Hereafter] is being mindful of God.",
+      "definition_english": "being mindful of God.\nزَاد zād [coll. n.] food provisions (in particular for a journey)\n(2:197) وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى furnish yourselves with [the\nnecessary] provisions—indeed, the best provision [to take with\nyou in your journey to the Hereafter] is being mindful of God."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-y-t oil, particularly olive oil, to oil, to anoint; olives, olive\ntree. Of this root, three forms occur seven times in the Qurʾan:\n\n408",
+      "definition_english": "z-y-t oil, particularly olive oil, to oil, to anoint; olives, olive\ntree. Of this root, three forms occur seven times in the Qurʾan:\n\n408"
+    }
+  ],
   "occurrences": [
     "16:11:5",
     "24:35:21",

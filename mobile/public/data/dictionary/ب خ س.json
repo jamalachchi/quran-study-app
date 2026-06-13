@@ -1,9 +1,22 @@
 {
-  "id": 226,
   "root": "ب خ س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبحث\n\n(بخس) الباء والخاء والسين أصلٌ واحد، وهو النَّقْصُ. قال الله تعالى: ] وشَرَوْهُ بِثَمَنٍ بَخْسٍ [ [يوسف 20]، أي نَقْص. ومن هذا الباب قولهم في المُخّ: بَخَّسَ تَبخيساً، إذا صار في السُّلامى والعَين، وذلك حتى نُقصانه وذهابه",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبحث\n\n(بخس) الباء والخاء والسين أصلٌ واحد، وهو النَّقْصُ. قال الله تعالى: ] وشَرَوْهُ بِثَمَنٍ بَخْسٍ [ [يوسف 20]، أي نَقْص. ومن هذا الباب قولهم في المُخّ: بَخَّسَ تَبخيساً، إذا صار في السُّلامى والعَين، وذلك حتى نُقصانه وذهابه",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "scratching up the earth.\n",
+      "definition_english": "scratching up the earth.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–kh–s to diminish, to reduce; to deny full dues. Of this\nroot, three forms occur seven times in the Qurʾan: يَبْخَس yabkhas four\ntimes; يُبْخَس yubkhas once and بَخْس bakhs twice.\n\nيَبْخَس yabkhas [imperf. of v. بَخَسَ bakhasa] I [trans.] to decrease,\nto reduce, to diminish (2:282) وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا\nيَبْخَسْ مِنْهُ شَيْئًا and let the debtor dictate, and let him fear God, his\nLord, and not diminish any of it [the debt] II [doubly trans.,\npass.] to deny someone fair return, to pay someone less than they\ndeserve, to undervalue, to underestimate (11:85) وَلَا تَبْخَسُوا النَّاسَ\n\n78",
+      "definition_english": "b–kh–s to diminish, to reduce; to deny full dues. Of this\nroot, three forms occur seven times in the Qurʾan: يَبْخَس yabkhas four\ntimes; يُبْخَس yubkhas once and بَخْس bakhs twice.\n\nيَبْخَس yabkhas [imperf. of v. بَخَسَ bakhasa] I [trans.] to decrease,\nto reduce, to diminish (2:282) وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا\nيَبْخَسْ مِنْهُ شَيْئًا and let the debtor dictate, and let him fear God, his\nLord, and not diminish any of it [the debt] II [doubly trans.,\npass.] to deny someone fair return, to pay someone less than they\ndeserve, to undervalue, to underestimate (11:85) وَلَا تَبْخَسُوا النَّاسَ\n\n78"
+    }
+  ],
   "occurrences": [
     "11:15:14",
     "11:85:7",

@@ -1,8 +1,11 @@
 {
-  "id": 502,
   "root": "ث غ ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثرب - ثرد\n\n(ثغر) الثاء والغين والراء أصلٌ واحدٌ يدلُّ على تفتُّحٍ وانفراج.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثرب - ثرد\n\n(ثغر) الثاء والغين والراء أصلٌ واحدٌ يدلُّ على تفتُّحٍ وانفراج.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,8 +1,11 @@
 {
-  "id": 370,
   "root": "ب و ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبوش - بوص\n\n(بوص) الباء والواو والصاد أصلان: أحدهما شيءٌ من الآراب، والآخر من السَّبْق.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبوش - بوص\n\n(بوص) الباء والواو والصاد أصلان: أحدهما شيءٌ من الآراب، والآخر من السَّبْق.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

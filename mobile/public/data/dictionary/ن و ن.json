@@ -1,9 +1,17 @@
 {
-  "id": 3876,
   "root": "ن و ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنوف - نوق\n\n(نون) النون والواو والنون كلمةٌ واحدة. والنُّون: الحُوت. و [ذو ] النُّون: سيفٌ لبعض العرب ، كأنَّه شُبِّه بالنون.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنوف - نوق\n\n(نون) النون والواو والنون كلمةٌ واحدة. والنُّون: الحُوت. و [ذو ] النُّون: سيفٌ لبعض العرب ، كأنَّه شُبِّه بالنون.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–w–n fish; a correct word, word of wisdom; inkpot, the letter\nنون nūn, to enunciate the sound نون nūn. نون nūn meaning ‘fish’ is\nconsidered by some scholars to be of Syriac origin. Of this root,\nنون nūn, occurs twice in the Qur’an.\n\nنُون nūn the grapheme ن, which represents the ḥarf or letter\nknown as nūn, constitutes the first word of the initial verse of\nSura 68, القلم ‘the Pen’. It is variously interpreted, among other\nthings, as meaning: inkpot (in harmony with ‘pen’ which comes\nimmediately after in 68:1), ink, fish, a slate, an alternative name\nfor the sura (Sura Nūn) or, as authoritative opinion has it, one of\nthe Mysterious Letters that appear at the beginning of a number\nof suras in the Qur’an (see الر ʾ–l–r) (68:1–2) ن وَالْقَلَمِ وَمَا يَسْطُرُونَ\nNūn, by the pen and all they write [with it] (this could be a\nreference to either the angels’ writing down of peoples’ deeds or\nto humans’ God-given ability of writing); *(21:87) ذَا النُّونِ (epithet\nof the Prophet Jonah) the one with the great fish; * النون name of\nSura 68, Meccan sura, so-named because of the reference in verse\n1 to Nūn.\n\nتنوين tanwīn (see II under نّ -n).",
+      "definition_english": "n–w–n fish; a correct word, word of wisdom; inkpot, the letter\nنون nūn, to enunciate the sound نون nūn. نون nūn meaning ‘fish’ is\nconsidered by some scholars to be of Syriac origin. Of this root,\nنون nūn, occurs twice in the Qur’an.\n\nنُون nūn the grapheme ن, which represents the ḥarf or letter\nknown as nūn, constitutes the first word of the initial verse of\nSura 68, القلم ‘the Pen’. It is variously interpreted, among other\nthings, as meaning: inkpot (in harmony with ‘pen’ which comes\nimmediately after in 68:1), ink, fish, a slate, an alternative name\nfor the sura (Sura Nūn) or, as authoritative opinion has it, one of\nthe Mysterious Letters that appear at the beginning of a number\nof suras in the Qur’an (see الر ʾ–l–r) (68:1–2) ن وَالْقَلَمِ وَمَا يَسْطُرُونَ\nNūn, by the pen and all they write [with it] (this could be a\nreference to either the angels’ writing down of peoples’ deeds or\nto humans’ God-given ability of writing); *(21:87) ذَا النُّونِ (epithet\nof the Prophet Jonah) the one with the great fish; * النون name of\nSura 68, Meccan sura, so-named because of the reference in verse\n1 to Nūn.\n\nتنوين tanwīn (see II under نّ -n)."
+    }
+  ],
   "occurrences": [
     "21:87:2"
   ]

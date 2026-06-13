@@ -1,9 +1,27 @@
 {
-  "id": 3730,
   "root": "م ر ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمرح\n\nكأنَّه جلّ ثناؤه أرسَلَهما فَمرِجا. وقال: ] هُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ [ [الفرقان 53].\n\n(مرح) الميم والراء والحاء أصلٌ يدلُّ على مَسَرَّةٍ لا يكاد يستقرُّ معها طرباً. ومَرِحَ يَمْرَحُ. وفرسٌ مِمْرَاحٌ ومَرُوح. قال الله تعالى: ] وَبِمَا كُنْتُمْ تَمْرَحُونَ [ [غافر 75]، ومنه المِراح، وقد ذكرناه. قال:\n\nأهذا الشَّيب يمنعني مِرَاحِي\n\nيقولُ العاذِلاتُ علاكَ شيبٌ\n\nوقوسٌ مَرُوحٌ: يمرَح مَن رآها عجباً بها، ويقال بل التي كأنَّ بها مَرَحاً من حسن إرسالها السَّهم. ويقولون: عينٌ مِمْرَاحٌ: غزيرةُ الدَّمع. وهذا بعضُ قياس الباب، لأنَّهم ذهبوا فيه إلى ما قلناه من قِلّةِ الاستقرار. وكذلك مرَّحْتُ المَزَادةَ: ملأتُها لتتسرَّبَ وتسيل. ومَرِحَت العَينُ مَرَحاناً . قال:\n\nكأنَّ قَذَىً في العَين قد مَرِحَتْ بهِ\n\nوما حاجةُ الأُخرى إلى المَرَحَانِ\n\nومَرْحَى: كلمةُ تعجُّبٍ وإعجاب. يقال للرَّامي إذا أصابَ: مَرْحَى له. وقال ابنُ دريد : وإذا أخطأ قالوا بَرْحَى. قال:\n\n* مَرْحَى وأَيْحَى إذا ما يُوالِي *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمرح\n\nكأنَّه جلّ ثناؤه أرسَلَهما فَمرِجا. وقال: ] هُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ [ [الفرقان 53].\n\n(مرح) الميم والراء والحاء أصلٌ يدلُّ على مَسَرَّةٍ لا يكاد يستقرُّ معها طرباً. ومَرِحَ يَمْرَحُ. وفرسٌ مِمْرَاحٌ ومَرُوح. قال الله تعالى: ] وَبِمَا كُنْتُمْ تَمْرَحُونَ [ [غافر 75]، ومنه المِراح، وقد ذكرناه. قال:\n\nأهذا الشَّيب يمنعني مِرَاحِي\n\nيقولُ العاذِلاتُ علاكَ شيبٌ\n\nوقوسٌ مَرُوحٌ: يمرَح مَن رآها عجباً بها، ويقال بل التي كأنَّ بها مَرَحاً من حسن إرسالها السَّهم. ويقولون: عينٌ مِمْرَاحٌ: غزيرةُ الدَّمع. وهذا بعضُ قياس الباب، لأنَّهم ذهبوا فيه إلى ما قلناه من قِلّةِ الاستقرار. وكذلك مرَّحْتُ المَزَادةَ: ملأتُها لتتسرَّبَ وتسيل. ومَرِحَت العَينُ مَرَحاناً . قال:\n\nكأنَّ قَذَىً في العَين قد مَرِحَتْ بهِ\n\nوما حاجةُ الأُخرى إلى المَرَحَانِ\n\nومَرْحَى: كلمةُ تعجُّبٍ وإعجاب. يقال للرَّامي إذا أصابَ: مَرْحَى له. وقال ابنُ دريد : وإذا أخطأ قالوا بَرْحَى. قال:\n\n* مَرْحَى وأَيْحَى إذا ما يُوالِي *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–r–ḥ joy, merriment; arrogance, haughtiness, ungratefulness;\nmirth, to be active, to be playful, to be light-hearted; intoxicating\ndrink, resonating, precise bow; to bring out shoots. Of this root,\ntwo forms occur three times in the Qur’an: تَمْرَحُونَ tamraḥūn once\nand مَرَح maraḥ twice.\n\nتَمْرَح tamraḥ [imperf. v., intrans.] to act arrogantly (40:74–5)\nذَٰلِكُم بِمَا كُنتُمْ تَمْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنتُمْ تَمْرَحُونَ\nall because you\nrevelled on earth without right and because you led a wanton life.\n\nمَرَح maraḥ [v. n./n.] gaiety, arrogance, pride (31:18) وَلَا تُصَعِّرْ\nخَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا do not turn your cheek away from\npeople or walk around arrogantly.",
+      "definition_english": "m–r–ḥ joy, merriment; arrogance, haughtiness, ungratefulness;\nmirth, to be active, to be playful, to be light-hearted; intoxicating\ndrink, resonating, precise bow; to bring out shoots. Of this root,\ntwo forms occur three times in the Qur’an: تَمْرَحُونَ tamraḥūn once\nand مَرَح maraḥ twice.\n\nتَمْرَح tamraḥ [imperf. v., intrans.] to act arrogantly (40:74–5)\nذَٰلِكُم بِمَا كُنتُمْ تَمْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنتُمْ تَمْرَحُونَ\nall because you\nrevelled on earth without right and because you led a wanton life.\n\nمَرَح maraḥ [v. n./n.] gaiety, arrogance, pride (31:18) وَلَا تُصَعِّرْ\nخَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا do not turn your cheek away from\npeople or walk around arrogantly."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–r–ḥ joy, merriment; arrogance, haughtiness, ungratefulness; mirth, to be active, to be playful, to be light-hearted; intoxicating drink, resonating, precise bow; to bring out shoots. Of this root, two forms occur three times in the Qur’an: تَمْرَحُونَ tamraḥūn once and مَرَح maraḥ twice.\nتَمْرَح tamraḥ [imperf. v., intrans.] to act arrogantly (40:74–5) ذَلِكُمْ بِمَا كُنْتُمْ تَفْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَمْرَحُونَ all because you revelled on earth without right and because you led a wanton life.\n\nمَرَح maraḥ [v. n./n.] gaiety; arrogance, pride (31:18) وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا do not turn your cheek away from people or walk around arrogantly.",
+      "definition_english": "m–r–ḥ joy, merriment; arrogance, haughtiness, ungratefulness; mirth, to be active, to be playful, to be light-hearted; intoxicating drink, resonating, precise bow; to bring out shoots. Of this root, two forms occur three times in the Qur’an: تَمْرَحُونَ tamraḥūn once and مَرَح maraḥ twice.\nتَمْرَح tamraḥ [imperf. v., intrans.] to act arrogantly (40:74–5) ذَلِكُمْ بِمَا كُنْتُمْ تَفْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَمْرَحُونَ all because you revelled on earth without right and because you led a wanton life.\n\nمَرَح maraḥ [v. n./n.] gaiety; arrogance, pride (31:18) وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا do not turn your cheek away from people or walk around arrogantly."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–r–m) (9:37) إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ يُضَلُّ بِهِ الَّذِينَ كَفَرُوا\nيُحِلُّونَهُ عَامًا وَيُحَرِّمُونَهُ عَامًا لِيُوَاطِئُوا عِدَّةَ مَا حَرَّمَ اللَّهُ postponing (or,\nincreasing) [sacred months] is, indeed, an excess in unbelief, by\n\n933",
+      "definition_english": "h–r–m) (9:37) إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ يُضَلُّ بِهِ الَّذِينَ كَفَرُوا\nيُحِلُّونَهُ عَامًا وَيُحَرِّمُونَهُ عَامًا لِيُوَاطِئُوا عِدَّةَ مَا حَرَّمَ اللَّهُ postponing (or,\nincreasing) [sacred months] is, indeed, an excess in unbelief, by\n\n933"
+    }
+  ],
   "occurrences": [
     "17:37:5",
     "31:18:9",

@@ -1,8 +1,16 @@
 {
-  "id": 1551,
   "root": "ر أ ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرأس - رأف\n\n(رأف) الراء والهمزة والفاء كلمةٌ واحدة تدلُّ على رِقّة ورحمة، وهي الرّأفة. يقال رَؤُفَ يَرْؤُف رأْفةً ورآفة، على فَعْلةٍ وفَعَالة. قال الله جلّ وعلا: ] وَلاَ تَأْخُذْكُمْ بِهِما رَأْفَةٌ فِي دِينِ اللهِ [ [النور 2]، وقرئت: } رَآفَةٌ { ، ورجل رؤوف على فَعُول، ورَؤُف [على] فَعُل. قال في رؤوف:\n\n* هو الرَّحمنُ كان بنا رؤُوفا *\n\nوقال في الرؤف:\n\nرأل - رأم - رأي\n\nكفِعل الوالدِ الرَّؤُفِ الرّحيمِ\n\nيرى لِلمسلمينَ عليه حقّاً",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرأس - رأف\n\n(رأف) الراء والهمزة والفاء كلمةٌ واحدة تدلُّ على رِقّة ورحمة، وهي الرّأفة. يقال رَؤُفَ يَرْؤُف رأْفةً ورآفة، على فَعْلةٍ وفَعَالة. قال الله جلّ وعلا: ] وَلاَ تَأْخُذْكُمْ بِهِما رَأْفَةٌ فِي دِينِ اللهِ [ [النور 2]، وقرئت: } رَآفَةٌ { ، ورجل رؤوف على فَعُول، ورَؤُف [على] فَعُل. قال في رؤوف:\n\n* هو الرَّحمنُ كان بنا رؤُوفا *\n\nوقال في الرؤف:\n\nرأل - رأم - رأي\n\nكفِعل الوالدِ الرَّؤُفِ الرّحيمِ\n\nيرى لِلمسلمينَ عليه حقّاً",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–ʾ–f mercy, kindness, compassion, to have pity, to show kindness, to be merciful. Of this root, two forms occur 13 times in the Qur’an: رَأْفَة raʾfatun twice and رَءُوف raʾūf 11 times.\nرَأْفَة raʾfatun [n.] compassion, kindness (57:27) وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً and We put into the hearts of those who followed him compassion and mercy.\n\nرَءُوف raʾūf [intens. act. part.] [an attribute of God] Compassionate, Most Kind (9:117) ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُ بِهِمْ رَءُوفٌ رَّحِيمٌ then He turned to them; He is to them Most Kind and Merciful.",
+      "definition_english": "r–ʾ–f mercy, kindness, compassion, to have pity, to show kindness, to be merciful. Of this root, two forms occur 13 times in the Qur’an: رَأْفَة raʾfatun twice and رَءُوف raʾūf 11 times.\nرَأْفَة raʾfatun [n.] compassion, kindness (57:27) وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً and We put into the hearts of those who followed him compassion and mercy.\n\nرَءُوف raʾūf [intens. act. part.] [an attribute of God] Compassionate, Most Kind (9:117) ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُ بِهِمْ رَءُوفٌ رَّحِيمٌ then He turned to them; He is to them Most Kind and Merciful."
+    }
+  ],
   "occurrences": []
 }

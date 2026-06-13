@@ -1,9 +1,17 @@
 {
-  "id": 1660,
   "root": "ز ل م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزعب\n\n(زلم) الزاء واللام والميم أصلٌ يدل على نَحَافةٍ ودِقّة في ملاسة. وقد يشذّ عنه الشيء. فالأصل الزَّلَمْ والزُّلَم: قِدْح يُسْتَقْسَمُ به. وكانوا يفعلون ذلك في الجاهليّة، وحُرِّمَ ذلك في الإسلام، بقولـه جلّ ثناؤه: ] وَأَنْ تَسْتَقْسِمُوا بالأَزْلاَم [ [المائدة 3]. فأمَّا قول لبيد:\n\n* تَزِلُّ عن الثَّرَى أزلامُها *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزعب\n\n(زلم) الزاء واللام والميم أصلٌ يدل على نَحَافةٍ ودِقّة في ملاسة. وقد يشذّ عنه الشيء. فالأصل الزَّلَمْ والزُّلَم: قِدْح يُسْتَقْسَمُ به. وكانوا يفعلون ذلك في الجاهليّة، وحُرِّمَ ذلك في الإسلام، بقولـه جلّ ثناؤه: ] وَأَنْ تَسْتَقْسِمُوا بالأَزْلاَم [ [المائدة 3]. فأمَّا قول لبيد:\n\n* تَزِلُّ عن الثَّرَى أزلامُها *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-l-m to cut the loop of the ear: to emaciate through hunger;\narrows, arrows used in divination in pre-Islamic Arabia. Of this\nroot. Only الأَزْلَام ʾal-ʾazlām occurs twice in the Qurʾan.\n\nالأَزْلَام ʾal-ʾazlām [pl. of n. زَلَم zalam or زُلَم zulam] divining\narrows (5:90) إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ intoxicants,\ngambling, idols and divining arrows are an abomination.",
+      "definition_english": "z-l-m to cut the loop of the ear: to emaciate through hunger;\narrows, arrows used in divination in pre-Islamic Arabia. Of this\nroot. Only الأَزْلَام ʾal-ʾazlām occurs twice in the Qurʾan.\n\nالأَزْلَام ʾal-ʾazlām [pl. of n. زَلَم zalam or زُلَم zulam] divining\narrows (5:90) إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ intoxicants,\ngambling, idols and divining arrows are an abomination."
+    }
+  ],
   "occurrences": [
     "5:3:28",
     "5:90:8"

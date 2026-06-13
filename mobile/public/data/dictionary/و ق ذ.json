@@ -1,9 +1,17 @@
 {
-  "id": 4484,
   "root": "و ق ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وقذ) الواو والقاف والذال: كلمةٌ تدلُّ على ضَربٍ بخَشَب. منه الوَقْذ: الإيلام بالضَّرب. وشاةٌ موقوذة: ضُرِبت بالخشَب حتَّى ماتت.\n\nومما ليس من هذا القياس وُقِذَت النّاقةُ: دَرَّتْ على كَرْهٍ فقَلّ لبنُها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وقذ) الواو والقاف والذال: كلمةٌ تدلُّ على ضَربٍ بخَشَب. منه الوَقْذ: الإيلام بالضَّرب. وشاةٌ موقوذة: ضُرِبت بالخشَب حتَّى ماتت.\n\nومما ليس من هذا القياس وُقِذَت النّاقةُ: دَرَّتْ على كَرْهٍ فقَلّ لبنُها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–q–dh an animal killed by striking with a stick, to strike\nviolently, to kill by striking; to be slow and dull; to be very ill; to\nbe saddened. Of this root, مَوْقُوذَة mawqūdhatun, occurs once in the\nQur’an.\n\nمَوْقُوذَة mawqūdhatun [fem. pass. part.] an animal clubbed to\ndeath (5:3) حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ ... وَالْمَوْقُوذَةُ you are forbidden to eat\ncarrion ... an animal killed by clubbing.",
+      "definition_english": "w–q–dh an animal killed by striking with a stick, to strike\nviolently, to kill by striking; to be slow and dull; to be very ill; to\nbe saddened. Of this root, مَوْقُوذَة mawqūdhatun, occurs once in the\nQur’an.\n\nمَوْقُوذَة mawqūdhatun [fem. pass. part.] an animal clubbed to\ndeath (5:3) حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ ... وَالْمَوْقُوذَةُ you are forbidden to eat\ncarrion ... an animal killed by clubbing."
+    }
+  ],
   "occurrences": [
     "5:3:13"
   ]

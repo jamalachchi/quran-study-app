@@ -1,9 +1,17 @@
 {
-  "id": 789,
   "root": "ح س د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحسد - حسر\n\nومن هذا الأصل الحُسبْان: سهامٌ صغار يُرْمى بها عن القسيِّ الفارسية، الواحدة حُسبانة. وإنما فرق بينهما لصِغَر هذه و[كبر] تلك.\n\nومنه قولهم أصاب الأرض حُسبان، أي جراد. وفُسِّرَ قوله تعالى: ] وَ يُرْسِلَ عَلَيْهَا حُسْبَاناً مِنَ السَّمَاء [ [الكهف 40]، بالبَرَد.\n\nوالأصل الرابع: الأحسب الذي ابيضَّت جِلدتُه من داءٍ ففسدت شَعرته، كأنَّه أبرص. قال:\n\nعليه عقيقتُه أحْسَبا\n\nيا هِنْدُ لا تَنْكحي بُوهَةً\n\nوقد يتّفق في أصول الأبواب هذا التفاوتُ الذي تراه في هذه الأصول الأربعة.\n\n(حسد) الحاء والسين والدال أصلٌ واحد، وهو الحَسَد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحسد - حسر\n\nومن هذا الأصل الحُسبْان: سهامٌ صغار يُرْمى بها عن القسيِّ الفارسية، الواحدة حُسبانة. وإنما فرق بينهما لصِغَر هذه و[كبر] تلك.\n\nومنه قولهم أصاب الأرض حُسبان، أي جراد. وفُسِّرَ قوله تعالى: ] وَ يُرْسِلَ عَلَيْهَا حُسْبَاناً مِنَ السَّمَاء [ [الكهف 40]، بالبَرَد.\n\nوالأصل الرابع: الأحسب الذي ابيضَّت جِلدتُه من داءٍ ففسدت شَعرته، كأنَّه أبرص. قال:\n\nعليه عقيقتُه أحْسَبا\n\nيا هِنْدُ لا تَنْكحي بُوهَةً\n\nوقد يتّفق في أصول الأبواب هذا التفاوتُ الذي تراه في هذه الأصول الأربعة.\n\n(حسد) الحاء والسين والدال أصلٌ واحد، وهو الحَسَد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–s–d to peel off, to scrape off; to envy, to grudge. Of this\nroot, three forms occur five times in the Qurʾan: حَسَدَ ḥasada three\ntimes; حَسَد ḥasad once and حَاسِد ḥāsid once.\n\nحَسَدَ ḥasada u [v. trans.] to envy (4:54) أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ\nاللَّهُ مِن فَضْلِهِ do they envy [other] people for the bounty God has\ngranted them?\n\nحَسَد ḥasad [v. n.] the act of envying (2:109) وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ\nلَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِمْ many of the People of\nthe Book wish they could revert you to disbelief after you have\nbelieved, out of their own envy.\n\nحَاسِد ḥāsid [act. part.] one who envies, one who harms with\nenvy (113:5) وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ and from the evil of the envier\nwhen he envies.",
+      "definition_english": "h–s–d to peel off, to scrape off; to envy, to grudge. Of this\nroot, three forms occur five times in the Qurʾan: حَسَدَ ḥasada three\ntimes; حَسَد ḥasad once and حَاسِد ḥāsid once.\n\nحَسَدَ ḥasada u [v. trans.] to envy (4:54) أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ\nاللَّهُ مِن فَضْلِهِ do they envy [other] people for the bounty God has\ngranted them?\n\nحَسَد ḥasad [v. n.] the act of envying (2:109) وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ\nلَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِمْ many of the People of\nthe Book wish they could revert you to disbelief after you have\nbelieved, out of their own envy.\n\nحَاسِد ḥāsid [act. part.] one who envies, one who harms with\nenvy (113:5) وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ and from the evil of the envier\nwhen he envies."
+    }
+  ],
   "occurrences": [
     "113:5:3",
     "113:5:5",

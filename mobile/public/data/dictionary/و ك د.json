@@ -1,9 +1,17 @@
 {
-  "id": 4497,
   "root": "و ك د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوقف\n\n(وكد) الواو والكاف والدال: كلمةٌ تدلُّ على شَدٍّ وإحكام. وأوكِدْ عَقْدَكَ ، أي شُدّه. والوِكاد : حبل تُشَدُّ به البقرة عند الحَلْب. ويقولون: وَكَدَ وَكْدَهُ، إذا أمَّه وعُنِيَ به.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوقف\n\n(وكد) الواو والكاف والدال: كلمةٌ تدلُّ على شَدٍّ وإحكام. وأوكِدْ عَقْدَكَ ، أي شُدّه. والوِكاد : حبل تُشَدُّ به البقرة عند الحَلْب. ويقولون: وَكَدَ وَكْدَهُ، إذا أمَّه وعُنِيَ به.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "و/ك/د w–k–d saddle straps, leather belt; intention; to tighten up; to be\non target, to give support. Of this root, تَوْكِيد tawkīd, occurs once in\nthe Qur’an.\n\nتَوْكِيد tawkīd [v. n.] solemnising, ratifying, endorsing (16:91) وَلَا\nتَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا do not break oaths after their being\nsolemnised.",
+      "definition_english": "و/ك/د w–k–d saddle straps, leather belt; intention; to tighten up; to be\non target, to give support. Of this root, تَوْكِيد tawkīd, occurs once in\nthe Qur’an.\n\nتَوْكِيد tawkīd [v. n.] solemnising, ratifying, endorsing (16:91) وَلَا\nتَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا do not break oaths after their being\nsolemnised."
+    }
+  ],
   "occurrences": [
     "16:91:10"
   ]

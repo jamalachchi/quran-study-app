@@ -1,9 +1,17 @@
 {
-  "id": 2026,
   "root": "ش ه و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشهو - شهب\n\nوهو قولـه صلى الله عليه وآله وسلم: \"لا شِناق\"، أي لا يُؤخذ في الشَّنَق فَريضة حتى تتمّ.\n\nومن الباب اللحم المشَنَّق، وهو المشَرَّح المقطَّع طُولاً. قال الأمويّ: يقال للعجين الذي يُقطَّع ويعمل بالزيت * : مشَنّق. ولا يكون ذلك إلا وفيه طول.\n\n(باب الشين والهاء وما يثلثهما)\n\n(شهو) الشين والهاء والحرف المعتل كلمة واحدة، وهي الشّهوة. يقال: رجلٌ شَهْوانُ، وشيءٌ شَهِيّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشهو - شهب\n\nوهو قولـه صلى الله عليه وآله وسلم: \"لا شِناق\"، أي لا يُؤخذ في الشَّنَق فَريضة حتى تتمّ.\n\nومن الباب اللحم المشَنَّق، وهو المشَرَّح المقطَّع طُولاً. قال الأمويّ: يقال للعجين الذي يُقطَّع ويعمل بالزيت * : مشَنّق. ولا يكون ذلك إلا وفيه طول.\n\n(باب الشين والهاء وما يثلثهما)\n\n(شهو) الشين والهاء والحرف المعتل كلمة واحدة، وهي الشّهوة. يقال: رجلٌ شَهْوانُ، وشيءٌ شَهِيّ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–h–w to desire, to long for, to lust after; to resemble. Of this\nroot, three forms occur 13 times in the Qurʾan: ٱشْتَهَى ʾishtahā\neight times; شَهْوَة shahwatun twice and شَهَوَات shahawāt three\ntimes.\n\nٱشْتَهَى ʾishtahā [v. VIII, intrans.] to desire, to crave, to covet, to\nlong for (43:71) وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ in it is all that souls\ndesire and eyes delight in.\n\nشَهْوَة shahwatun I [n., pl. شَهَوَات shahawāt] desire, lust, carnal\nappetite (3:14) زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ\nالذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ made fair for humankind is\nthe love of desirable things—women (or, made fair to human\nbeings is the lusting after), children, tons upon tons of gold and\nsilver, horses with fine markings, livestock and farmland II [v. n.\nused adverbially] lusting after (7:81) إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ\nالنِّسَاءِ you go lusting after men rather than women!\n\n502",
+      "definition_english": "sh–h–w to desire, to long for, to lust after; to resemble. Of this\nroot, three forms occur 13 times in the Qurʾan: ٱشْتَهَى ʾishtahā\neight times; شَهْوَة shahwatun twice and شَهَوَات shahawāt three\ntimes.\n\nٱشْتَهَى ʾishtahā [v. VIII, intrans.] to desire, to crave, to covet, to\nlong for (43:71) وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ in it is all that souls\ndesire and eyes delight in.\n\nشَهْوَة shahwatun I [n., pl. شَهَوَات shahawāt] desire, lust, carnal\nappetite (3:14) زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ\nالذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ made fair for humankind is\nthe love of desirable things—women (or, made fair to human\nbeings is the lusting after), children, tons upon tons of gold and\nsilver, horses with fine markings, livestock and farmland II [v. n.\nused adverbially] lusting after (7:81) إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ\nالنِّسَاءِ you go lusting after men rather than women!\n\n502"
+    }
+  ],
   "occurrences": [
     "16:57:7",
     "19:59:8",

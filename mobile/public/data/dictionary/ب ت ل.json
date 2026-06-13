@@ -1,9 +1,22 @@
 {
-  "id": 208,
   "root": "ب ت ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبه - ببّ\n\n(بتل) الباء والتاء واللام أصلٌ واحد، يدلُّ على إبانةِ الشيء من غيره. يقال بتَلْتُ الشيءَ، إذا أبَنْتَهُ من غيره. ويقال طلّقها بَتَّةً بَتْلَةً. ومنه يقال لمريمَ العذراء \"البَتُول\" لأنها انفردت فلم يكن لها زوج. ويقال نخلةٌ مُبْتِلٌ، إذا انفردت عنها الصغيرة النابتةُ معها. قال الهذليُّ :",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبه - ببّ\n\n(بتل) الباء والتاء واللام أصلٌ واحد، يدلُّ على إبانةِ الشيء من غيره. يقال بتَلْتُ الشيءَ، إذا أبَنْتَهُ من غيره. ويقال طلّقها بَتَّةً بَتْلَةً. ومنه يقال لمريمَ العذراء \"البَتُول\" لأنها انفردت فلم يكن لها زوج. ويقال نخلةٌ مُبْتِلٌ، إذا انفردت عنها الصغيرة النابتةُ معها. قال الهذليُّ :",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "بِئْسَ biʾsa [inconjugable verb of abuse (فعل ذم جامد) as it is\nlabelled by Arab grammarians (see نِعْمَ niʿma) used\ninterjectionally] ‘what a terrible thing!’, ‘what an evil thing!’,\n‘how calamitous!’ (5:79) بِئْسَ مَا كَانُوا يَفْعَلُونَ how vile is what they\nused to do!\n\nبِئْسَمَا biʾsamā [a compound of بِئْسَ biʾsa and relative مَا mā\ncarrying with it more exclamation] ‘how absolutely terrible!’,\n‘how absolutely devilish!’, ‘how absolutely calamitous!’ (7:150)\nبِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي what a foul thing you have put in my place\nafter my departure!",
+      "definition_english": "بِئْسَ biʾsa [inconjugable verb of abuse (فعل ذم جامد) as it is\nlabelled by Arab grammarians (see نِعْمَ niʿma) used\ninterjectionally] ‘what a terrible thing!’, ‘what an evil thing!’,\n‘how calamitous!’ (5:79) بِئْسَ مَا كَانُوا يَفْعَلُونَ how vile is what they\nused to do!\n\nبِئْسَمَا biʾsamā [a compound of بِئْسَ biʾsa and relative مَا mā\ncarrying with it more exclamation] ‘how absolutely terrible!’,\n‘how absolutely devilish!’, ‘how absolutely calamitous!’ (7:150)\nبِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي what a foul thing you have put in my place\nafter my departure!"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–t–l to cut off, to separate, to stay away from others; to give\nup pleasures; to be celibate. Of this root, two forms occur once\neach in the Qurʾan: تَبَتَّل tabattal and تَبْتِيل tabtīl.\n\nتَبَتَّل tabattal [imperat. of v. V تَبَتَّلَ tabattala, intrans. with prep.\nإلى, v. n. تَبْتِيل tabtīl] to devote oneself entirely [to God’s service]\n\n76",
+      "definition_english": "b–t–l to cut off, to separate, to stay away from others; to give\nup pleasures; to be celibate. Of this root, two forms occur once\neach in the Qurʾan: تَبَتَّل tabattal and تَبْتِيل tabtīl.\n\nتَبَتَّل tabattal [imperat. of v. V تَبَتَّلَ tabattala, intrans. with prep.\nإلى, v. n. تَبْتِيل tabtīl] to devote oneself entirely [to God’s service]\n\n76"
+    }
+  ],
   "occurrences": [
     "73:8:4",
     "73:8:6"

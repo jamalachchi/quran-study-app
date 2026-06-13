@@ -1,9 +1,17 @@
 {
-  "id": 1773,
   "root": "س ف ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسعر\n\n(سفن) السين والفاء والنون أصلٌ واحد يدلُّ على تنحية الشيء عن وجه",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسعر\n\n(سفن) السين والفاء والنون أصلٌ واحد يدلُّ على تنحية الشيء عن وجه",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–f–n to peel off, to bare; ship, ark, boat. Of this root, only سفينة safīnatun occurs four times in the Qurʾan.\nسفينة safīnatun [n.; pl. سفن sufun] ship, boat, ark (29:15) فأنجيناه وأصحاب السفينة so We saved him and those [with him] on the Ark.",
+      "definition_english": "s–f–n to peel off, to bare; ship, ark, boat. Of this root, only سفينة safīnatun occurs four times in the Qurʾan.\nسفينة safīnatun [n.; pl. سفن sufun] ship, boat, ark (29:15) فأنجيناه وأصحاب السفينة so We saved him and those [with him] on the Ark."
+    }
+  ],
   "occurrences": [
     "18:71:6",
     "18:79:16",

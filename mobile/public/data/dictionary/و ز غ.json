@@ -1,8 +1,11 @@
 {
-  "id": 4398,
   "root": "و ز غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوري - ورب\n\n(وزغ) الواو والزاء والغين، ليس فيه إلاّ الوزَغَة : العَظَاية. ويقال للرِّجال الضِّعاف أوزاغ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوري - ورب\n\n(وزغ) الواو والزاء والغين، ليس فيه إلاّ الوزَغَة : العَظَاية. ويقال للرِّجال الضِّعاف أوزاغ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

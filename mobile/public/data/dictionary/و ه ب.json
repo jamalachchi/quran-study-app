@@ -1,9 +1,17 @@
 {
-  "id": 4524,
   "root": "و ه ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهب) الواو والهاء والباء: كلماتٌ لا ينقاس بعضُها على بعض. تقول: وهَبْتُ الشَّيءَ أهَبُهُ هِبَةً ومَوْهِباً. واتَّهَبْتُ الهبة: قَبِلتُها. والمَوْهِبَة : قَلْتٌ يَسْتنقِعُ فيه الماء؛ والجمع مَواهب. ويقال أوْهَبَ إليَّ من المال كذا، أي ارتفع. وأصبح فلانٌ مُوهَباً لكذا، أي مُعَدَّا له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهب) الواو والهاء والباء: كلماتٌ لا ينقاس بعضُها على بعض. تقول: وهَبْتُ الشَّيءَ أهَبُهُ هِبَةً ومَوْهِباً. واتَّهَبْتُ الهبة: قَبِلتُها. والمَوْهِبَة : قَلْتٌ يَسْتنقِعُ فيه الماء؛ والجمع مَواهب. ويقال أوْهَبَ إليَّ من المال كذا، أي ارتفع. وأصبح فلانٌ مُوهَباً لكذا، أي مُعَدَّا له.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "و/ه/ب w–h–b gift, donation, to give freely, to bestow; to last; to\npossess; small stream. Of this root, two forms occur 25 times in\nthe Qur’an: وَهَب wahaba 22 times and وَهَّاب waḥḥāb three times.\n\nوَهَب wahaba a [v. trans.] to grant, to give freely, to bestow\n(19:19) لِأَهَبَ لَكِ غُلَامًا زَكِيًّا to grant you a pure boy.\n\nوَهَّاب waḥḥāb [intens. act. part.] one who is given to bestowing\nfavours *(3:8) الْوَهَّابُ [an attribute of God] the Ever-Giving.",
+      "definition_english": "و/ه/ب w–h–b gift, donation, to give freely, to bestow; to last; to\npossess; small stream. Of this root, two forms occur 25 times in\nthe Qur’an: وَهَب wahaba 22 times and وَهَّاب waḥḥāb three times.\n\nوَهَب wahaba a [v. trans.] to grant, to give freely, to bestow\n(19:19) لِأَهَبَ لَكِ غُلَامًا زَكِيًّا to grant you a pure boy.\n\nوَهَّاب waḥḥāb [intens. act. part.] one who is given to bestowing\nfavours *(3:8) الْوَهَّابُ [an attribute of God] the Ever-Giving."
+    }
+  ],
   "occurrences": [
     "14:39:4",
     "19:19:6",

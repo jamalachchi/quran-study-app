@@ -1,9 +1,17 @@
 {
-  "id": 3072,
   "root": "ق م ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقلع\n\n(قمح) القاف والميم والحاء أُصَيلٌ يدلُّ على صفةٍ تكون عند شُرب الماء من الشَّارب، وهو رَفْعُهُ رأسَه. من ذلك القامح، وهو الرَّافع رأسَه من الإبل عند الشُّرب امتناعاً منه. وإبلٌ قِماح. قال:\n\nنَغضُّ الطَّرفَ كالإبلِ القِمَاحِ\n\nونحنُ على جوانبِها قُعودٌ\n\nويقولون: رَوِيَتْ حَتَّى انقَمَحَتْ، أي تركت الشُّرب رِيَّاً. وشَهْرا قُِمَاحٍ:\n\nأشدُّ ما يكون من البَرْدِ، وسمِّيا بذلك لأنَّ الإبلَ إذا وردت آذاها بَردُ الماء فقَامَحَتْ، أي رفَعَتْ رؤوسَها.\n\nومما شذَّ عن هذا الأصل القَمْح، وهو البُرّ. ويقولون ولعله أن يكون\n\nقمد قمر\n\nصحيحاً: اقتَمَحْتُ السَّويقَ وقَمَحْتُه، إذا ألقيتَه في فمك براحَتِك. قال ابن دريد : القُمْحة من الماء: ما ملأَ فاكَ منه. والقُمَّحات: الوَرْس، أو الزَّعفران، أو الذَّرِيرة، كلُّ ذلك يُقال.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقلع\n\n(قمح) القاف والميم والحاء أُصَيلٌ يدلُّ على صفةٍ تكون عند شُرب الماء من الشَّارب، وهو رَفْعُهُ رأسَه. من ذلك القامح، وهو الرَّافع رأسَه من الإبل عند الشُّرب امتناعاً منه. وإبلٌ قِماح. قال:\n\nنَغضُّ الطَّرفَ كالإبلِ القِمَاحِ\n\nونحنُ على جوانبِها قُعودٌ\n\nويقولون: رَوِيَتْ حَتَّى انقَمَحَتْ، أي تركت الشُّرب رِيَّاً. وشَهْرا قُِمَاحٍ:\n\nأشدُّ ما يكون من البَرْدِ، وسمِّيا بذلك لأنَّ الإبلَ إذا وردت آذاها بَردُ الماء فقَامَحَتْ، أي رفَعَتْ رؤوسَها.\n\nومما شذَّ عن هذا الأصل القَمْح، وهو البُرّ. ويقولون ولعله أن يكون\n\nقمد قمر\n\nصحيحاً: اقتَمَحْتُ السَّويقَ وقَمَحْتُه، إذا ألقيتَه في فمك براحَتِك. قال ابن دريد : القُمْحة من الماء: ما ملأَ فاكَ منه. والقُمَّحات: الوَرْس، أو الزَّعفران، أو الذَّرِيرة، كلُّ ذلك يُقال.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–m–ḥ to twist the neck; to be humbled, debased or forced into\nsubmission; (said of animals) to refuse to drink, to drink one’s\nfill. Of this root, مُقْمَحُون muqmaḥūn occurs once in the Qur’an.\n\nمُقْمَحُون muqmaḥūn [pl. of pass. part. مُقْمَح muqmaḥ] those who\nraise the head in refusal of what is being offered, shun assistance,\nshun guidance; ones who cannot see (36:8) إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا\nفَهِيَ إِلَى الْأَذْقَانِ فَهُمْ مُقْمَحُونَ We have placed fetters on their necks, right\nup to their chins, so they have their heads forced up.",
+      "definition_english": "q–m–ḥ to twist the neck; to be humbled, debased or forced into\nsubmission; (said of animals) to refuse to drink, to drink one’s\nfill. Of this root, مُقْمَحُون muqmaḥūn occurs once in the Qur’an.\n\nمُقْمَحُون muqmaḥūn [pl. of pass. part. مُقْمَح muqmaḥ] those who\nraise the head in refusal of what is being offered, shun assistance,\nshun guidance; ones who cannot see (36:8) إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا\nفَهِيَ إِلَى الْأَذْقَانِ فَهُمْ مُقْمَحُونَ We have placed fetters on their necks, right\nup to their chins, so they have their heads forced up."
+    }
+  ],
   "occurrences": [
     "36:8:10"
   ]

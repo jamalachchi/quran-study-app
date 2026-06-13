@@ -1,8 +1,11 @@
 {
-  "id": 819,
   "root": "ح ف ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحفي\n\n(حفت) الحاء والفاء والتاء ليس أصلاً، والكلام فيه يقِلُّ. فالحَفَيْتَأ: الرجل القصير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحفي\n\n(حفت) الحاء والفاء والتاء ليس أصلاً، والكلام فيه يقِلُّ. فالحَفَيْتَأ: الرجل القصير.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

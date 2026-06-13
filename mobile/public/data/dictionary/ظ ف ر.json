@@ -1,9 +1,17 @@
 {
-  "id": 2474,
   "root": "ظ ف ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الظاء\n\nظعن - ظفر\n\n(ظفر) الظاء والفاء والراء أصلان صحيحان، يدلُّ أحدُهما على القَهر والفَوز والغَلَبة، والآخر على قُوَّةٍ في الشيءِ. ولعلَّ الأصلين يتقاربان في القياس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الظاء\n\nظعن - ظفر\n\n(ظفر) الظاء والفاء والراء أصلان صحيحان، يدلُّ أحدُهما على القَهر والفَوز والغَلَبة، والآخر على قُوَّةٍ في الشيءِ. ولعلَّ الأصلين يتقاربان في القياس.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ẓ-f-r fingernails, toenails, claws, talons; to capture; victory, triumph, to succeed, to win. Of this root, two forms occur once in the Qurʾan: أَظْفَرَ ʾaẓfara and ظُفْر ẓufr.\nأَظْفَرَ ʾaẓfara [v. IV, trans.] to cause to be victorious (48:24) مِن بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ after He had made you victors over them.\n\nظُفْر ẓufr [n., coll. n.] fingernail, toenail, claw, talon (6:146) وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا كُلَّ ذِي ظُفُرٍ and to those who followed the Jewish faith We forbade all [animals] that have claws.",
+      "definition_english": "ẓ-f-r fingernails, toenails, claws, talons; to capture; victory, triumph, to succeed, to win. Of this root, two forms occur once in the Qurʾan: أَظْفَرَ ʾaẓfara and ظُفْر ẓufr.\nأَظْفَرَ ʾaẓfara [v. IV, trans.] to cause to be victorious (48:24) مِن بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ after He had made you victors over them.\n\nظُفْر ẓufr [n., coll. n.] fingernail, toenail, claw, talon (6:146) وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا كُلَّ ذِي ظُفُرٍ and to those who followed the Jewish faith We forbade all [animals] that have claws."
+    }
+  ],
   "occurrences": [
     "48:24:13",
     "6:146:7"

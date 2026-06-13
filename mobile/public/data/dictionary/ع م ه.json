@@ -1,9 +1,17 @@
 {
-  "id": 2555,
   "root": "ع م ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعلك\n\n(عمه) العين والميم والهاء أصلٌ صحيح واحد، يدلُّ على حَيرة وقِلّة اهتداء. قال الخليل: عَمِهَ الرّجل يَعْمَهُ عَمَهاً، وذلك إذا تردَّد لا يدرِي أين يتوجَّه. قال الله: ] وَيَذَرُهُم فِي طُغْيَانِهِمْ يَعْمَهُونَ [ [الأعراف 186]. قال يعقوب: ذهبت إبله العُمَّيْهَى ، مشدّدة الميم، إذا لم يدْر أين ذهبت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعلك\n\n(عمه) العين والميم والهاء أصلٌ صحيح واحد، يدلُّ على حَيرة وقِلّة اهتداء. قال الخليل: عَمِهَ الرّجل يَعْمَهُ عَمَهاً، وذلك إذا تردَّد لا يدرِي أين يتوجَّه. قال الله: ] وَيَذَرُهُم فِي طُغْيَانِهِمْ يَعْمَهُونَ [ [الأعراف 186]. قال يعقوب: ذهبت إبله العُمَّيْهَى ، مشدّدة الميم، إذا لم يدْر أين ذهبت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–m–h perplexity, confusion, to be perplexed, to be puzzled.\nOf this root, only يَعْمَهُونَ yaʿmahūn occurs seven times in the\nQur’an.\n\nيَعْمَهُونَ yaʿmahūn [imperf. of intrans. v. عَمِهَ ʿamiha] 1 to\nwander about blindly, to be confused (15:72) إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ\nthey wander on in their delirium 2 to flounder (6:110) كَمَا لَمْ\nيُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ just as they did\nnot believe in it the first time, We will make their hearts and their\neyes waver, and leave them to flounder in their obstinacy.",
+      "definition_english": "ʿ–m–h perplexity, confusion, to be perplexed, to be puzzled.\nOf this root, only يَعْمَهُونَ yaʿmahūn occurs seven times in the\nQur’an.\n\nيَعْمَهُونَ yaʿmahūn [imperf. of intrans. v. عَمِهَ ʿamiha] 1 to\nwander about blindly, to be confused (15:72) إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ\nthey wander on in their delirium 2 to flounder (6:110) كَمَا لَمْ\nيُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ just as they did\nnot believe in it the first time, We will make their hearts and their\neyes waver, and leave them to flounder in their obstinacy."
+    }
+  ],
   "occurrences": [
     "10:11:18",
     "15:72:5",

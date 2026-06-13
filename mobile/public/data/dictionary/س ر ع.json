@@ -1,9 +1,17 @@
 {
-  "id": 1929,
   "root": "س ر ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسخب - سخت\n\n(سرع) السين والراء والعين أصل صحيح يدلُّ على خلاف البطء. فالسَّريع: خلاف البطيء. وسَرْعَان النَّاس: أوائِلهم الذين يتقدمون سِراعاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسخب - سخت\n\n(سرع) السين والراء والعين أصل صحيح يدلُّ على خلاف البطء. فالسَّريع: خلاف البطيء. وسَرْعَان النَّاس: أوائِلهم الذين يتقدمون سِراعاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-r-ʿ speed, to hasten, fast, quick. Of this root, four forms occur 23 times in the Qur’an: يُسارِع yusāriʿ nine times; سَرِيع sarīʿ 10 times; سِراعًا sirāʿan twice and أَسْرَع ʾasraʿ twice.\nيُسارِع yusāriʿ [imperf. of v. III, intrans. with prep. في] to hasten, to speed up (23:56) نُسارِعُ لَهُمْ فِي الْخَيْراتِ We hasten to them the good things.\n\nسَرِيع sarīʿ [quasi-act. part.] swift, prompt (13:41) وَهُوَ سَرِيعُ الْحِسابِ and He is swift at reckoning.\n\nسِراعًا sirāʿan [pl. of quasi-act. part. سَرِيع sarīʿ, used adverbially] in haste (70:43) يَوْمَ يَخْرُجُونَ مِنَ الْأَجْداثِ سِراعًا on the Day they emerge from the graves in haste.\n\nأَسْرَع ʾasraʿ [elat.] swifter/swiftest (6:62) وَهُوَ أَسْرَعُ الْحاسِبِينَ and He is the swiftest of all reckoners.",
+      "definition_english": "s-r-ʿ speed, to hasten, fast, quick. Of this root, four forms occur 23 times in the Qur’an: يُسارِع yusāriʿ nine times; سَرِيع sarīʿ 10 times; سِراعًا sirāʿan twice and أَسْرَع ʾasraʿ twice.\nيُسارِع yusāriʿ [imperf. of v. III, intrans. with prep. في] to hasten, to speed up (23:56) نُسارِعُ لَهُمْ فِي الْخَيْراتِ We hasten to them the good things.\n\nسَرِيع sarīʿ [quasi-act. part.] swift, prompt (13:41) وَهُوَ سَرِيعُ الْحِسابِ and He is swift at reckoning.\n\nسِراعًا sirāʿan [pl. of quasi-act. part. سَرِيع sarīʿ, used adverbially] in haste (70:43) يَوْمَ يَخْرُجُونَ مِنَ الْأَجْداثِ سِراعًا on the Day they emerge from the graves in haste.\n\nأَسْرَع ʾasraʿ [elat.] swifter/swiftest (6:62) وَهُوَ أَسْرَعُ الْحاسِبِينَ and He is the swiftest of all reckoners."
+    }
+  ],
   "occurrences": [
     "10:21:16",
     "13:41:15",

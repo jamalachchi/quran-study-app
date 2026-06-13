@@ -1,8 +1,11 @@
 {
-  "id": 3282,
   "root": "ك م ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كمز) الكاف والميم والزاء ليس بشيء. ويقولون: الكُمْزة: الكُتْلة من التَّمر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كمز) الكاف والميم والزاء ليس بشيء. ويقولون: الكُمْزة: الكُتْلة من التَّمر.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

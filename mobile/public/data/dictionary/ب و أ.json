@@ -1,8 +1,16 @@
 {
-  "id": 362,
   "root": "ب و أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبهن - بوأ\n\n(بوأ) الباء والواو والهمزة أصلان: أحدُهما الرُّجوع إلى الشيءِ، والآخر تساوِي الشّيئين.\n\nفالأوّل الباءَة والمباءَة، وهي مَنزلة القوم، حيثُ يتبوّؤُون في قُبُلِ وادٍ [أ]و سَنَدِ جبل. ويقال قد تبوَّؤوا، وبوّأهم اللهُ تعالى مَنْزِلَ صِدْق. قال طرفة:\n\nسُبُلٌ إنْ شِئْتَ في وَحْشٍ وَعِرْ\n\nطيّبُو البَاءةِ سهلٌ ولَهُمْ\n\nوقال ابن هَرْمَة:\n\nفتَمَّ في قومِها مُبَوَّؤُها\n\nوبُوِّئَتْ في صَمِيم مَعْشَرِها\n\nوالمَبَاءة أيضاً: منْزِل الإبل حيثُ تُناخُ في الموارد. يقال أبَأْنَا الإبِلَ نُبِيئُهَا إباءةً -ممدودة- إذا أنختَ بعضها إلى بعض. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبهن - بوأ\n\n(بوأ) الباء والواو والهمزة أصلان: أحدُهما الرُّجوع إلى الشيءِ، والآخر تساوِي الشّيئين.\n\nفالأوّل الباءَة والمباءَة، وهي مَنزلة القوم، حيثُ يتبوّؤُون في قُبُلِ وادٍ [أ]و سَنَدِ جبل. ويقال قد تبوَّؤوا، وبوّأهم اللهُ تعالى مَنْزِلَ صِدْق. قال طرفة:\n\nسُبُلٌ إنْ شِئْتَ في وَحْشٍ وَعِرْ\n\nطيّبُو البَاءةِ سهلٌ ولَهُمْ\n\nوقال ابن هَرْمَة:\n\nفتَمَّ في قومِها مُبَوَّؤُها\n\nوبُوِّئَتْ في صَمِيم مَعْشَرِها\n\nوالمَبَاءة أيضاً: منْزِل الإبل حيثُ تُناخُ في الموارد. يقال أبَأْنَا الإبِلَ نُبِيئُهَا إباءةً -ممدودة- إذا أنختَ بعضها إلى بعض. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–w–ʾ dwelling, home, abode, residence; to take up a place for settling in, to provide abode for others; to take a wife, marriage; to come back; to incur; to admit; situation; equality. Of this root, four forms occur 17 times in the Qur’an: بَاء bāʾa six times; بَوَّأَ bawwaʾa six times; تَبَوَّأَ tabawwaʾa four times and مُبَوَّأ mubawwaʾ once.\nبَاء bāʾa [v. intrans. with prep. ـ] to come back with; to incur,\n\n119",
+      "definition_english": "b–w–ʾ dwelling, home, abode, residence; to take up a place for settling in, to provide abode for others; to take a wife, marriage; to come back; to incur; to admit; situation; equality. Of this root, four forms occur 17 times in the Qur’an: بَاء bāʾa six times; بَوَّأَ bawwaʾa six times; تَبَوَّأَ tabawwaʾa four times and مُبَوَّأ mubawwaʾ once.\nبَاء bāʾa [v. intrans. with prep. ـ] to come back with; to incur,\n\n119"
+    }
+  ],
   "occurrences": []
 }

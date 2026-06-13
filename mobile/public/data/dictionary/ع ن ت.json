@@ -1,9 +1,17 @@
 {
-  "id": 2568,
   "root": "ع ن ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعنت\n\n*العِنَباء المتَنَقّى والتِّينْ *\n\nوربَّما جمعوا العنب على الأعناب. ويقال رجل عانِبٌ، أي كثير العنب، كما يقال تامرٌ ولابنٌ.\n\nوالكلمة الأخرى: العَنَبان، على وزن فَعَلان: الوَعِل الطَّويل القرون. قال:\n\n* يشدُّ شدّ العَنَبانِ البارِحِ *\n\nويقال للظَّبْي النَّشيط: العَنَبان، ولا يُبنَى منه فِعْل.\n\n(عنت) العين والنون والتاء أصلٌ صحيح يدلُّ على مَشَقّة وما أشبَهَ ذلك، ولا يدلُّ على صحّة ولا سهولة.\n\nقال الخليل: العَنَت: المشقّة تدخلُ على اللسان. تقول عَنِتَ فلان، أي لِقيَ عَنَتاً، يعني مشقّة. وأعْنَتَه فلانٌ إعناتاً، إذا أدخل عليه عَنَتاً. وتَعَنَّته تَعَنُّتاً، إذا سأله عن شيء أراد به اللَّبْسَ عليه والمشقّة.\n\nقال ابن دريد : العَنَت: العَسْف والحمل على المكروه. أعْنَتَه يُعْنته إعناتاً.\n\nويُحمَل على هذا ويقاسُ عليه ، فيقال للآثِم: عَنِت عَنَتاً، إذا اكتسب مأثماً. قال الفَرّاء في قولـه تعالى: ] ذلِكَ لِمَنْ خَشِيَ العَنَتَ مِنْكُمْ [",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعنت\n\n*العِنَباء المتَنَقّى والتِّينْ *\n\nوربَّما جمعوا العنب على الأعناب. ويقال رجل عانِبٌ، أي كثير العنب، كما يقال تامرٌ ولابنٌ.\n\nوالكلمة الأخرى: العَنَبان، على وزن فَعَلان: الوَعِل الطَّويل القرون. قال:\n\n* يشدُّ شدّ العَنَبانِ البارِحِ *\n\nويقال للظَّبْي النَّشيط: العَنَبان، ولا يُبنَى منه فِعْل.\n\n(عنت) العين والنون والتاء أصلٌ صحيح يدلُّ على مَشَقّة وما أشبَهَ ذلك، ولا يدلُّ على صحّة ولا سهولة.\n\nقال الخليل: العَنَت: المشقّة تدخلُ على اللسان. تقول عَنِتَ فلان، أي لِقيَ عَنَتاً، يعني مشقّة. وأعْنَتَه فلانٌ إعناتاً، إذا أدخل عليه عَنَتاً. وتَعَنَّته تَعَنُّتاً، إذا سأله عن شيء أراد به اللَّبْسَ عليه والمشقّة.\n\nقال ابن دريد : العَنَت: العَسْف والحمل على المكروه. أعْنَتَه يُعْنته إعناتاً.\n\nويُحمَل على هذا ويقاسُ عليه ، فيقال للآثِم: عَنِت عَنَتاً، إذا اكتسب مأثماً. قال الفَرّاء في قولـه تعالى: ] ذلِكَ لِمَنْ خَشِيَ العَنَتَ مِنْكُمْ [",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–n–t a mountain which is difficult to climb, hardship, to\ncause hardship; corruption, sinning; to be overbearing, to be\nfastidious, to be finicky. Of this root, three forms occur five times\nin the Qur’an: عَنِتُّم ʿanittum three times; أَعْنَتَكُمْ ʾaʿnatakum once\nand عَنَت ʿanat once.\n\nعَنِتَ ʿanita a [v. intrans.] to encounter great hardship\n(9:128) عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ distressing to him is your suffering.\n\nأَعْنَتَ ʾaʿnata [v. IV trans.] to cause to encounter great hardship\n(2:220) وَلَوْ شَاءَ اللَّهُ لَأَعْنَتَكُمْ had God so willed, He could have made\nyou suffer greatly.\n\nعَنَت ʿanat [v. n./n.] extreme hardship, sinning (4:25) ذَلِكَ لِمَنْ خَشِيَ\nالْعَنَتَ مِنْكُمْ this [licence] is for those of you who fear [that they\nmight otherwise fall into] the burden [of sinning].",
+      "definition_english": "ʿ–n–t a mountain which is difficult to climb, hardship, to\ncause hardship; corruption, sinning; to be overbearing, to be\nfastidious, to be finicky. Of this root, three forms occur five times\nin the Qur’an: عَنِتُّم ʿanittum three times; أَعْنَتَكُمْ ʾaʿnatakum once\nand عَنَت ʿanat once.\n\nعَنِتَ ʿanita a [v. intrans.] to encounter great hardship\n(9:128) عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ distressing to him is your suffering.\n\nأَعْنَتَ ʾaʿnata [v. IV trans.] to cause to encounter great hardship\n(2:220) وَلَوْ شَاءَ اللَّهُ لَأَعْنَتَكُمْ had God so willed, He could have made\nyou suffer greatly.\n\nعَنَت ʿanat [v. n./n.] extreme hardship, sinning (4:25) ذَلِكَ لِمَنْ خَشِيَ\nالْعَنَتَ مِنْكُمْ this [licence] is for those of you who fear [that they\nmight otherwise fall into] the burden [of sinning]."
+    }
+  ],
   "occurrences": [
     "2:220:22",
     "3:118:14",

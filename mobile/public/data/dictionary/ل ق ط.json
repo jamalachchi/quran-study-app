@@ -1,9 +1,17 @@
 {
-  "id": 3594,
   "root": "ل ق ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلقب - لقح\n\n(لقط) اللام والقاف والطاء أصلٌ صحيح يدلُّ على أخْذِ شيءٍ من الأرض قد رأيتَه بغتة ولم تُرِدْهُ، وقد يكون عن إرادةٍ وقصدٍ أيضاً. منه لَقطُ الحَصَى وما أشبهه واللُّقْطة: ما التقطه الإنسان من مالٍ ضائع. واللَّقِيط: المنبوذ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلقب - لقح\n\n(لقط) اللام والقاف والطاء أصلٌ صحيح يدلُّ على أخْذِ شيءٍ من الأرض قد رأيتَه بغتة ولم تُرِدْهُ، وقد يكون عن إرادةٍ وقصدٍ أيضاً. منه لَقطُ الحَصَى وما أشبهه واللُّقْطة: ما التقطه الإنسان من مالٍ ضائع. واللَّقِيط: المنبوذ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–q–ṭ to pick up from the ground, to collect, to glean; a find, a\nfoundling; windfalls. Of this root, الْتَقَط ʾiltaqaṭa occurs twice in\nthe Qur’an.\n\nالْتَقَطَ ʾiltaqaṭa [v. VIII trans.] to pick up, to take in (28:8) فَالْتَقَطَهُ\nآلُ فِرْعَوْنَ so the family of Pharaoh took him in\n[only for him] to become for them an enemy and a source of grief.",
+      "definition_english": "l–q–ṭ to pick up from the ground, to collect, to glean; a find, a\nfoundling; windfalls. Of this root, الْتَقَط ʾiltaqaṭa occurs twice in\nthe Qur’an.\n\nالْتَقَطَ ʾiltaqaṭa [v. VIII trans.] to pick up, to take in (28:8) فَالْتَقَطَهُ\nآلُ فِرْعَوْنَ so the family of Pharaoh took him in\n[only for him] to become for them an enemy and a source of grief."
+    }
+  ],
   "occurrences": [
     "12:10:11",
     "28:8:1"

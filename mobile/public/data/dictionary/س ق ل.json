@@ -1,8 +1,11 @@
 {
-  "id": 1781,
   "root": "س ق ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسفر\n\n(سقل) السين والقاف واللام ليس بأصل، لأنَّ السين فيه مبدلة عن صاد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسفر\n\n(سقل) السين والقاف واللام ليس بأصل، لأنَّ السين فيه مبدلة عن صاد.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

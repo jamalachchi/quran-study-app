@@ -1,9 +1,22 @@
 {
-  "id": 544,
   "root": "ث ب ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثبن - ثبي\n\n(ثبي) الثاء والباء والياء أصلٌ واحد، وهو الدَّوام على الشيء. قاله الخليل. وقال أيضاً: التَّثْبِيَة الدَّوام على الشيء، والتثبِية الثَّناءُ على الإنسان في حياته. وأنشَدَ لِلبيد:\n\nألا انعَمْ على حُسْن التحيّةِ واشربِ\n\nيُثَبِّي ثناءً مِنْ كريم وقولُه",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثبن - ثبي\n\n(ثبي) الثاء والباء والياء أصلٌ واحد، وهو الدَّوام على الشيء. قاله الخليل. وقال أيضاً: التَّثْبِيَة الدَّوام على الشيء، والتثبِية الثَّناءُ على الإنسان في حياته. وأنشَدَ لِلبيد:\n\nألا انعَمْ على حُسْن التحيّةِ واشربِ\n\nيُثَبِّي ثناءً مِنْ كريم وقولُه",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "141\nplaced.\n\nثَابِت thābit [act. part.] firmly rooted, steadfast, sure (14:27) يُثَبِّتُ\nاللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ God gives firmness to\nthose who believe, with the firmly-rooted word, in this life and in\nthe Hereafter [also interpreted as: God gives firmness to those\nwho believe in the firmly-rooted word, in this life and in the\nHereafter].\n\nتَثْبِيت tathbīt [v. n.] act of confirming, affirming, strengthening\n(2:265) وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاةِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ the\nlikeness of those who spend their wealth seeking God’s pleasure,\nand strengthening themselves [their souls].",
+      "definition_english": "141\nplaced.\n\nثَابِت thābit [act. part.] firmly rooted, steadfast, sure (14:27) يُثَبِّتُ\nاللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ God gives firmness to\nthose who believe, with the firmly-rooted word, in this life and in\nthe Hereafter [also interpreted as: God gives firmness to those\nwho believe in the firmly-rooted word, in this life and in the\nHereafter].\n\nتَثْبِيت tathbīt [v. n.] act of confirming, affirming, strengthening\n(2:265) وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاةِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ the\nlikeness of those who spend their wealth seeking God’s pleasure,\nand strengthening themselves [their souls]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–b–y a group of horse riders, to divide into groups; to be\nconstant; the centre of a water trough. Of this root, ثُبَات thubāt\n\n142                                                                 ث/ج/ج\n\noccurs once in the Qur’an.\n\nثُبَات thubāt [pl. of n. ثُبَة thubatun] separate groups each\nconsisting of a small number, small groups of horse riders or\nfighting men (4:71) يَاأَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا\nyou who believe, be on your guard, then march [to battle] in\nsmall groups or march all together.",
+      "definition_english": "th–b–y a group of horse riders, to divide into groups; to be\nconstant; the centre of a water trough. Of this root, ثُبَات thubāt\n\n142                                                                 ث/ج/ج\n\noccurs once in the Qur’an.\n\nثُبَات thubāt [pl. of n. ثُبَة thubatun] separate groups each\nconsisting of a small number, small groups of horse riders or\nfighting men (4:71) يَاأَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا\nyou who believe, be on your guard, then march [to battle] in\nsmall groups or march all together."
+    }
+  ],
   "occurrences": [
     "4:71:7"
   ]

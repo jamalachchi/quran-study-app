@@ -1,9 +1,17 @@
 {
-  "id": 2255,
   "root": "ص د ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصدق\n\n(صدي) الصاد والدال والحرف المعتل فيه كلمٌ متباعدةُ القياس، لا يكاد يلتقي منها كلمتانِ في أصل. فالصَّدَى: الذَّكَرُ من البُومِ، والجمع أصداء. قال:\n\nوما هم غيرَ أصداءٍ وهامِ\n\nفليس الناسُ بعدَكَ في نقيرِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصدق\n\n(صدي) الصاد والدال والحرف المعتل فيه كلمٌ متباعدةُ القياس، لا يكاد يلتقي منها كلمتانِ في أصل. فالصَّدَى: الذَّكَرُ من البُومِ، والجمع أصداء. قال:\n\nوما هم غيرَ أصداءٍ وهامِ\n\nفليس الناسُ بعدَكَ في نقيرِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–d–y intense thirst, to become thirsty; clapping of the hands, echo; to soothe, to coax; to endeavour; human corpse, skull. Of this root, two forms occur once each in the Qurʾan: تَصَدَّى taṣaddā and تَصْدِيَة taṣdiyatun.\nتَصَدَّى taṣaddā [imperf. of v. V (with the prefix ت elided), intrans.] to accost, to confront, to give full attention (80:5–6) أَمَّا مَنِ اسْتَغْنَى فَأَنتَ لَهُ تَصَدَّى as for the self-satisfied one (i.e., one who has no need [for God, for you [Prophet] or for the Truth]), you give full attention to him.\n\nتَصْدِيَة taṣdiyatan [v. n.] clapping of the hands (8:35) وَمَا كَانَ صَلَاتُهُمْ عِندَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً their prayer at the House is nothing but a whistling and a clapping of hands.",
+      "definition_english": "ṣ–d–y intense thirst, to become thirsty; clapping of the hands, echo; to soothe, to coax; to endeavour; human corpse, skull. Of this root, two forms occur once each in the Qurʾan: تَصَدَّى taṣaddā and تَصْدِيَة taṣdiyatun.\nتَصَدَّى taṣaddā [imperf. of v. V (with the prefix ت elided), intrans.] to accost, to confront, to give full attention (80:5–6) أَمَّا مَنِ اسْتَغْنَى فَأَنتَ لَهُ تَصَدَّى as for the self-satisfied one (i.e., one who has no need [for God, for you [Prophet] or for the Truth]), you give full attention to him.\n\nتَصْدِيَة taṣdiyatan [v. n.] clapping of the hands (8:35) وَمَا كَانَ صَلَاتُهُمْ عِندَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً their prayer at the House is nothing but a whistling and a clapping of hands."
+    }
+  ],
   "occurrences": [
     "80:6:3",
     "8:35:8"

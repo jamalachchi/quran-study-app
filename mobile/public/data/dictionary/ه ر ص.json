@@ -1,8 +1,11 @@
 {
-  "id": 4223,
   "root": "ه ر ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهرس - هرش\n\n(هرص) الهاء والراء والصاد ليس بشيء، إلا أنهم يقولون: الهَرِيصَة: مُستنقع الماء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهرس - هرش\n\n(هرص) الهاء والراء والصاد ليس بشيء، إلا أنهم يقولون: الهَرِيصَة: مُستنقع الماء.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

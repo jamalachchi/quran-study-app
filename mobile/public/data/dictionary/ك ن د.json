@@ -1,9 +1,22 @@
 {
-  "id": 3290,
   "root": "ك ن د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كند) الكاف والنون والدال أصل صحيحٌ واحد يدلُّ على القَطْع. يقال كَنَدَ الحبْلَ يكنُده كَنْداً. والكَنُود: الكفور للنِّعمة. وهو من الأوَّل، لأنَّه يكنُد الشكر، أي يقطعُه. ومن الباب: الأرضُ الكَنود، وهي التي لا تُنبِت. وقال الأعشى:\n\nوَصُولِ حِبالٍ وكنَّادِها\n\nأَمِيطِي تُمِيطي بصُلْبِ الفُؤادِ\n\nكنر كنز - كنس\n\nوسمِّي كِندةُ فيما زعموا لأنَّه كَنَد أباه، أي فارَقَه ولحِق بأخواله ورأَسَهُم فقال له أبوه: كَندْتَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كند) الكاف والنون والدال أصل صحيحٌ واحد يدلُّ على القَطْع. يقال كَنَدَ الحبْلَ يكنُده كَنْداً. والكَنُود: الكفور للنِّعمة. وهو من الأوَّل، لأنَّه يكنُد الشكر، أي يقطعُه. ومن الباب: الأرضُ الكَنود، وهي التي لا تُنبِت. وقال الأعشى:\n\nوَصُولِ حِبالٍ وكنَّادِها\n\nأَمِيطِي تُمِيطي بصُلْبِ الفُؤادِ\n\nكنر كنز - كنس\n\nوسمِّي كِندةُ فيما زعموا لأنَّه كَنَد أباه، أي فارَقَه ولحِق بأخواله ورأَسَهُم فقال له أبوه: كَندْتَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–n–d barren land, to deny assistance to others; to beat one’s\n821",
+      "definition_english": "k–n–d barren land, to deny assistance to others; to beat one’s\n821"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "servant; to be ungrateful. Of this root, كَنُود kanūd occurs once in\nthe Qur’an.\n\nكَنُود kanūd [quasi-intens. act. part.] most ungrateful, terrible\ningrate (100:6) إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ indeed, humankind is most\nungrateful to his Lord.",
+      "definition_english": "servant; to be ungrateful. Of this root, كَنُود kanūd occurs once in\nthe Qur’an.\n\nكَنُود kanūd [quasi-intens. act. part.] most ungrateful, terrible\ningrate (100:6) إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ indeed, humankind is most\nungrateful to his Lord."
+    }
+  ],
   "occurrences": [
     "100:6:4"
   ]

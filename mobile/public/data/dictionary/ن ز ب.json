@@ -1,8 +1,11 @@
 {
-  "id": 3984,
   "root": "ن ز ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنزل - نزه\n\n(نزب) النون والزاء والباء كلمةٌ. يقال: نَزَبَ الظَّبْيُ نَزِيباً، وهو صوتُه عند السِّفاد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنزل - نزه\n\n(نزب) النون والزاء والباء كلمةٌ. يقال: نَزَبَ الظَّبْيُ نَزِيباً، وهو صوتُه عند السِّفاد.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

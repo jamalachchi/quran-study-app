@@ -1,9 +1,17 @@
 {
-  "id": 1070,
   "root": "خ و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخوث\n\n(خور) الخاء والواو والراء أصلان: أحدهما يدلُّ على صوت، والآخَر على ضَعْف.\n\nفالأوّل قولُهم خار الثَّور يخور، وذلك صوتُه. قال الله تعالى: ] فَأَخْرَجَ لَهُمْ عِجْلاً جَسَداً لَهُ خُوَارٌ [ [طه 88].\n\nوأمّا الآخر فالخَوَّار: الضعيفُ مِن كلِّ شيء. يقال رُمْحٌ خوّارٌ، وأرضٌ خَوّارةٌ، وجمعه خُورٌ. قال الطِّرِمّاح:\n\nخوس - خوش - خوص\n\nإذا جعلَتْ خُور الرِّجال تَهِيعُ\n\nأنا ابنُ حماةِ المَجْد من آلِ مالك\n\nوأما قولهم للناقة العزِيزة خَوّارةٌ والجمع خُورٌ، فهو من الباب؛ لأنّها إذا لم تكن عَزُوزاً- والعَزُوز: الضيِّقة الإحليل، مشتقّة من الأرض العَزَاز- فهي حينئذ خَوّارةٌ، إذْ كانت الشّدَّة قد زايلَتْها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخوث\n\n(خور) الخاء والواو والراء أصلان: أحدهما يدلُّ على صوت، والآخَر على ضَعْف.\n\nفالأوّل قولُهم خار الثَّور يخور، وذلك صوتُه. قال الله تعالى: ] فَأَخْرَجَ لَهُمْ عِجْلاً جَسَداً لَهُ خُوَارٌ [ [طه 88].\n\nوأمّا الآخر فالخَوَّار: الضعيفُ مِن كلِّ شيء. يقال رُمْحٌ خوّارٌ، وأرضٌ خَوّارةٌ، وجمعه خُورٌ. قال الطِّرِمّاح:\n\nخوس - خوش - خوص\n\nإذا جعلَتْ خُور الرِّجال تَهِيعُ\n\nأنا ابنُ حماةِ المَجْد من آلِ مالك\n\nوأما قولهم للناقة العزِيزة خَوّارةٌ والجمع خُورٌ، فهو من الباب؛ لأنّها إذا لم تكن عَزُوزاً- والعَزُوز: الضيِّقة الإحليل، مشتقّة من الأرض العَزَاز- فهي حينئذ خَوّارةٌ، إذْ كانت الشّدَّة قد زايلَتْها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–w–r the lowing of an ox or a cow, to low, to moo;\nweakness, to weaken at the time of need, a coward; low land\nbetween high hills. Of this root, خُوَار khuwār occurs twice in the\nQur’an.\n\nخُوَار khuwār [n.] lowing, mooing (20:88) فأخرج لهم عجلا جسدا له خوار\nso he produced for them a calf, an effigy that produced a\nlowing sound.",
+      "definition_english": "kh–w–r the lowing of an ox or a cow, to low, to moo;\nweakness, to weaken at the time of need, a coward; low land\nbetween high hills. Of this root, خُوَار khuwār occurs twice in the\nQur’an.\n\nخُوَار khuwār [n.] lowing, mooing (20:88) فأخرج لهم عجلا جسدا له خوار\nso he produced for them a calf, an effigy that produced a\nlowing sound."
+    }
+  ],
   "occurrences": [
     "20:88:6",
     "7:148:11"

@@ -1,9 +1,22 @@
 {
-  "id": 4018,
   "root": "ن ص ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنصب - نصت\n\n(نصت) النون والصاد والتاء كلمةٌ واحدة تدلُّ على السُّكوت. وأنصَتَ لاستماعِ الحديث، ونَصَتَ يَنْصِت. وفي كتاب الله تعالى: ] وَأَنْصِتُوا [ [الأعراف 204].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنصب - نصت\n\n(نصت) النون والصاد والتاء كلمةٌ واحدة تدلُّ على السُّكوت. وأنصَتَ لاستماعِ الحديث، ونَصَتَ يَنْصِت. وفي كتاب الله تعالى: ] وَأَنْصِتُوا [ [الأعراف 204].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ن/ص/ب n–ṣ–b landmark; idol, altar; to erect, to set up a monument;\nto tire, to irritate; a trap, to trap; a base, a handle; part, share; in\nfront of, opposite. Of this root, eight forms occur 32 times in the\nQur’an: أَنْصَب ʾinṣab once; نُصِبَ nuṣiba once; نُصْب nuṣb once; نَصَب\nnaṣab four times; نُصُب nuṣub twice; أَنْصَاب ʾanṣāb once; نَصِيب\nnaṣīb 21 times and نَاصِبَة nāṣibatun once.\n\nأَنْصَب ʾinṣab [imper. of v. نَصَبَ naṣaba, intrans.] be laborious,\nexert yourself, be constant (94:7) فَإِذَا فَرَغْتَ فَانْصَبْ when you have\ncompleted [one task] toil [in another].\n\nنُصِبَ nuṣiba [pass. v.] to be installed, to be set up (88:19) وَإِلَى\nالْجِبَالِ كَيْفَ نُصِبَتْ and to the mountains [look and see] how they are\nerected.\n\nنُصْب nuṣb [v. n./n.] weariness (38:41) مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ\nSatan has afflicted me with weariness and suffering.\n\nنَصَب naṣab [v. n./n.] tiredness, fatigue, exhaustion (18:62) لَقَدْ\nلَقِينَا مِنْ سَفَرِنَا هَٰذَا نَصَبًا we have experienced, in this journeying of\nours, fatigue.\n\nنُصُب nuṣub [n., pl. أَنْصَاب ʾanṣāb, pl. of n. نُصْب naṣb or نِصَاب\nniṣāb] 1 idol (5:90) إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ\nالشَّيْطَانِ intoxicants, gambling, idols and divining arrows are\nabominations of the work of Satan 2 an altar-like stone upon\nwhich sacrifices were offered to idols in pre-Islamic Arabia (5:3)\nوَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ and that which has been\nsavaged by a beast of prey–save that which you [yourselves] have\nmanaged to slaughter while it was still alive–and anything\nsacrificed on idolatrous altars.\n\nنَصِيب naṣīb [n.] share, portion, part (4:7) وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ\nالْوَالِدَانِ وَالْأَقْرَبُونَ and to the women a share of what [their] parents\nand nearest kinfolk leave.\n\nنَاصِبَة nāṣibatun [fem. act. part.] one working hard, constant,\nconcerned, weary (88:3) عَامِلَةٌ نَاصِبَةٌ toiling, weary (or, constant).",
+      "definition_english": "ن/ص/ب n–ṣ–b landmark; idol, altar; to erect, to set up a monument;\nto tire, to irritate; a trap, to trap; a base, a handle; part, share; in\nfront of, opposite. Of this root, eight forms occur 32 times in the\nQur’an: أَنْصَب ʾinṣab once; نُصِبَ nuṣiba once; نُصْب nuṣb once; نَصَب\nnaṣab four times; نُصُب nuṣub twice; أَنْصَاب ʾanṣāb once; نَصِيب\nnaṣīb 21 times and نَاصِبَة nāṣibatun once.\n\nأَنْصَب ʾinṣab [imper. of v. نَصَبَ naṣaba, intrans.] be laborious,\nexert yourself, be constant (94:7) فَإِذَا فَرَغْتَ فَانْصَبْ when you have\ncompleted [one task] toil [in another].\n\nنُصِبَ nuṣiba [pass. v.] to be installed, to be set up (88:19) وَإِلَى\nالْجِبَالِ كَيْفَ نُصِبَتْ and to the mountains [look and see] how they are\nerected.\n\nنُصْب nuṣb [v. n./n.] weariness (38:41) مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ\nSatan has afflicted me with weariness and suffering.\n\nنَصَب naṣab [v. n./n.] tiredness, fatigue, exhaustion (18:62) لَقَدْ\nلَقِينَا مِنْ سَفَرِنَا هَٰذَا نَصَبًا we have experienced, in this journeying of\nours, fatigue.\n\nنُصُب nuṣub [n., pl. أَنْصَاب ʾanṣāb, pl. of n. نُصْب naṣb or نِصَاب\nniṣāb] 1 idol (5:90) إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ\nالشَّيْطَانِ intoxicants, gambling, idols and divining arrows are\nabominations of the work of Satan 2 an altar-like stone upon\nwhich sacrifices were offered to idols in pre-Islamic Arabia (5:3)\nوَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ and that which has been\nsavaged by a beast of prey–save that which you [yourselves] have\nmanaged to slaughter while it was still alive–and anything\nsacrificed on idolatrous altars.\n\nنَصِيب naṣīb [n.] share, portion, part (4:7) وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ\nالْوَالِدَانِ وَالْأَقْرَبُونَ and to the women a share of what [their] parents\nand nearest kinfolk leave.\n\nنَاصِبَة nāṣibatun [fem. act. part.] one working hard, constant,\nconcerned, weary (88:3) عَامِلَةٌ نَاصِبَةٌ toiling, weary (or, constant)."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ṣ–t to listen, to lend an ear to, to accept advice; to be silent,\nto silence. Of this root, أَنْصِت ʾanṣit, occurs twice in the Qur’an.\n\n942",
+      "definition_english": "n–ṣ–t to listen, to lend an ear to, to accept advice; to be silent,\nto silence. Of this root, أَنْصِت ʾanṣit, occurs twice in the Qur’an.\n\n942"
+    }
+  ],
   "occurrences": [
     "46:29:12",
     "7:204:6"

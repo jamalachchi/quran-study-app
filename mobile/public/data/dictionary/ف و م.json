@@ -1,9 +1,17 @@
 {
-  "id": 2919,
   "root": "ف و م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفوف - فوق\n\n(فوم) الفاء والواو والميم أصلٌ صحيحٌ مختلَفٌ في تفسيره، وهو، الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أي اخبزُوا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفوف - فوق\n\n(فوم) الفاء والواو والميم أصلٌ صحيحٌ مختلَفٌ في تفسيره، وهو، الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أي اخبزُوا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–w–m except for فَوَّم fawwama, to bake (bread), it is rare to\nfind any form of this root except فُوم fūm, the meaning of which is\ndisputed by philologists (see below for the various suggestions).\nفُوم fūm occurs once in the Qur’an.\n\nفُوم fūm [coll. n.] plants (in general), wheat, ears of corn,\nchickpeas, bread, grains in general (or most probably) garlic\n\n727\n\nفي\n\n(2:61) فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا\nوَبَصَلِهَا so call upon your Lord for us to bring out for us some of\nwhat the Earth produces—its herbs, its cucumbers, its garlic, its\nlentils and its onions.",
+      "definition_english": "f–w–m except for فَوَّم fawwama, to bake (bread), it is rare to\nfind any form of this root except فُوم fūm, the meaning of which is\ndisputed by philologists (see below for the various suggestions).\nفُوم fūm occurs once in the Qur’an.\n\nفُوم fūm [coll. n.] plants (in general), wheat, ears of corn,\nchickpeas, bread, grains in general (or most probably) garlic\n\n727\n\nفي\n\n(2:61) فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا\nوَبَصَلِهَا so call upon your Lord for us to bring out for us some of\nwhat the Earth produces—its herbs, its cucumbers, its garlic, its\nlentils and its onions."
+    }
+  ],
   "occurrences": [
     "2:61:20"
   ]

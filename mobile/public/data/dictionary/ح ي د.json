@@ -1,9 +1,22 @@
 {
-  "id": 893,
   "root": "ح ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حيد) الحاء والياء والدال أصلٌ واحد، وهو المَيْل والعُدول عن طريق الاستواء. يقال حادَ عن الشيء يَحِيدُ حَيْدَةً وحُيوداً. والحَيُودُ: الذي يَحِيد كثيراً، ومثله الحَيَدى على فَعَلى. قال الهذلي :\n\nحَزَابِيةٍ حَيَدَى بالدِّحالِ\n\nأو أصْحَمَ حامٍ جَرامِيزَهُ\n\nالحَيْد: النادر من الجَبَل، والجمع حُيُودٌ وأحياد. والحُيُود: حيود قَرْن الظَّبي، وهي العُقَد فيه، وكلُّ ذلك راجعٌ إلى أصل واحد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حيد) الحاء والياء والدال أصلٌ واحد، وهو المَيْل والعُدول عن طريق الاستواء. يقال حادَ عن الشيء يَحِيدُ حَيْدَةً وحُيوداً. والحَيُودُ: الذي يَحِيد كثيراً، ومثله الحَيَدى على فَعَلى. قال الهذلي :\n\nحَزَابِيةٍ حَيَدَى بالدِّحالِ\n\nأو أصْحَمَ حامٍ جَرامِيزَهُ\n\nالحَيْد: النادر من الجَبَل، والجمع حُيُودٌ وأحياد. والحُيُود: حيود قَرْن الظَّبي، وهي العُقَد فيه، وكلُّ ذلك راجعٌ إلى أصل واحد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "245\nتَحْوِيل taḥwīl [v. n.] deviating, turning away, shifting (35:43) فَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَحْوِيلًا you will never find any changing in God’s way and you will never find any deviating in God’s way.",
+      "definition_english": "245\nتَحْوِيل taḥwīl [v. n.] deviating, turning away, shifting (35:43) فَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَحْوِيلًا you will never find any changing in God’s way and you will never find any deviating in God’s way."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–d protrusions, to project; sides; to twist, to bend, to deviate from, to stray, to swerve, to avoid. Of this root, تَحِيد taḥīd occurs once in the Qur’an.\nتَحِيد taḥīd [imperf. of v. حَادَ ḥāda, intrans.] to swerve, to turn away, to avoid (50:19) وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَٰلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ the throes of death will bring the truth with them (or, they come in truth), ‘This is what you have been trying to evade.’\n\n246 ح/ي/ر",
+      "definition_english": "h–y–d protrusions, to project; sides; to twist, to bend, to deviate from, to stray, to swerve, to avoid. Of this root, تَحِيد taḥīd occurs once in the Qur’an.\nتَحِيد taḥīd [imperf. of v. حَادَ ḥāda, intrans.] to swerve, to turn away, to avoid (50:19) وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَٰلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ the throes of death will bring the truth with them (or, they come in truth), ‘This is what you have been trying to evade.’\n\n246 ح/ي/ر"
+    }
+  ],
   "occurrences": [
     "50:19:9"
   ]

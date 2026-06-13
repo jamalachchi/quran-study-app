@@ -1,9 +1,17 @@
 {
-  "id": 3927,
   "root": "ن ج د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنجخ - نجد\n\n(نجد) النون والجيم والدال أصلٌ واحدٌ يدلُّ على اعتلاءٍ وقوّة وإشراف. منه النَّجْد: الرجُل الشُّجاع. ونَجُدَ الرَّجُل يَنْجُد نَجْدَةً، إذا صار شُجاعاً. وهو نَجْد ونَجُدٌ وَنجِدٌ ونَجيد. والشَّجاعة نَجدةٌ. والمُناجِد: المُقاتِل. ولاقَى فلانٌ نَجدةً، أي شدَّة، أمراً عاكه . قال طَرَفة:\n\nيالقومِي للشَّبابِ المسبكِرّْ\n\nتَحسَبُ الطّرفَ عليها نَجدةً\n\nأن ينظر النّاظرُ إليها فتلحقُها لذلك شِدّة، كأنَّه أراد نَعْمةَ جِسمها ورِقّته.\n\nومن الباب النَّجَد: العرق. ونَجِد نَجَداً: عَرِقَ من عملٍ أو كرب. قال:\n\nبالخيزُرانةِ بعد الأينِ والنَّجَدِ\n\nيَظلُّ مِن خَوفِهِ الملاّحُ معتصِماً\n\nوربَّما قالوا في هذا: نُجِدَ فهو منجودٌ. قال:\n\nولقد كان عُصْرةَ المنجودِ\n\nصادياً يستغيثُ غيرَ مُغاثٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنجخ - نجد\n\n(نجد) النون والجيم والدال أصلٌ واحدٌ يدلُّ على اعتلاءٍ وقوّة وإشراف. منه النَّجْد: الرجُل الشُّجاع. ونَجُدَ الرَّجُل يَنْجُد نَجْدَةً، إذا صار شُجاعاً. وهو نَجْد ونَجُدٌ وَنجِدٌ ونَجيد. والشَّجاعة نَجدةٌ. والمُناجِد: المُقاتِل. ولاقَى فلانٌ نَجدةً، أي شدَّة، أمراً عاكه . قال طَرَفة:\n\nيالقومِي للشَّبابِ المسبكِرّْ\n\nتَحسَبُ الطّرفَ عليها نَجدةً\n\nأن ينظر النّاظرُ إليها فتلحقُها لذلك شِدّة، كأنَّه أراد نَعْمةَ جِسمها ورِقّته.\n\nومن الباب النَّجَد: العرق. ونَجِد نَجَداً: عَرِقَ من عملٍ أو كرب. قال:\n\nبالخيزُرانةِ بعد الأينِ والنَّجَدِ\n\nيَظلُّ مِن خَوفِهِ الملاّحُ معتصِماً\n\nوربَّما قالوا في هذا: نُجِدَ فهو منجودٌ. قال:\n\nولقد كان عُصْرةَ المنجودِ\n\nصادياً يستغيثُ غيرَ مُغاثٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–j–d hard and high land, plateau, to climb, a well-marked\nroad which is both clear and wide; mean and tough camels;\ncourage, assistance, to overcome. Of this root, نَجْدَيْنِ najdayn,\noccurs once in the Qur’an.\n\nنَجْدَيْن najdayn [dual of n. نَجْد najd] two elevations, two clear\nroads. It is variously interpreted as the two ways (of good and evil\nor truth and falsehood) or the mother’s two teats which the\nnewly-born does not seem to find difficulty in identifying (90:10)\nوَهَدَيْنَاهُ النَّجْدَيْنِ and We pointed out to him the two clear ways [of\ngood and evil].",
+      "definition_english": "n–j–d hard and high land, plateau, to climb, a well-marked\nroad which is both clear and wide; mean and tough camels;\ncourage, assistance, to overcome. Of this root, نَجْدَيْنِ najdayn,\noccurs once in the Qur’an.\n\nنَجْدَيْن najdayn [dual of n. نَجْد najd] two elevations, two clear\nroads. It is variously interpreted as the two ways (of good and evil\nor truth and falsehood) or the mother’s two teats which the\nnewly-born does not seem to find difficulty in identifying (90:10)\nوَهَدَيْنَاهُ النَّجْدَيْنِ and We pointed out to him the two clear ways [of\ngood and evil]."
+    }
+  ],
   "occurrences": [
     "90:10:2"
   ]

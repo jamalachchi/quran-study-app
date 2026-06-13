@@ -1,9 +1,17 @@
 {
-  "id": 1173,
   "root": "د ف ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دفق) الدال والفاء والقاف أصلٌ واحد مطَّردٌ قياسُه، وهو دفْع الشَّيء قُدُما. من ذلك: دَفَقَ الماءُ، وهو ماءٌ دافق. وهذه دُفْقَةٌ مِن ماء.\n\nويُحمَل قولُهم: جاؤوا دُفْقَةً واحدة، أي مرَّةً واحدة. وبعيرٌ أدفَقُ، إذا بانَ مِرْفَقاه عن جَنبَيه. وذلك أنَّهما إذا بانا عنه فقد اندفعا عنه واندفَقا. والدِّفَقُّ، على فِعَلٍّ، من الإبل: السريع. ومشى فلان الدّفِقَّى، وذلك إذا أسرَعَ. قال أبو عبيدة: الدِّفِقَّى أقْصَى العَنَق. ومنه حديث الزّبرقان: \"تمشي الدّفِقَّى، وتجلسُ الهَبَنْقَعَة\". ويقال سيلٌ دُفَاقٌ: يملأ الوَادِي. ودَفَقَ الله رُوحَه، إذا دُعِي عليه بالموت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دفق) الدال والفاء والقاف أصلٌ واحد مطَّردٌ قياسُه، وهو دفْع الشَّيء قُدُما. من ذلك: دَفَقَ الماءُ، وهو ماءٌ دافق. وهذه دُفْقَةٌ مِن ماء.\n\nويُحمَل قولُهم: جاؤوا دُفْقَةً واحدة، أي مرَّةً واحدة. وبعيرٌ أدفَقُ، إذا بانَ مِرْفَقاه عن جَنبَيه. وذلك أنَّهما إذا بانا عنه فقد اندفعا عنه واندفَقا. والدِّفَقُّ، على فِعَلٍّ، من الإبل: السريع. ومشى فلان الدّفِقَّى، وذلك إذا أسرَعَ. قال أبو عبيدة: الدِّفِقَّى أقْصَى العَنَق. ومنه حديث الزّبرقان: \"تمشي الدّفِقَّى، وتجلسُ الهَبَنْقَعَة\". ويقال سيلٌ دُفَاقٌ: يملأ الوَادِي. ودَفَقَ الله رُوحَه، إذا دُعِي عليه بالموت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–f–q to gush forth; (of a valley) to fill up with flood water, (of a river) to breach its banks; to stampede; to act rashly. Of this root, دَافِق dāfiq occurs once in the Qurʾan.\nدَافِق dāfiq [act. part.] gushing forth, jetting out, spurting (86:6) خُلِقَ مِن مَّاءٍ دَافِقٍ He is created from gushing fluid.\n\n311",
+      "definition_english": "d–f–q to gush forth; (of a valley) to fill up with flood water, (of a river) to breach its banks; to stampede; to act rashly. Of this root, دَافِق dāfiq occurs once in the Qurʾan.\nدَافِق dāfiq [act. part.] gushing forth, jetting out, spurting (86:6) خُلِقَ مِن مَّاءٍ دَافِقٍ He is created from gushing fluid.\n\n311"
+    }
+  ],
   "occurrences": [
     "86:6:4"
   ]

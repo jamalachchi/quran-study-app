@@ -1,8 +1,11 @@
 {
-  "id": 1395,
   "root": "ر ش أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرسن - رسي\n\n(رشأ) الراء والشين والهمزة كلمةٌ واحدة وهي الرّشأ، مهموز، وهو ولد الظَّبْية.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرسن - رسي\n\n(رشأ) الراء والشين والهمزة كلمةٌ واحدة وهي الرّشأ، مهموز، وهو ولد الظَّبْية.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

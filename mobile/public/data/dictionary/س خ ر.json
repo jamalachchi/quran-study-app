@@ -1,9 +1,17 @@
 {
-  "id": 1908,
   "root": "س خ ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسحو - سحب\n\n(سخر) السين* والخاء والراء أصلٌ مطّرد مستقيم يدلُّ على احتقار واستذلال. من ذلك قولنا سَخَّر الله عزَّ وجَلَّ الشيء، وذلك إذا ذَلَّلَه لأمره وإرادته. قال الله جلّ ثناؤه: ] وَسَخَّرَ لَكُمْ مَا فِي السَّموَاتِ وَمَا فِي الأَرْضِ [ [الجاثية 13]. ويقال رجل سُخْرةُ: يُسَخَّر في العمل، وسُخْرةٌ أيضاً، إذا كان يُسْخَر منه. فإن كان هو يفعل ذلك قلت سُخَرَة، بفتح الخاء والراء. ويقال سُفُنٌ سواخِرُ مَوَاخِرُ. فالسَّواخر: المُطِيعة الطيِّبة الرِّيح. والمواخر: التي تمخَر الماءَ تشُقّه. ومن الباب: سَخِرت منه، إذا هزئت به. ولا يزالون يقولون: سخِرت به، وفي كتاب الله تعالى: ] فإِنَّا نَسْخَرُ مِنْكُمْ كَمَا تَسْخَرُون [ [هود 38].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسحو - سحب\n\n(سخر) السين* والخاء والراء أصلٌ مطّرد مستقيم يدلُّ على احتقار واستذلال. من ذلك قولنا سَخَّر الله عزَّ وجَلَّ الشيء، وذلك إذا ذَلَّلَه لأمره وإرادته. قال الله جلّ ثناؤه: ] وَسَخَّرَ لَكُمْ مَا فِي السَّموَاتِ وَمَا فِي الأَرْضِ [ [الجاثية 13]. ويقال رجل سُخْرةُ: يُسَخَّر في العمل، وسُخْرةٌ أيضاً، إذا كان يُسْخَر منه. فإن كان هو يفعل ذلك قلت سُخَرَة، بفتح الخاء والراء. ويقال سُفُنٌ سواخِرُ مَوَاخِرُ. فالسَّواخر: المُطِيعة الطيِّبة الرِّيح. والمواخر: التي تمخَر الماءَ تشُقّه. ومن الباب: سَخِرت منه، إذا هزئت به. ولا يزالون يقولون: سخِرت به، وفي كتاب الله تعالى: ] فإِنَّا نَسْخَرُ مِنْكُمْ كَمَا تَسْخَرُون [ [هود 38].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–kh–r to force, to constrain, to be made subservient, to use as\na subject of forced labour; to ridicule. Of this root, seven forms\noccur 42 times in the Qur’an: سخر sakhira 11 times; سخّر\nsakhkhara 22 times; يستسخرون yastaskhirūn once; ساخرين sākhirīn\nonce; سخريا sikhriyyan once; سخريا sukhriyyan once and مسخر\nmusakhkhar four times.\n\n427",
+      "definition_english": "s–kh–r to force, to constrain, to be made subservient, to use as\na subject of forced labour; to ridicule. Of this root, seven forms\noccur 42 times in the Qur’an: سخر sakhira 11 times; سخّر\nsakhkhara 22 times; يستسخرون yastaskhirūn once; ساخرين sākhirīn\nonce; سخريا sikhriyyan once; سخريا sukhriyyan once and مسخر\nmusakhkhar four times.\n\n427"
+    }
+  ],
   "occurrences": [
     "11:38:13",
     "11:38:16",

@@ -1,9 +1,17 @@
 {
-  "id": 2258,
   "root": "ص ر ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصرع - صرف\n\n(صرف) الصاد والراء والفاء معظم بابِهِ يدلُّ على رَجْع الشيء. من ذلك صَرفْتُ القومَ صَرْفاً وانصرفوا، إذا رَجَعْتَهم فرَجَعوا. والصَّرِيف: اللّبَن ساعةَ يُحلَب ويُنصرَف به. والصَّرْف في القُرْآنِ: التَّوبة ؛ لأنَّه يُرجَع به عن رتبة",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصرع - صرف\n\n(صرف) الصاد والراء والفاء معظم بابِهِ يدلُّ على رَجْع الشيء. من ذلك صَرفْتُ القومَ صَرْفاً وانصرفوا، إذا رَجَعْتَهم فرَجَعوا. والصَّرِيف: اللّبَن ساعةَ يُحلَب ويُنصرَف به. والصَّرْف في القُرْآنِ: التَّوبة ؛ لأنَّه يُرجَع به عن رتبة",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–r–f to divert the direction, to avert, to repel; to cause to turn, or to shift, from one state to another, to dissuade; to dismiss; to creak, to grate; to exchange. Of this root, eight forms occur 30 times in the Qurʾan: صَرَف ṣarafa nine times; صُرِف ṣurifa five times; صَرَّف ṣarrafa 10 times; اِنصَرَفُوا ʾinṣarafū once; صَرْفًا ṣarfan once; تَصْرِيف taṣrīf twice; مَصْرُوفًا maṣrūfan once and مَصْرِف maṣrif once.\nصَرَف ṣarafa i [v. trans.] 1 to turn away, to divert from (9:127) صَرَفَ اللَّهُ قُلُوبَهُمْ God turns their hearts 2 [with prep. إِلَى] to direct towards (46:29) وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ and when We directed a group of jinn to you [Prophet] to listen to the\n\n523",
+      "definition_english": "ṣ–r–f to divert the direction, to avert, to repel; to cause to turn, or to shift, from one state to another, to dissuade; to dismiss; to creak, to grate; to exchange. Of this root, eight forms occur 30 times in the Qurʾan: صَرَف ṣarafa nine times; صُرِف ṣurifa five times; صَرَّف ṣarrafa 10 times; اِنصَرَفُوا ʾinṣarafū once; صَرْفًا ṣarfan once; تَصْرِيف taṣrīf twice; مَصْرُوفًا maṣrūfan once and مَصْرِف maṣrif once.\nصَرَف ṣarafa i [v. trans.] 1 to turn away, to divert from (9:127) صَرَفَ اللَّهُ قُلُوبَهُمْ God turns their hearts 2 [with prep. إِلَى] to direct towards (46:29) وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ and when We directed a group of jinn to you [Prophet] to listen to the\n\n523"
+    }
+  ],
   "occurrences": [
     "10:32:11",
     "11:8:15",

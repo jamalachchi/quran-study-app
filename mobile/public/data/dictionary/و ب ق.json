@@ -1,9 +1,17 @@
 {
-  "id": 4323,
   "root": "و ب ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وبق) الواو والباء والقاف كلمتان. يقال لكلِّ شيء حَالَ بين شيئيْن مَوْبِق.\n\nوالكلمة الأخرى: وَبَقَ: هَلَك. وأوْبَقَه الله. ويقال: المَوْبِق: المَوْعِد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وبق) الواو والباء والقاف كلمتان. يقال لكلِّ شيء حَالَ بين شيئيْن مَوْبِق.\n\nوالكلمة الأخرى: وَبَقَ: هَلَك. وأوْبَقَه الله. ويقال: المَوْبِق: المَوْعِد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–b–q shameful act, grave offence; to humiliate, to destroy, to\nend in ruin; to detain. Of this root, two forms, يُوبِق yubiq and\nمَوْبِق mawbiq, occur once each in the Qur’an.\n\nيُوبِق yubiq [imperf. of v. IV] to cause to perish, to destroy, to\nruin (42:34) أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا or He ruins them for what they have\nearned.\n\nمَوْبِق mawbiq [v. n.; n. of place] separation, unbridgeable gulf;\na place of destruction (18:52) وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ\nفَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا on the Day when He says, ‘Call on\nthose you claimed were My partners,’ and they will call on them\nbut they will not answer: We shall set a perilous gulf between\nthem.",
+      "definition_english": "w–b–q shameful act, grave offence; to humiliate, to destroy, to\nend in ruin; to detain. Of this root, two forms, يُوبِق yubiq and\nمَوْبِق mawbiq, occur once each in the Qur’an.\n\nيُوبِق yubiq [imperf. of v. IV] to cause to perish, to destroy, to\nruin (42:34) أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا or He ruins them for what they have\nearned.\n\nمَوْبِق mawbiq [v. n.; n. of place] separation, unbridgeable gulf;\na place of destruction (18:52) وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ\nفَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا on the Day when He says, ‘Call on\nthose you claimed were My partners,’ and they will call on them\nbut they will not answer: We shall set a perilous gulf between\nthem."
+    }
+  ],
   "occurrences": [
     "18:52:13",
     "42:34:2"

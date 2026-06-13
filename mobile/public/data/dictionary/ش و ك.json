@@ -1,9 +1,17 @@
 {
-  "id": 2044,
   "root": "ش و ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشوس - شوص\n\n(شوك) الشين والواو والكاف أصلٌ واحِدٌ يدلُّ على خشونةٍ وحدَّةِ طرَفٍ في الشّيء. من ذلك الشَّوك، وهو معروف. يقال شجرةٌ شَوِكَة وشائكة ومُشِيكة . ويقال شاكَني الشّوكُ. وأَشَكْتُ فلاناً، إِذا آذَيتَه بالشَّوك. وشوَّكَ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشوس - شوص\n\n(شوك) الشين والواو والكاف أصلٌ واحِدٌ يدلُّ على خشونةٍ وحدَّةِ طرَفٍ في الشّيء. من ذلك الشَّوك، وهو معروف. يقال شجرةٌ شَوِكَة وشائكة ومُشِيكة . ويقال شاكَني الشّوكُ. وأَشَكْتُ فلاناً، إِذا آذَيتَه بالشَّوك. وشوَّكَ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–w–k thorn, spike, point, to pierce, to prick; arms, armoury,\n503",
+      "definition_english": "sh–w–k thorn, spike, point, to pierce, to prick; arms, armoury,\n503"
+    }
+  ],
   "occurrences": [
     "8:7:12"
   ]

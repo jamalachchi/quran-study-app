@@ -1,9 +1,17 @@
 {
-  "id": 1771,
   "root": "س ف ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسعر\n\n(سفك) السين والفاء والكاف كلمة واحدة. يقال سَفَكَ دمَه يسفِكه سفْكاً ، إذا أساله، وكذلك الدّمع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسعر\n\n(سفك) السين والفاء والكاف كلمة واحدة. يقال سَفَكَ دمَه يسفِكه سفْكاً ، إذا أساله، وكذلك الدّمع.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-f-k to shed tears or blood, to cause to flow. Of this root, only يَسْفِك yasfik occurs twice in the Qur’an.\nيَسْفِك yasfik [imperf. of v. سَفَكَ safaka, trans.] to shed, to spill (2:30) أَتَجْعَلُ فِيها مَنْ يُفْسِدُ فِيها وَيَسْفِكُ الدِّماءَ do You place on it [the Earth] someone who will sow corruption in it and commit murder [lit. shed blood]?",
+      "definition_english": "s-f-k to shed tears or blood, to cause to flow. Of this root, only يَسْفِك yasfik occurs twice in the Qur’an.\nيَسْفِك yasfik [imperf. of v. سَفَكَ safaka, trans.] to shed, to spill (2:30) أَتَجْعَلُ فِيها مَنْ يُفْسِدُ فِيها وَيَسْفِكُ الدِّماءَ do You place on it [the Earth] someone who will sow corruption in it and commit murder [lit. shed blood]?"
+    }
+  ],
   "occurrences": [
     "2:30:16",
     "2:84:5"

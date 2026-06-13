@@ -1,8 +1,11 @@
 {
-  "id": 2952,
   "root": "ف ج س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفثج\n\n(فجس) الفاء والجيم والسين كلمة إنْ صحَّت. يقولون: الفَجْس: التكبُّر والتعظُّم. يقال منه: تَفَجَّسَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفثج\n\n(فجس) الفاء والجيم والسين كلمة إنْ صحَّت. يقولون: الفَجْس: التكبُّر والتعظُّم. يقال منه: تَفَجَّسَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

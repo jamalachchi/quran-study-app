@@ -1,8 +1,11 @@
 {
-  "id": 2246,
   "root": "ص خ م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصتع\n\n(صخم) الصاد والخاء والميم كلمة. يقال: للمنتصب مُصْطَخِم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصتع\n\n(صخم) الصاد والخاء والميم كلمة. يقال: للمنتصب مُصْطَخِم.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

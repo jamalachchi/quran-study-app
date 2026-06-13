@@ -1,9 +1,17 @@
 {
-  "id": 3443,
   "root": "ل م ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلف - لق\n\n(لمز) اللام والميم والزاء كلمةٌ واحدة، وهي اللَّمْز، وهو العَيب. يقال لَمَزَ يَلمِزُ لَمْزاً. قال الله تعالى: ] وَمِنْهُمْ مَنْ يَلْمِزُكَ في الصَّدَقاتِ [ [التوبة 58]. ورجل لَمَّازٌ ولُمَزَة، أي عَيَّاب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلف - لق\n\n(لمز) اللام والميم والزاء كلمةٌ واحدة، وهي اللَّمْز، وهو العَيب. يقال لَمَزَ يَلمِزُ لَمْزاً. قال الله تعالى: ] وَمِنْهُمْ مَنْ يَلْمِزُكَ في الصَّدَقاتِ [ [التوبة 58]. ورجل لَمَّازٌ ولُمَزَة، أي عَيَّاب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–m–z to nudge; to poke fun at, to defame, to speak ill of\nsomeone, to slander, a slanderer. Of this root, two forms occur\nfour times in the Qur’an: يَلْمِز yalmiz three times and لُمَزَة\nlumazatun once.\n\nيَلْمِز yalmiz [imperf. v., trans.] to slander, to defame, to speak\nill, to find faults with (9:58) وَمِنْهُم مَّن يَلْمِزُكَ فِي الصَّدَقَاتِ among them\nare some who speak ill of you [Prophet] regarding [the\ndistribution of] alms.\n\nلُمَزَة lumazatun [intens. masc./fem. quasi-act. part.] one who\n\n851\n\nلما\n\nslanders, backbites or defames frequently or strongly (104:1) وَيْلٌ\nلِّكُلِّ هُمَزَةٍ لُّمَزَةٍ woe to every backbiting slanderer.",
+      "definition_english": "l–m–z to nudge; to poke fun at, to defame, to speak ill of\nsomeone, to slander, a slanderer. Of this root, two forms occur\nfour times in the Qur’an: يَلْمِز yalmiz three times and لُمَزَة\nlumazatun once.\n\nيَلْمِز yalmiz [imperf. v., trans.] to slander, to defame, to speak\nill, to find faults with (9:58) وَمِنْهُم مَّن يَلْمِزُكَ فِي الصَّدَقَاتِ among them\nare some who speak ill of you [Prophet] regarding [the\ndistribution of] alms.\n\nلُمَزَة lumazatun [intens. masc./fem. quasi-act. part.] one who\n\n851\n\nلما\n\nslanders, backbites or defames frequently or strongly (104:1) وَيْلٌ\nلِّكُلِّ هُمَزَةٍ لُّمَزَةٍ woe to every backbiting slanderer."
+    }
+  ],
   "occurrences": [
     "104:1:4",
     "49:11:24",

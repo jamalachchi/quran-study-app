@@ -1,9 +1,17 @@
 {
-  "id": 1003,
   "root": "خ ش ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخشف - خشل\n\n(خشي) الخاء والشين والحرف المعتل يدلُّ على خَوف وذُعْر، ثمّ يحمل عليه المجاز. فالخَشيَة الخَوْف. ورجلٌ خَشْيَانُ. وخاشانِي فلانٌ فخشَيْتُه، أي كنتُ أشّد خَشْيةً منه.\n\nوالمجاز قولهم خَشِيت بمعنى عَلِمت. قال:\n\nسكَنَ الجِنَانَ مع النبيِّ محمدِ\n\nولقد خَشِيت بأنَّ مَن تَبِعَ الهُدى",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخشف - خشل\n\n(خشي) الخاء والشين والحرف المعتل يدلُّ على خَوف وذُعْر، ثمّ يحمل عليه المجاز. فالخَشيَة الخَوْف. ورجلٌ خَشْيَانُ. وخاشانِي فلانٌ فخشَيْتُه، أي كنتُ أشّد خَشْيةً منه.\n\nوالمجاز قولهم خَشِيت بمعنى عَلِمت. قال:\n\nسكَنَ الجِنَانَ مع النبيِّ محمدِ\n\nولقد خَشِيت بأنَّ مَن تَبِعَ الهُدى",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–sh–y to fear, to dread, to dislike; to hope; to know; dates killed by frost, dry rotten herbage. Of this root, two forms occur 48 times in the Qur’an: خَشِيَ khashiya 40 times; and خَشْيَة khashyatun eight times.\nخَشِيَ khashiya a [v. trans.] 1 to fear (3:173) الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ those to whom the people said, ‘The people [your enemies] have amassed [an army] against you; therefore fear them,’ but it [only] increased them in faith 2 to feel concern (4:9) وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ and let those who, if they left behind them weak offspring, would be concerned for them [lest someone would treat them as badly] fear [in their behaviour towards orphans] 3 to stand in awe of (36:11) إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمٰنَ بِالْغَيْبِ you can warn only those who will follow the Reminder and hold the Merciful in awe, though they cannot see Him (or, in secret).\n\nخَشْيَة khashyatun [n./v. n.] 1 fear (4:77) إِذَا فَرِيقٌ مِنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ behold!, a party of them fear mankind even as they fear God or more so [lit. with greater fear] 2 awe (2:74) وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ for there are rocks from which streams gush forth, and others split so that water issues from them and others that tumble down in awe of God.\n\n266",
+      "definition_english": "kh–sh–y to fear, to dread, to dislike; to hope; to know; dates killed by frost, dry rotten herbage. Of this root, two forms occur 48 times in the Qur’an: خَشِيَ khashiya 40 times; and خَشْيَة khashyatun eight times.\nخَشِيَ khashiya a [v. trans.] 1 to fear (3:173) الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ those to whom the people said, ‘The people [your enemies] have amassed [an army] against you; therefore fear them,’ but it [only] increased them in faith 2 to feel concern (4:9) وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ and let those who, if they left behind them weak offspring, would be concerned for them [lest someone would treat them as badly] fear [in their behaviour towards orphans] 3 to stand in awe of (36:11) إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمٰنَ بِالْغَيْبِ you can warn only those who will follow the Reminder and hold the Merciful in awe, though they cannot see Him (or, in secret).\n\nخَشْيَة khashyatun [n./v. n.] 1 fear (4:77) إِذَا فَرِيقٌ مِنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ behold!, a party of them fear mankind even as they fear God or more so [lit. with greater fear] 2 awe (2:74) وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ for there are rocks from which streams gush forth, and others split so that water issues from them and others that tumble down in awe of God.\n\n266"
+    }
+  ],
   "occurrences": [
     "13:21:9",
     "17:100:10",

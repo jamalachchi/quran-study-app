@@ -1,9 +1,17 @@
 {
-  "id": 2384,
   "root": "ط ف ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطعن - طغي\n\n(طفق) الطاء والفاء والقاف كلمةٌ صحيحة. يقولون: طفِقَ يفعل كذا كما يقال ظلَّ يفعلُ. قال اللهُ تعالى: } فَطَفِقَ مَسْحَاً بالسُّوقِ والأعناقِ { [ص 33]، } وَطَفِقا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ { [الأعراف 22].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطعن - طغي\n\n(طفق) الطاء والفاء والقاف كلمةٌ صحيحة. يقولون: طفِقَ يفعل كذا كما يقال ظلَّ يفعلُ. قال اللهُ تعالى: } فَطَفِقَ مَسْحَاً بالسُّوقِ والأعناقِ { [ص 33]، } وَطَفِقا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ { [الأعراف 22].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ط/ف/ق ṭ-f-q to imitate; to commence, to continue doing something; to seize. Of this root, طَفِقَ ṭafiqa occurs three times in the Qurʾan.\nطَفِقَ ṭafiqa a member of a sub-group of كاد, q.v., designated by the grammarians as initiation verbs (أفعال الشروع) ‘to begin to’, ‘to commence to’. They function in conjunction with 1 a following imperfect (7:22) وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ and they began to stick together upon themselves [garments] from the leaves of the Garden, or 2 in conjunction with a verbal noun (for emphasis) (38:33) رُدُّوهَا عَلَيَّ فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْأَعْنَاقِ ‘Bring them back to me!’, [he said] and started stroking [their] legs and necks (or, as in another interpretation, started to smite them, legs and necks, with the sword).",
+      "definition_english": "ط/ف/ق ṭ-f-q to imitate; to commence, to continue doing something; to seize. Of this root, طَفِقَ ṭafiqa occurs three times in the Qurʾan.\nطَفِقَ ṭafiqa a member of a sub-group of كاد, q.v., designated by the grammarians as initiation verbs (أفعال الشروع) ‘to begin to’, ‘to commence to’. They function in conjunction with 1 a following imperfect (7:22) وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ and they began to stick together upon themselves [garments] from the leaves of the Garden, or 2 in conjunction with a verbal noun (for emphasis) (38:33) رُدُّوهَا عَلَيَّ فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْأَعْنَاقِ ‘Bring them back to me!’, [he said] and started stroking [their] legs and necks (or, as in another interpretation, started to smite them, legs and necks, with the sword)."
+    }
+  ],
   "occurrences": [
     "20:121:6",
     "38:33:3",

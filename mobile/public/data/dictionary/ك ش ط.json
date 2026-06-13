@@ -1,9 +1,17 @@
 {
-  "id": 3398,
   "root": "ك ش ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكشح\n\n(كشط) الكاف والشين والطاء كلمةٌ تدلُّ على تنحية الشَّيء وكَشْفه. يقال: كشَطَ الجِلدَ عن الذَّبيحة. ويقولون: انكشَط رُوعُه، أي ذهَب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكشح\n\n(كشط) الكاف والشين والطاء كلمةٌ تدلُّ على تنحية الشَّيء وكَشْفه. يقال: كشَطَ الجِلدَ عن الذَّبيحة. ويقولون: انكشَط رُوعُه، أي ذهَب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–sh–ṭ to peel away, to peel off, to flay, to scratch off. Of this\nroot, كُشِطَت kushiṭat occurs once in the Qur’an.\n\nكُشِطَ kushiṭa [pass. v.] to be peeled off, to be stripped off, to be\npeeled away (81:11) وَإِذَا السَّمَاءُ كُشِطَتْ when the sky is peeled away.",
+      "definition_english": "k–sh–ṭ to peel away, to peel off, to flay, to scratch off. Of this\nroot, كُشِطَت kushiṭat occurs once in the Qur’an.\n\nكُشِطَ kushiṭa [pass. v.] to be peeled off, to be stripped off, to be\npeeled away (81:11) وَإِذَا السَّمَاءُ كُشِطَتْ when the sky is peeled away."
+    }
+  ],
   "occurrences": [
     "81:11:3"
   ]

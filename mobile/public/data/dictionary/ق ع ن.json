@@ -1,8 +1,11 @@
 {
-  "id": 3220,
   "root": "ق ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقعل\n\n(قعن) القاف والعين والنون ليس فيه إلاَّ قُعَين: قبيلةٌ من العرب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقعل\n\n(قعن) القاف والعين والنون ليس فيه إلاَّ قُعَين: قبيلةٌ من العرب.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

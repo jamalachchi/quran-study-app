@@ -1,9 +1,17 @@
 {
-  "id": 3327,
   "root": "ك ب ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كبت) الكاف والباء والتاء كلمة واحدة، وهي من الإذلال والصَّرفِ عن الشيء. يقال: كَبَتَ اللهُ العدُوَّ يَكْبِتُه، إذا صَرَفَهُ وأذلَّهُ. قال الله تعالى: ] إنَّ الَّذِينَ يُحَادُّونَ اللهَ ورَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ [ [المجادلة 5].\n\nكبث كبح كبد - كبر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كبت) الكاف والباء والتاء كلمة واحدة، وهي من الإذلال والصَّرفِ عن الشيء. يقال: كَبَتَ اللهُ العدُوَّ يَكْبِتُه، إذا صَرَفَهُ وأذلَّهُ. قال الله تعالى: ] إنَّ الَّذِينَ يُحَادُّونَ اللهَ ورَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ [ [المجادلة 5].\n\nكبث كبح كبد - كبر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–b–t knocking down, to crush, to humiliate, to suppress. Of\nthis root, two forms occur three times in the Qur’an: يَكْبِت yakbit\nonce and كُبِت kubita twice.\n\nيَكْبِت yakbit [imperf. of v. كَبَتَ kabata, trans.] to suppress, to\nfrustrate, to overwhelm, to crush (3:127) لِيَقْطَعَ طَرَفًا مِنَ الَّذِينَ كَفَرُوا أَوْ\nيَكْبِتَهُمْ and that He might cut off a part of the disbelievers’ [army]\nor overwhelm them.\n\nكُبِت kubita [pass. v.] to be suppressed, to be overwhelmed, to\nbe brought low (58:5) إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ\nقَبْلِهِمْ those who oppose God and His Messenger will be brought\nlow, as the ones before them were brought low.",
+      "definition_english": "k–b–t knocking down, to crush, to humiliate, to suppress. Of\nthis root, two forms occur three times in the Qur’an: يَكْبِت yakbit\nonce and كُبِت kubita twice.\n\nيَكْبِت yakbit [imperf. of v. كَبَتَ kabata, trans.] to suppress, to\nfrustrate, to overwhelm, to crush (3:127) لِيَقْطَعَ طَرَفًا مِنَ الَّذِينَ كَفَرُوا أَوْ\nيَكْبِتَهُمْ and that He might cut off a part of the disbelievers’ [army]\nor overwhelm them.\n\nكُبِت kubita [pass. v.] to be suppressed, to be overwhelmed, to\nbe brought low (58:5) إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ\nقَبْلِهِمْ those who oppose God and His Messenger will be brought\nlow, as the ones before them were brought low."
+    }
+  ],
   "occurrences": [
     "3:127:7",
     "58:5:6",

@@ -1,8 +1,11 @@
 {
-  "id": 3076,
   "root": "ق م ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقمس\n\n(قمش) القاف والميم والشين. يقولون: القَمْش: جَمْعُ الشيء من ها هنا [وهُنَا ].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقمس\n\n(قمش) القاف والميم والشين. يقولون: القَمْش: جَمْعُ الشيء من ها هنا [وهُنَا ].",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

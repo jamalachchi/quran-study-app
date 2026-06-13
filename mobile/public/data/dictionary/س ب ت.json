@@ -1,9 +1,17 @@
 {
-  "id": 1871,
   "root": "س ب ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسيل\n\n(سبت) السين والباء والتاء أصلٌ واحد يدلُّ على راحةٍ وسكون. يقال للسَّير السهل اللّين. سَبْتٌ. قال:\n\nفسَبْتٌ وأما ليلُها فَذَمِيل\n\nومطوِيّة الأقرابِ أمّا نَهارُها\n\nثمّ حُمل على ذلك السَّبْت: حلق الرّأس. ويُنشَد في ذلك ما يصحح هذا القياسَ، وهو قولُه:\n\n* يُصبح سكرانَ ويُمسِي سَبْتَا *\n\nلأنَّه يكون في آخر النهار مُخْثِراً قليلَ الحركة فلذلك يقال للمتحيِّر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسيل\n\n(سبت) السين والباء والتاء أصلٌ واحد يدلُّ على راحةٍ وسكون. يقال للسَّير السهل اللّين. سَبْتٌ. قال:\n\nفسَبْتٌ وأما ليلُها فَذَمِيل\n\nومطوِيّة الأقرابِ أمّا نَهارُها\n\nثمّ حُمل على ذلك السَّبْت: حلق الرّأس. ويُنشَد في ذلك ما يصحح هذا القياسَ، وهو قولُه:\n\n* يُصبح سكرانَ ويُمسِي سَبْتَا *\n\nلأنَّه يكون في آخر النهار مُخْثِراً قليلَ الحركة فلذلك يقال للمتحيِّر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s—b—t resting, keeping the Sabbath. Of this root, three forms occur nine times in the Qurʾan: يسبتون yasbitūn once; السبت ʾal-sabt six times and سبات subāt twice.\nيسبتون yasbitūn [imperf. of v. سبت sabata, intrans.] to come into the Sabbath day, to keep the Sabbath (7:163) إذ تأتيهم حيتانهم يوم سبتهم شرعاً ويوم لا يسبتون لا تأتيهم how their fish came visibly to them on their Sabbath day, but on the day when they did not have the Sabbath they did not come.\n\nالسبت ʾal-sabt [n.] the Sabbath (4:154) لا تعدوا في السبت do not break the Sabbath.\n\nسبات subāt [v. n.] resting (25:47) وهو الذي جعل لكم الليل لباساً والنوم سباتاً He it is who made the night a covering for you, and sleep as rest.",
+      "definition_english": "s—b—t resting, keeping the Sabbath. Of this root, three forms occur nine times in the Qurʾan: يسبتون yasbitūn once; السبت ʾal-sabt six times and سبات subāt twice.\nيسبتون yasbitūn [imperf. of v. سبت sabata, intrans.] to come into the Sabbath day, to keep the Sabbath (7:163) إذ تأتيهم حيتانهم يوم سبتهم شرعاً ويوم لا يسبتون لا تأتيهم how their fish came visibly to them on their Sabbath day, but on the day when they did not have the Sabbath they did not come.\n\nالسبت ʾal-sabt [n.] the Sabbath (4:154) لا تعدوا في السبت do not break the Sabbath.\n\nسبات subāt [v. n.] resting (25:47) وهو الذي جعل لكم الليل لباساً والنوم سباتاً He it is who made the night a covering for you, and sleep as rest."
+    }
+  ],
   "occurrences": [
     "16:124:3",
     "25:47:8",

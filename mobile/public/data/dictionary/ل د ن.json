@@ -1,9 +1,17 @@
 {
-  "id": 3540,
   "root": "ل د ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلحن\n\n(لدن) اللام والدال والنون كلمةٌ واحدة. يقال للَّيِّن من القضبان لَدْنٌ. ولَدُنْ بمعنى لَدَى، أي عِندَ.\n\nلذع لذم لزق - لزك\n\n(باب اللام والذال وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلحن\n\n(لدن) اللام والدال والنون كلمةٌ واحدة. يقال للَّيِّن من القضبان لَدْنٌ. ولَدُنْ بمعنى لَدَى، أي عِندَ.\n\nلذع لذم لزق - لزك\n\n(باب اللام والذال وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–d–n to be soft, to be pliant, to ponder, to tarry, to stay; point\nin time; location. Of this root, only لَدُن ladun occurs 18 times in\nthe Qur’an.\n\nلَدُن ladun [adverb of place and time (the latter does not seem to\noccur in the Qur’an)] 1 with, at, in the presence of, close to the\nsource of (18:76) قَدْ بَلَغْتَ مِنْ لَدُنِّي عُذْرًا you have put up with enough\nexcuses from me [lit. my side] 2 [in construct with الله God or a\npronominal suffix referring to Him] His possession, His bounty\n(18:65) وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا and they found one of Our\nservants—to whom We had granted mercy from Us and whom\nWe had instructed with knowledge from Ourselves.\n\nلَدَى ladā occurs 22 times in the Qur’an and is considered by some\nphilologists to be a variant form of لَدُن ladun (q.v.).\n\nلَدَى ladā [adverb of place] 1 at the point of, at (40:18) إِذِ\nالْقُلُوبُ لَدَى الْحَنَاجِرِ when hearts are next to the throats 2 with (3:44)\nوَمَا كُنتَ لَدَيْهِمْ and you were not with them when they were\ncasting their lots as to which of them should take charge of Mary\n3 possession of *(72:28) وَأَحَاطَ بِمَا لَدَيْهِمْ and He encompassed all\nthat they have.",
+      "definition_english": "l–d–n to be soft, to be pliant, to ponder, to tarry, to stay; point\nin time; location. Of this root, only لَدُن ladun occurs 18 times in\nthe Qur’an.\n\nلَدُن ladun [adverb of place and time (the latter does not seem to\noccur in the Qur’an)] 1 with, at, in the presence of, close to the\nsource of (18:76) قَدْ بَلَغْتَ مِنْ لَدُنِّي عُذْرًا you have put up with enough\nexcuses from me [lit. my side] 2 [in construct with الله God or a\npronominal suffix referring to Him] His possession, His bounty\n(18:65) وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا and they found one of Our\nservants—to whom We had granted mercy from Us and whom\nWe had instructed with knowledge from Ourselves.\n\nلَدَى ladā occurs 22 times in the Qur’an and is considered by some\nphilologists to be a variant form of لَدُن ladun (q.v.).\n\nلَدَى ladā [adverb of place] 1 at the point of, at (40:18) إِذِ\nالْقُلُوبُ لَدَى الْحَنَاجِرِ when hearts are next to the throats 2 with (3:44)\nوَمَا كُنتَ لَدَيْهِمْ and you were not with them when they were\ncasting their lots as to which of them should take charge of Mary\n3 possession of *(72:28) وَأَحَاطَ بِمَا لَدَيْهِمْ and He encompassed all\nthat they have."
+    }
+  ],
   "occurrences": [
     "11:1:8",
     "17:80:12",

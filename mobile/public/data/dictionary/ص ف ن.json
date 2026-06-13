@@ -1,9 +1,17 @@
 {
-  "id": 2161,
   "root": "ص ف ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصفن\n\nثم حُمِل على ذلك فقيل لكلِّ منبسطٍ صَفقٌ وإن لم يُضربْ به على شيء. فيقال لجانِبَي العُنُق صفقانِ، ولكلِّ ناحيةٍ صَفْق وصُفْق . ويقال للجِلدِ الذي يلي سوادَ البطنِ صُفْق.\n\nومما شذَّ عن الباب، وقد يمكن أن يُخرّج له وجه، قولهم: قَوسٌ صَفوقٌ، إِذا كانت ليّنة راجعة.\n\n(صفن) الصاد والفاء والنون أصلانِ صحيحانِ، أحدهما جنسٌ من القيامِ، والآخر وِعاءٌ من الأوعية.\n\nفالأوّل: الصُّفون، وهو أن يقومَ الفرسُ على ثلاثِ قوائمَ ويرفعَ الرَّابعة، إلاَّ أنَّه ينالُ بطرَف سُنْبُكِها الأرض. والصَّافن: الذي يصفُّ قدمَيه. وفي حديث البَرَاء: \"قمنا خَلْفَ رسول الله صلى الله عليه وآله وسلم صُفُوناً\". ومنه تَصَافَنَ القومُ [الماء ]، وذلك إِذا اقتسموه بالصُّفْن، والصُّفْن: جلدةٌ يُسْتَقَى بها. قال:\n\nفلما تصافَنَّا الإداوةَ أجهشَتْ\n\nإِلَيَّ غُصونُ العنبريِّ الجُراضِمِ\n\nويقال إنَّ ذلك إِنَّما يكون على المَقْلَة، يُسقى أحدُهم قَدْر ما يغمُرها.\n\nومما شذَّ عن الأصلين: الصَّافن، وهو عِرْقٌ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصفن\n\nثم حُمِل على ذلك فقيل لكلِّ منبسطٍ صَفقٌ وإن لم يُضربْ به على شيء. فيقال لجانِبَي العُنُق صفقانِ، ولكلِّ ناحيةٍ صَفْق وصُفْق . ويقال للجِلدِ الذي يلي سوادَ البطنِ صُفْق.\n\nومما شذَّ عن الباب، وقد يمكن أن يُخرّج له وجه، قولهم: قَوسٌ صَفوقٌ، إِذا كانت ليّنة راجعة.\n\n(صفن) الصاد والفاء والنون أصلانِ صحيحانِ، أحدهما جنسٌ من القيامِ، والآخر وِعاءٌ من الأوعية.\n\nفالأوّل: الصُّفون، وهو أن يقومَ الفرسُ على ثلاثِ قوائمَ ويرفعَ الرَّابعة، إلاَّ أنَّه ينالُ بطرَف سُنْبُكِها الأرض. والصَّافن: الذي يصفُّ قدمَيه. وفي حديث البَرَاء: \"قمنا خَلْفَ رسول الله صلى الله عليه وآله وسلم صُفُوناً\". ومنه تَصَافَنَ القومُ [الماء ]، وذلك إِذا اقتسموه بالصُّفْن، والصُّفْن: جلدةٌ يُسْتَقَى بها. قال:\n\nفلما تصافَنَّا الإداوةَ أجهشَتْ\n\nإِلَيَّ غُصونُ العنبريِّ الجُراضِمِ\n\nويقال إنَّ ذلك إِنَّما يكون على المَقْلَة، يُسقى أحدُهم قَدْر ما يغمُرها.\n\nومما شذَّ عن الأصلين: الصَّافن، وهو عِرْقٌ .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–f–n (of horses) to stand on three legs with the edge of one of the front hoofs just touching the ground (a sign of a thoroughbred), to set the feet side by side, to stand confronting a party of people; to compact dry herbage into a nest; nest, water-skin. Of this root, صَافِنَات ṣāfināt, occurs once in the Qurʾan.\nصَافِنَات ṣāfināt [pl. of act. part. صَافِنَة ṣāfinatun] (of horses) standing with one leg bent, standing majestically (38:31) إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ الْجِيَادُ when, at the close of the day, well-bred light-footed horses were paraded before him.",
+      "definition_english": "ṣ–f–n (of horses) to stand on three legs with the edge of one of the front hoofs just touching the ground (a sign of a thoroughbred), to set the feet side by side, to stand confronting a party of people; to compact dry herbage into a nest; nest, water-skin. Of this root, صَافِنَات ṣāfināt, occurs once in the Qurʾan.\nصَافِنَات ṣāfināt [pl. of act. part. صَافِنَة ṣāfinatun] (of horses) standing with one leg bent, standing majestically (38:31) إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ الْجِيَادُ when, at the close of the day, well-bred light-footed horses were paraded before him."
+    }
+  ],
   "occurrences": [
     "38:31:5"
   ]

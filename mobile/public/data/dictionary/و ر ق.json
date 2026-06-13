@@ -1,9 +1,17 @@
 {
-  "id": 4387,
   "root": "و ر ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nورف - ورق\n\n(ورق) الواو والراء والقاف: أصلانِ يدلُّ أحدُهما على خيرٍ *ومال، وأصله وَرَق الشَّجر، والآخر على لونٍ من الألوان.\n\nفالأوّل الوَرَق ورق الشَّجر. والوَرَق: المال، من قياسِ وَرَقِ الشَّجر، لأنّ الشّجرةَ إذا تحاتَّ ورقُها انجردَتْ كالرَّجل الفقير. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nورف - ورق\n\n(ورق) الواو والراء والقاف: أصلانِ يدلُّ أحدُهما على خيرٍ *ومال، وأصله وَرَق الشَّجر، والآخر على لونٍ من الألوان.\n\nفالأوّل الوَرَق ورق الشَّجر. والوَرَق: المال، من قياسِ وَرَقِ الشَّجر، لأنّ الشّجرةَ إذا تحاتَّ ورقُها انجردَتْ كالرَّجل الفقير. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–r–q (tree) leaf; (book) leaf; (of animals and birds) green,\nbrown or grey; gold or silver coin; to come into leaf. Of this root,\nthree forms occur four times in the Qur’an: وَرَق waraqun twice;\nوَرَقَة waraqatun once and وَرِق wariq once.\n\nوَرَقَة waraqatun [unit n., coll. n. وَرَق waraq] leaf (6:59) وَمَا تَسْقُطُ\nمِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا not a leaf falls but He knows it.\n\nوَرِق wariq [coll. n.] gold and/or silver money (18:19) فَابْعَثُوا أَحَدَكُمْ\nبِوَرِقِكُمْ هَذِهِ إِلَى الْمَدِينَةِ send one of you, with these silver coins of yours,\nto the city.",
+      "definition_english": "w–r–q (tree) leaf; (book) leaf; (of animals and birds) green,\nbrown or grey; gold or silver coin; to come into leaf. Of this root,\nthree forms occur four times in the Qur’an: وَرَق waraqun twice;\nوَرَقَة waraqatun once and وَرِق wariq once.\n\nوَرَقَة waraqatun [unit n., coll. n. وَرَق waraq] leaf (6:59) وَمَا تَسْقُطُ\nمِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا not a leaf falls but He knows it.\n\nوَرِق wariq [coll. n.] gold and/or silver money (18:19) فَابْعَثُوا أَحَدَكُمْ\nبِوَرِقِكُمْ هَذِهِ إِلَى الْمَدِينَةِ send one of you, with these silver coins of yours,\nto the city."
+    }
+  ],
   "occurrences": [
     "18:19:23",
     "20:121:10",

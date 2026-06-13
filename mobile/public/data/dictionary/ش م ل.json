@@ -1,9 +1,17 @@
 {
-  "id": 2016,
   "root": "ش م ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشمق - شمل\n\n(شمل) الشين والميم واللام أصلان منقاسان مطّردان، كل واحدٍ منهما في معناه وبابه.\n\nفالأوّل يدلُّ على دَوَران الشيء بالشيء وأخْذِهِ إيّاه من جوانبه. من ذلك قولهم: شَمَِلَهم الأمرُ ، إذا عمَّهم. وهذا أمرٌ شاملٌ. ومنه الشَّملَة، وهي كساءٌ يُؤتَزَرُ به ويُشْتَمَل. وجمع الله شَمْله، إِذا دَعَا له بتألُّف أموره، وإِذا تألَّفَتْ اشتمل كلُّ واحدٍ منهما بالآخر .\n\nومن الباب: شملت الشاة، إِذا جعلتَ لها شِمالاً، وهو وعاء كالكيس يدُخَل فيه ضرعُها فيشتمل عليه. وكذلك شَمَلْتُ النَّخلَة، إِذا كانت تنفضُ حَمْلَها فشُدَّت أعذاقُها بقِطَع الأكسية.\n\nومن الباب: المِشْمل: سيفٌ صغير يَشْتَمِل الرَّجُل عليه بثوبه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشمق - شمل\n\n(شمل) الشين والميم واللام أصلان منقاسان مطّردان، كل واحدٍ منهما في معناه وبابه.\n\nفالأوّل يدلُّ على دَوَران الشيء بالشيء وأخْذِهِ إيّاه من جوانبه. من ذلك قولهم: شَمَِلَهم الأمرُ ، إذا عمَّهم. وهذا أمرٌ شاملٌ. ومنه الشَّملَة، وهي كساءٌ يُؤتَزَرُ به ويُشْتَمَل. وجمع الله شَمْله، إِذا دَعَا له بتألُّف أموره، وإِذا تألَّفَتْ اشتمل كلُّ واحدٍ منهما بالآخر .\n\nومن الباب: شملت الشاة، إِذا جعلتَ لها شِمالاً، وهو وعاء كالكيس يدُخَل فيه ضرعُها فيشتمل عليه. وكذلك شَمَلْتُ النَّخلَة، إِذا كانت تنفضُ حَمْلَها فشُدَّت أعذاقُها بقِطَع الأكسية.\n\nومن الباب: المِشْمل: سيفٌ صغير يَشْتَمِل الرَّجُل عليه بثوبه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–m–l the left hand, the left-hand side; bad omens, affliction; to contain, to include, to possess, containment. Of this root, three forms occur 12 times in the Qurʾan: اشْتَمَلَ ʾishtamala twice; شِمَال shimāl eight times and شَمَائِل shamāʾil twice.\nاشْتَمَلَ ʾishtamala [v. VIII, intrans.] to contain, to envelop (6:143) عَلَى الذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ is it the two males He has forbidden, or the two females, or what the wombs of the two females contained?\n\nشِمَال shimāl [n., pl. شَمَائِل shamāʾil] 1 the left-hand side *(56:41) وَأَصْحَابُ الشِّمَالِ (epithet for the lost) evil-doers [lit. people of the left]; *(18:17) ذَاتَ الشِّمَالِ leftward, to the left, by the left side [lit. the one with the left]; *(50:17) عَنِ الشِّمَالِ on the left, by the left side 2 the left hand (69:25) وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ but he who is given his Record in his left hand will say, ‘If only I had never been given any Record.’",
+      "definition_english": "sh–m–l the left hand, the left-hand side; bad omens, affliction; to contain, to include, to possess, containment. Of this root, three forms occur 12 times in the Qurʾan: اشْتَمَلَ ʾishtamala twice; شِمَال shimāl eight times and شَمَائِل shamāʾil twice.\nاشْتَمَلَ ʾishtamala [v. VIII, intrans.] to contain, to envelop (6:143) عَلَى الذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ is it the two males He has forbidden, or the two females, or what the wombs of the two females contained?\n\nشِمَال shimāl [n., pl. شَمَائِل shamāʾil] 1 the left-hand side *(56:41) وَأَصْحَابُ الشِّمَالِ (epithet for the lost) evil-doers [lit. people of the left]; *(18:17) ذَاتَ الشِّمَالِ leftward, to the left, by the left side [lit. the one with the left]; *(50:17) عَنِ الشِّمَالِ on the left, by the left side 2 the left hand (69:25) وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ but he who is given his Record in his left hand will say, ‘If only I had never been given any Record.’"
+    }
+  ],
   "occurrences": [
     "16:48:13",
     "18:17:14",

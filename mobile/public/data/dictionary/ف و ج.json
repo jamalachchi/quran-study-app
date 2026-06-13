@@ -1,9 +1,22 @@
 {
-  "id": 2908,
   "root": "ف و ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفهم - فوت\n\n(فوج) الفاء والواو والجيم كلمةٌ تدلُّ على تجمُّع. من ذلك الفَوْج، الجماعة من النَّاس، والجمع أفواج، وجمع الجمعِ أفاوِج وأفاويج. وأمَّا أفاجَ الرَّجُل، إذا أسرَعَ، فهو من ذوات الياء، والفَيْج منه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفهم - فوت\n\n(فوج) الفاء والواو والجيم كلمةٌ تدلُّ على تجمُّع. من ذلك الفَوْج، الجماعة من النَّاس، والجمع أفواج، وجمع الجمعِ أفاوِج وأفاويج. وأمَّا أفاجَ الرَّجُل، إذا أسرَعَ، فهو من ذوات الياء، والفَيْج منه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "accuse falsely; to vary greatly, to be flawed; to be inadequate. Of\nthis root, three forms occur five times in the Qur’an: فَات fata three\ntimes; فَوْت fawt once and تَفَاوُت tafāwut once.\n\nفَات fata ū [v. trans.] to bypass, to miss, to pass away from, to\nescape someone or something (57:23) لِكَيْلَا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلَا\nتَفْرَحُوا بِمَا آتَاكُمْ so that you do not grieve for that [benefit] which\nescapes you nor exult in what [gain] He gives you.\n\nفَوْت fawt [v. n.] escape (34:51) وَلَوْ تَرَى إِذْ فَزِعُوا فَلَا فَوْتَ if you\ncould only see when they become terrified [by death/\nresurrection?], there will be no escape.\n\nتَفَاوُت tafāwut [v. n.] disparity (67:3) مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ\nتَفَاوُتٍ you will not see any disparity in the creation of the Lord of\nMercy.",
+      "definition_english": "accuse falsely; to vary greatly, to be flawed; to be inadequate. Of\nthis root, three forms occur five times in the Qur’an: فَات fata three\ntimes; فَوْت fawt once and تَفَاوُت tafāwut once.\n\nفَات fata ū [v. trans.] to bypass, to miss, to pass away from, to\nescape someone or something (57:23) لِكَيْلَا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلَا\nتَفْرَحُوا بِمَا آتَاكُمْ so that you do not grieve for that [benefit] which\nescapes you nor exult in what [gain] He gives you.\n\nفَوْت fawt [v. n.] escape (34:51) وَلَوْ تَرَى إِذْ فَزِعُوا فَلَا فَوْتَ if you\ncould only see when they become terrified [by death/\nresurrection?], there will be no escape.\n\nتَفَاوُت tafāwut [v. n.] disparity (67:3) مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ\nتَفَاوُتٍ you will not see any disparity in the creation of the Lord of\nMercy."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–w–j group of people; running fast; clearing between two\nheights; waft of fragrance; (of a she-camel) being fat. Of this root,\ntwo forms occur five times in the Qur’an: فَوْج fawj three times and\nأَفْوَاج ʾafwāj twice.\n\nفَوْج fawj [n.; pl. أَفْوَاج ʾafwāj] group of people, company of\npeople, crowd, a drove (78:18) يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا on the\nDay when the Trumpet will be blown and you will emerge [from\nyour graves] in droves.",
+      "definition_english": "f–w–j group of people; running fast; clearing between two\nheights; waft of fragrance; (of a she-camel) being fat. Of this root,\ntwo forms occur five times in the Qur’an: فَوْج fawj three times and\nأَفْوَاج ʾafwāj twice.\n\nفَوْج fawj [n.; pl. أَفْوَاج ʾafwāj] group of people, company of\npeople, crowd, a drove (78:18) يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا on the\nDay when the Trumpet will be blown and you will emerge [from\nyour graves] in droves."
+    }
+  ],
   "occurrences": [
     "110:2:7",
     "27:83:6",

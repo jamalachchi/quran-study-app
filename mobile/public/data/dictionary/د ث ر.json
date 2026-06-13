@@ -1,9 +1,17 @@
 {
-  "id": 1269,
   "root": "د ث ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدثر - دثأ\n\nبمالٍ كالدّبا . ويقال أرضٌ مَدْبَاةٌ: كثيرة الدبا. ومَدْبِيَّةٌ: أَكَلَ الدّبَا نباتَها.\n\n{باب الدال والثاء وما يثلثهما}\n\n(دثر) الدال والثاء والراء أصلٌ واحد منقاسٌ مطّرد. وهو تضاعُفُ شيءٍ وتناضُدُه بعضِه على بعض. فالدَّثْر : المال الكثير. والدِّثار: ما تدثَّر به الإنسانُ، وهو فوق الشِّعار. فأمّا قول القائل:\n\n* والعَكَرِ الدَّثِرْ *\n\nفإنَّه أراد الدَّثْر فحرك الثاء، وهو الكثير.\n\nومن الباب تَدَثَّر الفَحْلُ الناقَة، إذا تَسَنَّمَها، كأنَّه صار دِثاراً لها. وتدثَّر الرجُلُ فرسَه، إذا وثب عليه فركِبَه. والدَّثُور: الرّجل النَّؤُوم .وسمِّي لأنَّه يتدثَّر وينام. فأمّا قولهم رسْمٌ داثِرٌ، فهو من هذا، وذلك أنَّه يكون ظاهراً حتى تهبّ عليه الرِّياحُ وتأتِيَه الرَّوامسُ، فتصيرَ له كالدِّثار فتغطِّيه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدثر - دثأ\n\nبمالٍ كالدّبا . ويقال أرضٌ مَدْبَاةٌ: كثيرة الدبا. ومَدْبِيَّةٌ: أَكَلَ الدّبَا نباتَها.\n\n{باب الدال والثاء وما يثلثهما}\n\n(دثر) الدال والثاء والراء أصلٌ واحد منقاسٌ مطّرد. وهو تضاعُفُ شيءٍ وتناضُدُه بعضِه على بعض. فالدَّثْر : المال الكثير. والدِّثار: ما تدثَّر به الإنسانُ، وهو فوق الشِّعار. فأمّا قول القائل:\n\n* والعَكَرِ الدَّثِرْ *\n\nفإنَّه أراد الدَّثْر فحرك الثاء، وهو الكثير.\n\nومن الباب تَدَثَّر الفَحْلُ الناقَة، إذا تَسَنَّمَها، كأنَّه صار دِثاراً لها. وتدثَّر الرجُلُ فرسَه، إذا وثب عليه فركِبَه. والدَّثُور: الرّجل النَّؤُوم .وسمِّي لأنَّه يتدثَّر وينام. فأمّا قولهم رسْمٌ داثِرٌ، فهو من هذا، وذلك أنَّه يكون ظاهراً حتى تهبّ عليه الرِّياحُ وتأتِيَه الرَّوامسُ، فتصيرَ له كالدِّثار فتغطِّيه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d-th-r to become blotted out, to be forgotten; to become cold,\nto rust; to be covered, to be wrapped up, an outer garment. Of this\nroot, مُدَّثِّر muddaththir occurs once in the Qurʾān.\n\nمُدَّثِّر muddaththir [an assimilated form of act. part. مُتَدَثِّر\nmutadaththir of v. V تَدَثَّرَ taddaththara] 1 one who is wrapping\nhimself up (74:1–2) يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ قُمْ فَأَنذِرْ you, the one wrapping\nyourself [in your cloak], arise and give warning; ** مُدَّثِّر name of\nSura 74, Meccan sura, so-named because of reference in verse 1\nto ‘the Wrapped One’.",
+      "definition_english": "d-th-r to become blotted out, to be forgotten; to become cold,\nto rust; to be covered, to be wrapped up, an outer garment. Of this\nroot, مُدَّثِّر muddaththir occurs once in the Qurʾān.\n\nمُدَّثِّر muddaththir [an assimilated form of act. part. مُتَدَثِّر\nmutadaththir of v. V تَدَثَّرَ taddaththara] 1 one who is wrapping\nhimself up (74:1–2) يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ قُمْ فَأَنذِرْ you, the one wrapping\nyourself [in your cloak], arise and give warning; ** مُدَّثِّر name of\nSura 74, Meccan sura, so-named because of reference in verse 1\nto ‘the Wrapped One’."
+    }
+  ],
   "occurrences": [
     "74:1:2"
   ]

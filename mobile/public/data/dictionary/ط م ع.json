@@ -1,9 +1,17 @@
 {
-  "id": 2408,
   "root": "ط م ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطلق\n\n(طمع) الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ في القلبِ قويٍّ للشَّيء. يقال طَمِعَ في الشيءِ طَمَعاً وطَمَاعة وطماعِيَة. ولَطَمُعْتَ يازيد كما يقولون: لَقَضُو القاضي. هذا عند التعجُّب. ويقال امرأةٌ مِطْماعٌ، للتي تُطمِع ولا تُمْكِن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطلق\n\n(طمع) الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ في القلبِ قويٍّ للشَّيء. يقال طَمِعَ في الشيءِ طَمَعاً وطَمَاعة وطماعِيَة. ولَطَمُعْتَ يازيد كما يقولون: لَقَضُو القاضي. هذا عند التعجُّب. ويقال امرأةٌ مِطْماعٌ، للتي تُطمِع ولا تُمْكِن.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t–m–ʿ to hope, to desire, to crave; to expect; to covet; greed. Of this root, two forms occur 12 times in the Qur’an: طَمِعَ tamiʿa eight times and طَمَع tamaʿ four times.\nطَمِعَ tamiʿa a [v., intrans.] 1 to hope, to expect (2:75) أَفَتَطْمَعُونَ أَن can you hope that they will believe in what you say 2 to desire, to crave, to yearn (33:32) إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ if you show piety, do not be submissive in your speech, lest he in whose heart is sickness should [be moved to] desire/covet [you].\n\nطَمَع tamaʿ [v. n./n.] the act of hoping, hope; greed (32:16) يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا praying to their Lord in fear and hope.",
+      "definition_english": "t–m–ʿ to hope, to desire, to crave; to expect; to covet; greed. Of this root, two forms occur 12 times in the Qur’an: طَمِعَ tamiʿa eight times and طَمَع tamaʿ four times.\nطَمِعَ tamiʿa a [v., intrans.] 1 to hope, to expect (2:75) أَفَتَطْمَعُونَ أَن can you hope that they will believe in what you say 2 to desire, to crave, to yearn (33:32) إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ if you show piety, do not be submissive in your speech, lest he in whose heart is sickness should [be moved to] desire/covet [you].\n\nطَمَع tamaʿ [v. n./n.] the act of hoping, hope; greed (32:16) يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا praying to their Lord in fear and hope."
+    }
+  ],
   "occurrences": [
     "13:12:6",
     "26:51:2",

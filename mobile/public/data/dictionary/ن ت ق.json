@@ -1,9 +1,17 @@
 {
-  "id": 3918,
   "root": "ن ت ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنبأ\n\n(نتق) النون والتاء والقاف أصلٌ يدلُّ على جَذْب شيءٍ وزَعزَعَتِه وقَلْعِه من أصله. تقول العرب: نتَقْتُ الغَرْبَ من البِئر: جَذَبْتُه. والبعير إذا تَزَعْزَع حِملُه نتَقَ عُرَى حِبالِه، وذلك جَذْبُه إيّاها فتَسترخِي. وامرأةٌ ناتقٌ: كثُرَ أولادُها. وهذا قياس الباب، كأنَّهم نُتِقُوا مِنْها نتقاً. قال :\n\nدَحَقَتْ عليك بناتِقٍ مذكارِ\n\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ\n\nنتك نتل نتأ\n\nوفي الحديث: \"علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً\". وزَنْدٌ ناتقٌ: وارٍ؛ وهو القياس.\n\n( [ نتك) النون والتاء والكاف. النَّتْك ]، هي من يمانيَّات أبي بكر . قال: وهي شَبِيهٌ بالنَّتْف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنبأ\n\n(نتق) النون والتاء والقاف أصلٌ يدلُّ على جَذْب شيءٍ وزَعزَعَتِه وقَلْعِه من أصله. تقول العرب: نتَقْتُ الغَرْبَ من البِئر: جَذَبْتُه. والبعير إذا تَزَعْزَع حِملُه نتَقَ عُرَى حِبالِه، وذلك جَذْبُه إيّاها فتَسترخِي. وامرأةٌ ناتقٌ: كثُرَ أولادُها. وهذا قياس الباب، كأنَّهم نُتِقُوا مِنْها نتقاً. قال :\n\nدَحَقَتْ عليك بناتِقٍ مذكارِ\n\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ\n\nنتك نتل نتأ\n\nوفي الحديث: \"علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً\". وزَنْدٌ ناتقٌ: وارٍ؛ وهو القياس.\n\n( [ نتك) النون والتاء والكاف. النَّتْك ]، هي من يمانيَّات أبي بكر . قال: وهي شَبِيهٌ بالنَّتْف.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ن/ت/ق n–t–q to shake; to raise, to lift up, to overturn, to pour out by\noverturning; (of a camel’s rigging) to become loose. Of this root,\nنَتَقَ nataqa, occurs once in the Qur’an.\n\nنَتَقَ nataqa i [v. trans.] to raise, to hoist (7:171) وَإِذْ نَتَقْنَا الْجَبَلَ\nفَوْقَهُمْ and [remember] when We hoisted the mountain [high]\nabove them as if it were a canopy.",
+      "definition_english": "ن/ت/ق n–t–q to shake; to raise, to lift up, to overturn, to pour out by\noverturning; (of a camel’s rigging) to become loose. Of this root,\nنَتَقَ nataqa, occurs once in the Qur’an.\n\nنَتَقَ nataqa i [v. trans.] to raise, to hoist (7:171) وَإِذْ نَتَقْنَا الْجَبَلَ\nفَوْقَهُمْ and [remember] when We hoisted the mountain [high]\nabove them as if it were a canopy."
+    }
+  ],
   "occurrences": [
     "7:171:2"
   ]

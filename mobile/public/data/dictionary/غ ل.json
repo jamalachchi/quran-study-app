@@ -1,8 +1,11 @@
 {
-  "id": 2734,
   "root": "غ ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\n(غل) الغين واللام أصلٌ صحيحٌ يدلُّ على تخلل شيءٍ، وثباتِ شيء،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\n(غل) الغين واللام أصلٌ صحيحٌ يدلُّ على تخلل شيءٍ، وثباتِ شيء،",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

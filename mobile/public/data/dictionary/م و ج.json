@@ -1,9 +1,17 @@
 {
-  "id": 3636,
   "root": "م و ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمهن - موت\n\n(موج) الميم والواو والجيم أصلٌ واحد يدلُّ على اضطرابٍ في الشيء. وماجَ الناسُ يموجون، إذا اضطرَبوا. وماجَ أمرُهم ومَرِج: اضطرب. والمَوْج: مَوج البحر، سمِّي لاضطرابه. وماج يَموج مَوْجاً ومَوَجاناً. وكلُّ شيءٍ اضطربَ فقد ماج.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمهن - موت\n\n(موج) الميم والواو والجيم أصلٌ واحد يدلُّ على اضطرابٍ في الشيء. وماجَ الناسُ يموجون، إذا اضطرَبوا. وماجَ أمرُهم ومَرِج: اضطرب. والمَوْج: مَوج البحر، سمِّي لاضطرابه. وماج يَموج مَوْجاً ومَوَجاناً. وكلُّ شيءٍ اضطربَ فقد ماج.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–w–j wave, swell, surge, to swell, to heave, to roll, to be\nexcited, to be agitated, to flood, to be stormy, (of sea) to be high;\nto intermingle. Of this root, two forms occur seven times in the\nQur’an: يَمُوج yamūj once and مَوْج mawj six times.\n\nيَمُوج yamūj [imperf. of v. مَاجَ māja intrans.] to surge up, to\nswell up, to be tumultuous (18:99) وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ\nWe will let them, on that day, surge against each other.\n\nمَوْج mawj [n.] waves, breakers (31:32) وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ دَعَوُا\nاللَّهَ مُخْلِصِينَ لَهُ الدِّينَ when waves enshroud them like canopies, they\ncall on God, devoting their religion sincerely to Him.",
+      "definition_english": "m–w–j wave, swell, surge, to swell, to heave, to roll, to be\nexcited, to be agitated, to flood, to be stormy, (of sea) to be high;\nto intermingle. Of this root, two forms occur seven times in the\nQur’an: يَمُوج yamūj once and مَوْج mawj six times.\n\nيَمُوج yamūj [imperf. of v. مَاجَ māja intrans.] to surge up, to\nswell up, to be tumultuous (18:99) وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ\nWe will let them, on that day, surge against each other.\n\nمَوْج mawj [n.] waves, breakers (31:32) وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ دَعَوُا\nاللَّهَ مُخْلِصِينَ لَهُ الدِّينَ when waves enshroud them like canopies, they\ncall on God, devoting their religion sincerely to Him."
+    }
+  ],
   "occurrences": [
     "10:22:22",
     "11:42:5",

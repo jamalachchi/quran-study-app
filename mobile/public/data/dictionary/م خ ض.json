@@ -1,9 +1,27 @@
 {
-  "id": 3693,
   "root": "م خ ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمحق - محك\n\n(مخض) الميم والخاء والضاد أصلٌ صحيح يدلُّ على اضطرابِ شيء في وعائِه مائعٍ، ثم يستعار. ومَخَضت اللَّبَن أمخضه مَخْضاً. والمَخْض: هدر البَعير، وهو على التَّشبيه، كأنَّه يمخض في شِقْشِقته شيئاً. والماخِض: الحامل إذا ضرَبَها الطَّلْق. وهذا أيضاً على معنى التَّشبيه، كأنَّ الذي في جوفها شيءٌ مائع يتمخَّض. والمَخَاض: النُّوق الحواملُ، واحدتها خَلِفة. ويقال لولد النَّاقة إذا أُرسِل الفحلُ في الإبل التي فيها أمُّه: ابنُ مَخَاضٍ، لَقِحت أُمُّه أمْ لا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمحق - محك\n\n(مخض) الميم والخاء والضاد أصلٌ صحيح يدلُّ على اضطرابِ شيء في وعائِه مائعٍ، ثم يستعار. ومَخَضت اللَّبَن أمخضه مَخْضاً. والمَخْض: هدر البَعير، وهو على التَّشبيه، كأنَّه يمخض في شِقْشِقته شيئاً. والماخِض: الحامل إذا ضرَبَها الطَّلْق. وهذا أيضاً على معنى التَّشبيه، كأنَّ الذي في جوفها شيءٌ مائع يتمخَّض. والمَخَاض: النُّوق الحواملُ، واحدتها خَلِفة. ويقال لولد النَّاقة إذا أُرسِل الفحلُ في الإبل التي فيها أمُّه: ابنُ مَخَاضٍ، لَقِحت أُمُّه أمْ لا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "has prepared (or, He has known their hearts to be fit) for piety.\n* الممتحنة name of Sura 60, Medinan sura, so-named because of\n  the reference in verses 10–11 to the ‘Test’ given to the women\n  who emigrated to Medina.",
+      "definition_english": "has prepared (or, He has known their hearts to be fit) for piety.\n* الممتحنة name of Sura 60, Medinan sura, so-named because of\n  the reference in verses 10–11 to the ‘Test’ given to the women\n  who emigrated to Medina."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–kh–ḍ to be in labour, to give birth, the pain of giving birth,\nto be with child; to churn, skimmed milk, a churn; to move fast.\nOf this root, مَخَاض makhāḍ, occurs once in the Qur’an.\n\nمَخَاض makhāḍ [v. n./n.] being in labour, labour pains, labour\n(19:23) فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ birth pangs drove her to the\ntrunk of the palm tree.",
+      "definition_english": "m–kh–ḍ to be in labour, to give birth, the pain of giving birth,\nto be with child; to churn, skimmed milk, a churn; to move fast.\nOf this root, مَخَاض makhāḍ, occurs once in the Qur’an.\n\nمَخَاض makhāḍ [v. n./n.] being in labour, labour pains, labour\n(19:23) فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ birth pangs drove her to the\ntrunk of the palm tree."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–kh–ḍ to be in labour, to give birth, the pain of giving birth, to be with child; to churn, skimmed milk, a churn; to move fast. Of this root, مَخَاض makhāḍ, occurs once in the Qur’an.\nمَخَاض makhāḍ [v. n./n.] being in labour, labour pains, labour (19:23) فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ birth pangs drove her to the trunk of the palm tree.",
+      "definition_english": "m–kh–ḍ to be in labour, to give birth, the pain of giving birth, to be with child; to churn, skimmed milk, a churn; to move fast. Of this root, مَخَاض makhāḍ, occurs once in the Qur’an.\nمَخَاض makhāḍ [v. n./n.] being in labour, labour pains, labour (19:23) فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ birth pangs drove her to the trunk of the palm tree."
+    }
+  ],
   "occurrences": [
     "19:23:2"
   ]

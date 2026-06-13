@@ -1,8 +1,11 @@
 {
-  "id": 3854,
   "root": "ن ه ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنهر\n\n(نهع) النون والهاء والعين ليس بشيء. على أنهم يقولون: نَهَعَ، إذا تَهَوَّعَ من غير قَلْسٍ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنهر\n\n(نهع) النون والهاء والعين ليس بشيء. على أنهم يقولون: نَهَعَ، إذا تَهَوَّعَ من غير قَلْسٍ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

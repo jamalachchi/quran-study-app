@@ -1,8 +1,11 @@
 {
-  "id": 4110,
   "root": "ن ك ظ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنكر - نكز\n\n(نكظ) النون والكاف والظاء كلمة واحدة. يقال النَّكظ: الدَّفع والعَجَلة. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنكر - نكز\n\n(نكظ) النون والكاف والظاء كلمة واحدة. يقال النَّكظ: الدَّفع والعَجَلة. قال:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

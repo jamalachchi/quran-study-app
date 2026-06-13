@@ -1,9 +1,17 @@
 {
-  "id": 261,
   "root": "ب ر ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبرج - برح\n\n(برح) الباء والراء والحاء أصلان يتفرّع عنهما فروعٌ كثيرة. فالأول: الزَّوال والبروزُ والانكِشاف. والثاني: الشِّدَّة والعِظَم وما أشبههُما.\n\nأمّا الأول فقال الخليل: بَرَحَ يَبْرَحُ بَرَاحا إذا رَامَ مِن موضِعِه، وأبرحته أنا. قال العامريّ: يقول الرّجُل لراحلتهِ إذا كانت بطيئةً: لا تَبْرَحُ بَرَاحاً يُنْتَفَعُ به. ويقول: ما برِحْتُ أفْعَلُ ذلك، في معنى مازِلْت. قال الله تعالى حكايةً عمَّن قال: ] لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِِينَ [ [طه 91] أي لن نَزَالَ. وأنشد:\n\nبِحَمْدِ اللهِ مُنْتَطِقاً مُجِيداً\n\nفأبْرَحُ مَا أَدَامَ اللهُ قَوْمي\n\nأي لا أزال. ومُجيدٌ: صاحبُ فرسٍ جَواد، ومُنْتطقٌ: قد شَدّ عليه النِّطاق. ويقول العرب: \"بَرَِحَ الخَفَاء\" أي انكشَفَ الأمر. وقال:\n\n*بَرِحَ الخفاءُ فما لَدَيَّ تجلُّد *\n\nقال الفرّاء: وبرَح بالفتح أيضاً، أي مضى، ومنه سُمِّيت البارحة. قالوا:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبرج - برح\n\n(برح) الباء والراء والحاء أصلان يتفرّع عنهما فروعٌ كثيرة. فالأول: الزَّوال والبروزُ والانكِشاف. والثاني: الشِّدَّة والعِظَم وما أشبههُما.\n\nأمّا الأول فقال الخليل: بَرَحَ يَبْرَحُ بَرَاحا إذا رَامَ مِن موضِعِه، وأبرحته أنا. قال العامريّ: يقول الرّجُل لراحلتهِ إذا كانت بطيئةً: لا تَبْرَحُ بَرَاحاً يُنْتَفَعُ به. ويقول: ما برِحْتُ أفْعَلُ ذلك، في معنى مازِلْت. قال الله تعالى حكايةً عمَّن قال: ] لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِِينَ [ [طه 91] أي لن نَزَالَ. وأنشد:\n\nبِحَمْدِ اللهِ مُنْتَطِقاً مُجِيداً\n\nفأبْرَحُ مَا أَدَامَ اللهُ قَوْمي\n\nأي لا أزال. ومُجيدٌ: صاحبُ فرسٍ جَواد، ومُنْتطقٌ: قد شَدّ عليه النِّطاق. ويقول العرب: \"بَرَِحَ الخَفَاء\" أي انكشَفَ الأمر. وقال:\n\n*بَرِحَ الخفاءُ فما لَدَيَّ تجلُّد *\n\nقال الفرّاء: وبرَح بالفتح أيضاً، أي مضى، ومنه سُمِّيت البارحة. قالوا:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-r-ḥ wide empty expanse of land; to be clear, to come out in the open; to depart; to cause hardship. Of this root, أبرح ʾabraḥ occurs three times in the Qur’an.\nأبرح ʾabraḥ [imperf. of v. برح bariḥa, trans.] 1 to depart, to go away from (12:80) فلن أبرح الأرض حتى يأذن لي أبي أو يحكم الله لي never will I leave this land until my father gives me permission or God decides for me 2 [always negated] (not to) cease, stop, quit, desist (18:60) لا أبرح حتى أبلغ مجمع البحرين I will not desist [from journeying] until I reach the place where the two seas meet.",
+      "definition_english": "b-r-ḥ wide empty expanse of land; to be clear, to come out in the open; to depart; to cause hardship. Of this root, أبرح ʾabraḥ occurs three times in the Qur’an.\nأبرح ʾabraḥ [imperf. of v. برح bariḥa, trans.] 1 to depart, to go away from (12:80) فلن أبرح الأرض حتى يأذن لي أبي أو يحكم الله لي never will I leave this land until my father gives me permission or God decides for me 2 [always negated] (not to) cease, stop, quit, desist (18:60) لا أبرح حتى أبلغ مجمع البحرين I will not desist [from journeying] until I reach the place where the two seas meet."
+    }
+  ],
   "occurrences": [
     "12:80:25",
     "18:60:6",

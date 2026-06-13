@@ -1,9 +1,17 @@
 {
-  "id": 4226,
   "root": "ه ر ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهرس - هرش\n\n(هرع) الهاء والراء والعين: أصلٌ صحيحٌ يدلُّ على حركةٍ واضطراب. وأُهْرِعَ الرّجُلُ: ارتَعَدَ فَرَقاً. وسمِّيَ الأحمقُ هَيْرَعاً لاضطرابِ رائِهِ. ويمكن أنَّ الهاء فيه زائدة، فيكون من باب يَرَع. ويقال الهِرْياع: سَفِير الشَّجرِ، لأنَّه مضطرِبٌ تحمِلُهُ الرِّيحُ من موضعٍ إلى موضع.\n\nومن الباب: الهَرِع: الدَّمعُ أو الدّمُ الجارِي. وتَهَرَّعَتِ الرِّماحُ: أقبلَتْ شوارِعَ. وهم يُهْرَعُون إليه، أي يُساقُون.\n\nهرف - هرل - هرم - هرو\n\nومما ليس من الباب الهَرْعة : دُوَيْبَّة. يقال لها هَرِيعٌ وهريع .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهرس - هرش\n\n(هرع) الهاء والراء والعين: أصلٌ صحيحٌ يدلُّ على حركةٍ واضطراب. وأُهْرِعَ الرّجُلُ: ارتَعَدَ فَرَقاً. وسمِّيَ الأحمقُ هَيْرَعاً لاضطرابِ رائِهِ. ويمكن أنَّ الهاء فيه زائدة، فيكون من باب يَرَع. ويقال الهِرْياع: سَفِير الشَّجرِ، لأنَّه مضطرِبٌ تحمِلُهُ الرِّيحُ من موضعٍ إلى موضع.\n\nومن الباب: الهَرِع: الدَّمعُ أو الدّمُ الجارِي. وتَهَرَّعَتِ الرِّماحُ: أقبلَتْ شوارِعَ. وهم يُهْرَعُون إليه، أي يُساقُون.\n\nهرف - هرل - هرم - هرو\n\nومما ليس من الباب الهَرْعة : دُوَيْبَّة. يقال لها هَرِيعٌ وهريع .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–r–ʿ to go in haste, to hurry, haste, hasty, to walk briskly; to\nflow; a weak person. Of this root, يُهْرَع yuhraʿ occurs twice in the\nQur’an.\n\nيُهْرَع yuhraʿ [pass. imperf. v., no active form] to go in haste, to\nspeed up (37:70) فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ so they hastily follow in\ntheir footsteps.\n\nهارون Hārūn (see alphabetically).",
+      "definition_english": "h–r–ʿ to go in haste, to hurry, haste, hasty, to walk briskly; to\nflow; a weak person. Of this root, يُهْرَع yuhraʿ occurs twice in the\nQur’an.\n\nيُهْرَع yuhraʿ [pass. imperf. v., no active form] to go in haste, to\nspeed up (37:70) فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ so they hastily follow in\ntheir footsteps.\n\nهارون Hārūn (see alphabetically)."
+    }
+  ],
   "occurrences": [
     "11:78:3",
     "37:70:4"

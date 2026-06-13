@@ -1,9 +1,17 @@
 {
-  "id": 429,
   "root": "ت ف ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتفل - تفه\n\n(تفث) التاء والفاء والثاء كلمةٌ واحدة في قول الله تعالى: ] ثمَّ لْيَقْضُوا تَفَثَهُمْ [ [الحج 29]. قال أبو عبيدةَ: هو قصُّ الأظافر وأخْذ الشَّارب وشمُّ الطيب وكلُّ ما يَحْرُم على المُحْرِم إلاّ النكاح. قال: ولم يجئ فيه شِعْرٌ يُحْتَجُّ به .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتفل - تفه\n\n(تفث) التاء والفاء والثاء كلمةٌ واحدة في قول الله تعالى: ] ثمَّ لْيَقْضُوا تَفَثَهُمْ [ [الحج 29]. قال أبو عبيدةَ: هو قصُّ الأظافر وأخْذ الشَّارب وشمُّ الطيب وكلُّ ما يَحْرُم على المُحْرِم إلاّ النكاح. قال: ولم يجئ فيه شِعْرٌ يُحْتَجُّ به .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-f-th hair matting and dirt accumulating on the body as a\nresult of leaving off acts of body cleansing, to become dirty in\nsuch a manner. Of this root, only تَفَث tafath occurs once in the\nQurʾān.\n\nتَفَث tafath a rare word interpreted either as: dirt resulting from\nabstaining from certain body grooming, such as shaving, cutting\nthe hair, clipping the nails and using perfume; or acts of worship\nspecified for the pilgrims (22:29) ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا\nبِالْبَيْتِ الْعَتِيقِ\nthen let them carry out their needed acts of cleansing\ntheir bodies (or, let them perform their acts of worship), fulfil\ntheir vows, and circle around the ancient House.",
+      "definition_english": "t-f-th hair matting and dirt accumulating on the body as a\nresult of leaving off acts of body cleansing, to become dirty in\nsuch a manner. Of this root, only تَفَث tafath occurs once in the\nQurʾān.\n\nتَفَث tafath a rare word interpreted either as: dirt resulting from\nabstaining from certain body grooming, such as shaving, cutting\nthe hair, clipping the nails and using perfume; or acts of worship\nspecified for the pilgrims (22:29) ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا\nبِالْبَيْتِ الْعَتِيقِ\nthen let them carry out their needed acts of cleansing\ntheir bodies (or, let them perform their acts of worship), fulfil\ntheir vows, and circle around the ancient House."
+    }
+  ],
   "occurrences": [
     "22:29:3"
   ]

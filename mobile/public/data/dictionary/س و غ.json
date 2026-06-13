@@ -1,9 +1,17 @@
 {
-  "id": 1853,
   "root": "س و غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسور - سوط\n\n(سوغ) السين والواو والغين أصلٌ يدلُّ على سهولة الشيء واستمراره في الحلق خاصّة، ثم يحمل على ذلك. يقال ساغ الشَّرابُ في الحَلْق سَوغاً. وأساغَ الله جلَّ جلالُهُ. ومن المشتقّ منه قولُهم: أصاب فلانٌ كذا فسوَّغْتُهُ إياه. وأمَّا قولُهُم هذا سَوْغُ هذا، أي مثله، فيجوز أن يكونَ من هذا، أي إنه يَجري مجراه ويستمرُّ استمراره. ويجوز أن يكون السّين مُبدَلة من صادٍ، كأنَّه صِيغَ صياغَته. وقد ذُكِرَ في بابه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسور - سوط\n\n(سوغ) السين والواو والغين أصلٌ يدلُّ على سهولة الشيء واستمراره في الحلق خاصّة، ثم يحمل على ذلك. يقال ساغ الشَّرابُ في الحَلْق سَوغاً. وأساغَ الله جلَّ جلالُهُ. ومن المشتقّ منه قولُهم: أصاب فلانٌ كذا فسوَّغْتُهُ إياه. وأمَّا قولُهُم هذا سَوْغُ هذا، أي مثله، فيجوز أن يكونَ من هذا، أي إنه يَجري مجراه ويستمرُّ استمراره. ويجوز أن يكون السّين مُبدَلة من صادٍ، كأنَّه صِيغَ صياغَته. وقد ذُكِرَ في بابه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–w–gh to swallow easily, to go down the throat pleasantly, to\nbe easy and agreeable to swallow; to travel at large; to follow one\nanother in birth. Of this root, two forms occur three times in the\nQurʾān: يُسِيغ yusīgh once and سَائِغ sāʾigh twice.\n\nيُسِيغ yusīgh [imperf. of v. IV, trans.] to find palatable, to\nswallow (14:17) يَتَجَرَّعُهُ وَلَا يَكَادُ يُسِيغُهُ he gulps it, although scarcely\nable to swallow (or, palate) it.\n\nسَائِغ sāʾigh [act. part.] easy and pleasant to swallow, palatable;\n\n467                             س/و/ق\n\npermissible (35:12) هَذَا عَذْبٌ فُرَاتٌ سَائِغٌ شَرَابُهُ this one is palatable,\nsweet, and pleasant to drink.",
+      "definition_english": "s–w–gh to swallow easily, to go down the throat pleasantly, to\nbe easy and agreeable to swallow; to travel at large; to follow one\nanother in birth. Of this root, two forms occur three times in the\nQurʾān: يُسِيغ yusīgh once and سَائِغ sāʾigh twice.\n\nيُسِيغ yusīgh [imperf. of v. IV, trans.] to find palatable, to\nswallow (14:17) يَتَجَرَّعُهُ وَلَا يَكَادُ يُسِيغُهُ he gulps it, although scarcely\nable to swallow (or, palate) it.\n\nسَائِغ sāʾigh [act. part.] easy and pleasant to swallow, palatable;\n\n467                             س/و/ق\n\npermissible (35:12) هَذَا عَذْبٌ فُرَاتٌ سَائِغٌ شَرَابُهُ this one is palatable,\nsweet, and pleasant to drink."
+    }
+  ],
   "occurrences": [
     "14:17:4",
     "16:66:16",

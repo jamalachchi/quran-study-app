@@ -1,9 +1,17 @@
 {
-  "id": 3192,
   "root": "ق س ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقسر - قشع\n\nوالقَسْب: الصُّلب من كلِّ شيء. والقَسِيب: الطَّويل الشَّديد. ومن* الباب القَسِيب، وهو صوتُ الماءِ في جرَيانه، ولا يكون صوتٌ إلاّ كان بقوة. قال عَبِيد:\n\n* للماء مِن تحتِهِ قَسيبُ *\n\n(قسر) القاف والسين والراء يدلُّ على قَهرٍ وغلَبَة بشدة. من ذلك القَسْر: الغَلَبة والقَهْر. يقال: قْسَرتهُ قسراً، واقتسرتُه اقتِساراً. وبعيرٌ قَيْسَرِيٌّ: صُلْب. والقَسْوَرة: الأسد، لقُوّته وغلَبته.\n\n(باب القاف والشين وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقسر - قشع\n\nوالقَسْب: الصُّلب من كلِّ شيء. والقَسِيب: الطَّويل الشَّديد. ومن* الباب القَسِيب، وهو صوتُ الماءِ في جرَيانه، ولا يكون صوتٌ إلاّ كان بقوة. قال عَبِيد:\n\n* للماء مِن تحتِهِ قَسيبُ *\n\n(قسر) القاف والسين والراء يدلُّ على قَهرٍ وغلَبَة بشدة. من ذلك القَسْر: الغَلَبة والقَهْر. يقال: قْسَرتهُ قسراً، واقتسرتُه اقتِساراً. وبعيرٌ قَيْسَرِيٌّ: صُلْب. والقَسْوَرة: الأسد، لقُوّته وغلَبته.\n\n(باب القاف والشين وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–s–r to compel, to force; lion, hunter, archer, brave; first part of the night; sturdy camels. The word for lion, however, is recognised by some philologists as a borrowing from Ethiopic. Of this root, قَسْوَرَة qaswaratun occurs once in the Qur’an.\nقَسْوَرَة qaswaratun [n. said to be the plural of قَسْوَر qaswar] lion, hunter (74:51) فَرَّتْ مِنْ قَسْوَرَةٍ [like stampeded wild asses] fleeing from a lion/a hunter.",
+      "definition_english": "q–s–r to compel, to force; lion, hunter, archer, brave; first part of the night; sturdy camels. The word for lion, however, is recognised by some philologists as a borrowing from Ethiopic. Of this root, قَسْوَرَة qaswaratun occurs once in the Qur’an.\nقَسْوَرَة qaswaratun [n. said to be the plural of قَسْوَر qaswar] lion, hunter (74:51) فَرَّتْ مِنْ قَسْوَرَةٍ [like stampeded wild asses] fleeing from a lion/a hunter."
+    }
+  ],
   "occurrences": [
     "74:51:3"
   ]

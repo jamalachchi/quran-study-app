@@ -1,9 +1,17 @@
 {
-  "id": 3080,
   "root": "ق م ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقمل - قنا\n\nومما شَذَّ عن هذه الأصولِ قولُهم: إنَّ قمعة مالِ القومِ: خيارُه .\n\n(قمل) القاف والميم واللام كلماتٌ تدلُّ على حَقارةٍ وقماءة. رجلٌ قَمَليٌّ، أي حقير، والقُمَّل: صِغار الدَّبا. وأقْمَلَ الرِّمْث، إذا بدا ورقُه صغاراً، كأنَّ ذلك شبِّه بالقُمَّل.\n\n(باب القاف والنون وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقمل - قنا\n\nومما شَذَّ عن هذه الأصولِ قولُهم: إنَّ قمعة مالِ القومِ: خيارُه .\n\n(قمل) القاف والميم واللام كلماتٌ تدلُّ على حَقارةٍ وقماءة. رجلٌ قَمَليٌّ، أي حقير، والقُمَّل: صِغار الدَّبا. وأقْمَلَ الرِّمْث، إذا بدا ورقُه صغاراً، كأنَّ ذلك شبِّه بالقُمَّل.\n\n(باب القاف والنون وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–m–l lice, to become louse-infested, dirty, (of people, plants\nand animals) to become blackened; to increase in population; to\nbe insignificant; grasshopper. Of this root, قُمَّل qummal occurs\nonce in the Qur’an.\n\nقُمَّل qummal [generic n., sing. قُمَّلَة qummalatun] lice,\ngrasshoppers, termites, ticks (7:133) فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ\nوَالضَّفَادِعَ وَالدَّمَ آيَاتٍ مُفَصَّلَاتٍ and so We let loose on them the flood,\nlocusts, lice, frogs and blood–a succession of clear signs.",
+      "definition_english": "q–m–l lice, to become louse-infested, dirty, (of people, plants\nand animals) to become blackened; to increase in population; to\nbe insignificant; grasshopper. Of this root, قُمَّل qummal occurs\nonce in the Qur’an.\n\nقُمَّل qummal [generic n., sing. قُمَّلَة qummalatun] lice,\ngrasshoppers, termites, ticks (7:133) فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ\nوَالضَّفَادِعَ وَالدَّمَ آيَاتٍ مُفَصَّلَاتٍ and so We let loose on them the flood,\nlocusts, lice, frogs and blood–a succession of clear signs."
+    }
+  ],
   "occurrences": [
     "7:133:5"
   ]

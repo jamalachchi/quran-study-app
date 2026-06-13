@@ -1,9 +1,17 @@
 {
-  "id": 3847,
   "root": "ن ه ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنهي\n\n(نهج) النون والهاء والجيم أصلانِ متباينان:\n\nالأوَّل النَّهْج، الطّريق. ونَهَج لي الأمْرَ: أوضَحَه. وهو مُستقيم المِنْهاج. والمَنْهج: الطَّريق أيضاً، والجمع المناهج.\n\nوالآخر الانقطاع. وأتانَا فلانٌ يَنْهَج ، إذا أتى مبهوراً منْقَطِع النَّفس. وضربت فلاناً حتى أُنْهِج، أي سقط.\n\nومن الباب نَهجَ الثّوبُ وأنْهَجَ: أخلق ولمّا ينشَقّ. وأنهجَه البِلَى. قال أبو عُبيدٍ: لا يقال نَهج .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنهي\n\n(نهج) النون والهاء والجيم أصلانِ متباينان:\n\nالأوَّل النَّهْج، الطّريق. ونَهَج لي الأمْرَ: أوضَحَه. وهو مُستقيم المِنْهاج. والمَنْهج: الطَّريق أيضاً، والجمع المناهج.\n\nوالآخر الانقطاع. وأتانَا فلانٌ يَنْهَج ، إذا أتى مبهوراً منْقَطِع النَّفس. وضربت فلاناً حتى أُنْهِج، أي سقط.\n\nومن الباب نَهجَ الثّوبُ وأنْهَجَ: أخلق ولمّا ينشَقّ. وأنهجَه البِلَى. قال أبو عُبيدٍ: لا يقال نَهج .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–h–j clear, open road, to pass through a clear road, to point\nout the way, to proceed; to breathe with difficulty; (of a garment)\nto become tattered. Of this root, مِنْهَاج minhāj, occurs once in the\nQur’an.\n\nمِنْهَاج minhāj [n.] a path, a clearly marked road, a way of life\n(5:48) لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا to each of you We have assigned a\nlaw and a path.",
+      "definition_english": "n–h–j clear, open road, to pass through a clear road, to point\nout the way, to proceed; to breathe with difficulty; (of a garment)\nto become tattered. Of this root, مِنْهَاج minhāj, occurs once in the\nQur’an.\n\nمِنْهَاج minhāj [n.] a path, a clearly marked road, a way of life\n(5:48) لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا to each of you We have assigned a\nlaw and a path."
+    }
+  ],
   "occurrences": [
     "5:48:29"
   ]

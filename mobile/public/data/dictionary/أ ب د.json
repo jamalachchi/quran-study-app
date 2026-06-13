@@ -1,9 +1,17 @@
 {
-  "id": 25,
   "root": "أ ب د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأبد\n\nأصبَحَ عمَّارٌ نشيطاً أبِثا\n\nيأكُلُ لحماً بائتا قد كَبِثَا\n\nوهذا الباب مهمل عند الخليل، وليست الكلمة عند ابن دريد .\n\nوالكَبِث: المتغيِّر المُرْوِح. وليس الكَبِث عند الخليل ولا ابن دريد. ويقال للذي لا يَقَِرّ من المرَح إنه لأبِثٌ. قال الشّيباني: أصبت إبلاً أبَاثَى يعني بُروكاً شَباعَى. وناقة أبِثَة.\n\n(أبد) الهمزة والباء والدال يدلّ بناؤها على طول المدّة، وعلى التوحّش. قالوا: الأبد الدهر، وجمعه آباد*. والعرب تقول: أبدٌ أبيدٌ، كما يقولون دهرٌ دَهير. والأَبْدَةٌ الفَعْلة تبقى على الأبَد. وتأبّد البعير توحّشَ. وفي الحديث: \"إنّ هذه البهائم لها أوابدُ كأوابد الوحْشِ\". وتأبّد المنزلُ خَلا. قال لبيد:\n\nعفَتِ الدِّيارُ مَحلُّها فمُقامها\n\nبمنىً تأبّدَ غَوْلُها فرِجامُها\n\nوقال ابنُ الأعرابي: الإبِد ذات النتاج من المال، كالأمَة والفرس والأتان، لأنهن يَضْنأن في كلّ عامٍ، أي يلدْن ويقال تأبّد وجهُه كَلِفَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأبد\n\nأصبَحَ عمَّارٌ نشيطاً أبِثا\n\nيأكُلُ لحماً بائتا قد كَبِثَا\n\nوهذا الباب مهمل عند الخليل، وليست الكلمة عند ابن دريد .\n\nوالكَبِث: المتغيِّر المُرْوِح. وليس الكَبِث عند الخليل ولا ابن دريد. ويقال للذي لا يَقَِرّ من المرَح إنه لأبِثٌ. قال الشّيباني: أصبت إبلاً أبَاثَى يعني بُروكاً شَباعَى. وناقة أبِثَة.\n\n(أبد) الهمزة والباء والدال يدلّ بناؤها على طول المدّة، وعلى التوحّش. قالوا: الأبد الدهر، وجمعه آباد*. والعرب تقول: أبدٌ أبيدٌ، كما يقولون دهرٌ دَهير. والأَبْدَةٌ الفَعْلة تبقى على الأبَد. وتأبّد البعير توحّشَ. وفي الحديث: \"إنّ هذه البهائم لها أوابدُ كأوابد الوحْشِ\". وتأبّد المنزلُ خَلا. قال لبيد:\n\nعفَتِ الدِّيارُ مَحلُّها فمُقامها\n\nبمنىً تأبّدَ غَوْلُها فرِجامُها\n\nوقال ابنُ الأعرابي: الإبِد ذات النتاج من المال، كالأمَة والفرس والأتان، لأنهن يَضْنأن في كلّ عامٍ، أي يلدْن ويقال تأبّد وجهُه كَلِفَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–b–d long time, eternity; to go wild; to desert, to be deserted;\nwild animals. Of this root, أَبَدًا ʾabadan occurs 28 times in the\nQur’an.\n\nأَبَدًا ʾabadan [adverbial] 1 forever, eternally, very long time\n(4:122) وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ\nخَالِدِينَ فِيهَا أَبَدًا as for those who believe and do good deeds, We will\nadmit them into gardens graced with flowing streams; there they\nare to remain for ever 2 [enhancing negation] ever a)\nexpressively, as in (9:108) لَا تَقُمْ فِيهِ أَبَدًا don’t you ever pray in it b)\nelliptically, as in (24:17) يَعِظُكُمُ اللَّهُ أَن تَعُودُوا لِمِثْلِهِ أَبَدًا God admonishes\nyou [not] to revert to the like of this [sin] ever.\n\nإِبْرَاهِيم ʾibrāhīm [borrowing from Hebrew occurring 69 times in the\nQur’an. Philologists classify it under ب/ر/ه/م b–r–h–m although\nthey recognise it as foreign] the Prophet Abraham (Gen. XII.5)\n(3:68) إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَذَا النَّبِيُّ وَالَّذِينَ آمَنُوا [certainly,]\n\n5",
+      "definition_english": "ʾ–b–d long time, eternity; to go wild; to desert, to be deserted;\nwild animals. Of this root, أَبَدًا ʾabadan occurs 28 times in the\nQur’an.\n\nأَبَدًا ʾabadan [adverbial] 1 forever, eternally, very long time\n(4:122) وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ\nخَالِدِينَ فِيهَا أَبَدًا as for those who believe and do good deeds, We will\nadmit them into gardens graced with flowing streams; there they\nare to remain for ever 2 [enhancing negation] ever a)\nexpressively, as in (9:108) لَا تَقُمْ فِيهِ أَبَدًا don’t you ever pray in it b)\nelliptically, as in (24:17) يَعِظُكُمُ اللَّهُ أَن تَعُودُوا لِمِثْلِهِ أَبَدًا God admonishes\nyou [not] to revert to the like of this [sin] ever.\n\nإِبْرَاهِيم ʾibrāhīm [borrowing from Hebrew occurring 69 times in the\nQur’an. Philologists classify it under ب/ر/ه/م b–r–h–m although\nthey recognise it as foreign] the Prophet Abraham (Gen. XII.5)\n(3:68) إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَذَا النَّبِيُّ وَالَّذِينَ آمَنُوا [certainly,]\n\n5"
+    }
+  ],
   "occurrences": [
     "18:20:13",
     "18:35:12",

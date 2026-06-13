@@ -1,9 +1,17 @@
 {
-  "id": 1276,
   "root": "د ح ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدجم - دجن\n\n(دحر) الدال والحاء والراء أصلٌ واحد، وهو الطَّرد والإبعاد. قال الله تعالى: ] اخْرُجْ مِنْهَا مَذْؤُوماً مَدْحُورا [ [الأعراف 18].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدجم - دجن\n\n(دحر) الدال والحاء والراء أصلٌ واحد، وهو الطَّرد والإبعاد. قال الله تعالى: ] اخْرُجْ مِنْهَا مَذْؤُوماً مَدْحُورا [ [الأعراف 18].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d-ḥ-r to chase away, to kick out, to repel, to banish. Of this\nroot, two forms occur four times in the Qurʾān: دُحُور duḥūr once\nand مَدْحُور madhḥūr three times.\n\nدُحُور duḥūr [v. n.] repelling, driving off (37:8–9) وَيُقْذَفُونَ مِن كُلِّ\nجَانِبٍ دُحُورًا pelted from every side and driven away.\n\nمَدْحُور madhḥūr [pass. part.] vanquished, repelled, driven away,\nrejected, banished (7:18) قَالَ ٱخْرُجْ مِنْهَا مَدْءُومًا مَّدْحُورًا He said, ‘Get\nout of it, disgraced and banished.’",
+      "definition_english": "d-ḥ-r to chase away, to kick out, to repel, to banish. Of this\nroot, two forms occur four times in the Qurʾān: دُحُور duḥūr once\nand مَدْحُور madhḥūr three times.\n\nدُحُور duḥūr [v. n.] repelling, driving off (37:8–9) وَيُقْذَفُونَ مِن كُلِّ\nجَانِبٍ دُحُورًا pelted from every side and driven away.\n\nمَدْحُور madhḥūr [pass. part.] vanquished, repelled, driven away,\nrejected, banished (7:18) قَالَ ٱخْرُجْ مِنْهَا مَدْءُومًا مَّدْحُورًا He said, ‘Get\nout of it, disgraced and banished.’"
+    }
+  ],
   "occurrences": [
     "17:18:18",
     "17:39:18",

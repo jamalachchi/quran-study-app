@@ -1,9 +1,17 @@
 {
-  "id": 2825,
   "root": "غ ز ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغرب\n\n(غزل) الغين والزاء واللام ثلاثُ كلماتٍ متباينات، لا تُقاس منها واحدةٌ بأخرى.\n\nفالأُولى: الغَزْل، يقال غَزَلت المرأة غَزْلَها، والخشبة مِغْزَل، والجمع مَغازِل.\n\nوالثانية: الغَزَل، وهو حديث الفِتْيان والفَتَيات. ويقال: غَزِلَ الكَلْب غَزَلاً، وهو أن يَطلُبَ الغزالَ حتّى إذا أدرَكَه تركه ولَهَا عنه.\n\nوالثانية: الغزال، وهو معروف، والأنثى غَزَالة، ولعلَّ اسمَ الشَّمسِ مستعارٌ من هذا، فإنَّ الشَّمسَ تسمَّى الغزالةَ ارتفاعَ الضُّحى.\n\nغزو - غزد - غزر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغرب\n\n(غزل) الغين والزاء واللام ثلاثُ كلماتٍ متباينات، لا تُقاس منها واحدةٌ بأخرى.\n\nفالأُولى: الغَزْل، يقال غَزَلت المرأة غَزْلَها، والخشبة مِغْزَل، والجمع مَغازِل.\n\nوالثانية: الغَزَل، وهو حديث الفِتْيان والفَتَيات. ويقال: غَزِلَ الكَلْب غَزَلاً، وهو أن يَطلُبَ الغزالَ حتّى إذا أدرَكَه تركه ولَهَا عنه.\n\nوالثانية: الغزال، وهو معروف، والأنثى غَزَالة، ولعلَّ اسمَ الشَّمسِ مستعارٌ من هذا، فإنَّ الشَّمسَ تسمَّى الغزالةَ ارتفاعَ الضُّحى.\n\nغزو - غزد - غزر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–z–l spindle, yarn, to spin; courtship; gazelle. Of this root,\nonly غَزْل ghazl occurs once in the Qur’an.\n\nغَزْل ghazl [n./v. n.] spun yarn; spinning (16:92) وَلَا تَكُونُوا كَالَّتِي\nنَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا and do not be like a woman who unspins\nher yarn into fibres after [it has attained] strength (i.e., do not\nfall into disunity having attained unity and strength).",
+      "definition_english": "gh–z–l spindle, yarn, to spin; courtship; gazelle. Of this root,\nonly غَزْل ghazl occurs once in the Qur’an.\n\nغَزْل ghazl [n./v. n.] spun yarn; spinning (16:92) وَلَا تَكُونُوا كَالَّتِي\nنَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا and do not be like a woman who unspins\nher yarn into fibres after [it has attained] strength (i.e., do not\nfall into disunity having attained unity and strength)."
+    }
+  ],
   "occurrences": [
     "16:92:5"
   ]

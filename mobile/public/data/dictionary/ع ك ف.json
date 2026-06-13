@@ -1,9 +1,17 @@
 {
-  "id": 2538,
   "root": "ع ك ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعكص - عكف\n\n(عكف) العين والكاف والفاء أصلٌ صحيح يدلُّ على مقابلةٍ وحبس، يقال: عَكَفَ يَعْكُفُ ويَعْكِفُ عُكوفاً، وذلك إقبالك على الشَّيء لا تنصرف عنه. قال:\n\nعَكْف النَّبيط يلعبون الفَنْزَجا\n\nفهن يعكفن به إذا *حجا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعكص - عكف\n\n(عكف) العين والكاف والفاء أصلٌ صحيح يدلُّ على مقابلةٍ وحبس، يقال: عَكَفَ يَعْكُفُ ويَعْكِفُ عُكوفاً، وذلك إقبالك على الشَّيء لا تنصرف عنه. قال:\n\nعَكْف النَّبيط يلعبون الفَنْزَجا\n\nفهن يعكفن به إذا *حجا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–k–f to be curled or twisted, to cling to, to be constant, to\ndevote oneself to, to apply oneself singlemindedly to; to isolate,\nto bar, to turn away from. Of this root, three forms occur nine\ntimes in the Qur’an: يَعْكُفُونَ yaʿkufūn once; عَاكِف ʿākif seven times\nand مَعْكُوف maʿkūf once.\n\nيَعْكُف yaʿkuf [imperf. v. intrans.] to devote oneself to, to cleave\nto (7:138) قَوْمٌ يَعْكُفُونَ عَلَى أَصْنَامٍ لَهُمْ a people devoted to the worship\nof idols of theirs.\n\nعَاكِف ʿākif [act. part.] 1 one who devotes himself to something\n(20:91) لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ we will never give up our devotion to it 2\none who is in seclusion [in a mosque], one who is in retreat\n(2:187) وَأَنْتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ while you are in retreat in mosques.\n\nمَعْكُوف maʿkūf [pass. part.] one who is barred, prevented,\nrestrained (48:25) وَالْهَدْيَ مَعْكُوفًا أَنْ يَبْلُغَ مَحِلَّهُ and the sacrificial\noffering detained from reaching its place of sacrifice.",
+      "definition_english": "ʿ–k–f to be curled or twisted, to cling to, to be constant, to\ndevote oneself to, to apply oneself singlemindedly to; to isolate,\nto bar, to turn away from. Of this root, three forms occur nine\ntimes in the Qur’an: يَعْكُفُونَ yaʿkufūn once; عَاكِف ʿākif seven times\nand مَعْكُوف maʿkūf once.\n\nيَعْكُف yaʿkuf [imperf. v. intrans.] to devote oneself to, to cleave\nto (7:138) قَوْمٌ يَعْكُفُونَ عَلَى أَصْنَامٍ لَهُمْ a people devoted to the worship\nof idols of theirs.\n\nعَاكِف ʿākif [act. part.] 1 one who devotes himself to something\n(20:91) لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ we will never give up our devotion to it 2\none who is in seclusion [in a mosque], one who is in retreat\n(2:187) وَأَنْتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ while you are in retreat in mosques.\n\nمَعْكُوف maʿkūf [pass. part.] one who is barred, prevented,\nrestrained (48:25) وَالْهَدْيَ مَعْكُوفًا أَنْ يَبْلُغَ مَحِلَّهُ and the sacrificial\noffering detained from reaching its place of sacrifice."
+    }
+  ],
   "occurrences": [
     "20:91:5",
     "20:97:22",

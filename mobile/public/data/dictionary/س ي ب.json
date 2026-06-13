@@ -1,9 +1,17 @@
 {
-  "id": 1860,
   "root": "س ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسوس - سيب\n\n(سيب) السين والياء والباء أصلٌ يدلُّ على استمرارِ شيءٍ وذهابِهِ. من ذلك سَيْبُ الماء: مجراه. وانْسَابت الحَيَّة انسياباً. ويقال سيَّبت الدّابّة: تركته حيث شاء. والسائبة: العبد يُسَيَّب من غير وَلاءٍ، يَضَعُ مالَهُ حيث شاء.\n\nسيح سيد سير\n\nومن الباب [السَّيْب ]، وهو العَطاء، كأنَّه شيءٌ أُجْرِيَ لـه. والسُّيُوب: الرِّكاز، كأنَّه عطاءٌ أجراه الله تعالى لمن وَجَده.\n\nوممّا شذّ عن هذا الأصل السَّيَابُ، وهو البلح، الواحدة سَيَابةٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسوس - سيب\n\n(سيب) السين والياء والباء أصلٌ يدلُّ على استمرارِ شيءٍ وذهابِهِ. من ذلك سَيْبُ الماء: مجراه. وانْسَابت الحَيَّة انسياباً. ويقال سيَّبت الدّابّة: تركته حيث شاء. والسائبة: العبد يُسَيَّب من غير وَلاءٍ، يَضَعُ مالَهُ حيث شاء.\n\nسيح سيد سير\n\nومن الباب [السَّيْب ]، وهو العَطاء، كأنَّه شيءٌ أُجْرِيَ لـه. والسُّيُوب: الرِّكاز، كأنَّه عطاءٌ أجراه الله تعالى لمن وَجَده.\n\nوممّا شذّ عن هذا الأصل السَّيَابُ، وهو البلح، الواحدة سَيَابةٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-y-b to flow, to run freely, to be free, to be freed, to set free (of animals); to donate, donation; slaves. Of this root, only one word سائبة sāʾibatun occurs once in the Qurʾan.\nسائبة sāʾibatun [act. part; n.] one who is free to roam: a term denoting a she-camel which, according to pre-Islamic customs in Arabia, would be set free, under certain conditions, and would be accorded pasture and protection until it died of natural causes (5:103) مَا جَعَلَ اللَّهُ مِنْ بَحِيرَةٍ وَلا سَائِبَةٍ وَلا وَصِيلَةٍ وَلا حَامٍ God has not ordained [dedicating to idols animals such as the] baḥīratun, sāʾibatun, waṣīlatun or ḥām (q.v.).",
+      "definition_english": "s-y-b to flow, to run freely, to be free, to be freed, to set free (of animals); to donate, donation; slaves. Of this root, only one word سائبة sāʾibatun occurs once in the Qurʾan.\nسائبة sāʾibatun [act. part; n.] one who is free to roam: a term denoting a she-camel which, according to pre-Islamic customs in Arabia, would be set free, under certain conditions, and would be accorded pasture and protection until it died of natural causes (5:103) مَا جَعَلَ اللَّهُ مِنْ بَحِيرَةٍ وَلا سَائِبَةٍ وَلا وَصِيلَةٍ وَلا حَامٍ God has not ordained [dedicating to idols animals such as the] baḥīratun, sāʾibatun, waṣīlatun or ḥām (q.v.)."
+    }
+  ],
   "occurrences": [
     "5:103:7"
   ]

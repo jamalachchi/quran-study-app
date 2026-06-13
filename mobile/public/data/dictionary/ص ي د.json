@@ -1,9 +1,17 @@
 {
-  "id": 2224,
   "root": "ص ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصوك - صوم\n\n(صيد) الصاد والياء والدال أصلٌ صحيح يدلُّ على معنىً واحد، وهو ركوبُ الشَّيء رأسَه ومُضِيُّه غيرَ ملتفتٍ ولا مائل. من ذلك الصَّيَدُ، وهو أن يكون الإنسانُ ناظراً أمامَه. قال أهلُ اللُّغة: الأَصْيَد: المَلِك، وجمعه الصِّيد. قالوا: وسمِّيَ بذلك لقلَّة التفاتِه. ومن الناس مَنْ يكونُ أصيَدَ خِلقةً. واشتقاق الصَّيْد من هذا، وذلك أنَّه يمرُّ مرَّاً لا يعرِّج، فإذا أُخِذَ قيل قد صِيد. فاشتُقَّ ذلك من اسمه. كما يقال رأَسْت الرّجُلَ، إِذا ضَربتَ رأسَه؛ وبطَنْتُهُ، إذا ضربتَ بطنَه. كذلك إذا وقَعْتَ بالصَّيد فأخذتَه قلتَ صِدتُه. وممّا يدلُّ على صِحّة هذا القياس قولُ ابن السّكّيت إن الصَّيْدانةَ من النِّساء: السيِّئة الخُلُق. وسمِّيت بذلك لقلّة التفاتِها. ومن الباب: الصَّيدانة: الغُول.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصوك - صوم\n\n(صيد) الصاد والياء والدال أصلٌ صحيح يدلُّ على معنىً واحد، وهو ركوبُ الشَّيء رأسَه ومُضِيُّه غيرَ ملتفتٍ ولا مائل. من ذلك الصَّيَدُ، وهو أن يكون الإنسانُ ناظراً أمامَه. قال أهلُ اللُّغة: الأَصْيَد: المَلِك، وجمعه الصِّيد. قالوا: وسمِّيَ بذلك لقلَّة التفاتِه. ومن الناس مَنْ يكونُ أصيَدَ خِلقةً. واشتقاق الصَّيْد من هذا، وذلك أنَّه يمرُّ مرَّاً لا يعرِّج، فإذا أُخِذَ قيل قد صِيد. فاشتُقَّ ذلك من اسمه. كما يقال رأَسْت الرّجُلَ، إِذا ضَربتَ رأسَه؛ وبطَنْتُهُ، إذا ضربتَ بطنَه. كذلك إذا وقَعْتَ بالصَّيد فأخذتَه قلتَ صِدتُه. وممّا يدلُّ على صِحّة هذا القياس قولُ ابن السّكّيت إن الصَّيْدانةَ من النِّساء: السيِّئة الخُلُق. وسمِّيت بذلك لقلّة التفاتِها. ومن الباب: الصَّيدانة: الغُول.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ-y-d hunting, fishing, game, catch of all kinds. Of this root,\ntwo forms occur six times in the Qur’an: اصْطَادَ ʾiṣṭāda once and\nصَيْد ṣayd five times.\n\nاصْطَادَ ʾiṣṭāda [v. VIII, trans.] to hunt, to catch [animals], to fish\n(5:2) وَإِذَا حَلَلْتُمْ فَاصْطَادُوا but when you have quit the state of\npilgrimage sanctity, you may hunt.\n\nصَيْد ṣayd I [v. n.] hunting, catching animals, birds, fish and the\nlike (5:1) غَيْرَ مُحِلِّي الصَّيْدِ وَأَنْتُمْ حُرُمٌ not permitting [to yourselves]\nhunting while you are in the state of pilgrimage consecration II\n[n.] game, prey, catch (5:94) لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ أَيْدِيكُمْ\nوَرِمَاحُكُمْ God is sure to test you with a little of the game that your\nhands and spears can catch.",
+      "definition_english": "ṣ-y-d hunting, fishing, game, catch of all kinds. Of this root,\ntwo forms occur six times in the Qur’an: اصْطَادَ ʾiṣṭāda once and\nصَيْد ṣayd five times.\n\nاصْطَادَ ʾiṣṭāda [v. VIII, trans.] to hunt, to catch [animals], to fish\n(5:2) وَإِذَا حَلَلْتُمْ فَاصْطَادُوا but when you have quit the state of\npilgrimage sanctity, you may hunt.\n\nصَيْد ṣayd I [v. n.] hunting, catching animals, birds, fish and the\nlike (5:1) غَيْرَ مُحِلِّي الصَّيْدِ وَأَنْتُمْ حُرُمٌ not permitting [to yourselves]\nhunting while you are in the state of pilgrimage consecration II\n[n.] game, prey, catch (5:94) لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ أَيْدِيكُمْ\nوَرِمَاحُكُمْ God is sure to test you with a little of the game that your\nhands and spears can catch."
+    }
+  ],
   "occurrences": [
     "5:1:16",
     "5:2:26",

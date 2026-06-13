@@ -1,9 +1,17 @@
 {
-  "id": 1541,
   "root": "ر ي ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nريش\n\n* ومِرْفَقٍ كرِيَاسِ السَّيْفِ إذ شَسَفَا *\n\nوالكلمة الأخرى: الرَّيْسُ والرَّيَسَان: التَّبختُر. قال:\n\n* أتاهُمْ بينَ أرحُلِهمْ يَرِيسُ *\n\n(ريش) الراء والياء والشين أصلٌ واحدٌ يدلُّ على حُسْن الحال، وما يكتسب الإنسانُ من خَيْر. فالرِّيش: الخير. والرِّياش: المال. ورِشْت فلاناً أَرِيشُه رَيشاً، إذا قُمْتَ بمصلحةِ حالِه. وهو قوله:\n\nفرِشْني بخيرٍ طالَمَا قد بَريْتنِي\n\nوخَيْرُ المَوْالي مَن يَرِيش ولا يَبْرِي\n\nوكان بعضُهم يذهب إلى أنّ الرائش الذي في الحديث في \"الرّاشِي والمرتَشِي والرّائش \"، أنّه الذي يسعى بين الرَّاشي والمرتَشِي. وإنما سُمِّي رائشاً للذي ذكَرْناه. يقال رِشْتُ فلاناً: أنلتُه خيراً. وهذا أصحُّ القولين بقوله:\n\n* فرِشْني بخيرٍ طالَمَا قد بريتَنِي *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nريش\n\n* ومِرْفَقٍ كرِيَاسِ السَّيْفِ إذ شَسَفَا *\n\nوالكلمة الأخرى: الرَّيْسُ والرَّيَسَان: التَّبختُر. قال:\n\n* أتاهُمْ بينَ أرحُلِهمْ يَرِيسُ *\n\n(ريش) الراء والياء والشين أصلٌ واحدٌ يدلُّ على حُسْن الحال، وما يكتسب الإنسانُ من خَيْر. فالرِّيش: الخير. والرِّياش: المال. ورِشْت فلاناً أَرِيشُه رَيشاً، إذا قُمْتَ بمصلحةِ حالِه. وهو قوله:\n\nفرِشْني بخيرٍ طالَمَا قد بَريْتنِي\n\nوخَيْرُ المَوْالي مَن يَرِيش ولا يَبْرِي\n\nوكان بعضُهم يذهب إلى أنّ الرائش الذي في الحديث في \"الرّاشِي والمرتَشِي والرّائش \"، أنّه الذي يسعى بين الرَّاشي والمرتَشِي. وإنما سُمِّي رائشاً للذي ذكَرْناه. يقال رِشْتُ فلاناً: أنلتُه خيراً. وهذا أصحُّ القولين بقوله:\n\n* فرِشْني بخيرٍ طالَمَا قد بريتَنِي *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-y-sh feathers, plumage, to fix feathers to (e.g. arrows); to be affluent, fine clothes and furnishings; to be hospitable; to bribe. Of this root, رِيش rīsh occurs once in the Qur’an.\nرِيش rīsh [coll. n.] fine clothing, adornment, ornamental garments (7:26) يَا بَنِي آدَمَ قَدْ أَنْزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا children of Adam, We have given you garments to cover your shameful parts—and as adornment [for you].",
+      "definition_english": "r-y-sh feathers, plumage, to fix feathers to (e.g. arrows); to be affluent, fine clothes and furnishings; to be hospitable; to bribe. Of this root, رِيش rīsh occurs once in the Qur’an.\nرِيش rīsh [coll. n.] fine clothing, adornment, ornamental garments (7:26) يَا بَنِي آدَمَ قَدْ أَنْزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا children of Adam, We have given you garments to cover your shameful parts—and as adornment [for you]."
+    }
+  ],
   "occurrences": [
     "7:26:9"
   ]

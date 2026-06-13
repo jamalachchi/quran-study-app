@@ -1,9 +1,17 @@
 {
-  "id": 275,
   "root": "ب س م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبسل\n\n(بسم) الباء والسين والميم أصلٌ واحد، وهو إبداء مُقَدَّم الفَم لمسَرّة؛ وهو دون الضَّحِك يقال بَسَم يَبْسِم وتَبَسَّم وابْتَسَم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبسل\n\n(بسم) الباء والسين والميم أصلٌ واحد، وهو إبداء مُقَدَّم الفَم لمسَرّة؛ وهو دون الضَّحِك يقال بَسَم يَبْسِم وتَبَسَّم وابْتَسَم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-s-m to smile; to bloom; (of clouds) to display a faint flash\nof lightning; white teeth. Of this root, تَبَسَّمَ tabassama, occurs once\nin the Qur’an.\n\nتَبَسَّمَ tabassama [v. V, intrans.] to smile, to affect a smile\n(27:19) فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا so he smiled, laughing at its words.",
+      "definition_english": "b-s-m to smile; to bloom; (of clouds) to display a faint flash\nof lightning; white teeth. Of this root, تَبَسَّمَ tabassama, occurs once\nin the Qur’an.\n\nتَبَسَّمَ tabassama [v. V, intrans.] to smile, to affect a smile\n(27:19) فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا so he smiled, laughing at its words."
+    }
+  ],
   "occurrences": [
     "27:19:1"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 2330,
   "root": "ض ي ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضيع - ضيف\n\nيقال ضِزْته حقَّه، إِذا منعتَه. وحكى ناس ضَأَزَه، مهموز. وأنشدوا:\n\n* فَحَقُّكَ مَضْؤوزٌ وأنفُكَ راغمُ *\n\nليس في الباب غيرُ هذا.\n\n(ضيع) الضاد والياء والعين أصلٌ صحيحٌ يدلُّ على فَوت الشّيء وذَهابِه وهلاكه. يقال ضاعَ الشَّيءُ يَضيعُ ضَياعاً وضَيْعَةً، وأَضَعْتُهُ أنا إضاعة. فأمّا تسميتُهم العَقَار ضيعة فما أحسَبُها من اللُّغة الأَصِيلة ، وأظنّهُ من مُحْدَث الكلام. وسمعت من يقول: إنَّما سمِّيت بذلك لأنَّها إذا تُرِكَ تعهُّدِها ضاعت.\n\nفإن كان كذا فهو دليلُ ما قلناهُ أنَّه من الكلام المحْدَث. ويقال أَضَاعَ فهو مُضِيعٌ، إِذا كثُر ضِياعُهُ. فأمَّا قول الشَّماخ:\n\n* أعائِشَُ ما لأهلكِ لا أُراهم *\n\nوبقيت كلمة ليست من الباب وهي من باب الإبدال، حكى ابنُ السِّكيت: تضيَّعت الرِّيح، مثلُ تضوَّعت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضيع - ضيف\n\nيقال ضِزْته حقَّه، إِذا منعتَه. وحكى ناس ضَأَزَه، مهموز. وأنشدوا:\n\n* فَحَقُّكَ مَضْؤوزٌ وأنفُكَ راغمُ *\n\nليس في الباب غيرُ هذا.\n\n(ضيع) الضاد والياء والعين أصلٌ صحيحٌ يدلُّ على فَوت الشّيء وذَهابِه وهلاكه. يقال ضاعَ الشَّيءُ يَضيعُ ضَياعاً وضَيْعَةً، وأَضَعْتُهُ أنا إضاعة. فأمّا تسميتُهم العَقَار ضيعة فما أحسَبُها من اللُّغة الأَصِيلة ، وأظنّهُ من مُحْدَث الكلام. وسمعت من يقول: إنَّما سمِّيت بذلك لأنَّها إذا تُرِكَ تعهُّدِها ضاعت.\n\nفإن كان كذا فهو دليلُ ما قلناهُ أنَّه من الكلام المحْدَث. ويقال أَضَاعَ فهو مُضِيعٌ، إِذا كثُر ضِياعُهُ. فأمَّا قول الشَّماخ:\n\n* أعائِشَُ ما لأهلكِ لا أُراهم *\n\nوبقيت كلمة ليست من الباب وهي من باب الإبدال، حكى ابنُ السِّكيت: تضيَّعت الرِّيح، مثلُ تضوَّعت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-y-ʿ a profession; property, estate; to go to waste, to\nneglect, to squander. Of this root, أضاع ʾaḍāʿa, occurs 10 times in\nthe Qurʾan.\n\nأضاع ʾaḍāʿa [v. IV, trans.] 1 to let go to waste, to let pass\nunrewarded (11:115) واصبر فإنّ الله لا يضيع أجر المحسنين be patient,\nGod does not deny the reward of those who do good 2 to neglect,\nto abandon (19:59) فخلف من بعدهم خلف أضاعوا الصلاة but there came\nafter them successors neglecting prayer.",
+      "definition_english": "ḍ-y-ʿ a profession; property, estate; to go to waste, to\nneglect, to squander. Of this root, أضاع ʾaḍāʿa, occurs 10 times in\nthe Qurʾan.\n\nأضاع ʾaḍāʿa [v. IV, trans.] 1 to let go to waste, to let pass\nunrewarded (11:115) واصبر فإنّ الله لا يضيع أجر المحسنين be patient,\nGod does not deny the reward of those who do good 2 to neglect,\nto abandon (19:59) فخلف من بعدهم خلف أضاعوا الصلاة but there came\nafter them successors neglecting prayer."
+    }
+  ],
   "occurrences": [
     "11:115:5",
     "12:56:15",

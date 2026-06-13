@@ -1,9 +1,17 @@
 {
-  "id": 1046,
   "root": "خ م د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخلق\n\n(خمد) الخاء والميم والدال أصلٌ واحد، يدلُّ على سكونِ الحركة والسُّقوط. خَمَدَتِ النارُ خُموداً، إذا سكَنَ لَهبُها. وخَمَدَت الحُمَّى إذا سكَنَ وهَجُها. ويقال للمُغْمَى عليه: خَمَدَ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخلق\n\n(خمد) الخاء والميم والدال أصلٌ واحد، يدلُّ على سكونِ الحركة والسُّقوط. خَمَدَتِ النارُ خُموداً، إذا سكَنَ لَهبُها. وخَمَدَت الحُمَّى إذا سكَنَ وهَجُها. ويقال للمُغْمَى عليه: خَمَدَ .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–m–d (of fire) to die out, to abate; to faint, to be silent,\ncontemplative. Of this root, خامدون khāmidūn occurs twice in the\n\n286                                        خ/م/ر\n\nQur’an.\n\nخَامِدُون khāmidūn [pl. of act. part. خامد khāmid] spent, extinct,\nexpired, dead (36:29) إن كانت إلا صيحة واحدة فإذا هم خامدون it will be\nbut one blast, and they will be expired.",
+      "definition_english": "kh–m–d (of fire) to die out, to abate; to faint, to be silent,\ncontemplative. Of this root, خامدون khāmidūn occurs twice in the\n\n286                                        خ/م/ر\n\nQur’an.\n\nخَامِدُون khāmidūn [pl. of act. part. خامد khāmid] spent, extinct,\nexpired, dead (36:29) إن كانت إلا صيحة واحدة فإذا هم خامدون it will be\nbut one blast, and they will be expired."
+    }
+  ],
   "occurrences": [
     "21:15:8",
     "36:29:8"

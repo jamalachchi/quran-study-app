@@ -1,9 +1,17 @@
 {
-  "id": 1861,
   "root": "س ي ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسوس - سيب\n\n(سيح) السين والياء والحاء أصلٌ صحيح، وقياسه قياسُ ما قبلَه. يقال ساح في الأرض. قال الله جلّ ثناؤه: ] فَسِيحُوا فِي الأَرْضِ أَرْبَعَةَ أَشْهُرٍ [ [التوبة 2]، والسَّيْح: الماء الجاري، والمساييح في حديث علي كرَّم الله وجهه في قولـه: \"أولئك مصابيح الدُّجَى، ليسوا بالمَذَاييع ولا المساييح البُذُر \"، فإنَّ المذاييع جمع مِذْيَاع، وهو الذي يُذيع السرّ لا يكتُمهُ. والمساييح، هم الذين يَسِيحون في الأرض بالنَّميمة والشّرّ والإفساد بين الناس.\n\nومما يدلُّ على صحّة هذا القياس قولُهم ساح الظّلُّ، إذا فاء. والسَّيْح: العَباءة المخطَّطة. وسمِّي بذلك تشبيهاً لخطوطها بالشَّيء الجاري.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسوس - سيب\n\n(سيح) السين والياء والحاء أصلٌ صحيح، وقياسه قياسُ ما قبلَه. يقال ساح في الأرض. قال الله جلّ ثناؤه: ] فَسِيحُوا فِي الأَرْضِ أَرْبَعَةَ أَشْهُرٍ [ [التوبة 2]، والسَّيْح: الماء الجاري، والمساييح في حديث علي كرَّم الله وجهه في قولـه: \"أولئك مصابيح الدُّجَى، ليسوا بالمَذَاييع ولا المساييح البُذُر \"، فإنَّ المذاييع جمع مِذْيَاع، وهو الذي يُذيع السرّ لا يكتُمهُ. والمساييح، هم الذين يَسِيحون في الأرض بالنَّميمة والشّرّ والإفساد بين الناس.\n\nومما يدلُّ على صحّة هذا القياس قولُهم ساح الظّلُّ، إذا فاء. والسَّيْح: العَباءة المخطَّطة. وسمِّي بذلك تشبيهاً لخطوطها بالشَّيء الجاري.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-y-ḥ water flowing above ground, people travelling freely from one place to another; devoting oneself to the worship of God, particularly through fasting. Of this root, three forms occur once each in the Qurʾan: سِيحُوا sīḥū; سَائِحُونَ sāʾiḥūn and سَائِحَات sāʾiḥāt.\nسِيحُوا sīḥū [imper. of v. intrans.] go about in the land, travel about, travel freely (9:2) فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ so you may move freely in the land for four months.\n\nسَائِحُون sāʾiḥūn [pl. of act. part. سائح sāʾiḥ; fem. pl. سائحات sāʾiḥāt] those who travel about, as for reasons of faith, those who fast as a way of purifying themselves, the devout (66:5) أَزْوَاجًا خَيْرًا مِنكُنَّ مُسْلِمَاتٍ ... سَائِحَاتٍ better wives than yourselves, wives who submit themselves to God ... given to fasting ....",
+      "definition_english": "s-y-ḥ water flowing above ground, people travelling freely from one place to another; devoting oneself to the worship of God, particularly through fasting. Of this root, three forms occur once each in the Qurʾan: سِيحُوا sīḥū; سَائِحُونَ sāʾiḥūn and سَائِحَات sāʾiḥāt.\nسِيحُوا sīḥū [imper. of v. intrans.] go about in the land, travel about, travel freely (9:2) فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ so you may move freely in the land for four months.\n\nسَائِحُون sāʾiḥūn [pl. of act. part. سائح sāʾiḥ; fem. pl. سائحات sāʾiḥāt] those who travel about, as for reasons of faith, those who fast as a way of purifying themselves, the devout (66:5) أَزْوَاجًا خَيْرًا مِنكُنَّ مُسْلِمَاتٍ ... سَائِحَاتٍ better wives than yourselves, wives who submit themselves to God ... given to fasting ...."
+    }
+  ],
   "occurrences": [
     "66:5:15",
     "9:112:4",

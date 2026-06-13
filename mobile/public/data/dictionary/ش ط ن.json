@@ -1,9 +1,22 @@
 {
-  "id": 1962,
   "root": "ش ط ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشصر - شطن\n\n(شطن) الشين والطاء والنون أصلٌ مطّرد صحيح يدلُّ على البُعد. يقال شَطَنت الدار تَشْطُن شطوناً إذا غَرَبَت. ونوىً شَطونٌ، أي بعيدة. قال النابغة:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشصر - شطن\n\n(شطن) الشين والطاء والنون أصلٌ مطّرد صحيح يدلُّ على البُعد. يقال شَطَنت الدار تَشْطُن شطوناً إذا غَرَبَت. ونوىً شَطونٌ، أي بعيدة. قال النابغة:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ش/ط/ر sh–ṭ–r to split or divide in halves, a half; to squint at; (of a house) to be distant, to distance oneself; direction. Of this root, only شطر shaṭr occurs five times in the Qurʾan.\nشطر shaṭra [n. used adverbially] in the direction of, towards (2:150) وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ wherever you may have started out, turn your face in the direction of the Sacred Mosque.",
+      "definition_english": "ش/ط/ر sh–ṭ–r to split or divide in halves, a half; to squint at; (of a house) to be distant, to distance oneself; direction. Of this root, only شطر shaṭr occurs five times in the Qurʾan.\nشطر shaṭra [n. used adverbially] in the direction of, towards (2:150) وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ wherever you may have started out, turn your face in the direction of the Sacred Mosque."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–ṭ–n philologists derive the word شيطان shayṭān either from the root ش/ط/ن sh–ṭ–n, associated with the basic concepts of ‘fastening tightly; being exceedingly, or audaciously, proud, corrupt, rebellious or insolent’ or from the root ش/ي/ط sh–y–ṭ, associated with the basic concepts of ‘singeing, scorching, burning’. Because the word شيطان shayṭān existed in Arabic, Syriac, Aramaic and Ethiopic long before the advent of Islam, it has been suggested that it is the source of various other derivations. Of this root, two words occur 88 times in the Qurʾan: شيطان shayṭān 70 times and شياطين shayāṭīn 18 times.\nشيطان shayṭān [n., pl. شياطين shayāṭīn] 1 devil, demon (4:117) إِن يَدْعُونَ مِن دُونِهِ إِلَّا إِنَاثًا وَإِن يَدْعُونَ إِلَّا شَيْطَانًا مَّرِيدًا in His place they invoke only female [deities], and [thus, by invoking such deities] they only invoke a rebellious devil 2 devilish, or evil impulse or company (43:36) وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ\n\n486",
+      "definition_english": "sh–ṭ–n philologists derive the word شيطان shayṭān either from the root ش/ط/ن sh–ṭ–n, associated with the basic concepts of ‘fastening tightly; being exceedingly, or audaciously, proud, corrupt, rebellious or insolent’ or from the root ش/ي/ط sh–y–ṭ, associated with the basic concepts of ‘singeing, scorching, burning’. Because the word شيطان shayṭān existed in Arabic, Syriac, Aramaic and Ethiopic long before the advent of Islam, it has been suggested that it is the source of various other derivations. Of this root, two words occur 88 times in the Qurʾan: شيطان shayṭān 70 times and شياطين shayāṭīn 18 times.\nشيطان shayṭān [n., pl. شياطين shayāṭīn] 1 devil, demon (4:117) إِن يَدْعُونَ مِن دُونِهِ إِلَّا إِنَاثًا وَإِن يَدْعُونَ إِلَّا شَيْطَانًا مَّرِيدًا in His place they invoke only female [deities], and [thus, by invoking such deities] they only invoke a rebellious devil 2 devilish, or evil impulse or company (43:36) وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ\n\n486"
+    }
+  ],
   "occurrences": [
     "12:100:34",
     "12:42:11",

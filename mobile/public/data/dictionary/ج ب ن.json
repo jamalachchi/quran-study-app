@@ -1,9 +1,22 @@
 {
-  "id": 720,
   "root": "ج ب ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجبذ - جبر\n\n(جبن) الجيم والباء والنون ثلاث كلماتٍ لا يقاس بعضُها ببعض. فالجُبْن: الذي يُؤكل، وربما ثقّلت نونُه مع ضم الباء. والجُبْن: صفة الجبان. والجَبينان: ما عن يمين الجبهةِ وشِمالها، كلُّ واحدٍ منهما جَبين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجبذ - جبر\n\n(جبن) الجيم والباء والنون ثلاث كلماتٍ لا يقاس بعضُها ببعض. فالجُبْن: الذي يُؤكل، وربما ثقّلت نونُه مع ضم الباء. والجُبْن: صفة الجبان. والجَبينان: ما عن يمين الجبهةِ وشِمالها، كلُّ واحدٍ منهما جَبين.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "split asunder out of fear of God.\nجِبِلّ jibill [coll. n.] crowds of people, great multitude, nation (36:62) وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيرًا he has led great numbers of you astray.\n\nجِبِلَّة jibillatun [coll. n.] generations, great multitudes (26:184) وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ be mindful of Him who created you and the former generations.",
+      "definition_english": "split asunder out of fear of God.\nجِبِلّ jibill [coll. n.] crowds of people, great multitude, nation (36:62) وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيرًا he has led great numbers of you astray.\n\nجِبِلَّة jibillatun [coll. n.] generations, great multitudes (26:184) وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ be mindful of Him who created you and the former generations."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–b–n forehead, the two sides of the forehead; to be cowardly; to be flat; cheese; cemetery. Of this root, جَبِين jabīn occurs once in the Qurʾan.\nجَبِين jabīn [n.] forehead (37:103) فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ when they had both submitted [to God], and he had laid him down on his forehead.",
+      "definition_english": "j–b–n forehead, the two sides of the forehead; to be cowardly; to be flat; cheese; cemetery. Of this root, جَبِين jabīn occurs once in the Qurʾan.\nجَبِين jabīn [n.] forehead (37:103) فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ when they had both submitted [to God], and he had laid him down on his forehead."
+    }
+  ],
   "occurrences": [
     "37:103:4"
   ]

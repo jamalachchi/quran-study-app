@@ -1,9 +1,17 @@
 {
-  "id": 97,
   "root": "أ س ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأسف - أسك\n\n(باب الهمزة والسين وما يثلثهما)\n\n(أسف) الهمزة والسين والفاء أصلٌ واحد يدلّ على الفَوت والتلهُّف وما أشبه ذلك. يقال أسِفَ على الشيء يَأْسَفُ أسَفاً مثل تلهف. والأَسِفُ الغضْبان، قال الله تعالى: ] وَلَمَّا رَجَعَ مُوسَى إلى قَوْمِهِ غَضْبَانَ أَسِفاً [ [الأعراف 150]، وقال الأعشى:\n\nأرَى رَجُلاً منهُمْ أسيفاً كأنَّما\n\nيضُمُّ إلى كشْحَيْهِ كَفّاً مُخَضَّبا\n\nفيُقال هو الغَضبان. ويقال إنّ الأَُسَافة الأرض التي لا تنبت شيئاً؛ وهذا هو القياس، لأنّ النّبات قد فاتَها. وكذلك الجمل الأسيف، وهو الذي لا يكاد يَسْمَنُ. وأمّا التابع وتسميتهم إيّاه أسيفاً فليس من الباب، لأنّ الهمزة منقلبةٌ من عين، وقد ذكر في بابه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأسف - أسك\n\n(باب الهمزة والسين وما يثلثهما)\n\n(أسف) الهمزة والسين والفاء أصلٌ واحد يدلّ على الفَوت والتلهُّف وما أشبه ذلك. يقال أسِفَ على الشيء يَأْسَفُ أسَفاً مثل تلهف. والأَسِفُ الغضْبان، قال الله تعالى: ] وَلَمَّا رَجَعَ مُوسَى إلى قَوْمِهِ غَضْبَانَ أَسِفاً [ [الأعراف 150]، وقال الأعشى:\n\nأرَى رَجُلاً منهُمْ أسيفاً كأنَّما\n\nيضُمُّ إلى كشْحَيْهِ كَفّاً مُخَضَّبا\n\nفيُقال هو الغَضبان. ويقال إنّ الأَُسَافة الأرض التي لا تنبت شيئاً؛ وهذا هو القياس، لأنّ النّبات قد فاتَها. وكذلك الجمل الأسيف، وهو الذي لا يكاد يَسْمَنُ. وأمّا التابع وتسميتهم إيّاه أسيفاً فليس من الباب، لأنّ الهمزة منقلبةٌ من عين، وقد ذكر في بابه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–s–f sadness, anger, sorrow, to offend. Of this root, three\nforms occur five times in the Qur’an: آسَفَ ʾāsafa once; أَسَف ʾasaf\ntwice and أَسِيف ʾasīf twice.\n\nآسَفَ ʾāsafa [v. IV, trans.] to be offensive, to act in an offensive\nmanner, to challenge, to be contentious (43:55) فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ\nwhen they became contentious with Us, We punished them.\n\nأَسَف ʾasaf [n./v. n. used adverbially] sorrow, grief; in sorrow,\ngrieving (18:6) فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَى آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا بِهَذَا الْحَدِيثِ أَسَفًا\nare you [Prophet] going to torment yourself to death grieving over\nthem if they do not believe in this message?; *(12:84) يَاأَسَفَى عَلَى\nيُوسُفَ ah!, my terrible grief for Joseph! (with the open long vowel\n/ā/ replacing the 1st person sing. pronominal suffix ī for emphasis\n… yā ʾasafī …! > … yā ʾasafā …!).\n\nأَسِيف ʾasīf [quasi-intens. act. part.] very angry, most indignant,\naggrieved, grieving, very sad (7:150) وَلَمَّا رَجَعَ مُوسَى إِلَى قَوْمِهِ غَضْبَانَ\nأَسِفًا and when Moses returned to his people, angry and aggrieved.\n\nأَسْمَاء ʾasmāʾ (see س/م/و s–m–w).\n\n29",
+      "definition_english": "ʾ–s–f sadness, anger, sorrow, to offend. Of this root, three\nforms occur five times in the Qur’an: آسَفَ ʾāsafa once; أَسَف ʾasaf\ntwice and أَسِيف ʾasīf twice.\n\nآسَفَ ʾāsafa [v. IV, trans.] to be offensive, to act in an offensive\nmanner, to challenge, to be contentious (43:55) فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ\nwhen they became contentious with Us, We punished them.\n\nأَسَف ʾasaf [n./v. n. used adverbially] sorrow, grief; in sorrow,\ngrieving (18:6) فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَى آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا بِهَذَا الْحَدِيثِ أَسَفًا\nare you [Prophet] going to torment yourself to death grieving over\nthem if they do not believe in this message?; *(12:84) يَاأَسَفَى عَلَى\nيُوسُفَ ah!, my terrible grief for Joseph! (with the open long vowel\n/ā/ replacing the 1st person sing. pronominal suffix ī for emphasis\n… yā ʾasafī …! > … yā ʾasafā …!).\n\nأَسِيف ʾasīf [quasi-intens. act. part.] very angry, most indignant,\naggrieved, grieving, very sad (7:150) وَلَمَّا رَجَعَ مُوسَى إِلَى قَوْمِهِ غَضْبَانَ\nأَسِفًا and when Moses returned to his people, angry and aggrieved.\n\nأَسْمَاء ʾasmāʾ (see س/م/و s–m–w).\n\n29"
+    }
+  ],
   "occurrences": [
     "12:84:4",
     "18:6:11",

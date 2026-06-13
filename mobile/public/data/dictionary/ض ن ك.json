@@ -1,9 +1,17 @@
 {
-  "id": 2310,
   "root": "ض ن ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضمر - ضمز\n\n(ضنك) الضاد والنون والكاف أصلان صحيحان وإن قلَّ فروعُهما فالأوّل الضِّيق، والآخر مرضٌ.\n\nضهي ضهب - ضهر\n\nفالأوَّل الضَّنْك: الضِّيق. ومن الباب امرأةٌ ضِناكٌ: مكتنِزة اللحم، إذا اكتنَزَ تَضَاغَطَ.\n\nوالأصل الآخر المضنوك: المزكوم. والضُّنَاك الزُّكام. والله أعلم.\n\n(باب الضاد والهاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضمر - ضمز\n\n(ضنك) الضاد والنون والكاف أصلان صحيحان وإن قلَّ فروعُهما فالأوّل الضِّيق، والآخر مرضٌ.\n\nضهي ضهب - ضهر\n\nفالأوَّل الضَّنْك: الضِّيق. ومن الباب امرأةٌ ضِناكٌ: مكتنِزة اللحم، إذا اكتنَزَ تَضَاغَطَ.\n\nوالأصل الآخر المضنوك: المزكوم. والضُّنَاك الزُّكام. والله أعلم.\n\n(باب الضاد والهاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-n-k to be straitened, to be confined, to have a wretched\n557 ض/ي/ر\n\nlife; to be physically strong. Of this root, ضنك ḍank, occurs once\nin the Qurʾan.\n\nضنك ḍank [v. n./quasi-act. part.] wretchedness; destitution;\nconfined, oppressed, straitened, miserable, wretched (20:124) ومن\nأعرض عن ذكري فإنّ له معيشةً ضنكاً but whosoever turns away from my\nguidance will suffer a straitened life.",
+      "definition_english": "ḍ-n-k to be straitened, to be confined, to have a wretched\n557 ض/ي/ر\n\nlife; to be physically strong. Of this root, ضنك ḍank, occurs once\nin the Qurʾan.\n\nضنك ḍank [v. n./quasi-act. part.] wretchedness; destitution;\nconfined, oppressed, straitened, miserable, wretched (20:124) ومن\nأعرض عن ذكري فإنّ له معيشةً ضنكاً but whosoever turns away from my\nguidance will suffer a straitened life."
+    }
+  ],
   "occurrences": [
     "20:124:8"
   ]

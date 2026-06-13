@@ -1,9 +1,17 @@
 {
-  "id": 2784,
   "root": "غ و ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغوج - غور\n\n(غوص) الغين والواو والصاد أصلٌ صحيحٌ يدلُّ على هجومٍ على أمرٍ متسفِّلٍ من ذلك الغَوْص: الدُّخول تحتَ الماء. [والهاجم ] على الشيء غائص. وغاصَ على العلمِ الغامِضِ حتى استنبطه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغوج - غور\n\n(غوص) الغين والواو والصاد أصلٌ صحيحٌ يدلُّ على هجومٍ على أمرٍ متسفِّلٍ من ذلك الغَوْص: الدُّخول تحتَ الماء. [والهاجم ] على الشيء غائص. وغاصَ على العلمِ الغامِضِ حتى استنبطه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–w–ṣ to dive under water, to dive for pearls, diver, a dive. Of this root, يَغُوصُون yaghuṣūn and غَوَّاص ghawwāṣ occur once each in the Qurʾan\nيَغُوص yaghūṣ [imperf. of v. غَاصَ ghāṣa, intrans.] to dive (21:82) وَمِنَ الشَّيَاطِينِ مَنْ يَغُوصُونَ لَهُ and of the devils there are some who dive for him.\n\nغَوَّاص ghawwāṣ [intrans. act. part./n.] a diver, one who dives (38:37) وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ and of the devils, we have [subjected to him] every builder and diver.",
+      "definition_english": "gh–w–ṣ to dive under water, to dive for pearls, diver, a dive. Of this root, يَغُوصُون yaghuṣūn and غَوَّاص ghawwāṣ occur once each in the Qurʾan\nيَغُوص yaghūṣ [imperf. of v. غَاصَ ghāṣa, intrans.] to dive (21:82) وَمِنَ الشَّيَاطِينِ مَنْ يَغُوصُونَ لَهُ and of the devils there are some who dive for him.\n\nغَوَّاص ghawwāṣ [intrans. act. part./n.] a diver, one who dives (38:37) وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ and of the devils, we have [subjected to him] every builder and diver."
+    }
+  ],
   "occurrences": [
     "21:82:4",
     "38:37:4"

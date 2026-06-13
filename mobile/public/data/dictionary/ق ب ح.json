@@ -1,9 +1,17 @@
 {
-  "id": 3123,
   "root": "ق ب ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقبح - قبر\n\n(باب القاف والباء وما يثلثهما)\n\n(قبح) القاف والباء والحاء كلمةٌ واحدة تدلُّ على خلاف الحُسْن، وهو القُبْح. يقال قَبحَه الله، وهذا مقبوحٌ وقَبيح. وزعم ناسٌ أنَّ المعنى في قَبَحه: نحّاهُ وأبعدَه. [ومنه] قولُه تعالى: ] وَيَوْمَ القِيَامَةِ هُمْ مِنَ المَقْبُوحِينَ [ [القصص 42].\n\nومما شذَّ عن الأصل وأحسَبُه من الكلام الذي ذَهَبَ مَن كان يُحْسِنُه، قولُهم كِسْرُ قَبيحٍ، وهو عَظْمُ السَّاعد، النِّصف الذي يلي المِرْفَق. قال:\n\nلو كنتَ عَيْراً كنتَ عَيْرَ مَذَلَّةٍ\n\nولو كنتَ كِسْراً كُنْتَ كِسْرَ قَبِيحِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقبح - قبر\n\n(باب القاف والباء وما يثلثهما)\n\n(قبح) القاف والباء والحاء كلمةٌ واحدة تدلُّ على خلاف الحُسْن، وهو القُبْح. يقال قَبحَه الله، وهذا مقبوحٌ وقَبيح. وزعم ناسٌ أنَّ المعنى في قَبَحه: نحّاهُ وأبعدَه. [ومنه] قولُه تعالى: ] وَيَوْمَ القِيَامَةِ هُمْ مِنَ المَقْبُوحِينَ [ [القصص 42].\n\nومما شذَّ عن الأصل وأحسَبُه من الكلام الذي ذَهَبَ مَن كان يُحْسِنُه، قولُهم كِسْرُ قَبيحٍ، وهو عَظْمُ السَّاعد، النِّصف الذي يلي المِرْفَق. قال:\n\nلو كنتَ عَيْراً كنتَ عَيْرَ مَذَلَّةٍ\n\nولو كنتَ كِسْراً كُنْتَ كِسْرَ قَبِيحِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–b–ḥ to be or become bad, evil, foul, ugly, unseemly; to\nchase away, to repulse, to curse. Of this root, مَقْبُوحِينَ maqbūḥīn\noccurs once in the Qur’an.\n\nمَقْبُوحِينَ maqbūḥīn [pl. of pass. part. مَقْبُوح maqbūḥ] one who is\nremoved from all that is good; driven away; cursed; made ugly\n(28:42) وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ in this world\nWe sent after them a curse, and on the Day of Resurrection they\nwill be among those removed from all that is good.",
+      "definition_english": "q–b–ḥ to be or become bad, evil, foul, ugly, unseemly; to\nchase away, to repulse, to curse. Of this root, مَقْبُوحِينَ maqbūḥīn\noccurs once in the Qur’an.\n\nمَقْبُوحِينَ maqbūḥīn [pl. of pass. part. مَقْبُوح maqbūḥ] one who is\nremoved from all that is good; driven away; cursed; made ugly\n(28:42) وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ in this world\nWe sent after them a curse, and on the Day of Resurrection they\nwill be among those removed from all that is good."
+    }
+  ],
   "occurrences": [
     "28:42:10"
   ]

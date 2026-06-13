@@ -1,9 +1,17 @@
 {
-  "id": 600,
   "root": "ج ر م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجرل - جرم\n\n(جرم) الجيم والراء والميم أصلٌ واحد يرجع إليه الفروع. فالجرْمُ القطْع. ويقال لِصَِرام النَّخل الجَِرَام. وقد جاءَ زمن الجَِرَامِ. وجَرَمْتُ صُوف الشَّاةِ وأخذته. والجُرَامةُ: ما سقطَ من التّمْرِ إذا جُرِم. ويقال الجُرامة ما التُقِط من كَرَبِهِ بعد ما يُصْرَمُ. ويقال سنة مجَرَّمَةٌ ، أي تامّة، كأنها تصرَّمَت عن تمام. وهو من تجرَّم الليلُ ذَهَب. والجَرَام والجَريم: التَّمْر اليابس. فهذا كلُّه متّفقٌ لفظاً ومعنىً وقياساً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجرل - جرم\n\n(جرم) الجيم والراء والميم أصلٌ واحد يرجع إليه الفروع. فالجرْمُ القطْع. ويقال لِصَِرام النَّخل الجَِرَام. وقد جاءَ زمن الجَِرَامِ. وجَرَمْتُ صُوف الشَّاةِ وأخذته. والجُرَامةُ: ما سقطَ من التّمْرِ إذا جُرِم. ويقال الجُرامة ما التُقِط من كَرَبِهِ بعد ما يُصْرَمُ. ويقال سنة مجَرَّمَةٌ ، أي تامّة، كأنها تصرَّمَت عن تمام. وهو من تجرَّم الليلُ ذَهَب. والجَرَام والجَريم: التَّمْر اليابس. فهذا كلُّه متّفقٌ لفظاً ومعنىً وقياساً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–r–m body, mass, volume; to cut off, to pick, to harvest, to acquire for oneself, to earn, to deserve; to commit a crime, an unlawful act, aggression, crime; to pass away. Of this root, six forms occur 66 times in the Qurʾan: يَجْرِمُ yajrim three times; أَجْرَمَ ʾajrama five times; إِجْرَام ʾijrām once; مُجْرِم mujrim twice; مُجْرِمُون mujrimūn 50 times and لَا جَرَمَ lā jarama five times.\nيَجْرِمُ yajrim [imperf. of v. jarama, trans.] to compel, to lead into, to tempt, to incite, to induce (5:2) وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا do not let your hatred for a group of people, because they barred you from the Sacred Mosque, induce you to commit aggression.\n\nأَجْرَمَ ʾajrama [v. IV, trans.] to commit (a crime or sin) (34:25) قُلْ لَا تُسْأَلُونَ عَمَّا أَجْرَمْنَا وَلَا نُسْأَلُ عَمَّا تَعْمَلُونَ say, ‘You will not be taken to task for what we commit, nor will we be responsible for what you do.’\n\nإِجْرَام ʾijrām [n./v. n.] guilt, crime, sin (11:35) قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي\n\n161",
+      "definition_english": "j–r–m body, mass, volume; to cut off, to pick, to harvest, to acquire for oneself, to earn, to deserve; to commit a crime, an unlawful act, aggression, crime; to pass away. Of this root, six forms occur 66 times in the Qurʾan: يَجْرِمُ yajrim three times; أَجْرَمَ ʾajrama five times; إِجْرَام ʾijrām once; مُجْرِم mujrim twice; مُجْرِمُون mujrimūn 50 times and لَا جَرَمَ lā jarama five times.\nيَجْرِمُ yajrim [imperf. of v. jarama, trans.] to compel, to lead into, to tempt, to incite, to induce (5:2) وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا do not let your hatred for a group of people, because they barred you from the Sacred Mosque, induce you to commit aggression.\n\nأَجْرَمَ ʾajrama [v. IV, trans.] to commit (a crime or sin) (34:25) قُلْ لَا تُسْأَلُونَ عَمَّا أَجْرَمْنَا وَلَا نُسْأَلُ عَمَّا تَعْمَلُونَ say, ‘You will not be taken to task for what we commit, nor will we be responsible for what you do.’\n\nإِجْرَام ʾijrām [n./v. n.] guilt, crime, sin (11:35) قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي\n\n161"
+    }
+  ],
   "occurrences": [
     "10:13:17",
     "10:17:14",

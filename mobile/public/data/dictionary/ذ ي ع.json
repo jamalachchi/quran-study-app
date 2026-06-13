@@ -1,9 +1,22 @@
 {
-  "id": 1335,
   "root": "ذ ي ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذوب - ذوق\n\n(ذيع) الذال والياء والعين أصلٌ يدلُّ على إظهار الشَّيء وظُهوره وانتشارِه. يقال ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً. ورجلٌ مِذياعٌ: لا يكتُم سِرّاً؛ والجمع المذاييع. وفي حديث عليٍّ عليه السلام : \"ليسوا بالمَسَايِيح ولا المَذايِيع البُذُر\". وهاهنا كلمةٌ من هذا في المعنى من طريقة الانتشار، يقولون: أذاع النّاس [ما ] في الحَوض، إذا شربوه كُلَّه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذوب - ذوق\n\n(ذيع) الذال والياء والعين أصلٌ يدلُّ على إظهار الشَّيء وظُهوره وانتشارِه. يقال ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً. ورجلٌ مِذياعٌ: لا يكتُم سِرّاً؛ والجمع المذاييع. وفي حديث عليٍّ عليه السلام : \"ليسوا بالمَسَايِيح ولا المَذايِيع البُذُر\". وهاهنا كلمةٌ من هذا في المعنى من طريقة الانتشار، يقولون: أذاع النّاس [ما ] في الحَوض، إذا شربوه كُلَّه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "punishment] of [after] death.\nذَائِقُون dhāʾiqūn [pl. of act. part. ذَائِق dhāʾiq; fem. ذَائِقَة dhāʾiqatun] ones tasting, savouring; ones suffering (21:35) كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ every soul suffers death.",
+      "definition_english": "punishment] of [after] death.\nذَائِقُون dhāʾiqūn [pl. of act. part. ذَائِق dhāʾiq; fem. ذَائِقَة dhāʾiqatun] ones tasting, savouring; ones suffering (21:35) كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ every soul suffers death."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–y–ʿ to declare, to announce, to divulge, a telltale; to take away. Of this root, only أَذَاعَ ʾadhāʿa occurs once in the Qur’an.\nأَذَاعَ ʾadhāʿa [v. IV, trans., with prep. بِـ for emphasis] to spread around, to broadcast (4:83) وَإِذَا جَاءَهُمْ أَمْرٌ مِّنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ whenever there comes to them [news of any] matter concerning safety or peril, they spread it around.",
+      "definition_english": "dh–y–ʿ to declare, to announce, to divulge, a telltale; to take away. Of this root, only أَذَاعَ ʾadhāʿa occurs once in the Qur’an.\nأَذَاعَ ʾadhāʿa [v. IV, trans., with prep. بِـ for emphasis] to spread around, to broadcast (4:83) وَإِذَا جَاءَهُمْ أَمْرٌ مِّنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ whenever there comes to them [news of any] matter concerning safety or peril, they spread it around."
+    }
+  ],
   "occurrences": [
     "4:83:8"
   ]

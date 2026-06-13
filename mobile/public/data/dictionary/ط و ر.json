@@ -1,9 +1,17 @@
 {
-  "id": 2424,
   "root": "ط و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطهم - طوي\n\n(طور) الطاء والواو والراء أصلٌ صحيحٌ يدلُّ على معنىً واحد، وهو الامتداد في شيءٍ من مكانٍ أو زمان. من ذلك طَوَار الدَّار، وهو الذي يمتدُّ معها من فِنائِها. ولذلك [يقال] عدا طَوْره، أي جاز الحدَّ الذي هو له من دارِهِ. ثم استعير ذلك في كل شيء يُتعدَّى. والطُّور: جبلٌ، فيجوز أن يكون اسماً عَلَمَاً",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطهم - طوي\n\n(طور) الطاء والواو والراء أصلٌ صحيحٌ يدلُّ على معنىً واحد، وهو الامتداد في شيءٍ من مكانٍ أو زمان. من ذلك طَوَار الدَّار، وهو الذي يمتدُّ معها من فِنائِها. ولذلك [يقال] عدا طَوْره، أي جاز الحدَّ الذي هو له من دارِهِ. ثم استعير ذلك في كل شيء يُتعدَّى. والطُّور: جبلٌ، فيجوز أن يكون اسماً عَلَمَاً",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t–w–r mountain, rock; boundaries, limitation; state, stage; to parallel; to approach; (of animals and people) to be wild. It has been suggested by some philologists that طُور ṭūr, meaning mountains, is a borrowing from Syriac or possibly Nabataean. Of this root, two forms occur 11 times in the Qur’an: طُور ṭūr 10 times and أَطْوَار ʾaṭwār once.\nطُور ṭūr [n.] mountain (23:20) وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَاءَ and a tree, springing out of Mount Sinai; * الطور name of Sura 52, Meccan sura, so-named because of the reference in verse 1 to ‘Mount Sinai’.\n\nأَطْوَار ʾaṭwār [pl. of n. طَوْر ṭawr] stages, states, types, conditions, forms (71:14) وَقَدْ خَلَقَكُمْ أَطْوَارًا when He has created you stage by stage [also interpreted as: in various sorts and conditions; in different forms, everyone in his/her own proper form; in various aspects and dispositions; or, one time seed, one\n\n576 ط/و/ع\n\ntime a clot of blood, one time a lump of flesh … as indicated in 23:12–14].",
+      "definition_english": "t–w–r mountain, rock; boundaries, limitation; state, stage; to parallel; to approach; (of animals and people) to be wild. It has been suggested by some philologists that طُور ṭūr, meaning mountains, is a borrowing from Syriac or possibly Nabataean. Of this root, two forms occur 11 times in the Qur’an: طُور ṭūr 10 times and أَطْوَار ʾaṭwār once.\nطُور ṭūr [n.] mountain (23:20) وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَاءَ and a tree, springing out of Mount Sinai; * الطور name of Sura 52, Meccan sura, so-named because of the reference in verse 1 to ‘Mount Sinai’.\n\nأَطْوَار ʾaṭwār [pl. of n. طَوْر ṭawr] stages, states, types, conditions, forms (71:14) وَقَدْ خَلَقَكُمْ أَطْوَارًا when He has created you stage by stage [also interpreted as: in various sorts and conditions; in different forms, everyone in his/her own proper form; in various aspects and dispositions; or, one time seed, one\n\n576 ط/و/ع\n\ntime a clot of blood, one time a lump of flesh … as indicated in 23:12–14]."
+    }
+  ],
   "occurrences": [
     "19:52:4",
     "20:80:9",

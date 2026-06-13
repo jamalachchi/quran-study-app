@@ -1,9 +1,17 @@
 {
-  "id": 3124,
   "root": "ق ب ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقبح - قبر\n\n(قبر) القاف والباء والراء أصلٌ صحيحٌ يدلُّ على غموضٍ في شيء وتطامُن. من ذلك القَبْر: قَبْر الميِّت. يقال قَبَرْتُه أقْبُرُه. قال الأعشى:\n\nعاشَ ولم يُنقَلْ إلى قَابِرِ\n\nلو أسندَتْ ميتاً إلى نَحْرِِها\n\nفإن جعلتَ لـه مكاناً يُقْبَرُ فيه قلتَ: أقْبَرْتُهُ، قال الله تعالى: ] ثُمَّ أمَاتَهُ فأَقْبَرَهُ [ [عبس 21]. قلنا: ولولا أنَّ العلماءَ تجوَّزُوا في هذا لمَا رأينا أنْ يُجمَعَ بين قَوْلِ الله وبين الشِّعْرِ في كتابٍ، فكيف في وَرَقَةٍ أو صفحة. ولكنَّا اقتدَيْنَا بهم، والله تعالى يَغفر لنا، ويعفو عَنَّا وعنهم .\n\nوقال ناسٌ من أهل التَّفسير في قوله تعالى: ] ثُمَّ أمَاتَهُ فَأَقْبَرَهُ [",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقبح - قبر\n\n(قبر) القاف والباء والراء أصلٌ صحيحٌ يدلُّ على غموضٍ في شيء وتطامُن. من ذلك القَبْر: قَبْر الميِّت. يقال قَبَرْتُه أقْبُرُه. قال الأعشى:\n\nعاشَ ولم يُنقَلْ إلى قَابِرِ\n\nلو أسندَتْ ميتاً إلى نَحْرِِها\n\nفإن جعلتَ لـه مكاناً يُقْبَرُ فيه قلتَ: أقْبَرْتُهُ، قال الله تعالى: ] ثُمَّ أمَاتَهُ فأَقْبَرَهُ [ [عبس 21]. قلنا: ولولا أنَّ العلماءَ تجوَّزُوا في هذا لمَا رأينا أنْ يُجمَعَ بين قَوْلِ الله وبين الشِّعْرِ في كتابٍ، فكيف في وَرَقَةٍ أو صفحة. ولكنَّا اقتدَيْنَا بهم، والله تعالى يَغفر لنا، ويعفو عَنَّا وعنهم .\n\nوقال ناسٌ من أهل التَّفسير في قوله تعالى: ] ثُمَّ أمَاتَهُ فَأَقْبَرَهُ [",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–b–r grave, tomb, cemetery, to bury, to entomb. Of this root,\nfour forms occur in eight places in the Qur’an: أَقْبَرَ ʾaqbara once;\nقبر qabr once; قُبُور qubūr five times and مَقَابِر maqābir once.\n\nأَقْبَرَ ʾaqbara [v. IV, trans.] to cause to be buried, to hand over\nsomeone for burial, to cause burying to be the norm (80:21) ثُمَّ\nأَمَاتَهُ فَأَقْبَرَهُ then He causes him to die and be buried (or, made burial the\nnorm for humankind).\n\nقَبْر qabr [n.; pl. قُبُور qubūr] tomb, grave (22:7) وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي\nالْقُبُورِ and surely God will raise those who are in the graves.\n\nمَقَابِر maqābir [pl. of n. مَقْبَرَة maqbaratun] graves, burying\nplaces; cemetery, graveyard *(102:2) حَتَّى زُرْتُمُ الْمَقَابِرَ until you go\ninto your graves [lit. until you visit the cemeteries].",
+      "definition_english": "q–b–r grave, tomb, cemetery, to bury, to entomb. Of this root,\nfour forms occur in eight places in the Qur’an: أَقْبَرَ ʾaqbara once;\nقبر qabr once; قُبُور qubūr five times and مَقَابِر maqābir once.\n\nأَقْبَرَ ʾaqbara [v. IV, trans.] to cause to be buried, to hand over\nsomeone for burial, to cause burying to be the norm (80:21) ثُمَّ\nأَمَاتَهُ فَأَقْبَرَهُ then He causes him to die and be buried (or, made burial the\nnorm for humankind).\n\nقَبْر qabr [n.; pl. قُبُور qubūr] tomb, grave (22:7) وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي\nالْقُبُورِ and surely God will raise those who are in the graves.\n\nمَقَابِر maqābir [pl. of n. مَقْبَرَة maqbaratun] graves, burying\nplaces; cemetery, graveyard *(102:2) حَتَّى زُرْتُمُ الْمَقَابِرَ until you go\ninto your graves [lit. until you visit the cemeteries]."
+    }
+  ],
   "occurrences": [
     "100:9:7",
     "102:2:3",

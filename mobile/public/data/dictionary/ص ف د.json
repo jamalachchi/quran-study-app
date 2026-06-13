@@ -1,9 +1,17 @@
 {
-  "id": 2164,
   "root": "ص ف د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصفح - صفد\n\n(صفد) الصاد والفاء والدال أصلان صحيحان: أحدُهما عَطاءٌ، والآخَر شَدٌّ بشيء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصفح - صفد\n\n(صفد) الصاد والفاء والدال أصلان صحيحان: أحدُهما عَطاءٌ، والآخَر شَدٌّ بشيء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–f–d shackles, fetters, thongs, chains; to bind; to give freely. Of this root, one form, أَصْفَاد ʾaṣfād, occurs twice in the Qurʾan.\nأَصْفَاد ʾaṣfād [pl. of n. صَفَد ṣafad] fetters, shackles (14:49) وَتَرَى الْمُجْرِمِينَ يَوْمَئِذٍ مُّقَرَّنِينَ فِي الْأَصْفَادِ you will see the sinners on that Day, bound in fetters.",
+      "definition_english": "ṣ–f–d shackles, fetters, thongs, chains; to bind; to give freely. Of this root, one form, أَصْفَاد ʾaṣfād, occurs twice in the Qurʾan.\nأَصْفَاد ʾaṣfād [pl. of n. صَفَد ṣafad] fetters, shackles (14:49) وَتَرَى الْمُجْرِمِينَ يَوْمَئِذٍ مُّقَرَّنِينَ فِي الْأَصْفَادِ you will see the sinners on that Day, bound in fetters."
+    }
+  ],
   "occurrences": [
     "14:49:6",
     "38:38:4"

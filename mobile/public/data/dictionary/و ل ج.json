@@ -1,9 +1,22 @@
 {
-  "id": 4508,
   "root": "و ل ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولي\n\n(ولج) الواو واللام والجيم: كلمةٌ تدلُّ على دُخول شيء. يقال وَلَج في مَنزِلِه ووَلَجَ البيتَ يَلِجُ وُلُوجاً. والوَليجة: البِطانةُ والدُّخَلاء. [و] يقال رجلٌ خُرَجَةٌ وُلَجةٌ: كثيرُ الخروج والوُلوج. والوَلِجَة: وجَعٌ يَلجُ جَوفَ الإنسان .\n\nولح - ولخ - ولد - ولذ\n\nويقولون: الوَلَج: الطَّريق في الرَّمْل ، وهو من القياس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولي\n\n(ولج) الواو واللام والجيم: كلمةٌ تدلُّ على دُخول شيء. يقال وَلَج في مَنزِلِه ووَلَجَ البيتَ يَلِجُ وُلُوجاً. والوَليجة: البِطانةُ والدُّخَلاء. [و] يقال رجلٌ خُرَجَةٌ وُلَجةٌ: كثيرُ الخروج والوُلوج. والوَلِجَة: وجَعٌ يَلجُ جَوفَ الإنسان .\n\nولح - ولخ - ولد - ولذ\n\nويقولون: الوَلَج: الطَّريق في الرَّمْل ، وهو من القياس.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مُتَوَكِّلُون mutawakkilūn [pl. of act. part. مُتَوَكِّل mutawakkil] one\nwho puts his trust in another/God (3:159) فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ\nاللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ so when you have decided [on a course of action],\nput your trust in God—God loves those who put their trust [in\nHim].",
+      "definition_english": "مُتَوَكِّلُون mutawakkilūn [pl. of act. part. مُتَوَكِّل mutawakkil] one\nwho puts his trust in another/God (3:159) فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ\nاللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ so when you have decided [on a course of action],\nput your trust in God—God loves those who put their trust [in\nHim]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–l–j land depression, valley, cave; door, entrance, doorway;\nto enter, to cause to enter; confidants, close friends, associates. Of\nthis root, three forms occur 14 times in the Qur’an: يَلِج yalij three\ntimes; يُولِج yūlij 10 times and وَلِيجَة walījatun once.\n\nيَلِج yalij [imperf. of v. وَلَج walaja, intrans.] to enter, to\npenetrate (7:40) وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّى يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ and they\nwill not enter the Garden until a thick rope passes through the\neye of a needle.\n\nيُولِج yūlij [imperf. of v. IV أَوْلَج ʾawlaja, trans.] to cause to enter\n(22:61) يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ He makes night enter\ninto day, and day into night.\n\nوَلِيجَة walījatun [coll. n.] close friend(s) and associate(s) (9:16)\nوَلَمْ يَتَّخِذُوا مِنْ دُونِ اللَّهِ وَلَا رَسُولِهِ وَلَا الْمُؤْمِنِينَ وَلِيجَةً and take no\nconfidant(s) apart from God, His Messenger and [other]\nbelievers.",
+      "definition_english": "w–l–j land depression, valley, cave; door, entrance, doorway;\nto enter, to cause to enter; confidants, close friends, associates. Of\nthis root, three forms occur 14 times in the Qur’an: يَلِج yalij three\ntimes; يُولِج yūlij 10 times and وَلِيجَة walījatun once.\n\nيَلِج yalij [imperf. of v. وَلَج walaja, intrans.] to enter, to\npenetrate (7:40) وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّى يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ and they\nwill not enter the Garden until a thick rope passes through the\neye of a needle.\n\nيُولِج yūlij [imperf. of v. IV أَوْلَج ʾawlaja, trans.] to cause to enter\n(22:61) يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ He makes night enter\ninto day, and day into night.\n\nوَلِيجَة walījatun [coll. n.] close friend(s) and associate(s) (9:16)\nوَلَمْ يَتَّخِذُوا مِنْ دُونِ اللَّهِ وَلَا رَسُولِهِ وَلَا الْمُؤْمِنِينَ وَلِيجَةً and take no\nconfidant(s) apart from God, His Messenger and [other]\nbelievers."
+    }
+  ],
   "occurrences": [
     "22:61:4",
     "22:61:8",

@@ -1,9 +1,22 @@
 {
-  "id": 1694,
   "root": "ز و ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزوج - زوح\n\n* ويوفِي زَيازِيَ حُدْبَ التّلالِ *\n\nومن هذا قدرٌ زُوَزِيَةٌ، أي ضخمة .\n\nوممَّا لا اشتقاقَ له الزَّوْء، وهي المَنِيّة .\n\n(زوج) الزاء والواو والجيم أصلٌ يدلُّ على مقارنَة شيءٍ لشيء. من ذلك [الزّوج زوج المرأة. والمرأةُ ] زوج بعلِها، وهو الفصيح. قال الله جل ثناؤه: ] اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ [ [البقرة 35، الأعراف 19]. ويقال لفلانٍ زوجانِ من الحمام، يعني ذكراً وأنثى. فأمّا قولُه جلّ وعزّ في ذِكْر النبات: ] مِنْ كُلِّ زَوْجٍ بَهِيجٍ [ [الحج 5، ق7]، فيقال أراد به اللَّون، كأنَّه قال: من كل لونٍ بهيج. وهذا لا يبعد أن يكون مِن الذي ذكرناه؛ لأنه يزوَّج غَيْرَه ممّا يقاربه. وكذلك قولهم للنَّمَط الذي يُطرَح على الهودج زَوج؛ لأنَّه زوجٌ لما يُلْقَى عليه. قال لبيد:\n\nمِن كل محفوفٍ يُظِلُّ عِصِيَّهُ\n\nزَوْجٌ عليه كِلّةٌ وقِرامُها",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزوج - زوح\n\n* ويوفِي زَيازِيَ حُدْبَ التّلالِ *\n\nومن هذا قدرٌ زُوَزِيَةٌ، أي ضخمة .\n\nوممَّا لا اشتقاقَ له الزَّوْء، وهي المَنِيّة .\n\n(زوج) الزاء والواو والجيم أصلٌ يدلُّ على مقارنَة شيءٍ لشيء. من ذلك [الزّوج زوج المرأة. والمرأةُ ] زوج بعلِها، وهو الفصيح. قال الله جل ثناؤه: ] اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ [ [البقرة 35، الأعراف 19]. ويقال لفلانٍ زوجانِ من الحمام، يعني ذكراً وأنثى. فأمّا قولُه جلّ وعزّ في ذِكْر النبات: ] مِنْ كُلِّ زَوْجٍ بَهِيجٍ [ [الحج 5، ق7]، فيقال أراد به اللَّون، كأنَّه قال: من كل لونٍ بهيج. وهذا لا يبعد أن يكون مِن الذي ذكرناه؛ لأنه يزوَّج غَيْرَه ممّا يقاربه. وكذلك قولهم للنَّمَط الذي يُطرَح على الهودج زَوج؛ لأنَّه زوجٌ لما يُلْقَى عليه. قال لبيد:\n\nمِن كل محفوفٍ يُظِلُّ عِصِيَّهُ\n\nزَوْجٌ عليه كِلّةٌ وقِرامُها",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "in the Qurʾan.\nزَاهِدِين zāhidīn [pl. of n./act. part. زَاهِد zāhid] abstemious,\nabstinent, one who has no interest in worldly pleasures, one who\nhas little or no interest in something (12:20) وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ\nمَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ and they sold him for a lowly price, a few\ndirhams, and they were not interested in him.",
+      "definition_english": "in the Qurʾan.\nزَاهِدِين zāhidīn [pl. of n./act. part. زَاهِد zāhid] abstemious,\nabstinent, one who has no interest in worldly pleasures, one who\nhas little or no interest in something (12:20) وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ\nمَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ and they sold him for a lowly price, a few\ndirhams, and they were not interested in him."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-w-j even number, pair, double, two things which are\nconnected in some way; spouse, one of a pair; a species, type; to\n\n406",
+      "definition_english": "z-w-j even number, pair, double, two things which are\nconnected in some way; spouse, one of a pair; a species, type; to\n\n406"
+    }
+  ],
   "occurrences": [
     "11:40:12",
     "13:23:8",

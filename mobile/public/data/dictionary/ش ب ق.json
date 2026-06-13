@@ -1,8 +1,11 @@
 {
-  "id": 2071,
   "root": "ش ب ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشبص - شبع\n\n(شبق) الشين والباء والقاف كلمةٌ واحدة: الشَّبَق، وهو شهوة النِّكاح.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشبص - شبع\n\n(شبق) الشين والباء والقاف كلمةٌ واحدة: الشَّبَق، وهو شهوة النِّكاح.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

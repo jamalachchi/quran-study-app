@@ -1,9 +1,22 @@
 {
-  "id": 2986,
   "root": "ف ر ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفرع\n\nويقولون: أفْرَطت القربةَ: ملأتَها. والمعني في ذلك أنَّه إذا ملأها فقد أفْرَطَ، لأنَّ الماء يَسبِق منها فيَسيل. وغديرٌ مُفْرَطٌ: ملآنُ. وأفرطتُ القومَ، إذا تقدَّمتَهم وتركتَهم وراءَك. وقالوا في قوله تعالى: ] وَأَنّهُمْ مُفْرَطُونَ [ [النحل 62]: أي مؤخَّرون.\n\nويقولون: لقيته في الفَرْط بعد الفَرْط، أي الحين بعد الحين. يقال: معناه مَا فَرَط من الزَّمان. والفارطان: كوكبانِ أمام بَنات نَعْش، كأنَّها سمِّيا بذلك لتقدُّمهما. وأَفراط الصَّباح: أوائل تَباشيره. ومنه الفَرَط، أي العَلَم من أعلام الأرض يُهتدَى بها، والجمع أفراط. وإيّاه أراد القائلُ بقوله:\n\nجَمِّ الصَّواهلِ بين الجَمِّ والفُرُطِ\n\nأم هل سموتُ بجَرَّارٍ لـه لَجَبٌ\n\nويقال إنِّما هو الفَرَط، والقياس واحد.\n\n(فرع) الفاء والراء والعين أصلٌ صحيح يدلُّ على علوٍّ وارتفاعٍ وسموٍّ وسُبوغ. من ذلك الفَرْعُ، وهو أعلَى الشيء. والفَرْع: مصدر فَرعْتُ الشيء فَرعاً، إذا علَوتَه. ويقال: أفرَعَ بنو فلانٍ، إذا انتجَعُوا في أوّل النَّاس. والفَرَع : المال الطَّائل المعَدّ. والأفرع: الرَّجُل التامّ الشَّعَْر، وقد فَرِع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفرع\n\nويقولون: أفْرَطت القربةَ: ملأتَها. والمعني في ذلك أنَّه إذا ملأها فقد أفْرَطَ، لأنَّ الماء يَسبِق منها فيَسيل. وغديرٌ مُفْرَطٌ: ملآنُ. وأفرطتُ القومَ، إذا تقدَّمتَهم وتركتَهم وراءَك. وقالوا في قوله تعالى: ] وَأَنّهُمْ مُفْرَطُونَ [ [النحل 62]: أي مؤخَّرون.\n\nويقولون: لقيته في الفَرْط بعد الفَرْط، أي الحين بعد الحين. يقال: معناه مَا فَرَط من الزَّمان. والفارطان: كوكبانِ أمام بَنات نَعْش، كأنَّها سمِّيا بذلك لتقدُّمهما. وأَفراط الصَّباح: أوائل تَباشيره. ومنه الفَرَط، أي العَلَم من أعلام الأرض يُهتدَى بها، والجمع أفراط. وإيّاه أراد القائلُ بقوله:\n\nجَمِّ الصَّواهلِ بين الجَمِّ والفُرُطِ\n\nأم هل سموتُ بجَرَّارٍ لـه لَجَبٌ\n\nويقال إنِّما هو الفَرَط، والقياس واحد.\n\n(فرع) الفاء والراء والعين أصلٌ صحيح يدلُّ على علوٍّ وارتفاعٍ وسموٍّ وسُبوغ. من ذلك الفَرْعُ، وهو أعلَى الشيء. والفَرْع: مصدر فَرعْتُ الشيء فَرعاً، إذا علَوتَه. ويقال: أفرَعَ بنو فلانٍ، إذا انتجَعُوا في أوّل النَّاس. والفَرَع : المال الطَّائل المعَدّ. والأفرع: الرَّجُل التامّ الشَّعَْر، وقد فَرِع.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مُفْرَطُون mufraṭūn [pl. of pass. part. مُفْرَط mufraṭ] abandoned,\nwasted (16:62) لَا جَرَمَ أَنَّ لَهُمُ النَّارَ وَأَنَّهُمْ مُفْرَطُونَ there is no doubt that\nthe Fire is theirs–and that they will be abandoned [there]!\n\nفُرُط furuṭ [v. n.] excess, neglect, failing, abandoning,\nshortcoming (18:28) وَكَانَ أَمْرُهُ فُرُطًا and his doings have become\nrife with shortcomings.",
+      "definition_english": "مُفْرَطُون mufraṭūn [pl. of pass. part. مُفْرَط mufraṭ] abandoned,\nwasted (16:62) لَا جَرَمَ أَنَّ لَهُمُ النَّارَ وَأَنَّهُمْ مُفْرَطُونَ there is no doubt that\nthe Fire is theirs–and that they will be abandoned [there]!\n\nفُرُط furuṭ [v. n.] excess, neglect, failing, abandoning,\nshortcoming (18:28) وَكَانَ أَمْرُهُ فُرُطًا and his doings have become\nrife with shortcomings."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–r–ʿ to be tall, to grow high; (of a tree or mountain) the upper\npart; to climb. Of this root, فَرْع farʿ occurs once in the Qur’an.\n\nفَرْع farʿ [n.; coll. n.] upper part, branch; branches (14:24) كَشَجَرَةٍ\nطَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ like a good tree whose root is firm\nand whose branches are [high] in the sky.",
+      "definition_english": "f–r–ʿ to be tall, to grow high; (of a tree or mountain) the upper\npart; to climb. Of this root, فَرْع farʿ occurs once in the Qur’an.\n\nفَرْع farʿ [n.; coll. n.] upper part, branch; branches (14:24) كَشَجَرَةٍ\nطَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ like a good tree whose root is firm\nand whose branches are [high] in the sky."
+    }
+  ],
   "occurrences": [
     "14:24:13"
   ]

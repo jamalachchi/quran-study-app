@@ -1,9 +1,22 @@
 {
-  "id": 874,
   "root": "ح ن ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحنق - حنك\n\n(حنك) الحاء والنون والكاف أصل واحد، وهو عضوٌ من الأعضاء ثم يحمل عليه ما يقاربُه من طريقة الاشتقاق. فأصل الحَنَك حَنَكُ الإنسان، أقصى فمه. يقال حَنَّكْت الصّبيّ، إذا مضَغت التمر ثم دلكتَه بحنكه، فهو مُحَنّك؛ وحَنَكْته فهو محنوك. ويقال: \"هو أشدُّ سواداً من حَنَك الغراب\" وهو منقاره، وأمّا حَلَكه فهو سواده. ويقال احتنك الجرادُ الأرضَ، إذا أتى على نبْتها؛ وذلك قياس صحيح، لأنه يأكل فيبلغ حنكَه.\n\nومن المحمول عليه استئصال الشيء، وهو احتناكه، ومنه في كتاب الله",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحنق - حنك\n\n(حنك) الحاء والنون والكاف أصل واحد، وهو عضوٌ من الأعضاء ثم يحمل عليه ما يقاربُه من طريقة الاشتقاق. فأصل الحَنَك حَنَكُ الإنسان، أقصى فمه. يقال حَنَّكْت الصّبيّ، إذا مضَغت التمر ثم دلكتَه بحنكه، فهو مُحَنّك؛ وحَنَكْته فهو محنوك. ويقال: \"هو أشدُّ سواداً من حَنَك الغراب\" وهو منقاره، وأمّا حَلَكه فهو سواده. ويقال احتنك الجرادُ الأرضَ، إذا أتى على نبْتها؛ وذلك قياس صحيح، لأنه يأكل فيبلغ حنكَه.\n\nومن المحمول عليه استئصال الشيء، وهو احتناكه، ومنه في كتاب الله",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "denial of God (56:46) وَكَانُوا يُصِرُّونَ عَلَى الْحِنثِ الْعَظِيمِ and they always\npersisted in great sin.",
+      "definition_english": "denial of God (56:46) وَكَانُوا يُصِرُّونَ عَلَى الْحِنثِ الْعَظِيمِ and they always\npersisted in great sin."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ–n–k roof of the mouth, to massage the roof of the mouth\nwith soft dates; to train in ways of the world, wisdom, experience;\na mouth halter, to control, to overpower. Of this root, أَحْتَنِك\nʾaḥtanik occurs once in the Qurʾan.\n\nأَحْتَنِك ʾaḥtanik [imperf. of v. VIII اِحْتَنَكَ ʾiḥtanaka, trans.] to devour by the mouth, to devour; to eradicate, to have full control over, to lead by the mouth/nose (17:62) لَئِنْ أَخَّرْتَنِ إِلَى يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا if You defer me until the Day of Resurrection, I will have complete control over them (or, lead all of his descendants by the nose) [I will have full control over them] except for a few.",
+      "definition_english": "ḥ–n–k roof of the mouth, to massage the roof of the mouth\nwith soft dates; to train in ways of the world, wisdom, experience;\na mouth halter, to control, to overpower. Of this root, أَحْتَنِك\nʾaḥtanik occurs once in the Qurʾan.\n\nأَحْتَنِك ʾaḥtanik [imperf. of v. VIII اِحْتَنَكَ ʾiḥtanaka, trans.] to devour by the mouth, to devour; to eradicate, to have full control over, to lead by the mouth/nose (17:62) لَئِنْ أَخَّرْتَنِ إِلَى يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا if You defer me until the Day of Resurrection, I will have complete control over them (or, lead all of his descendants by the nose) [I will have full control over them] except for a few."
+    }
+  ],
   "occurrences": [
     "17:62:12"
   ]

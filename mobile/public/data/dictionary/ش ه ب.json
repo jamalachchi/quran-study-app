@@ -1,9 +1,17 @@
 {
-  "id": 2027,
   "root": "ش ه ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشهو - شهب\n\n(شهب) الشين والهاء والباء أصلٌ واحدٌ يدلُّ على بياض في شيءٍ من سواد، لا تكون الشُّهبةُ خالصةً بياضاً. ومن ذلك الشُّهبة في الفرَس، هو بياضٌ يخالطُهُ سَواد. ويقال كَتِيبةٌ شَهباء، إِذا كانت عِليتُها بياضَ الحديد، ويقال لليوم ذي البرد والصُّرَّاد : أشهبُ، والليلة الشّهباءُ. ويقال: اشهابَّ الزَّرْع، إذا هاجَ وبَقي في خِلاله شيءٌ أخضر. ومن الباب: الشِّهاب، وهو شُعلة نارٍ ساطعة. وإنَّ فُلاناً لَشِهابُ حربٍ، وذلك إذا كان معروفاً فيها مشهوراً كشُهرة الكواكب اللّوامع. ويقال إنَّ النّصل الأشهبَ الذي قد بُرِدَ بَرْداً خفيفاً حتى ذهب سوادُهُ. ويقال إنَّ الشّهاب اللّبَنَ الضَّيَاح، وإِنما سمِّيَ بذلك لأنَّ ماءَه قد كثر فصار كالبياض الذي يخالطه لونٌ آخر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشهو - شهب\n\n(شهب) الشين والهاء والباء أصلٌ واحدٌ يدلُّ على بياض في شيءٍ من سواد، لا تكون الشُّهبةُ خالصةً بياضاً. ومن ذلك الشُّهبة في الفرَس، هو بياضٌ يخالطُهُ سَواد. ويقال كَتِيبةٌ شَهباء، إِذا كانت عِليتُها بياضَ الحديد، ويقال لليوم ذي البرد والصُّرَّاد : أشهبُ، والليلة الشّهباءُ. ويقال: اشهابَّ الزَّرْع، إذا هاجَ وبَقي في خِلاله شيءٌ أخضر. ومن الباب: الشِّهاب، وهو شُعلة نارٍ ساطعة. وإنَّ فُلاناً لَشِهابُ حربٍ، وذلك إذا كان معروفاً فيها مشهوراً كشُهرة الكواكب اللّوامع. ويقال إنَّ النّصل الأشهبَ الذي قد بُرِدَ بَرْداً خفيفاً حتى ذهب سوادُهُ. ويقال إنَّ الشّهاب اللّبَنَ الضَّيَاح، وإِنما سمِّيَ بذلك لأنَّ ماءَه قد كثر فصار كالبياض الذي يخالطه لونٌ آخر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–h–b the encroachment of white into black, or light into dark, or vice versa; (of cold) to change the colour of trees; to be of ashen hues; barren land; to be difficult; a shooting star. Of this root, two words occur five times in the Qurʾan: شِهَاب shihāb four times and شُهُب shuhub once.\nشِهَاب shihāb [n., pl. شُهُب shuhub] 1 shooting star (72:9) فَمَنِ اسْتَمَعَ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا but the one who now listens finds for himself a meteorite lying in wait 2 flame, torch (27:7) إِنِّي آنَسْتُ نَارًا سَآتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ آتِيكُمْ بِشِهَابٍ قَبَسٍ لَعَلَّكُمْ تَصْطَلُونَ I have seen a fire, I will bring you news from there, or a burning stick for you to warm yourselves.",
+      "definition_english": "sh–h–b the encroachment of white into black, or light into dark, or vice versa; (of cold) to change the colour of trees; to be of ashen hues; barren land; to be difficult; a shooting star. Of this root, two words occur five times in the Qurʾan: شِهَاب shihāb four times and شُهُب shuhub once.\nشِهَاب shihāb [n., pl. شُهُب shuhub] 1 shooting star (72:9) فَمَنِ اسْتَمَعَ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا but the one who now listens finds for himself a meteorite lying in wait 2 flame, torch (27:7) إِنِّي آنَسْتُ نَارًا سَآتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ آتِيكُمْ بِشِهَابٍ قَبَسٍ لَعَلَّكُمْ تَصْطَلُونَ I have seen a fire, I will bring you news from there, or a burning stick for you to warm yourselves."
+    }
+  ],
   "occurrences": [
     "15:18:6",
     "27:7:13",

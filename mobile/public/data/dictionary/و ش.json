@@ -1,8 +1,11 @@
 {
-  "id": 4301,
   "root": "و ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\n(وش) الواو والشين: كلمةٌ واحدة. الوَشوشة: الاختلاط، ورجلٌ وَشْواش.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\n(وش) الواو والشين: كلمةٌ واحدة. الوَشوشة: الاختلاط، ورجلٌ وَشْواش.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

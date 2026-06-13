@@ -1,9 +1,17 @@
 {
-  "id": 1104,
   "root": "خ ت ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخبن\n\n(ختر) الخاء والتاء والراء أصلٌ يدلُّ على تَوانٍ وفُتُورٍ. يقال تَخَتَّرَ الرجلُ في مِشيته، وذلك أن يَمشي مِشْية الكَسْلان. ومن الباب الخَتْر، وهو الغَدْر، وذلك أنّه إذا خَتَر فقد قعَد عن الوفاء. والخَتَّار: الغَدَّار. قال الله تعالى: ] وَمَا يَجْحَدُ بِآياتِنَا إلاَّ كُلُّ خَتَّارٍ كَفُورٍ [ [لقمان 32].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخبن\n\n(ختر) الخاء والتاء والراء أصلٌ يدلُّ على تَوانٍ وفُتُورٍ. يقال تَخَتَّرَ الرجلُ في مِشيته، وذلك أن يَمشي مِشْية الكَسْلان. ومن الباب الخَتْر، وهو الغَدْر، وذلك أنّه إذا خَتَر فقد قعَد عن الوفاء. والخَتَّار: الغَدَّار. قال الله تعالى: ] وَمَا يَجْحَدُ بِآياتِنَا إلاَّ كُلُّ خَتَّارٍ كَفُورٍ [ [لقمان 32].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–ṭ–r numbness, relaxation, corruption; treachery, to betray,\nto corrupt. Of this root, خَتَّار khattār occurs once in the Qur’an.\n\nخَتَّار khattār [intens. act. part.] very treacherous, one given to\ntreachery, perfidious (31:32) وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ only a\ntreacherous, thankless person rejects Our signs.",
+      "definition_english": "kh–ṭ–r numbness, relaxation, corruption; treachery, to betray,\nto corrupt. Of this root, خَتَّار khattār occurs once in the Qur’an.\n\nخَتَّار khattār [intens. act. part.] very treacherous, one given to\ntreachery, perfidious (31:32) وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ only a\ntreacherous, thankless person rejects Our signs."
+    }
+  ],
   "occurrences": [
     "31:32:21"
   ]

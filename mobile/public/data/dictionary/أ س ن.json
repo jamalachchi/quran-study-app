@@ -1,9 +1,17 @@
 {
-  "id": 101,
   "root": "أ س ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأسف - أسك\n\n(أسن) الهمزة والسين والنون أصلان، أحدهما تغيّر الشيء، والآخر السَّبب. فأ[مّا ا] لأوّل فيقال أسَنَ الماء يأسِنُ ويأسُنُ. إذا تغير. هذا هو المشهور، وقد يقال أَسِنَ. قال الله تعالى: ] مِنْ مَاءٍ غَيْرِ آسِنٍ [ [محمد 15]. وأسِنَ الرّجُل إذا غُشِيَ عليه مِن ريح البئر. وهاهنا كلمتان مَعْلولتان ليستا بأصل، إحداهما الأُسُن وهو بقيّة الشَّحم، وهذه همزةٌ مبدلة من عَين، إنما هو عُسُنٌ، والأخرى قولهم تأسَّنَ تأسُّناً إذا اعتلّ وأبطأ. وعلّة هذه أنّ أبا زيد قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأسف - أسك\n\n(أسن) الهمزة والسين والنون أصلان، أحدهما تغيّر الشيء، والآخر السَّبب. فأ[مّا ا] لأوّل فيقال أسَنَ الماء يأسِنُ ويأسُنُ. إذا تغير. هذا هو المشهور، وقد يقال أَسِنَ. قال الله تعالى: ] مِنْ مَاءٍ غَيْرِ آسِنٍ [ [محمد 15]. وأسِنَ الرّجُل إذا غُشِيَ عليه مِن ريح البئر. وهاهنا كلمتان مَعْلولتان ليستا بأصل، إحداهما الأُسُن وهو بقيّة الشَّحم، وهذه همزةٌ مبدلة من عَين، إنما هو عُسُنٌ، والأخرى قولهم تأسَّنَ تأسُّناً إذا اعتلّ وأبطأ. وعلّة هذه أنّ أبا زيد قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–s–n relic; (of water) to become putrid, to be overcome with\nfumes from such water; to take after one’s father. Of this root,\nآسِن ʾāsin occurs once in the Qur’an.\n\nآسِن ʾāsin [quasi-act. part.] polluted, putrid, stinking (47:15)\nفِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ in it there are rivers of water unpolluted.",
+      "definition_english": "ʾ–s–n relic; (of water) to become putrid, to be overcome with\nfumes from such water; to take after one’s father. Of this root,\nآسِن ʾāsin occurs once in the Qur’an.\n\nآسِن ʾāsin [quasi-act. part.] polluted, putrid, stinking (47:15)\nفِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ in it there are rivers of water unpolluted."
+    }
+  ],
   "occurrences": [
     "47:15:11"
   ]

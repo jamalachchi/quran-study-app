@@ -1,9 +1,22 @@
 {
-  "id": 3867,
   "root": "ن و ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنوي\n\n(نوص) النون والواو والصاد أصلٌ صحيح يدلُّ على تردُّدٍ ومجيءٍ وذهاب*. وناص عن قرنه يَنُوص نَوْصاً. والمَنَاص المصدر، والمَلْجأ أيضاً. قال سبحانه: ] وَلاَتَ حِينَ مَنَاصٍ [ [ص 3]. ويقولون: النَّوْص: الحِمار الوحشيّ لا يزالُ نائصاً: رافعاً رأسَه، يتردَّد كالجامح. وناوَصَ الجَرَّة: مارَسَها. ومرَّ تفسيرُه في باب الجيم .\n\nنوض - نوط - نوع",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنوي\n\n(نوص) النون والواو والصاد أصلٌ صحيح يدلُّ على تردُّدٍ ومجيءٍ وذهاب*. وناص عن قرنه يَنُوص نَوْصاً. والمَنَاص المصدر، والمَلْجأ أيضاً. قال سبحانه: ] وَلاَتَ حِينَ مَنَاصٍ [ [ص 3]. ويقولون: النَّوْص: الحِمار الوحشيّ لا يزالُ نائصاً: رافعاً رأسَه، يتردَّد كالجامح. وناوَصَ الجَرَّة: مارَسَها. ومرَّ تفسيرُه في باب الجيم .\n\nنوض - نوط - نوع",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "once in the Qur’an.\nتَنَاوُش tanāwush [v. n.] the act of attaining, reaching grasping,\ncomprehending, embracing (34:52) وَقَالُوا آمَنَّا بِهِ وَأَنَّىٰ لَهُمُ التَّنَاوُشُ مِنْ\nمَكَانٍ بَعِيدٍ they will say, ‘Now we believe in it [the truth],’ but how\ncan they attain [to faith] from such a distant place?",
+      "definition_english": "once in the Qur’an.\nتَنَاوُش tanāwush [v. n.] the act of attaining, reaching grasping,\ncomprehending, embracing (34:52) وَقَالُوا آمَنَّا بِهِ وَأَنَّىٰ لَهُمُ التَّنَاوُشُ مِنْ\nمَكَانٍ بَعِيدٍ they will say, ‘Now we believe in it [the truth],’ but how\ncan they attain [to faith] from such a distant place?"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–w–ṣ escape, way out, place and time of escape, to flee; to\nready oneself for action, to move, to pull; avoidance. Of this root,\nمَنَاص manāṣ, occurs once in the Qur’an.\n\nمَنَاص manāṣ [v. n./n. of time or place] the act of escaping;\nrefuge; place or time of escaping (38:3) كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ فَنَادَوْا\nوَلَاتَ حِينَ مَنَاصٍ how many a generation before them We have\ndestroyed, so they cried out when there was no longer time to\nescape [also: a place to escape to, or no longer an opportunity to\nescape].",
+      "definition_english": "n–w–ṣ escape, way out, place and time of escape, to flee; to\nready oneself for action, to move, to pull; avoidance. Of this root,\nمَنَاص manāṣ, occurs once in the Qur’an.\n\nمَنَاص manāṣ [v. n./n. of time or place] the act of escaping;\nrefuge; place or time of escaping (38:3) كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ فَنَادَوْا\nوَلَاتَ حِينَ مَنَاصٍ how many a generation before them We have\ndestroyed, so they cried out when there was no longer time to\nescape [also: a place to escape to, or no longer an opportunity to\nescape]."
+    }
+  ],
   "occurrences": [
     "38:3:10"
   ]

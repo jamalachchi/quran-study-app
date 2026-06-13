@@ -1,9 +1,17 @@
 {
-  "id": 4082,
   "root": "ن ق م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنفض\n\n(نقم) النون والقاف والميم أُصَيلٌ يدلُّ على إنكارِ شيءٍ وعَيبه. ونَقَمْتُ عليه أَنْقِمُ: أنكرتُ عليه فِعلَه. والنِّقْمة من العذاب والانتقام، كأنَّه أنْكَر عليه فعاقَبَه. وقولهم للنَّفس نقيمة، وهو ميمون النَّقيمة، إنما هي من الإبدال، والأصل نَقِيبَة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنفض\n\n(نقم) النون والقاف والميم أُصَيلٌ يدلُّ على إنكارِ شيءٍ وعَيبه. ونَقَمْتُ عليه أَنْقِمُ: أنكرتُ عليه فِعلَه. والنِّقْمة من العذاب والانتقام، كأنَّه أنْكَر عليه فعاقَبَه. وقولهم للنَّفس نقيمة، وهو ميمون النَّقيمة، إنما هي من الإبدال، والأصل نَقِيبَة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–q–m punishment, denial, resentment, hatred, vengeance, to\n961",
+      "definition_english": "n–q–m punishment, denial, resentment, hatred, vengeance, to\n961"
+    }
+  ],
   "occurrences": [
     "14:47:11",
     "15:79:1",

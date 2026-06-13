@@ -1,9 +1,17 @@
 {
-  "id": 2385,
   "root": "ط ف ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطعن - طغي\n\n(طفل) الطاء والفاء واللام أصل صحيحٌ* مطّرد، ثم يقاس عليه، والأصل المولود الصغير؛ يقال هو طِفْلٌ، والأنثى طِفلة. والمُطْفِل: الظَّبْية معها طِفْلُها. وهي قريبة عهدٍ بالنِّتاج. ويقال طَفَّلْنا إبلَنا تطفيلاً، إذا كان معها أولادُها فرفَقْنا بها في السَّير. فهذا هو الأصل. ومما اشتُقَّ منه قولهم للمرأة الناعمة: طَفْلة، كَأنَّها مشبَّهة في رُطوبتها ونَعمتها بالطِّفلة، ثم فرق بينهما بفتح هذه وكسر الأولى. ومن الباب أو قريب منه: طِفْل الظَّلام، وهو أوَّلُه، وإِنَّما سمِّيَ طِفلاً لقلَّته ودقته؛ وذلك قبل مجيء مُعظَم الليل. قال لبيد:\n\nوعلى الأرضِ غَياياتِ الطَّفَلْ\n\nفتدلَّيْتُ عليه قافلاً\n\nويقال: طَفَلَ اللَّيل: أقبل ظلامُهُ. وأمَّا قول القائل:\n\n* لوَهْدٍ جادَه طَفَلُ الثُّريّا *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطعن - طغي\n\n(طفل) الطاء والفاء واللام أصل صحيحٌ* مطّرد، ثم يقاس عليه، والأصل المولود الصغير؛ يقال هو طِفْلٌ، والأنثى طِفلة. والمُطْفِل: الظَّبْية معها طِفْلُها. وهي قريبة عهدٍ بالنِّتاج. ويقال طَفَّلْنا إبلَنا تطفيلاً، إذا كان معها أولادُها فرفَقْنا بها في السَّير. فهذا هو الأصل. ومما اشتُقَّ منه قولهم للمرأة الناعمة: طَفْلة، كَأنَّها مشبَّهة في رُطوبتها ونَعمتها بالطِّفلة، ثم فرق بينهما بفتح هذه وكسر الأولى. ومن الباب أو قريب منه: طِفْل الظَّلام، وهو أوَّلُه، وإِنَّما سمِّيَ طِفلاً لقلَّته ودقته؛ وذلك قبل مجيء مُعظَم الليل. قال لبيد:\n\nوعلى الأرضِ غَياياتِ الطَّفَلْ\n\nفتدلَّيْتُ عليه قافلاً\n\nويقال: طَفَلَ اللَّيل: أقبل ظلامُهُ. وأمَّا قول القائل:\n\n* لوَهْدٍ جادَه طَفَلُ الثُّريّا *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṭ-f-l infant, baby, child, the young of animals in general; to be of a tender age, to be tender, soft; to be with child; (of the sun) to be about to rise or set. Of this root, two forms occur four times in the Qurʾan: طِفْل ṭifl three times and أَطْفَال ʾaṭfāl once.\nطِفْل ṭifl I [used as a noun of the species (اسم جنس)] the child population, children, infants (40:67) هُوَ الَّذِي خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلًا He it is who created you from dust, then from a drop of seed, then from a clinging mass, then He brought you forth as infants II [n.; pl. أَطْفَال ʾaṭfāl] a child, an infant, a baby (24:59) وَإِذَا بَلَغَ الْأَطْفَالُ مِنْكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا and when your children reach puberty, they should ask leave [to enter].",
+      "definition_english": "ṭ-f-l infant, baby, child, the young of animals in general; to be of a tender age, to be tender, soft; to be with child; (of the sun) to be about to rise or set. Of this root, two forms occur four times in the Qurʾan: طِفْل ṭifl three times and أَطْفَال ʾaṭfāl once.\nطِفْل ṭifl I [used as a noun of the species (اسم جنس)] the child population, children, infants (40:67) هُوَ الَّذِي خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلًا He it is who created you from dust, then from a drop of seed, then from a clinging mass, then He brought you forth as infants II [n.; pl. أَطْفَال ʾaṭfāl] a child, an infant, a baby (24:59) وَإِذَا بَلَغَ الْأَطْفَالُ مِنْكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا and when your children reach puberty, they should ask leave [to enter]."
+    }
+  ],
   "occurrences": [
     "22:5:37",
     "24:31:56",

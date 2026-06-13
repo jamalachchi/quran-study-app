@@ -1,9 +1,17 @@
 {
-  "id": 701,
   "root": "ج ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيب) الجيم والياء والباء أصلٌ يجوز أن يكون من باب الإبدال. فالجَيْبُ جَيب القميص. يقال جِبْتُ القميص قوّرت جَيْبه، وجَيَّبْتُه جعلت له جَيباً.\n\nجيد - جير - جيز - جيس\n\nوهذا يدلُّ أنّ أصله واو، وهو بمعنى خَرقْت . وقد مضى ذكره.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيب) الجيم والياء والباء أصلٌ يجوز أن يكون من باب الإبدال. فالجَيْبُ جَيب القميص. يقال جِبْتُ القميص قوّرت جَيْبه، وجَيَّبْتُه جعلت له جَيباً.\n\nجيد - جير - جيز - جيس\n\nوهذا يدلُّ أنّ أصله واو، وهو بمعنى خَرقْت . وقد مضى ذكره.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–y–b neckline of a garment; to cut out, to hollow; breast, bosom; entrance. Of this root, two forms occur three times in the Qurʾan: جَيْب jayb twice and جُيُوب juyūb once.\nجَيْب jayb [n., pl جُيُوب juyūb] 1 garment’s neckline (24:31) وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ they should draw their head scarves to cover their necklines 2 an opening in a garment (28:32) ٱسْلُكْ يَدَكَ فِى جَيْبِكَ put your hand inside your garment and it will come out white without a blemish.",
+      "definition_english": "j–y–b neckline of a garment; to cut out, to hollow; breast, bosom; entrance. Of this root, two forms occur three times in the Qurʾan: جَيْب jayb twice and جُيُوب juyūb once.\nجَيْب jayb [n., pl جُيُوب juyūb] 1 garment’s neckline (24:31) وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ they should draw their head scarves to cover their necklines 2 an opening in a garment (28:32) ٱسْلُكْ يَدَكَ فِى جَيْبِكَ put your hand inside your garment and it will come out white without a blemish."
+    }
+  ],
   "occurrences": [
     "24:31:18",
     "27:12:4",

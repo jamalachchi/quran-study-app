@@ -1,9 +1,17 @@
 {
-  "id": 1774,
   "root": "س ف ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسفه\n\nتَرَى التُّربَ منه لاصقاً غير مَلْصَقِ\n\nفجاء خفِيَّاً يسفِنُ الأرضَ بطنُهُ\n\nوالسَّفَن: الحديدة التي يُنحَت بها. قال الأعشى:\n\nتَحُكّ الدّوابِرَ حَكَّ السَّفَنْ\n\nوفي كلِّ عامٍ لـه غزوةٌ\n\nوسفنتِ الريح التراب عن وجه الأرض.\n\n(سفه) السين والفاء والهاء أصلٌ واحدٌ، يدلُّ على خفّة وسخافة. وهو قياس مطَّرد. فالسَّفَه: ضدّ الحِلْم. يقال ثوب سفيه، أي رديء النسج. ويقال تَسَفَّهَت الريحُ، إذا مالت. قال ذو الرمة:\n\nأعالِيَها مَرُّ الرِّياحِ الرواسِمِ\n\nمَشَيْن كما اهتَزَّت رياحٌ تسفَّهت\n\nوفي شعره أيضاً:\n\n* سَفيهٍ جَديلُها *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسفه\n\nتَرَى التُّربَ منه لاصقاً غير مَلْصَقِ\n\nفجاء خفِيَّاً يسفِنُ الأرضَ بطنُهُ\n\nوالسَّفَن: الحديدة التي يُنحَت بها. قال الأعشى:\n\nتَحُكّ الدّوابِرَ حَكَّ السَّفَنْ\n\nوفي كلِّ عامٍ لـه غزوةٌ\n\nوسفنتِ الريح التراب عن وجه الأرض.\n\n(سفه) السين والفاء والهاء أصلٌ واحدٌ، يدلُّ على خفّة وسخافة. وهو قياس مطَّرد. فالسَّفَه: ضدّ الحِلْم. يقال ثوب سفيه، أي رديء النسج. ويقال تَسَفَّهَت الريحُ، إذا مالت. قال ذو الرمة:\n\nأعالِيَها مَرُّ الرِّياحِ الرواسِمِ\n\nمَشَيْن كما اهتَزَّت رياحٌ تسفَّهت\n\nوفي شعره أيضاً:\n\n* سَفيهٍ جَديلُها *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–f–h to be ignorant, foolish, impulsive, weak in the mind; to be base. Of this root, five forms occur 11 times in the Qurʾan: سفه safiha once; سفه safah once; سفاهة safāhatan twice; سفيه safīh twice and سفهاء sufahāʾ five times.\nسفه safiha a [v. trans.] to be ignorant, to commit degrading acts, to degrade, to be unwise, to lack good judgement, to act foolishly (2:130) ومن يرغب عن ملة إبراهيم إلا من سفه نفسه who would forsake the faith of Abraham but the one who fools himself?\n\nسفها safahan [v. n. adverbially used] out of folly, foolishly (6:140) قد خسر الذين قتلوا أولادهم سفها بغير علم they have lost indeed, those who kill their own children, foolishly, without knowledge.\n\nسفاهة safāhatun [n./v. n.] folly, weak mindedness (7:66) إنا لنراك في سفاهة we certainly consider you as being foolish [lit. see you are in foolishness].\n\n441\n\nسفيه safīh [n.; pl. سفهاء sufahāʾ] weak, or feeble-minded person, dim-witted person (2:282) فإن كان الذي عليه الحق سفيها أو ضعيفا أو لا يستطيع أن يمل هو فليملل وليه بالعدل but if the debtor is feeble-minded, weak or unable to dictate, then let his guardian dictate justly.",
+      "definition_english": "s–f–h to be ignorant, foolish, impulsive, weak in the mind; to be base. Of this root, five forms occur 11 times in the Qurʾan: سفه safiha once; سفه safah once; سفاهة safāhatan twice; سفيه safīh twice and سفهاء sufahāʾ five times.\nسفه safiha a [v. trans.] to be ignorant, to commit degrading acts, to degrade, to be unwise, to lack good judgement, to act foolishly (2:130) ومن يرغب عن ملة إبراهيم إلا من سفه نفسه who would forsake the faith of Abraham but the one who fools himself?\n\nسفها safahan [v. n. adverbially used] out of folly, foolishly (6:140) قد خسر الذين قتلوا أولادهم سفها بغير علم they have lost indeed, those who kill their own children, foolishly, without knowledge.\n\nسفاهة safāhatun [n./v. n.] folly, weak mindedness (7:66) إنا لنراك في سفاهة we certainly consider you as being foolish [lit. see you are in foolishness].\n\n441\n\nسفيه safīh [n.; pl. سفهاء sufahāʾ] weak, or feeble-minded person, dim-witted person (2:282) فإن كان الذي عليه الحق سفيها أو ضعيفا أو لا يستطيع أن يمل هو فليملل وليه بالعدل but if the debtor is feeble-minded, weak or unable to dictate, then let his guardian dictate justly."
+    }
+  ],
   "occurrences": [
     "2:130:8",
     "2:13:12",

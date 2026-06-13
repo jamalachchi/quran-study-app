@@ -1,8 +1,11 @@
 {
-  "id": 210,
   "root": "ب ث ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبثر\n\n(بثع) الباء والثاء والعين كلمةٌ واحدة تدلّ على مثل الأصل الذي قبلها. يقال شفة باثعة، أي ممتلئة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبثر\n\n(بثع) الباء والثاء والعين كلمةٌ واحدة تدلّ على مثل الأصل الذي قبلها. يقال شفة باثعة، أي ممتلئة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

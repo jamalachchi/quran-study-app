@@ -1,8 +1,11 @@
 {
-  "id": 2374,
   "root": "ط ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطم\n\n(طث) الطاء والثاء ليس بشيء. ويزعمون أنّ الطَّثَّ لُعْبَةٌ بِخشبةٍ تدعى المِطَثَّة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطم\n\n(طث) الطاء والثاء ليس بشيء. ويزعمون أنّ الطَّثَّ لُعْبَةٌ بِخشبةٍ تدعى المِطَثَّة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 3158,
   "root": "ق د و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقدو\n\nالضَّاربين اليقدمِيَّةَ بالمُهَنَّدَةِ الصفائحْ\n\nوقَيدُوم الجبلِ: أنفٌ يتقدَّم منه وقوله:\n\nضَرْبَ القُدَارِ نَقيعةَ القُدّامِ\n\nإنَّا لنَضرِب بالسُّيوف رؤوسَهم\n\nفقال قوم: القُدَّام: الملك. وهذا قياسٌ صحيح، لأنَّ الملِك هو المُقدَّم. ويقال: القُدَّام: القادمون من سَفَر. وقَدَمُ الإنسان معروفةٌ، ولعلَّها سمِّيت بذلك لأنَّها آلة للتقدُّم والسَّبْق.\n\nومما شذَّ عن هذا الأصل القَدُوم: الحديدة يُنحَتُ بها، وهي معروفة. والقَدُوم: مكان. وفي الحديث: \"اختتن إبراهيمُ عليه السَّلام بالقَدُوم\".\n\n(قدو) القاف والدال والحرف المعتلّ أصلٌ صحيح يدلُّ على اقتباسٍ بالشَّيء واهتداء، ومُقادَرة في الشيء حتى يأتي به مساوياً لغيره.\n\nمن ذلك قولهم: هذا قِدَى رُمْحٍ، أي قيسُه. وفلان قُِدوةٌ : يُقتدَى به.\n\nويقولون: إنَّ القَدْوَ: الأصل الذي يتشعَّب منه الفروع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقدو\n\nالضَّاربين اليقدمِيَّةَ بالمُهَنَّدَةِ الصفائحْ\n\nوقَيدُوم الجبلِ: أنفٌ يتقدَّم منه وقوله:\n\nضَرْبَ القُدَارِ نَقيعةَ القُدّامِ\n\nإنَّا لنَضرِب بالسُّيوف رؤوسَهم\n\nفقال قوم: القُدَّام: الملك. وهذا قياسٌ صحيح، لأنَّ الملِك هو المُقدَّم. ويقال: القُدَّام: القادمون من سَفَر. وقَدَمُ الإنسان معروفةٌ، ولعلَّها سمِّيت بذلك لأنَّها آلة للتقدُّم والسَّبْق.\n\nومما شذَّ عن هذا الأصل القَدُوم: الحديدة يُنحَتُ بها، وهي معروفة. والقَدُوم: مكان. وفي الحديث: \"اختتن إبراهيمُ عليه السَّلام بالقَدُوم\".\n\n(قدو) القاف والدال والحرف المعتلّ أصلٌ صحيح يدلُّ على اقتباسٍ بالشَّيء واهتداء، ومُقادَرة في الشيء حتى يأتي به مساوياً لغيره.\n\nمن ذلك قولهم: هذا قِدَى رُمْحٍ، أي قيسُه. وفلان قُِدوةٌ : يُقتدَى به.\n\nويقولون: إنَّ القَدْوَ: الأصل الذي يتشعَّب منه الفروع.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–d–w example, model, pattern; to follow the example, to imitate, to use as a guide; to be in the forefront; to go straight, to follow the right path; to be near. Of this root, two forms occur once each in the Qur’an: اقْتَدِه iqtadih and مُقْتَدُونَ muqtadūn.\nاقْتَدِه iqtadi [imper. of v. VIII اقْتَدَى iqtadā, intrans.] follow the example of, use as guidance, imitate, emulate (6:90) أُولَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَاهُمُ اقْتَدِهْ these are they whom God has guided, so follow their guidance.\n\nمُقْتَدُونَ muqtadūn [pl. of act. part. مُقْتَدِي muqtadī] those who follow the steps of others, those who emulate others, followers (43:23) إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِمْ مُقْتَدُونَ We saw our fathers following a tradition; we are only following in their footsteps.",
+      "definition_english": "q–d–w example, model, pattern; to follow the example, to imitate, to use as a guide; to be in the forefront; to go straight, to follow the right path; to be near. Of this root, two forms occur once each in the Qur’an: اقْتَدِه iqtadih and مُقْتَدُونَ muqtadūn.\nاقْتَدِه iqtadi [imper. of v. VIII اقْتَدَى iqtadā, intrans.] follow the example of, use as guidance, imitate, emulate (6:90) أُولَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَاهُمُ اقْتَدِهْ these are they whom God has guided, so follow their guidance.\n\nمُقْتَدُونَ muqtadūn [pl. of act. part. مُقْتَدِي muqtadī] those who follow the steps of others, those who emulate others, followers (43:23) إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِمْ مُقْتَدُونَ We saw our fathers following a tradition; we are only following in their footsteps."
+    }
+  ],
   "occurrences": [
     "43:23:21",
     "6:90:6"

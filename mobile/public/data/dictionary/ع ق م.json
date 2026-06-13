@@ -1,9 +1,22 @@
 {
-  "id": 2519,
   "root": "ع ق م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعقم\n\nوذو العُقَّال: فرسٌ معروف . وأنشد:\n\nبالرَّقْمتين جَبِينَ ذي العُقّالِ\n\nفكأنما مسحوا بوجهِ حِمارِهم\n\n(عقم) العين والقاف والميم أصلٌ واحد يدلُّ على غموضٍ وضيق وشِدّة. من ذلك قولهم حَرْبٌ عَقام وعُقَام: لا يَلوِي فيها أحدٌ [على أحد ] لشِدّتها. وداءٌ عَُقَامٌ: لا يُبرَأ منه.\n\nومن الباب قولهم: رجل عَقام، وهو الضيِّق الخُلُق. قال:\n\nوذو همّة في المَطْلِ وهو مُضَيِّعُ\n\nأنت عَقامٌ لا يُصابُ لـه هوَىً\n\nومن الباب عَقِمت الرّحمُ عُقماً، وذلك هَزْمَةٌ تقع في الرّحِم فلا تقبل الولَد. ويقال: عَقِمَت المرأة وعُقِمَت، وهي أجودُهما. وفي الحديث: \"تُعقَم أصلابُ المنافقين فلا يقدِرون على السجود\"، والمعنى يُبْسُ مفاصِلهم . ويقال رجلٌ عقيم، ورجال عُقَماء، ونسوةٌ معقومات وعقائم وعُقُم.\n\nقال أبو عمرو: عُقِمت المرأة، إذا لم تلد. قال ابنُ الأعرابي: عُقِمَت المرأة عَُقْماً، وهي معقومة وعقيم، وفي الرّجل أيضاً عُقِم فهو عقيم ومعقوم. وربما قالوا: عَقَمت فلانةَ، أي سحرتُها حتى صارت معقومةَ الرّحِم لا تَلِد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعقم\n\nوذو العُقَّال: فرسٌ معروف . وأنشد:\n\nبالرَّقْمتين جَبِينَ ذي العُقّالِ\n\nفكأنما مسحوا بوجهِ حِمارِهم\n\n(عقم) العين والقاف والميم أصلٌ واحد يدلُّ على غموضٍ وضيق وشِدّة. من ذلك قولهم حَرْبٌ عَقام وعُقَام: لا يَلوِي فيها أحدٌ [على أحد ] لشِدّتها. وداءٌ عَُقَامٌ: لا يُبرَأ منه.\n\nومن الباب قولهم: رجل عَقام، وهو الضيِّق الخُلُق. قال:\n\nوذو همّة في المَطْلِ وهو مُضَيِّعُ\n\nأنت عَقامٌ لا يُصابُ لـه هوَىً\n\nومن الباب عَقِمت الرّحمُ عُقماً، وذلك هَزْمَةٌ تقع في الرّحِم فلا تقبل الولَد. ويقال: عَقِمَت المرأة وعُقِمَت، وهي أجودُهما. وفي الحديث: \"تُعقَم أصلابُ المنافقين فلا يقدِرون على السجود\"، والمعنى يُبْسُ مفاصِلهم . ويقال رجلٌ عقيم، ورجال عُقَماء، ونسوةٌ معقومات وعقائم وعُقُم.\n\nقال أبو عمرو: عُقِمت المرأة، إذا لم تلد. قال ابنُ الأعرابي: عُقِمَت المرأة عَُقْماً، وهي معقومة وعقيم، وفي الرّجل أيضاً عُقِم فهو عقيم ومعقوم. وربما قالوا: عَقَمت فلانةَ، أي سحرتُها حتى صارت معقومةَ الرّحِم لا تَلِد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "woman; taking refuge. Of this root, two forms occur 49 times in\nthe Qur’an: عَقَلَ ʿaqala once and يَعْقِلُونَ yaʿqilūn 48 times.\n\nعَقَلَ ʿaqala i [v. trans.] 1 to understand, to comprehend (2:75) ثُمَّ\nيُحَرِّفُونَهُ مِنْ بَعْدِ مَا عَقَلُوهُ and then pervert it, [even] after they have\nunderstood it 2 to have the intrinsic ability to comprehend, to be\nsagacious, to reason (8:22) إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ\nthe worst of beasts in the sight of God are the deaf and dumb,\nwho do not reason.",
+      "definition_english": "woman; taking refuge. Of this root, two forms occur 49 times in\nthe Qur’an: عَقَلَ ʿaqala once and يَعْقِلُونَ yaʿqilūn 48 times.\n\nعَقَلَ ʿaqala i [v. trans.] 1 to understand, to comprehend (2:75) ثُمَّ\nيُحَرِّفُونَهُ مِنْ بَعْدِ مَا عَقَلُوهُ and then pervert it, [even] after they have\nunderstood it 2 to have the intrinsic ability to comprehend, to be\nsagacious, to reason (8:22) إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ\nthe worst of beasts in the sight of God are the deaf and dumb,\nwho do not reason."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–q–m dryness, to be sterile, (of the womb or woman) to be\nbarren; devastating, destructive; gibberish, futile and archaic. Of\nthis root, عَقِيم ʿaqīm occurs four times in the Qur’an.\n\nعَقِيم ʿaqīm [quasi-act. part.] 1 barren, sterile (51:29) عَجُوزٌ عَقِيمٌ a\nbarren old woman! 2 non-productive, destructive (51:41) أَرْسَلْنَا\nعَلَيْهِمُ الرِّيحَ الْعَقِيمَ We sent the devastating wind against them.",
+      "definition_english": "ʿ–q–m dryness, to be sterile, (of the womb or woman) to be\nbarren; devastating, destructive; gibberish, futile and archaic. Of\nthis root, عَقِيم ʿaqīm occurs four times in the Qur’an.\n\nعَقِيم ʿaqīm [quasi-act. part.] 1 barren, sterile (51:29) عَجُوزٌ عَقِيمٌ a\nbarren old woman! 2 non-productive, destructive (51:41) أَرْسَلْنَا\nعَلَيْهِمُ الرِّيحَ الْعَقِيمَ We sent the devastating wind against them."
+    }
+  ],
   "occurrences": [
     "22:55:16",
     "42:50:8",

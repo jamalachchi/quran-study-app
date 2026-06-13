@@ -1,9 +1,17 @@
 {
-  "id": 1609,
   "root": "ر د ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nردغ - ردف\n\n(ردف) الراء والدال والفاء أصلٌ واحدٌ مطّرد، يدلُّ على اتبِّاع الشيء. فالتَّرادف: التتابع. والرَّدِيف: الذي يُرادِفُك. وسُمِّيت العجيزَةُ رِدْفاً من ذلك. ويقال: نَزَلَ بهم أمرٌ فرَدِفَ لهم أعظَمُ منه، أي تبِع الأوَّلَ ما كان أعظَمَ منه. والرِّدَاف: مَوضع مَرْكَب الرِّدف. وهذا بِرذَونٌ لا يُرادِفُ، أي لا يَحمِل رَدِيفا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nردغ - ردف\n\n(ردف) الراء والدال والفاء أصلٌ واحدٌ مطّرد، يدلُّ على اتبِّاع الشيء. فالتَّرادف: التتابع. والرَّدِيف: الذي يُرادِفُك. وسُمِّيت العجيزَةُ رِدْفاً من ذلك. ويقال: نَزَلَ بهم أمرٌ فرَدِفَ لهم أعظَمُ منه، أي تبِع الأوَّلَ ما كان أعظَمَ منه. والرِّدَاف: مَوضع مَرْكَب الرِّدف. وهذا بِرذَونٌ لا يُرادِفُ، أي لا يَحمِل رَدِيفا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-d-f backside, posterior, rump; to come after, to follow, to come from the back, to come in succession, to ride behind someone; to stand in for, a ruler’s substitute; entourage. Of this\n359\n\nroot, three forms occur once each in the Qurʾan: رَدِفَ radifa; رَادِفَة rāḍifatun and مُرْدِفِينَ murdifīn.\n\nرَدِفَ/رَدَفَ radifa/radafa a [v. intrans.] to come behind, to draw near, to be near at hand (27:72) عَسَىٰ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ الَّذِي تَسْتَعْجِلُونَ maybe some of what you seek to hasten is near at hand.\n\nرَادِفَة rāḍifatun [act. part. fem.] that which follows (79:6-7) يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ on the Day when the blast of the Trumpet reverberates and the second blast follows it.\n\nمُرْدِفِينَ murdifīn [pl. of act. part. مُرْدِف murdif] coming one after the other, in succession; causing others to come one after the other, or in succession (8:9) أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ I will reinforce you with a thousand angels, coming in succession.",
+      "definition_english": "r-d-f backside, posterior, rump; to come after, to follow, to come from the back, to come in succession, to ride behind someone; to stand in for, a ruler’s substitute; entourage. Of this\n359\n\nroot, three forms occur once each in the Qurʾan: رَدِفَ radifa; رَادِفَة rāḍifatun and مُرْدِفِينَ murdifīn.\n\nرَدِفَ/رَدَفَ radifa/radafa a [v. intrans.] to come behind, to draw near, to be near at hand (27:72) عَسَىٰ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ الَّذِي تَسْتَعْجِلُونَ maybe some of what you seek to hasten is near at hand.\n\nرَادِفَة rāḍifatun [act. part. fem.] that which follows (79:6-7) يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ on the Day when the blast of the Trumpet reverberates and the second blast follows it.\n\nمُرْدِفِينَ murdifīn [pl. of act. part. مُرْدِف murdif] coming one after the other, in succession; causing others to come one after the other, or in succession (8:9) أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ I will reinforce you with a thousand angels, coming in succession."
+    }
+  ],
   "occurrences": [
     "27:72:5",
     "79:7:2",

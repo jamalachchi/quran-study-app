@@ -1,9 +1,17 @@
 {
-  "id": 3026,
   "root": "ف ط ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفضح - فضخ\n\n(فطر) الفاء والطاء والراء أصلٌ صحيحٌ يدلُّ على فَتْح شيء وإبرازهِ. من ذلك الفِطْرُ من الصَّوم. يقال: أفْطَرَ إفطاراً. وقومٌ فِطْرٌ أي مُفْطِرُون. ومنه الفَطْر، بفتح الفاء، وهو مصدرُ فطَرْتُ الشاةَ فَطراً، إذا حَلبْتَها. ويقولون: الفَطْر يكون الحلبَ بإصبعَين. والفِطْرَة: [الخِلْقة ].\n\nفطس - فظع - فعل - فعم",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفضح - فضخ\n\n(فطر) الفاء والطاء والراء أصلٌ صحيحٌ يدلُّ على فَتْح شيء وإبرازهِ. من ذلك الفِطْرُ من الصَّوم. يقال: أفْطَرَ إفطاراً. وقومٌ فِطْرٌ أي مُفْطِرُون. ومنه الفَطْر، بفتح الفاء، وهو مصدرُ فطَرْتُ الشاةَ فَطراً، إذا حَلبْتَها. ويقولون: الفَطْر يكون الحلبَ بإصبعَين. والفِطْرَة: [الخِلْقة ].\n\nفطس - فظع - فعل - فعم",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–ṭ–r fungi; nature, instinct; to crack open, to rend, to split; to\nbring out; to fashion; to break the fast. Of this root, six forms\noccur 20 times in the Qur’an: فَطَر faṭara 10 times; انفطر ʾinfaṭara\nonce; فَاطِر fāṭir six times; فِطْرَة fiṭratun once; فُطُور fuṭūr once and\nمُنْفَطِر munfaṭir once.\n\nفَطَر faṭara u [v. trans.] to create, to fashion (6:79) إِنِّي وَجَّهْتُ وَجْهِيَ\nلِلَّذِي فَطَرَ السَّمَوَاتِ وَالْأَرْضَ I turn my face towards Him who created\nthe heavens and the Earth.\n\nانْفَطَر ʾinfaṭara [v. VII, intrans.] to split apart (82:1) إِذَا السَّمَاءُ\nانْفَطَرَتْ when the sky splits apart.\n\nفَاطِر fāṭir [n.; act. part.] creator (12:101) فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ\nCreator of the Heavens and the Earth; * فاطر name of Sura 35,\nMeccan sura, so-named because of the reference in verse 1 to the\n‘Creator of the Heavens and Earth’, also called الملائكة (see م/ل/ك\n\n717",
+      "definition_english": "f–ṭ–r fungi; nature, instinct; to crack open, to rend, to split; to\nbring out; to fashion; to break the fast. Of this root, six forms\noccur 20 times in the Qur’an: فَطَر faṭara 10 times; انفطر ʾinfaṭara\nonce; فَاطِر fāṭir six times; فِطْرَة fiṭratun once; فُطُور fuṭūr once and\nمُنْفَطِر munfaṭir once.\n\nفَطَر faṭara u [v. trans.] to create, to fashion (6:79) إِنِّي وَجَّهْتُ وَجْهِيَ\nلِلَّذِي فَطَرَ السَّمَوَاتِ وَالْأَرْضَ I turn my face towards Him who created\nthe heavens and the Earth.\n\nانْفَطَر ʾinfaṭara [v. VII, intrans.] to split apart (82:1) إِذَا السَّمَاءُ\nانْفَطَرَتْ when the sky splits apart.\n\nفَاطِر fāṭir [n.; act. part.] creator (12:101) فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ\nCreator of the Heavens and the Earth; * فاطر name of Sura 35,\nMeccan sura, so-named because of the reference in verse 1 to the\n‘Creator of the Heavens and Earth’, also called الملائكة (see م/ل/ك\n\n717"
+    }
+  ],
   "occurrences": [
     "11:51:11",
     "12:101:10",

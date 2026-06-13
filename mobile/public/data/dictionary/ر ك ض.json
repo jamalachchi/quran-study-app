@@ -1,9 +1,17 @@
 {
-  "id": 1476,
   "root": "ر ك ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nركب\n\n(ركض) الراء والكاف والضاد أصلٌ واحدٌ يدلُّ على حركةٍ إلى قُدُمٍ أو تحريكٍ. يقال ركَض الرّجُل دابّتَه، وذلك ضَرْبُه إِيَّاها برجلَيْه لتتقدَّم. وكثُر حتَّى قيل ركَضَ الفرَسُ، وليس بالأصل. وارتكاض الصبيّ: اضطرابُه في بَطْن أمِّه. قال الخليل: وجُعِل الرَّكْض للطَّير في طيَرانها. ويقال أرْكَضَتِ الناقة، إذا تحرَّكَ ولدُها في بطن أمِّها. وفي بعض الحديث في ذكر دم الاستحاضة: \"هو رَكْضَةٌ من الشَّيطان\"، يريد الدَّفْعة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nركب\n\n(ركض) الراء والكاف والضاد أصلٌ واحدٌ يدلُّ على حركةٍ إلى قُدُمٍ أو تحريكٍ. يقال ركَض الرّجُل دابّتَه، وذلك ضَرْبُه إِيَّاها برجلَيْه لتتقدَّم. وكثُر حتَّى قيل ركَضَ الفرَسُ، وليس بالأصل. وارتكاض الصبيّ: اضطرابُه في بَطْن أمِّه. قال الخليل: وجُعِل الرَّكْض للطَّير في طيَرانها. ويقال أرْكَضَتِ الناقة، إذا تحرَّكَ ولدُها في بطن أمِّها. وفي بعض الحديث في ذكر دم الاستحاضة: \"هو رَكْضَةٌ من الشَّيطان\"، يريد الدَّفْعة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-k-ḍ to beat, to hit with legs or feet; the sides of an animal, to urge an animal to run by beating its sides with one’s legs; (of birds) to beat wings in flight, to beat the ground with one’s feet, to run fast, to run away; to quiver. Of this root, يَرْكُض yarkuḍ occurs three times in the Qur’an.\nيَرْكُض yarkuḍ [imperf. of v. رَكَضَ rakada, intrans.] 1 to beat with one’s feet, to kick, to stamp on the ground (38:42) ارْكُضْ بِرِجْلِكَ\n\n381 ر/ك/م\n\nهَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ stamp with your foot!, this is cool [water] for bathing and drinking 2 to run away, to escape, to take flight (21:12) فَلَمَّا أَحَسُّوا بَأْسَنَا إِذَا هُم مِّنْهَا يَرْكُضُونَ when they felt Our might [coming upon them], how they ran away from it!",
+      "definition_english": "r-k-ḍ to beat, to hit with legs or feet; the sides of an animal, to urge an animal to run by beating its sides with one’s legs; (of birds) to beat wings in flight, to beat the ground with one’s feet, to run fast, to run away; to quiver. Of this root, يَرْكُض yarkuḍ occurs three times in the Qur’an.\nيَرْكُض yarkuḍ [imperf. of v. رَكَضَ rakada, intrans.] 1 to beat with one’s feet, to kick, to stamp on the ground (38:42) ارْكُضْ بِرِجْلِكَ\n\n381 ر/ك/م\n\nهَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ stamp with your foot!, this is cool [water] for bathing and drinking 2 to run away, to escape, to take flight (21:12) فَلَمَّا أَحَسُّوا بَأْسَنَا إِذَا هُم مِّنْهَا يَرْكُضُونَ when they felt Our might [coming upon them], how they ran away from it!"
+    }
+  ],
   "occurrences": [
     "21:12:7",
     "21:13:2",

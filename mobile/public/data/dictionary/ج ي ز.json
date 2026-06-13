@@ -1,8 +1,11 @@
 {
-  "id": 704,
   "root": "ج ي ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيز) الجيم والياء والزاء أصل يائه واو، وقد مضى ذِكرُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيز) الجيم والياء والزاء أصل يائه واو، وقد مضى ذِكرُه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

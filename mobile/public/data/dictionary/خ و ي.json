@@ -1,9 +1,17 @@
 {
-  "id": 1063,
   "root": "خ و ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخنق\n\n(خوي) الخاء والواو والياء أصلٌ واحد يدلُّ على الخُلوِّ والسُّقوط. يقال خَوَتِ الدّارُ تخوي. وخَوَى النّجم، إذا سقَط ولم يكنْ عند سقوطه مَطر؛ وأخْوَى أيضاً. قال:\n\nأنِضَّةَ محْلٍ ليس قاطِرُها يُثْرِي\n\nوأَخْوَتْ نَجُومُ الأخْذِ إلاّ أنِضَّةً\n\nوخَوَّتِ النّجومُ تخوِيةً، إذا مالت للمَغِيب. وخَوَّتِ الإبلُ تخويةً، إذا خُمِصَتْ بُطونُها. وخَويت المرأةُ خَوَىً، إذا لم *تأكلْ عند الولادة. ويقال خَوَّى الرّجلُ، إذا تجافى في سجوده، وكذا البعيرُ إذا تجافى في بُروكه. وهو قياس الباب؛ لأنّه إذا خوَّى في سجودِه فقد أخلَى ما بين عضُده وجَنْبِه. وخَوَّتِ المرأةُ عند جلوسها على المِجْمر. وخوَّى الطائر، إذا أرسل جناحَيه. فأمَّا الخَوَاةُ فالصَّوت. وقد قلنا إنّ أكثر ذلك لا ينقاس، وليس بأصلٍ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخنق\n\n(خوي) الخاء والواو والياء أصلٌ واحد يدلُّ على الخُلوِّ والسُّقوط. يقال خَوَتِ الدّارُ تخوي. وخَوَى النّجم، إذا سقَط ولم يكنْ عند سقوطه مَطر؛ وأخْوَى أيضاً. قال:\n\nأنِضَّةَ محْلٍ ليس قاطِرُها يُثْرِي\n\nوأَخْوَتْ نَجُومُ الأخْذِ إلاّ أنِضَّةً\n\nوخَوَّتِ النّجومُ تخوِيةً، إذا مالت للمَغِيب. وخَوَّتِ الإبلُ تخويةً، إذا خُمِصَتْ بُطونُها. وخَويت المرأةُ خَوَىً، إذا لم *تأكلْ عند الولادة. ويقال خَوَّى الرّجلُ، إذا تجافى في سجوده، وكذا البعيرُ إذا تجافى في بُروكه. وهو قياس الباب؛ لأنّه إذا خوَّى في سجودِه فقد أخلَى ما بين عضُده وجَنْبِه. وخَوَّتِ المرأةُ عند جلوسها على المِجْمر. وخوَّى الطائر، إذا أرسل جناحَيه. فأمَّا الخَوَاةُ فالصَّوت. وقد قلنا إنّ أكثر ذلك لا ينقاس، وليس بأصلٍ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-w-y space, void, an opening, emptiness, to be deserted; to\nbe derelict, to be crumbling; ruins; to be uprooted; wasteland;\nhunger. Of this root, خَاوِيَة khāwiyatun occurs five times in the\nQurʾān.\n\nخَاوِيَة khāwiyatun [fem. quasi-act. part.] 1 fallen down, ruined\n(27:52) فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا۟ those are their homes, desolate\nruins as a result of their acting unjustly; *(18:42) خَاوِيَةٌ عَلَىٰ عُرُوشِهَا\ncompletely destroyed [lit. empty on its trellises] 2 uprooted,\nhollow (69:7) كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ as if they were hollow palm tree\ntrunks.",
+      "definition_english": "kh-w-y space, void, an opening, emptiness, to be deserted; to\nbe derelict, to be crumbling; ruins; to be uprooted; wasteland;\nhunger. Of this root, خَاوِيَة khāwiyatun occurs five times in the\nQurʾān.\n\nخَاوِيَة khāwiyatun [fem. quasi-act. part.] 1 fallen down, ruined\n(27:52) فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا۟ those are their homes, desolate\nruins as a result of their acting unjustly; *(18:42) خَاوِيَةٌ عَلَىٰ عُرُوشِهَا\ncompletely destroyed [lit. empty on its trellises] 2 uprooted,\nhollow (69:7) كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ as if they were hollow palm tree\ntrunks."
+    }
+  ],
   "occurrences": [
     "18:42:11",
     "22:45:8",

@@ -1,9 +1,22 @@
 {
-  "id": 3526,
   "root": "ل ح م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لحم) اللام والحاء والميم أصلٌ صحيح يدلُّ على تداخُلٍ، كاللَّحمِ الذي هو متداخِلٌ بعضُه في بعض. من ذلك اللَّحْم. وسمِّيت الحربُ مَلْحَمةً لمعنيين: أحدهما تَلاحُمُ الناس: تداخُلُهم بعضهم في بعض. والآخر أنَّ القتلى كاللَّحْمِ الملْقَى.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لحم) اللام والحاء والميم أصلٌ صحيح يدلُّ على تداخُلٍ، كاللَّحمِ الذي هو متداخِلٌ بعضُه في بعض. من ذلك اللَّحْم. وسمِّيت الحربُ مَلْحَمةً لمعنيين: أحدهما تَلاحُمُ الناس: تداخُلُهم بعضهم في بعض. والآخر أنَّ القتلى كاللَّحْمِ الملْقَى.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "them.\nأَلْحَقَ ʾalḥaqa [v. IV, trans.] to cause to join, to attach, to unite\nwith (52:21) وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ\nand those who believe and whose descendants follow them in the\nfaith, We cause their descendants to join them.",
+      "definition_english": "them.\nأَلْحَقَ ʾalḥaqa [v. IV, trans.] to cause to join, to attach, to unite\nwith (52:21) وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ\nand those who believe and whose descendants follow them in the\nfaith, We cause their descendants to join them."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–ḥ–m meat; to be fleshy; to cling together; great battle; to\npatch up; kinship relation; to go after. Of this root, two forms\noccur 13 times in the Qur’an: لَحْم laḥm 12 times and لُحُوم luḥūm\nonce.\n\nلَحْم laḥm [coll. n., pl. لُحُوم luḥūm] flesh (16:14) وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ\nit is He who subjugated the sea to you that you may eat from it\ntender flesh; *(49:12) أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ to speak ill of\nhis brother behind his back [lit. to eat the flesh of his brother].",
+      "definition_english": "l–ḥ–m meat; to be fleshy; to cling together; great battle; to\npatch up; kinship relation; to go after. Of this root, two forms\noccur 13 times in the Qur’an: لَحْم laḥm 12 times and لُحُوم luḥūm\nonce.\n\nلَحْم laḥm [coll. n., pl. لُحُوم luḥūm] flesh (16:14) وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ\nit is He who subjugated the sea to you that you may eat from it\ntender flesh; *(49:12) أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ to speak ill of\nhis brother behind his back [lit. to eat the flesh of his brother]."
+    }
+  ],
   "occurrences": [
     "16:115:6",
     "16:14:7",

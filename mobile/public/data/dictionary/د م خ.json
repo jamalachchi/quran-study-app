@@ -1,8 +1,11 @@
 {
-  "id": 1207,
   "root": "د م خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدمن\n\n(دمخ) الدال والميم والخاء ليس أصلاً. إنما هو دَمْخٌ: جبلٌ، في قول القائل:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدمن\n\n(دمخ) الدال والميم والخاء ليس أصلاً. إنما هو دَمْخٌ: جبلٌ، في قول القائل:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

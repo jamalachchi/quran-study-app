@@ -1,9 +1,17 @@
 {
-  "id": 4410,
   "root": "و س ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوسل - وسم\n\n(وسن) الواو والسين والنون: كلمتان متقاربتان. الوَسَنُ: النُّعاس، وكذا السِّنَة. ورجلٌ وَسْنانُ. وتوسَّنَ الفحلُ أُنثاه: أتاها نائمة.\n\nوالكلمة الأخرى قولهم: دَعْ هذا الأمرَ فلا يكونَنَّ لك وَسَناً، أي لا تطلبْه ولا يكونَنَّ من همِّك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوسل - وسم\n\n(وسن) الواو والسين والنون: كلمتان متقاربتان. الوَسَنُ: النُّعاس، وكذا السِّنَة. ورجلٌ وَسْنانُ. وتوسَّنَ الفحلُ أُنثاه: أتاها نائمة.\n\nوالكلمة الأخرى قولهم: دَعْ هذا الأمرَ فلا يكونَنَّ لك وَسَناً، أي لا تطلبْه ولا يكونَنَّ من همِّك.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–s–n slumber, napping, dozing, drowsiness; to be lazy. Of\n1027",
+      "definition_english": "w–s–n slumber, napping, dozing, drowsiness; to be lazy. Of\n1027"
+    }
+  ],
   "occurrences": [
     "2:255:10"
   ]

@@ -1,9 +1,22 @@
 {
-  "id": 1931,
   "root": "س ر ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسرق - سرو\n\nحسناً. ويقولون في المثل: \"أصنَعُ من سُرْفة \".\n\n(سرق) السين والراء والقاف أصلٌ يدلُّ على أخْذ شيء في خفاء وسِتر. يقال سَرَقَ يَسْرق سَرِقَةً. والمسروق سَرَقٌ. واستَرَقَ السَّمع، إذا تسمَّع مختفياً. ومما شذَّ عن هذا الباب السَّرَق: جمعَ سَرَقة، وهي القطعة من الحرير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسرق - سرو\n\nحسناً. ويقولون في المثل: \"أصنَعُ من سُرْفة \".\n\n(سرق) السين والراء والقاف أصلٌ يدلُّ على أخْذ شيء في خفاء وسِتر. يقال سَرَقَ يَسْرق سَرِقَةً. والمسروق سَرَقٌ. واستَرَقَ السَّمع، إذا تسمَّع مختفياً. ومما شذَّ عن هذا الباب السَّرَق: جمعَ سَرَقة، وهي القطعة من الحرير.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "affairs.\nمُسْرِفُون musrifūn [pl. of act. part. مُسْرِف musrif] extravagant person, one who exceeds the limits in his actions (7:31) وَكُلُوا وَاشْرَبُوا وَلا تُسْرِفُوا إِنَّهُ لا يُحِبُّ الْمُسْرِفِينَ and eat and drink [as We have permitted]—do not be excessive—God does not like excessive people.",
+      "definition_english": "affairs.\nمُسْرِفُون musrifūn [pl. of act. part. مُسْرِف musrif] extravagant person, one who exceeds the limits in his actions (7:31) وَكُلُوا وَاشْرَبُوا وَلا تُسْرِفُوا إِنَّهُ لا يُحِبُّ الْمُسْرِفِينَ and eat and drink [as We have permitted]—do not be excessive—God does not like excessive people."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-r-q to steal, pilfer and to take away by stealth. Of this root, four forms occur nine times in the Qur’an: سَرَقَ saraqa four times; اِسْتَرَقَ ʾistaraqa once; سارِق sāriq twice and سارِقُون sāriqūn twice.\nسَرَقَ saraqa i [v. trans.] to steal, to burgle (12:77) قالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ they said, ‘If he steals, [there should be no surprise], for a brother of his stole before [him] [lit. they said, ‘If he steals, then a brother of his stole before [him]].’\n\nاِسْتَرَقَ ʾistaraqa [v. VIII, trans.] to endeavour to take away by stealth *(15:18) مَنِ اِسْتَرَقَ السَّمْعَ he who eavesdrops [lit. steals the hearing].\n\nسارِق sāriq I [n.] thief, burglar, filcher (5:38) وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُما as for the thief, male and female, cut off their hands II [act. part.; pl. سارِقُون sāriqūn] thieving, burglars (12:70) ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسارِقُونَ then a crier called, ‘People of the caravan! You are a thieving people!’",
+      "definition_english": "s-r-q to steal, pilfer and to take away by stealth. Of this root, four forms occur nine times in the Qur’an: سَرَقَ saraqa four times; اِسْتَرَقَ ʾistaraqa once; سارِق sāriq twice and سارِقُون sāriqūn twice.\nسَرَقَ saraqa i [v. trans.] to steal, to burgle (12:77) قالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ they said, ‘If he steals, [there should be no surprise], for a brother of his stole before [him] [lit. they said, ‘If he steals, then a brother of his stole before [him]].’\n\nاِسْتَرَقَ ʾistaraqa [v. VIII, trans.] to endeavour to take away by stealth *(15:18) مَنِ اِسْتَرَقَ السَّمْعَ he who eavesdrops [lit. steals the hearing].\n\nسارِق sāriq I [n.] thief, burglar, filcher (5:38) وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُما as for the thief, male and female, cut off their hands II [act. part.; pl. سارِقُون sāriqūn] thieving, burglars (12:70) ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسارِقُونَ then a crier called, ‘People of the caravan! You are a thieving people!’"
+    }
+  ],
   "occurrences": [
     "12:70:15",
     "12:73:12",

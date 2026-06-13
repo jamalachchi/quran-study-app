@@ -1,8 +1,11 @@
 {
-  "id": 3681,
   "root": "م ح ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمجد - مجر\n\n(محز) الميم والحاء والزاء ليس بشيء، على أنهم يقولون: المَحْز: النِّكاح، ومَحَزَها مَحْزاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمجد - مجر\n\n(محز) الميم والحاء والزاء ليس بشيء، على أنهم يقولون: المَحْز: النِّكاح، ومَحَزَها مَحْزاً.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

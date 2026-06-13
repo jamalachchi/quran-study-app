@@ -1,8 +1,11 @@
 {
-  "id": 1819,
   "root": "س م ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسمط\n\n(سمق) السين والميم والقاف فيه كلمة. ولعلَّ القاف أن تكون مبدلة من الكاف. سَمَق، إذا عَلاَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسمط\n\n(سمق) السين والميم والقاف فيه كلمة. ولعلَّ القاف أن تكون مبدلة من الكاف. سَمَق، إذا عَلاَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

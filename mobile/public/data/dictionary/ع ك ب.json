@@ -1,8 +1,11 @@
 {
-  "id": 2531,
   "root": "ع ك ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعكو - عكب\n\n(عكب) العين والكاف والباء أصلٌ صحيح واحد، وليس ببعيدٍ من الباب",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعكو - عكب\n\n(عكب) العين والكاف والباء أصلٌ صحيح واحد، وليس ببعيدٍ من الباب",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

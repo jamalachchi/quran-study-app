@@ -1,9 +1,17 @@
 {
-  "id": 1765,
   "root": "س ع ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسعد - سعر\n\n(سعر) السين والعين والراء أصل واحدٌ يدل على اشتعال [الشيء] واتّقاده وارتفاعه. من ذلك السعير سعير النار. واستعارها: توقُّدها. والمِسْعر:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسعد - سعر\n\n(سعر) السين والعين والراء أصل واحدٌ يدل على اشتعال [الشيء] واتّقاده وارتفاعه. من ذلك السعير سعير النار. واستعارها: توقُّدها. والمِسْعر:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-ʿ-r intense burning of fire, to kindle a fire, intensity of thirst; madness; to fix a price to; fatigue, distress. Of this root, three forms occur 20 times in the Qur’an: سُعِّرَت suʿʿirat once; سَعِير saʿīr 17 times and سُعُر suʿur twice.\nسُعِّرَت suʿʿirat [pass. of v. II] to be inflamed, to be set alight (81:12) وَإِذَا الْجَحِيمُ سُعِّرَتْ when Hell is set alight.\n\nسَعِير saʿīr I [n.] blazing intense fire (25:11) وَأَعْتَدْنا لِمَنْ كَذَّبَ بِالسَّاعَةِ سَعِيرًا and We have prepared for him who denies the Hour, a blazing fire; *السَّعِير [with the definite article] Hellfire (42:7) فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ a group shall be in the Garden and a group in Hellfire II [v. n., also used adverbially] flaming, burning, firing (17:97) جَهَنَّمُ مَأْواهُمْ كُلَّما خَبَتْ زِدْناهُمْ سَعِيرًا Hell is their home, whenever it abates, we increase them in burning.\n\nسُعُر suʿur [either v. n. of v. سَعَّرَ suʿira; or pl. of سَعِير saʿīr] madness; ranks of fire (54:24) فَقالُوا أَبَشَرًا مِنَّا واحِدًا نَتَّبِعُهُ إِنَّا إِذًا لَفِي ضَلالٍ وَسُعُرٍ they said, ‘What?, a mortal, from amongst ourselves, a single person, we should follow?, then we would be in error and madness.’",
+      "definition_english": "s-ʿ-r intense burning of fire, to kindle a fire, intensity of thirst; madness; to fix a price to; fatigue, distress. Of this root, three forms occur 20 times in the Qur’an: سُعِّرَت suʿʿirat once; سَعِير saʿīr 17 times and سُعُر suʿur twice.\nسُعِّرَت suʿʿirat [pass. of v. II] to be inflamed, to be set alight (81:12) وَإِذَا الْجَحِيمُ سُعِّرَتْ when Hell is set alight.\n\nسَعِير saʿīr I [n.] blazing intense fire (25:11) وَأَعْتَدْنا لِمَنْ كَذَّبَ بِالسَّاعَةِ سَعِيرًا and We have prepared for him who denies the Hour, a blazing fire; *السَّعِير [with the definite article] Hellfire (42:7) فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ a group shall be in the Garden and a group in Hellfire II [v. n., also used adverbially] flaming, burning, firing (17:97) جَهَنَّمُ مَأْواهُمْ كُلَّما خَبَتْ زِدْناهُمْ سَعِيرًا Hell is their home, whenever it abates, we increase them in burning.\n\nسُعُر suʿur [either v. n. of v. سَعَّرَ suʿira; or pl. of سَعِير saʿīr] madness; ranks of fire (54:24) فَقالُوا أَبَشَرًا مِنَّا واحِدًا نَتَّبِعُهُ إِنَّا إِذًا لَفِي ضَلالٍ وَسُعُرٍ they said, ‘What?, a mortal, from amongst ourselves, a single person, we should follow?, then we would be in error and madness.’"
+    }
+  ],
   "occurrences": [
     "17:97:27",
     "22:4:11",

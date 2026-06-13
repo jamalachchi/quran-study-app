@@ -1,9 +1,17 @@
 {
-  "id": 1735,
   "root": "ز ر ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزبر\n\n(زرع) الزاء والراء والعين أصلٌ يدلُّ على تنمية الشيء. فالزّرع معروف، ومكانه المُزْدَرَع. وقال الخليل: أصل الزّرع التنمية. وكان بعضهم يقولُ: الزَّرع زرف زرم زرب\n\nطرح البَذْر في الأرض. والزَّرْع اسمٌ لِمَا نبت. والأصل في ذلك كلّه واحد. وزارِع: كلبٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزبر\n\n(زرع) الزاء والراء والعين أصلٌ يدلُّ على تنمية الشيء. فالزّرع معروف، ومكانه المُزْدَرَع. وقال الخليل: أصل الزّرع التنمية. وكان بعضهم يقولُ: الزَّرع زرف زرم زرب\n\nطرح البَذْر في الأرض. والزَّرْع اسمٌ لِمَا نبت. والأصل في ذلك كلّه واحد. وزارِع: كلبٌ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-r-ʿ to sow, to plant, to cultivate, to grow plants. Of this root, four forms occur in 14 places in the Qur’an: تَزْرَعُونَ tazraʿūn three times; زُرَّاع zurrāʿ once; زَرْع zarʿ eight times and زُرُوع zurūʿ twice.\n397",
+      "definition_english": "z-r-ʿ to sow, to plant, to cultivate, to grow plants. Of this root, four forms occur in 14 places in the Qur’an: تَزْرَعُونَ tazraʿūn three times; زُرَّاع zurrāʿ once; زَرْع zarʿ eight times and زُرُوع zurūʿ twice.\n397"
+    }
+  ],
   "occurrences": [
     "12:47:2",
     "13:4:8",

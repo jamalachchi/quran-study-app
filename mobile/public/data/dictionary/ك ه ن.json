@@ -1,9 +1,17 @@
 {
-  "id": 3303,
   "root": "ك ه ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهن) الكاف والهاء والنون كلمةٌ واحدة. وهي الكاهن، وقد تكهَّنَ يَتَكهَّن. والله أعلم.\n\n(باب الكاف والواو وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كهن) الكاف والهاء والنون كلمةٌ واحدة. وهي الكاهن، وقد تكهَّنَ يَتَكهَّن. والله أعلم.\n\n(باب الكاف والواو وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–h–n to predict the future, to prophesy, divination,\nsoothsaying, fortune-telling, priesthood, priest. The word كاهن\nkāhin is attributed by some to a borrowing from either Hebrew or\nEthiopic. Of this root, كَاهِن kāhin occurs twice in the Qur’an.\n\nكَاهِن kāhin [n.] soothsayer, practising divination, oracle (52:29)\nفَمَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ so [Prophet] remind, for you\nare, by the favour of your Lord, neither a soothsayer nor a\nmadman.\n\nكهيعص kāf–hā–yā–ʿayn (variant ʿayyin)–ṣād the opening letters of\nsura number 19, Maryam (see الر alif-lām-rāʾ).",
+      "definition_english": "k–h–n to predict the future, to prophesy, divination,\nsoothsaying, fortune-telling, priesthood, priest. The word كاهن\nkāhin is attributed by some to a borrowing from either Hebrew or\nEthiopic. Of this root, كَاهِن kāhin occurs twice in the Qur’an.\n\nكَاهِن kāhin [n.] soothsayer, practising divination, oracle (52:29)\nفَمَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ so [Prophet] remind, for you\nare, by the favour of your Lord, neither a soothsayer nor a\nmadman.\n\nكهيعص kāf–hā–yā–ʿayn (variant ʿayyin)–ṣād the opening letters of\nsura number 19, Maryam (see الر alif-lām-rāʾ)."
+    }
+  ],
   "occurrences": [
     "52:29:6",
     "69:42:3"

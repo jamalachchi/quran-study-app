@@ -1,9 +1,17 @@
 {
-  "id": 3875,
   "root": "ن و م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنوف - نوق\n\n(نوم) النون والواو والميم أصلٌ صحيح يدلُّ على جُمودٍ وسكونِ\n\nنون نوه نيح\n\nحركة. منه النَّوم. نامَ ينام نَوْماً ومَناما. وهو نَؤُومٌ ونُوَمَة : كثير النَّوم. ورجل نومةٌ :خاملٌ لا يُؤبَه له. ومنه استَنامَ لي فلانٌ، إذا اطمأنَّ إليه وسَكَنَ. والمَنَامة: القطيفة، لأنَّه ينامُ فيها.\n\nويستعيرون منه: نامت السُّوق: كَسَدت. ونامَ الثَّوبُ: أخْلَقَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنوف - نوق\n\n(نوم) النون والواو والميم أصلٌ صحيح يدلُّ على جُمودٍ وسكونِ\n\nنون نوه نيح\n\nحركة. منه النَّوم. نامَ ينام نَوْماً ومَناما. وهو نَؤُومٌ ونُوَمَة : كثير النَّوم. ورجل نومةٌ :خاملٌ لا يُؤبَه له. ومنه استَنامَ لي فلانٌ، إذا اطمأنَّ إليه وسَكَنَ. والمَنَامة: القطيفة، لأنَّه ينامُ فيها.\n\nويستعيرون منه: نامت السُّوق: كَسَدت. ونامَ الثَّوبُ: أخْلَقَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–w–m sleep, to lie down, to dream, to be lazy; to be\ninsignificant; to abate. Of this root, three forms occur nine times\nin the Qur’an: نَوْم nawm three times; نَائِمُون nāʾimūn twice and مَنَام\nmanām four times.\n\nنَوْم nawm [v. n.; n.] the act of sleeping, sleep (2:255) لَا تَأْخُذُهُ\nسِنَةٌ وَلَا نَوْمٌ neither slumber nor sleep overtakes Him.\n\nنَائِمُون nāʾimūn [pl. of act. part. نَائِم nāʾim] ones who are asleep\n(68:19) فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ a visitation from your Lord\nvisited it while they were sleeping.\n\nمَنَام manām I [v. n.] the act of sleeping, the act of being asleep\n(30:23) وَمِنْ آيَاتِهِ مَنَامُكُمْ بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ His wonders\n[also] include your sleeping and seeking His bounty by night and\n\n973",
+      "definition_english": "n–w–m sleep, to lie down, to dream, to be lazy; to be\ninsignificant; to abate. Of this root, three forms occur nine times\nin the Qur’an: نَوْم nawm three times; نَائِمُون nāʾimūn twice and مَنَام\nmanām four times.\n\nنَوْم nawm [v. n.; n.] the act of sleeping, sleep (2:255) لَا تَأْخُذُهُ\nسِنَةٌ وَلَا نَوْمٌ neither slumber nor sleep overtakes Him.\n\nنَائِمُون nāʾimūn [pl. of act. part. نَائِم nāʾim] ones who are asleep\n(68:19) فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ a visitation from your Lord\nvisited it while they were sleeping.\n\nمَنَام manām I [v. n.] the act of sleeping, the act of being asleep\n(30:23) وَمِنْ آيَاتِهِ مَنَامُكُمْ بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ His wonders\n[also] include your sleeping and seeking His bounty by night and\n\n973"
+    }
+  ],
   "occurrences": [
     "25:47:7",
     "2:255:12",

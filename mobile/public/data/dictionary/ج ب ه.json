@@ -1,9 +1,17 @@
 {
-  "id": 721,
   "root": "ج ب ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجبذ - جبر\n\n(جبه) الجيم والباء والهاء كلمةٌ واحدة، ثمَّ يشبَّه بها. فالجبهة: الخيلُ. والجَبْهَة من الناس: الجماعةُ. والجَبهة: كوكبٌ، يقال هو جَبْهَة الأسد.ومن الباب قولهم جَبَهْنا الماء إذا وَرَدْناه وليست عليه قامةٌ ولا أداة. وهذا من الباب؛ لأنّهم قابَلُوه وليس بينهم ما يستعينون به على السَّقي. والعرب تقول: \"لكل جَابِهٍ جَوْزَةٌ، ثم يُؤَذَّن\". فالجابِهُ ما ذكرناه. والجَوْزة: قدر ما يَشْرَب ثَمَّ ويجوز .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجبذ - جبر\n\n(جبه) الجيم والباء والهاء كلمةٌ واحدة، ثمَّ يشبَّه بها. فالجبهة: الخيلُ. والجَبْهَة من الناس: الجماعةُ. والجَبهة: كوكبٌ، يقال هو جَبْهَة الأسد.ومن الباب قولهم جَبَهْنا الماء إذا وَرَدْناه وليست عليه قامةٌ ولا أداة. وهذا من الباب؛ لأنّهم قابَلُوه وليس بينهم ما يستعينون به على السَّقي. والعرب تقول: \"لكل جَابِهٍ جَوْزَةٌ، ثم يُؤَذَّن\". فالجابِهُ ما ذكرناه. والجَوْزة: قدر ما يَشْرَب ثَمَّ ويجوز .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–b–h forehead, to strike on the forehead; chief; to embarrass, to hold the head down, to be humiliated; group of horses. Of this root, جِبَاه jibāh occurs once in the Qurʾan.\nجِبَاه jibāh [pl. of جَبْهَة jabhatun] foreheads (9:35) فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ and their foreheads, sides and backs would be branded by them.",
+      "definition_english": "j–b–h forehead, to strike on the forehead; chief; to embarrass, to hold the head down, to be humiliated; group of horses. Of this root, جِبَاه jibāh occurs once in the Qurʾan.\nجِبَاه jibāh [pl. of جَبْهَة jabhatun] foreheads (9:35) فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ and their foreheads, sides and backs would be branded by them."
+    }
+  ],
   "occurrences": [
     "9:35:9"
   ]

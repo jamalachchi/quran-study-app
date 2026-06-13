@@ -1,8 +1,11 @@
 {
-  "id": 3269,
   "root": "ك ل ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كلث) الكاف واللام والثاء ليس بأصلٍ أصيل، لكنّهم يقولون: إلى بشيء . وربَّما قالوا: انكلث فلانٌ: تقدَّم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كلث) الكاف واللام والثاء ليس بأصلٍ أصيل، لكنّهم يقولون: إلى بشيء . وربَّما قالوا: انكلث فلانٌ: تقدَّم.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

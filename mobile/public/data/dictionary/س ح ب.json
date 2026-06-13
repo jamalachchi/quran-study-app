@@ -1,9 +1,17 @@
 {
-  "id": 1904,
   "root": "س ح ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسحو - سحب\n\n(سحب) السين والحاء والباء أصلٌ صحيح يدلُّ على جرِّ شيء مبسوطٍ ومَدِّه. تقول: سحبتُ ذيِلي بالأرضِ سحبا. وسمِّي السَّحابُ سحاباً تشبيهاً له بذلك، كأنه ينسحب في الهواء انسحاباً. ويستعيرون هذا فيقولون: تسحّب فلانٌ على فلانٍ، إذا اجتَرَأَ عليه، كأنَّه امتدَّ عليه امتداداً. هذا هو القياس\n\nسحت سحج\n\nالصحيح. وناسٌ يقولون: السَّحْب: شدّة الأكل. وأظنُّهُ تصحيفاً؛ لأنّه لا قياس له، وإِنّما هو السَّحْت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسحو - سحب\n\n(سحب) السين والحاء والباء أصلٌ صحيح يدلُّ على جرِّ شيء مبسوطٍ ومَدِّه. تقول: سحبتُ ذيِلي بالأرضِ سحبا. وسمِّي السَّحابُ سحاباً تشبيهاً له بذلك، كأنه ينسحب في الهواء انسحاباً. ويستعيرون هذا فيقولون: تسحّب فلانٌ على فلانٍ، إذا اجتَرَأَ عليه، كأنَّه امتدَّ عليه امتداداً. هذا هو القياس\n\nسحت سحج\n\nالصحيح. وناسٌ يقولون: السَّحْب: شدّة الأكل. وأظنُّهُ تصحيفاً؛ لأنّه لا قياس له، وإِنّما هو السَّحْت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–ḥ–b to drag, to pull along the ground, to trail; cloud, cover,\nfilm. Of this root, two forms occur 11 times in the Qur’an: يُسحبون\nyusḥabūn twice and سحاب saḥāb nine times.\n\nيُسحبون yusḥabūn [pass. imperf. of v. trans. سحب saḥaba] to be\npulled, to be dragged (54:48) يوم يسحبون في النار على وجوههم on the\nDay when they are dragged through Hell on their faces.\n\nسحاب saḥāb [collec. n.] clouds (7:57) حتى إذا أقلت سحابا ثقالا سقناه\nلبلد ميت فأنزلنا به الماء until when they [the winds] bear heavy clouds,\nWe drive them to a dead land, and send down water.",
+      "definition_english": "s–ḥ–b to drag, to pull along the ground, to trail; cloud, cover,\nfilm. Of this root, two forms occur 11 times in the Qur’an: يُسحبون\nyusḥabūn twice and سحاب saḥāb nine times.\n\nيُسحبون yusḥabūn [pass. imperf. of v. trans. سحب saḥaba] to be\npulled, to be dragged (54:48) يوم يسحبون في النار على وجوههم on the\nDay when they are dragged through Hell on their faces.\n\nسحاب saḥāb [collec. n.] clouds (7:57) حتى إذا أقلت سحابا ثقالا سقناه\nلبلد ميت فأنزلنا به الماء until when they [the winds] bear heavy clouds,\nWe drive them to a dead land, and send down water."
+    }
+  ],
   "occurrences": [
     "13:12:8",
     "24:40:13",

@@ -1,9 +1,17 @@
 {
-  "id": 252,
   "root": "ب ر ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبذخ - برز\n\n(برص) الباء والراء والصاد أصلٌ واحدٌ، وهو أن يكون في الشيء لُمْعَةٌ تخالف سائرَ لونه، من ذلك البرصُ. وربما سمَّوا القمرَ أبرص. والبَرِيص مثل البصيص، وهو ذلك القياس. قال:\n\n* لهنّ بخدِّهِ أبداً بريصُ *\n\nوالبِرَاصُ بِقَاعٌ في الرّمل لا تُنْبِتُ . وسامُّ أبْرَصَ معروفٌ. قال القُتيبـيّ: ويجمع على الأبارِصِ. وأنشد:\n\nلكُنتُ عبداً يأكل الأبارِصَا\n\nواللهِ لو كنتُ لهذا خالصا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبذخ - برز\n\n(برص) الباء والراء والصاد أصلٌ واحدٌ، وهو أن يكون في الشيء لُمْعَةٌ تخالف سائرَ لونه، من ذلك البرصُ. وربما سمَّوا القمرَ أبرص. والبَرِيص مثل البصيص، وهو ذلك القياس. قال:\n\n* لهنّ بخدِّهِ أبداً بريصُ *\n\nوالبِرَاصُ بِقَاعٌ في الرّمل لا تُنْبِتُ . وسامُّ أبْرَصَ معروفٌ. قال القُتيبـيّ: ويجمع على الأبارِصِ. وأنشد:\n\nلكُنتُ عبداً يأكل الأبارِصَا\n\nواللهِ لو كنتُ لهذا خالصا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-r-ṣ vitiligo, loss of pigmentation; leprosy; gecko; to graze pasture to extinction. Of this root, أبرص ʾabraṣ occurs twice in the Qur’an.\nأبرص ʾabraṣ [quasi-act. part.] one who is afflicted with vitiligo (disorder causing loss of skin pigmentation), the word is also taken, against good evidence to the contrary, to mean leper (3:49) وأبرئ الأكمه والأبرص and I will heal the blind and the one suffering from vitiligo/the leper.",
+      "definition_english": "b-r-ṣ vitiligo, loss of pigmentation; leprosy; gecko; to graze pasture to extinction. Of this root, أبرص ʾabraṣ occurs twice in the Qur’an.\nأبرص ʾabraṣ [quasi-act. part.] one who is afflicted with vitiligo (disorder causing loss of skin pigmentation), the word is also taken, against good evidence to the contrary, to mean leper (3:49) وأبرئ الأكمه والأبرص and I will heal the blind and the one suffering from vitiligo/the leper."
+    }
+  ],
   "occurrences": [
     "3:49:26",
     "5:110:41"

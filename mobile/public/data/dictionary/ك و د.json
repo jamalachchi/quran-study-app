@@ -1,9 +1,17 @@
 {
-  "id": 3306,
   "root": "ك و د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كود) الكاف والواو والدال كلمةٌ كأنَّها تدلُّ على التماسِ شيءٍ ببعض العَناء. يقولون: كادَ يكُود كَوْداً ومَكاداً. ويقولون لمن يَطلُب منك الشَيءَ فلا تُريد إعطاءَه: لا ولا مَكادة. فأمَّا قولهم في المقارَبة: كاد، فمعناها قارب. وإذا وقعت كادَ مجرَّدَةً فلم يقع ذلك الشيء تقول: كادَ يَفْعل، فهذا لم يُفعل، وإذا قُرِنَتْ بِجَحد فقد وقع، إذا قلت ما كاد يَفعلُه فقد فعله. قال الله سبحانه: ] فَذَبَحُوهَا وَمَا كادُوا يَفْعَلُونَ [ [البقرة 71].\n\n(10- مقاييس 5) كور كوز - كوس\n\n(10- مقاييس 5)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كود) الكاف والواو والدال كلمةٌ كأنَّها تدلُّ على التماسِ شيءٍ ببعض العَناء. يقولون: كادَ يكُود كَوْداً ومَكاداً. ويقولون لمن يَطلُب منك الشَيءَ فلا تُريد إعطاءَه: لا ولا مَكادة. فأمَّا قولهم في المقارَبة: كاد، فمعناها قارب. وإذا وقعت كادَ مجرَّدَةً فلم يقع ذلك الشيء تقول: كادَ يَفْعل، فهذا لم يُفعل، وإذا قُرِنَتْ بِجَحد فقد وقع، إذا قلت ما كاد يَفعلُه فقد فعله. قال الله سبحانه: ] فَذَبَحُوهَا وَمَا كادُوا يَفْعَلُونَ [ [البقرة 71].\n\n(10- مقاييس 5) كور كوز - كوس\n\n(10- مقاييس 5)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–w–d to be on the point of doing, to almost do; to pile up. Of\nthis root, كَاد kāda occurs 24 times in the Qur’an.\n\nكَاد kāda a [v. no imperf. governing a subject and a\nverbal-clause predicate whose verb is always in the imperfect.\nSemantic ambiguity arises in some cases in which كَاد kāda/يكاد\nyakādu or its predicate are negated. Grammarians often say that\nnegated كَاد kāda denotes that an action has already taken place,\n\n824",
+      "definition_english": "k–w–d to be on the point of doing, to almost do; to pile up. Of\nthis root, كَاد kāda occurs 24 times in the Qur’an.\n\nكَاد kāda a [v. no imperf. governing a subject and a\nverbal-clause predicate whose verb is always in the imperfect.\nSemantic ambiguity arises in some cases in which كَاد kāda/يكاد\nyakādu or its predicate are negated. Grammarians often say that\nnegated كَاد kāda denotes that an action has already taken place,\n\n824"
+    }
+  ],
   "occurrences": [
     "14:17:3",
     "17:73:2",

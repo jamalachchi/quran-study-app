@@ -1,9 +1,22 @@
 {
-  "id": 4331,
   "root": "و ت ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وتن) الواو والتاء والنون: كلمةٌ تدل على ثَباتٍ ومُلازَمة. وَاتَنَ الأمرَ: لازَمَه. وماءٌ واتِنٌ: دائم. ومنه الوَتِين: عرقٌ ملازمٌ للقَلْبِ يَسقِيه.\n\n(باب الواو والثاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وتن) الواو والتاء والنون: كلمةٌ تدل على ثَباتٍ ومُلازَمة. وَاتَنَ الأمرَ: لازَمَه. وماءٌ واتِنٌ: دائم. ومنه الوَتِين: عرقٌ ملازمٌ للقَلْبِ يَسقِيه.\n\n(باب الواو والثاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–t–n a feud; the main artery that feeds the body; to be firmly\nfixed; (of water) to be constant and flowing; (of women in\nparticular) to have great literary ability. (There is a great degree\nof overlap between derivatives of this root and the root و/ث/ن w–\nth–n (q.v.) which perhaps suggests a historical sound change or\n(historical) dialectal variation in the second radical). Of this root,\nوَتِين watīn, appears once in the Qur’an.\n\nوَتِين watīn [n.] life-vein, aorta (69:46) ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ then We\nwill cut off his life-vein.",
+      "definition_english": "w–t–n a feud; the main artery that feeds the body; to be firmly\nfixed; (of water) to be constant and flowing; (of women in\nparticular) to have great literary ability. (There is a great degree\nof overlap between derivatives of this root and the root و/ث/ن w–\nth–n (q.v.) which perhaps suggests a historical sound change or\n(historical) dialectal variation in the second radical). Of this root,\nوَتِين watīn, appears once in the Qur’an.\n\nوَتِين watīn [n.] life-vein, aorta (69:46) ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ then We\nwill cut off his life-vein."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–t–n (q.v.), which perhaps suggests a historical sound\nchange or (historical) dialectal variation in the second radical). Of\nthis root, أَوْثَان ʾawthān, occurs three times in the Qur’an.\n\nأَوْثَان ʾawthān [pl. of n. وَثَن wathan] idols (22:30) فَاجْتَنِبُوا الرِّجْسَ مِنَ\nالْأَوْثَانِ so shun the filth of [worshipping] the idols.",
+      "definition_english": "w–t–n (q.v.), which perhaps suggests a historical sound\nchange or (historical) dialectal variation in the second radical). Of\nthis root, أَوْثَان ʾawthān, occurs three times in the Qur’an.\n\nأَوْثَان ʾawthān [pl. of n. وَثَن wathan] idols (22:30) فَاجْتَنِبُوا الرِّجْسَ مِنَ\nالْأَوْثَانِ so shun the filth of [worshipping] the idols."
+    }
+  ],
   "occurrences": [
     "69:46:4"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 1285,
   "root": "د ح و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدجم - دجن\n\n(دحو) الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد. يقال دحا الله الأرضَ يدحُوها دَحْواً، إذا بَسَطَها. ويقال دحا المطرُ الحَصَى عن وجْه* الأرض. وهذا لأنّه إذا كان كذا فقد مهّد الأرض. ويقال للفرَس إذا رمَى بيديه رمْياً، لا يرفع سُنْبُكَه عن الأرض كثيراً: مرّ يدحُو دَحْواً. ومن الباب أُدْحِيُّ النَّعام: الموضع الذي يُفَرِّخ فيه، أُفْعولٌ مِن دحوت؛ لأنّه يَدْحُوه برِجْله ثم يبيض فيه. وليس للنّعامة عُشٌّ.\n\n{باب الدال والخاء وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدجم - دجن\n\n(دحو) الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد. يقال دحا الله الأرضَ يدحُوها دَحْواً، إذا بَسَطَها. ويقال دحا المطرُ الحَصَى عن وجْه* الأرض. وهذا لأنّه إذا كان كذا فقد مهّد الأرض. ويقال للفرَس إذا رمَى بيديه رمْياً، لا يرفع سُنْبُكَه عن الأرض كثيراً: مرّ يدحُو دَحْواً. ومن الباب أُدْحِيُّ النَّعام: الموضع الذي يُفَرِّخ فيه، أُفْعولٌ مِن دحوت؛ لأنّه يَدْحُوه برِجْله ثم يبيض فيه. وليس للنّعامة عُشٌّ.\n\n{باب الدال والخاء وما يثلثهما}",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "-ي d–ḥ–w/y to spread out, to level up, to widen, to enlarge, to\nrelax. Of this root, دَحَا daḥā occurs once in the Qur’an.\n\nدَحَاهَا daḥā ū [v. trans.] to roll out, to spread out, to expand, to\nwiden up (79:30) وَالْأَرْضَ بَعْدَ ذَلِكَ دَحَاهَا and the Earth, after that, He\nspread [it] out.",
+      "definition_english": "-ي d–ḥ–w/y to spread out, to level up, to widen, to enlarge, to\nrelax. Of this root, دَحَا daḥā occurs once in the Qur’an.\n\nدَحَاهَا daḥā ū [v. trans.] to roll out, to spread out, to expand, to\nwiden up (79:30) وَالْأَرْضَ بَعْدَ ذَلِكَ دَحَاهَا and the Earth, after that, He\nspread [it] out."
+    }
+  ],
   "occurrences": [
     "79:30:4"
   ]

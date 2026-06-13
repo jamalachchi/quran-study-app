@@ -1,8 +1,21 @@
 {
-  "id": 4309,
   "root": "و أ د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وأد) الواو والهمزة والدال: كلمةٌ تدلُّ على إثقال شيءٍ بشيء. يقال للإبل إذا مَشَت بثَقَلِها: لها وئيدٌ. قال:\n\n* ما للجمالِ مشيَُِهَا وَئيدَا *\n\nأي مشياً بِثِقَل. والموءودة من هذا، لأنَّها تُدفَن حيّة، فهي تُثْقَل بالتُّراب الذي يعلوها. وَأدَها يَئِدُها وَأْداً. ومن ذلك قوله :\n\n* وأحْيَا الوَئيدَ فلم يُوأدِ *\n\nوأر - وأص - وأق - وأل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وأد) الواو والهمزة والدال: كلمةٌ تدلُّ على إثقال شيءٍ بشيء. يقال للإبل إذا مَشَت بثَقَلِها: لها وئيدٌ. قال:\n\n* ما للجمالِ مشيَُِهَا وَئيدَا *\n\nأي مشياً بِثِقَل. والموءودة من هذا، لأنَّها تُدفَن حيّة، فهي تُثْقَل بالتُّراب الذي يعلوها. وَأدَها يَئِدُها وَأْداً. ومن ذلك قوله :\n\n* وأحْيَا الوَئيدَ فلم يُوأدِ *\n\nوأر - وأص - وأق - وأل",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "who bow down and prostrate themselves; who order what is good\nand forbid what is wrong; (39:71) حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ\nخَزَنَتُهَا till, when they come to it, its gates are opened, and its\nkeepers say to them; (66:5) عَسَى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ\nثَيِّبَاتٍ وَأَبْكَارًا his Lord may well replace you with better wives [if the\nProphet decides to divorce any of you]:\nwives who are devoted to God, true believers, devout, who turn to\nHim in repentance and worship Him, given to fasting, whether\npreviously married or virgins. Other commentators, however,\nhave concluded that these usages of wa are either conjunctive or\ncircumstantial, leading them to the conclusion that the wa of eight\noccurs only once in the Qur’an, in verse (18:22), as cited above.",
+      "definition_english": "who bow down and prostrate themselves; who order what is good\nand forbid what is wrong; (39:71) حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ\nخَزَنَتُهَا till, when they come to it, its gates are opened, and its\nkeepers say to them; (66:5) عَسَى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ\nثَيِّبَاتٍ وَأَبْكَارًا his Lord may well replace you with better wives [if the\nProphet decides to divorce any of you]:\nwives who are devoted to God, true believers, devout, who turn to\nHim in repentance and worship Him, given to fasting, whether\npreviously married or virgins. Other commentators, however,\nhave concluded that these usages of wa are either conjunctive or\ncircumstantial, leading them to the conclusion that the wa of eight\noccurs only once in the Qur’an, in verse (18:22), as cited above."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ʾ–d loud thudding sound, sound of heavy steps on the\nground; to be swallowed by the earth; to bury alive, particularly a\nnewborn girl; to be deliberate, solemnity. Of this root, only مَوْءُودَة\nmawʾūdatun, occurs once in the Qur’an.\n\nمَوْءُودَة mawʾūdatun [pass. part.] a female infant buried alive.\nThe live burial of baby girls was a fairly common practice in\npre-Islamic Arabia, particularly amongst the Bedouin poor (81:8–\n9) وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنْبٍ قُتِلَتْ [on the day] when the baby girl\nburied alive is asked for what crime she was killed.",
+      "definition_english": "w–ʾ–d loud thudding sound, sound of heavy steps on the\nground; to be swallowed by the earth; to bury alive, particularly a\nnewborn girl; to be deliberate, solemnity. Of this root, only مَوْءُودَة\nmawʾūdatun, occurs once in the Qur’an.\n\nمَوْءُودَة mawʾūdatun [pass. part.] a female infant buried alive.\nThe live burial of baby girls was a fairly common practice in\npre-Islamic Arabia, particularly amongst the Bedouin poor (81:8–\n9) وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنْبٍ قُتِلَتْ [on the day] when the baby girl\nburied alive is asked for what crime she was killed."
+    }
+  ],
   "occurrences": []
 }

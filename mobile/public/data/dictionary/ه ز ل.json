@@ -1,9 +1,17 @@
 {
-  "id": 4237,
   "root": "ه ز ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهزع\n\n(هزل) الهاء والزاء واللام كلمتان في قياسٍ واحد، يدُلاّنِ على ضَعف. فالهَزْل: نقيض الجِدّ. والهُزَال: خِلاف السِّمَن. يقال: هَزَلْتُ دابّتي وقد هُزِلت. وهَزَلَ في مَنطِقِه. وأهْزَل: وقع في ماله الهُزَال.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهزع\n\n(هزل) الهاء والزاء واللام كلمتان في قياسٍ واحد، يدُلاّنِ على ضَعف. فالهَزْل: نقيض الجِدّ. والهُزَال: خِلاف السِّمَن. يقال: هَزَلْتُ دابّتي وقد هُزِلت. وهَزَلَ في مَنطِقِه. وأهْزَل: وقع في ماله الهُزَال.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–z–l to mock, to joke, to jest, to take lightly; to be thin, to be\nemaciated; to lose one’s cattle, to become impoverished. Of this\nroot, هَزْل hazl occurs once in the Qur’an.\n\nهَزْل hazl [v. n./n.] jesting, idle talk (86:13–14) إِنَّهُ لَقَوْلٌ فَصْلٌ وَمَا هُوَ\nبِالْهَزْلِ this, indeed, is a decisive statement; it is no idle discourse\n(or, jesting matter).",
+      "definition_english": "h–z–l to mock, to joke, to jest, to take lightly; to be thin, to be\nemaciated; to lose one’s cattle, to become impoverished. Of this\nroot, هَزْل hazl occurs once in the Qur’an.\n\nهَزْل hazl [v. n./n.] jesting, idle talk (86:13–14) إِنَّهُ لَقَوْلٌ فَصْلٌ وَمَا هُوَ\nبِالْهَزْلِ this, indeed, is a decisive statement; it is no idle discourse\n(or, jesting matter)."
+    }
+  ],
   "occurrences": [
     "86:14:3"
   ]

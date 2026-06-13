@@ -1,8 +1,11 @@
 {
-  "id": 3322,
   "root": "ك ا ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كاذ) الكاف والألف والذال كلمة، وهي الكَاذَة: لحمُ أعالي الفَخِذين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كاذ) الكاف والألف والذال كلمة، وهي الكَاذَة: لحمُ أعالي الفَخِذين.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

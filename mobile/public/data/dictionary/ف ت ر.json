@@ -1,9 +1,17 @@
 {
-  "id": 2941,
   "root": "ف ت ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفتخ - فتر\n\n(فتر) الفاء والتاء والراء أصلٌ صحيح يدلُّ على ضَعفٍ في الشَّيء. من ذلك: فَتَر الشّيءُ يَفْتُر فُتُوراً. والطّرْف الفاتر: الذي ليس بحديدٍ شَزْر. وفَتَّرت الشَّيءَ وأفْتَرته. قال الله تعالى: ] لا يُفَتَّرُ عَنْهُمْ [ [الزخرف 75]، أي لا يُضْعَف.\n\nومما شذَّ عن هذا الباب: الفِتْر: ما بين طَرَف الإبهام وطرَف السبّابة إذا فتحتَهما. وفَِتْر : اسم امرأة، في قوله:\n\n* أصَرَمْتَ حَبْلَ الوُدِّ من فَِتْر *\n\nفتش فتق - فتك",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفتخ - فتر\n\n(فتر) الفاء والتاء والراء أصلٌ صحيح يدلُّ على ضَعفٍ في الشَّيء. من ذلك: فَتَر الشّيءُ يَفْتُر فُتُوراً. والطّرْف الفاتر: الذي ليس بحديدٍ شَزْر. وفَتَّرت الشَّيءَ وأفْتَرته. قال الله تعالى: ] لا يُفَتَّرُ عَنْهُمْ [ [الزخرف 75]، أي لا يُضْعَف.\n\nومما شذَّ عن هذا الباب: الفِتْر: ما بين طَرَف الإبهام وطرَف السبّابة إذا فتحتَهما. وفَِتْر : اسم امرأة، في قوله:\n\n* أصَرَمْتَ حَبْلَ الوُدِّ من فَِتْر *\n\nفتش فتق - فتك",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–t–r to abate, to weaken, to slacken; weakness; period\nbetween two events; onset of intoxication, to be tipsy. Of this\nroot, three forms occur once each in the Qur’an: يَفْتُرُونَ yafturūn;\nيُفَتَّر yufattar and فَتْرَة fatratun.\n\nيَفْتُرُونَ yafturūn [imperf. of v. فَتَرَ fatara, intrans.] to tire, to\nslacken, to let up, to desist (21:20) يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ they\nglorify [Him] night and day and they do not tire [of it].\n\nيُفَتَّر yufattar [pass. imperf. of v. II] to be relaxed, to be\nweakened, to be alleviated (43:75) لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ it will\nnever be alleviated from them–they [will remain] in utter despair\ntherein.\n\nفَتْرَة fatratun [n.] interval, period; interruption, break *(5:19)\nعَلَى فَتْرَةٍ مِنَ الرُّسُلِ after a break [in the sequence] of messengers,\nafter an interruption [in the sending] of prophets.",
+      "definition_english": "f–t–r to abate, to weaken, to slacken; weakness; period\nbetween two events; onset of intoxication, to be tipsy. Of this\nroot, three forms occur once each in the Qur’an: يَفْتُرُونَ yafturūn;\nيُفَتَّر yufattar and فَتْرَة fatratun.\n\nيَفْتُرُونَ yafturūn [imperf. of v. فَتَرَ fatara, intrans.] to tire, to\nslacken, to let up, to desist (21:20) يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ they\nglorify [Him] night and day and they do not tire [of it].\n\nيُفَتَّر yufattar [pass. imperf. of v. II] to be relaxed, to be\nweakened, to be alleviated (43:75) لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ it will\nnever be alleviated from them–they [will remain] in utter despair\ntherein.\n\nفَتْرَة fatratun [n.] interval, period; interruption, break *(5:19)\nعَلَى فَتْرَةٍ مِنَ الرُّسُلِ after a break [in the sequence] of messengers,\nafter an interruption [in the sending] of prophets."
+    }
+  ],
   "occurrences": [
     "21:20:5",
     "43:75:2",

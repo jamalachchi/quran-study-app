@@ -1,9 +1,17 @@
 {
-  "id": 4546,
   "root": "ي ت م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الياء\n\nيبس - يتم\n\n(يتم) الياء والتاء والميم. يقال: اليُتم في النَّاس من قِبَل الأب، وفي سائر الحيوان من جهة الأمّ. ويقولون لكلِّ منفردٍ يتيم، حتَّى قالوا بَيْتٌ [من الشِّعر ] يتيم. وقال الشَّاعر يصف رامياً أصاب أتاناً وأيتم *أطفالَها:\n\nوأيْتَمتِ الأطفالَ منها وجوبُها\n\nفناط بها سهماً شِداداً غِرارُه\n\nيتن - يدع - يزن - يسر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الياء\n\nيبس - يتم\n\n(يتم) الياء والتاء والميم. يقال: اليُتم في النَّاس من قِبَل الأب، وفي سائر الحيوان من جهة الأمّ. ويقولون لكلِّ منفردٍ يتيم، حتَّى قالوا بَيْتٌ [من الشِّعر ] يتيم. وقال الشَّاعر يصف رامياً أصاب أتاناً وأيتم *أطفالَها:\n\nوأيْتَمتِ الأطفالَ منها وجوبُها\n\nفناط بها سهماً شِداداً غِرارُه\n\nيتن - يدع - يزن - يسر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "y–t–m to be one of a kind, to be the best; to become detached;\nan orphan, weak. Of this root, three forms occur 23 times in the\nQur’an: يَتِيم yatīm eight times; يَتِيمَيْن yatīmayn once and\nيَتَامَى yatāmā 14 times.\n\nيَتِيم yatīm [n., dual يَتِيمَان yatīmān; plural يَتَامَى yatāmā] orphan\n(6:152) وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ and do not\ncome near the property of the orphan, except with the best [of\nintentions], until they reach their strength.\n\nيَثْرِب Yathrib [proper name, occurring once in the Qur’an] Yathrib,\nthe pre-Islamic name of Medina in Arabia (33:13) وَإِذْ قَالَتْ طَائِفَةٌ مِنْهُمْ\nيَاأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُوا and when some of them said, ‘People of\nYathrib, there is no stand [possible] for you, so go back!’",
+      "definition_english": "y–t–m to be one of a kind, to be the best; to become detached;\nan orphan, weak. Of this root, three forms occur 23 times in the\nQur’an: يَتِيم yatīm eight times; يَتِيمَيْن yatīmayn once and\nيَتَامَى yatāmā 14 times.\n\nيَتِيم yatīm [n., dual يَتِيمَان yatīmān; plural يَتَامَى yatāmā] orphan\n(6:152) وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ and do not\ncome near the property of the orphan, except with the best [of\nintentions], until they reach their strength.\n\nيَثْرِب Yathrib [proper name, occurring once in the Qur’an] Yathrib,\nthe pre-Islamic name of Medina in Arabia (33:13) وَإِذْ قَالَتْ طَائِفَةٌ مِنْهُمْ\nيَاأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُوا and when some of them said, ‘People of\nYathrib, there is no stand [possible] for you, so go back!’"
+    }
+  ],
   "occurrences": [
     "107:2:4",
     "17:34:4",

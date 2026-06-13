@@ -1,9 +1,17 @@
 {
-  "id": 3551,
   "root": "ل س ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلحن\n\n(لسن) اللام والسين والنون أصلٌ صحيح واحد، يدلُّ على طول لطيفٍ غير بائن، في عضوٍ أو غيره. من ذلك اللِّسان، معروف، وهو مذكّر والجمع أَلْسُنٌ، فإذا كثر فهي الألسنة. ويقال لَسَنْتُه، إذا أخَذْتَه بلسانك. قال طرفة:\n\nإنَّني لستُ بموهون غُمُر\n\nوإذَا تَلسُنُني ألسُنُها\n\nوقد يعبَّر بالرِّسالة عن اللسان فيؤنّث حينئذٍ. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلحن\n\n(لسن) اللام والسين والنون أصلٌ صحيح واحد، يدلُّ على طول لطيفٍ غير بائن، في عضوٍ أو غيره. من ذلك اللِّسان، معروف، وهو مذكّر والجمع أَلْسُنٌ، فإذا كثر فهي الألسنة. ويقال لَسَنْتُه، إذا أخَذْتَه بلسانك. قال طرفة:\n\nإنَّني لستُ بموهون غُمُر\n\nوإذَا تَلسُنُني ألسُنُها\n\nوقد يعبَّر بالرِّسالة عن اللسان فيؤنّث حينئذٍ. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–s–n tongue, speech, language, message, spokesman; good\nrepute, eloquence. Of this root, two forms occur 25 times in the\nQur’an: لِسَان lisān 15 times and أَلْسِنَة ʾalsinatun 10 times.\n\nلِسَان lisān [n.; pl. أَلْسِنَة ʾalsinatun] 1 tongue (75:16) لَا تُحَرِّكْ بِهِ\nلِسَانَكَ [Prophet] do not move your tongue with it [Qur’anic\nverses as they are being revealed] in an attempt to hasten [your\nmemorising] it 2 language (30:22) خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ\nand among His wonders are the creation of the heavens and earth, and the diversity of your languages and\ncolours 3 speech (28:34) وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا and my\nbrother Aaron is more eloquent than me in speech 4 repute\n\n841",
+      "definition_english": "l–s–n tongue, speech, language, message, spokesman; good\nrepute, eloquence. Of this root, two forms occur 25 times in the\nQur’an: لِسَان lisān 15 times and أَلْسِنَة ʾalsinatun 10 times.\n\nلِسَان lisān [n.; pl. أَلْسِنَة ʾalsinatun] 1 tongue (75:16) لَا تُحَرِّكْ بِهِ\nلِسَانَكَ [Prophet] do not move your tongue with it [Qur’anic\nverses as they are being revealed] in an attempt to hasten [your\nmemorising] it 2 language (30:22) خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ\nand among His wonders are the creation of the heavens and earth, and the diversity of your languages and\ncolours 3 speech (28:34) وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا and my\nbrother Aaron is more eloquent than me in speech 4 repute\n\n841"
+    }
+  ],
   "occurrences": [
     "14:4:6",
     "16:103:14",

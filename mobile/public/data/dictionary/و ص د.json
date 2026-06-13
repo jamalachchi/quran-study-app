@@ -1,9 +1,22 @@
 {
-  "id": 4432,
   "root": "و ص د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوصم - وصي\n\n(وصد) الواو والصاد والدال: أصلٌ يدلُّ على ضمِّ شيءٍ إلى شيء. وأوصَدْتُ البابَ: أغْلَقْتُهُ. والوَصيد: النَّبْت المتقارِبُ الأصول. والوصيد: الفِناء لاتِّصاله بالرَّبع. والمُوصَد: المُطْبَق. وقال تعالى: ] إنَّها عَلَيْهِمْ مُؤْصَدَةٌ [ [الهمزة 8].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوصم - وصي\n\n(وصد) الواو والصاد والدال: أصلٌ يدلُّ على ضمِّ شيءٍ إلى شيء. وأوصَدْتُ البابَ: أغْلَقْتُهُ. والوَصيد: النَّبْت المتقارِبُ الأصول. والوصيد: الفِناء لاتِّصاله بالرَّبع. والمُوصَد: المُطْبَق. وقال تعالى: ] إنَّها عَلَيْهِمْ مُؤْصَدَةٌ [ [الهمزة 8].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "this root, سِنَة sinatun, occurs once in the Qur’an.\nسِنَة sinatun [n.] slumber (2:255) لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ neither\nslumber nor sleep overtakes Him.",
+      "definition_english": "this root, سِنَة sinatun, occurs once in the Qur’an.\nسِنَة sinatun [n.] slumber (2:255) لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ neither\nslumber nor sleep overtakes Him."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ṣ–d (this root overlaps with the root أ/ص/د ʾ–ṣ–d because of\nthe dialectal difference in pronouncing hamza as a pure vowel)\n\n1028",
+      "definition_english": "w–ṣ–d (this root overlaps with the root أ/ص/د ʾ–ṣ–d because of\nthe dialectal difference in pronouncing hamza as a pure vowel)\n\n1028"
+    }
+  ],
   "occurrences": [
     "104:8:3",
     "18:18:13",

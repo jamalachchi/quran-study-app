@@ -1,8 +1,11 @@
 {
-  "id": 1647,
   "root": "ز ف ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزعب\n\n(زفل) الزاء والفاء واللام هي الأَزْفَلة، وهي الجماعة. يقال جاؤوا بأَزْفَلَتهم، أي جماعتهم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزعب\n\n(زفل) الزاء والفاء واللام هي الأَزْفَلة، وهي الجماعة. يقال جاؤوا بأَزْفَلَتهم، أي جماعتهم.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

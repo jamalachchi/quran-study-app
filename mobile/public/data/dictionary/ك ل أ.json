@@ -1,8 +1,16 @@
 {
-  "id": 3266,
   "root": "ك ل أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلم - كلأ\n\n(كلأ) الكاف واللام والحرف المعتلّ أو الهمزة أصلٌ صحيح يدلُّ على مراقبةٍ ونَظَر، وأصلٌ *آخر يدلُّ على نباتٍ، والثالث عضوٌ من الأعضاء ثم يُستعار.\n\nفأمَّا النظر والمراقَبة فالكِلاءَة ، وهي الحِفْظ، تقول: كلأه الله، أي حَفِظه. قال الله عزّ وعلا: ] قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ والنَّهَارِ مِنَ الرَّحْمنِ [",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلم - كلأ\n\n(كلأ) الكاف واللام والحرف المعتلّ أو الهمزة أصلٌ صحيح يدلُّ على مراقبةٍ ونَظَر، وأصلٌ *آخر يدلُّ على نباتٍ، والثالث عضوٌ من الأعضاء ثم يُستعار.\n\nفأمَّا النظر والمراقَبة فالكِلاءَة ، وهي الحِفْظ، تقول: كلأه الله، أي حَفِظه. قال الله عزّ وعلا: ] قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ والنَّهَارِ مِنَ الرَّحْمنِ [",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ك/ل/أ k–l–ʾ pasture, vegetation, herbage; to guard over; to stay awake\nat night; shore, to bring a boat in to port. Of this root, يَكْلَؤُكُمْ\nyaklaʾukum occurs once in the Qur’an.\n\nيَكْلَأُ yaklaʾ [imperf. of v. كَلَأَ kalaʾa, trans.] to shelter, defend,\nprotect, to give sanctuary to (21:42) قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ\nsay, ‘Who could shelter you night and day other than [lit. away\nfrom] the Lord of Mercy?’\n\nكِلَا kilā [masc. n. occurring once in the Qur’an; fem. كِلْتَا kiltā, also\noccurring once, and always in construct (إضافة) with a definite\nnoun or pronominal suffix] both of (18:33) كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا both\ngardens produced their [proper] yield.",
+      "definition_english": "ك/ل/أ k–l–ʾ pasture, vegetation, herbage; to guard over; to stay awake\nat night; shore, to bring a boat in to port. Of this root, يَكْلَؤُكُمْ\nyaklaʾukum occurs once in the Qur’an.\n\nيَكْلَأُ yaklaʾ [imperf. of v. كَلَأَ kalaʾa, trans.] to shelter, defend,\nprotect, to give sanctuary to (21:42) قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ\nsay, ‘Who could shelter you night and day other than [lit. away\nfrom] the Lord of Mercy?’\n\nكِلَا kilā [masc. n. occurring once in the Qur’an; fem. كِلْتَا kiltā, also\noccurring once, and always in construct (إضافة) with a definite\nnoun or pronominal suffix] both of (18:33) كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا both\ngardens produced their [proper] yield."
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 694,
   "root": "ج و س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجوز\n\n(جوس) الجيم والواو والسين أصلٌ واحد، وهو تخلُّل الشيء. يقال: جاسُوا خِلالَ الدِّيار يجُوسون. قال الله تعالى: ] فَجَاسُوا خِلاَلَ الدِّيَارِ [ [الإسراء 5]. وأما الجُوس فليس أصلاً؛ لأنه إتباع للجُوع؛ يقال: جُوعاً له وجُوساً له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجوز\n\n(جوس) الجيم والواو والسين أصلٌ واحد، وهو تخلُّل الشيء. يقال: جاسُوا خِلالَ الدِّيار يجُوسون. قال الله تعالى: ] فَجَاسُوا خِلاَلَ الدِّيَارِ [ [الإسراء 5]. وأما الجُوس فليس أصلاً؛ لأنه إتباع للجُوع؛ يقال: جُوعاً له وجُوساً له.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–w–s to rummage, to peer about, to play havoc, to overrun; to investigate, to spy. Of this root, جَاسَ jāsa occurs once in the Qurʾan.\nجَاسَ jāsa u [v. intrans.] to overrun, to ravage, to plunder (17:5) بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ We send against you servants of Ours of great might, and they spread destruction throughout the habitation.",
+      "definition_english": "j–w–s to rummage, to peer about, to play havoc, to overrun; to investigate, to spy. Of this root, جَاسَ jāsa occurs once in the Qurʾan.\nجَاسَ jāsa u [v. intrans.] to overrun, to ravage, to plunder (17:5) بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ We send against you servants of Ours of great might, and they spread destruction throughout the habitation."
+    }
+  ],
   "occurrences": [
     "17:5:12"
   ]

@@ -1,8 +1,11 @@
 {
-  "id": 1174,
   "root": "د ف ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدعق - دعك\n\n(دفل) الدال والفاء واللام ليس أصلاً، وإن كان قد جاء فيه الدِّفْلَى، وهو شَجَرٌ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدعق - دعك\n\n(دفل) الدال والفاء واللام ليس أصلاً، وإن كان قد جاء فيه الدِّفْلَى، وهو شَجَرٌ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

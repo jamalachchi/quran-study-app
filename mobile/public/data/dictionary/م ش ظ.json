@@ -1,8 +1,11 @@
 {
-  "id": 3748,
   "root": "م ش ظ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمسخ - مسد\n\n(مشظ) الميم والشين والظاء كلمةٌ واحدة. مَشِظَت يدُه: دخلت فيها شَظِيَّةٌ من قَصَبة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمسخ - مسد\n\n(مشظ) الميم والشين والظاء كلمةٌ واحدة. مَشِظَت يدُه: دخلت فيها شَظِيَّةٌ من قَصَبة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

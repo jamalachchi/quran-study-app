@@ -1,8 +1,11 @@
 {
-  "id": 2141,
   "root": "ص ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصم\n\n(صه) الصاد والهاء كلمة تقال عند الإسكات، وهي صه ، ولا قياسَ لها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصم\n\n(صه) الصاد والهاء كلمة تقال عند الإسكات، وهي صه ، ولا قياسَ لها.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 171,
   "root": "أ ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأيد - أير\n\nوقولـه تعالى: ] إنَّ إبْراهِيمَ لأَوَّاهٌ حَلِيمٌ [ [التوبة 114]، هو الدَّعَّاء. أَوَّهْ فيه لغاتٌ: مدُّ الألف وتشديد الواو، وقصر الألف وتشديد الواو، ومدّ الألف وتخفيف الواو. وأَوْه بسكون الواو وكسر الهاء، وأَوِّهْ بتشديد الواو وكسرها وسكون الهاء، وآهِ وآوِ، وأَوّتَاه.\n\n(باب الهمزة والياء وما يثلثهما في الثلاثي)\n\n(أيد) الهمزة والياء والدال أصلٌ واحد، يدلّ على القوة والحِفْظ. يقال أيّدَه الله أي قوّاه الله. قال تعالى: ] والسَّماءَ بَنَيْنَاهَا بِأَيْدٍ [ [الذاريات 47]. فهذا معنى القوّة. وأمّا الحفظ فالإياد كلُّ حاجزٍ الشيءَ يَحفَظُه. قال ذو الرمّة:\n\nدفَعْناهُ عن بَيْضٍ حِسَانٍ بأجْرَعٍ\n\nحَوَى حَوْلَها مِنْ تُربِهِ بإيادِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأيد - أير\n\nوقولـه تعالى: ] إنَّ إبْراهِيمَ لأَوَّاهٌ حَلِيمٌ [ [التوبة 114]، هو الدَّعَّاء. أَوَّهْ فيه لغاتٌ: مدُّ الألف وتشديد الواو، وقصر الألف وتشديد الواو، ومدّ الألف وتخفيف الواو. وأَوْه بسكون الواو وكسر الهاء، وأَوِّهْ بتشديد الواو وكسرها وسكون الهاء، وآهِ وآوِ، وأَوّتَاه.\n\n(باب الهمزة والياء وما يثلثهما في الثلاثي)\n\n(أيد) الهمزة والياء والدال أصلٌ واحد، يدلّ على القوة والحِفْظ. يقال أيّدَه الله أي قوّاه الله. قال تعالى: ] والسَّماءَ بَنَيْنَاهَا بِأَيْدٍ [ [الذاريات 47]. فهذا معنى القوّة. وأمّا الحفظ فالإياد كلُّ حاجزٍ الشيءَ يَحفَظُه. قال ذو الرمّة:\n\nدفَعْناهُ عن بَيْضٍ حِسَانٍ بأجْرَعٍ\n\nحَوَى حَوْلَها مِنْ تُربِهِ بإيادِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–y–d fortification, stronghold, refuge; to bolster, to fortify; power, toughness. Of this root, two forms occur 11 times in the Qurʾan: أَيَّدَ ʾayyada nine times and أَيْد ʾayd twice.\nأَيَّدَ ʾayyada [v. II, trans.] to support, to bolster up, to strengthen (2:87) وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ We gave Jesus, son of Mary, clear signs and supported him with the Holy Spirit.\n\nأَيْد ʾayd [n.] might, power, strength (51:47) وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ and the Heaven We built with power and made [it] vast.\n\n67",
+      "definition_english": "ʾ–y–d fortification, stronghold, refuge; to bolster, to fortify; power, toughness. Of this root, two forms occur 11 times in the Qurʾan: أَيَّدَ ʾayyada nine times and أَيْد ʾayd twice.\nأَيَّدَ ʾayyada [v. II, trans.] to support, to bolster up, to strengthen (2:87) وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ We gave Jesus, son of Mary, clear signs and supported him with the Holy Spirit.\n\nأَيْد ʾayd [n.] might, power, strength (51:47) وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ and the Heaven We built with power and made [it] vast.\n\n67"
+    }
+  ],
   "occurrences": [
     "2:253:19",
     "2:87:14",

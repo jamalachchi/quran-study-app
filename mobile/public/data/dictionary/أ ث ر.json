@@ -1,9 +1,17 @@
 {
-  "id": 46,
   "root": "أ ث ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأتب - أثر\n\n(أثر) الهمزة والثاء والراء، لـه ثلاثة أصول: تقديم الشيء، وذكر الشيء، ورسم الشيء الباقي. قال الخليل: لقد أثِرْتُ بأن أفعل كذا، وهو همٌّ في عَزْم. وتقولُ افعل يا فلان هذا آثِراً ما، وآثِرَ [ذي] أثير، أي إنْ اخترتَ ذلك الفعل فافعلْ هذا إمّا لا. قال ابنُ الأعرابيّ: معناه افعلْه أوّلَ كلِّ شيء. قال عُروة بن الورد:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأتب - أثر\n\n(أثر) الهمزة والثاء والراء، لـه ثلاثة أصول: تقديم الشيء، وذكر الشيء، ورسم الشيء الباقي. قال الخليل: لقد أثِرْتُ بأن أفعل كذا، وهو همٌّ في عَزْم. وتقولُ افعل يا فلان هذا آثِراً ما، وآثِرَ [ذي] أثير، أي إنْ اخترتَ ذلك الفعل فافعلْ هذا إمّا لا. قال ابنُ الأعرابيّ: معناه افعلْه أوّلَ كلِّ شيء. قال عُروة بن الورد:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–th–r trace, mark, track, remnants, remains; landmarks,\nmonuments; authority, favour; to mark; deeds; to pass along, to\ntransmit; to favour, to prefer. Of this root, five forms occur 21\ntimes in the Qur’an: يُؤْثَرُ yuʾthar once; آثَر ʾāthara five times; أَثَر\nʾathar three times; آثَار ʾāthār 11 times and أَثَارَة ʾathāratun once.\n\n11",
+      "definition_english": "ʾ–th–r trace, mark, track, remnants, remains; landmarks,\nmonuments; authority, favour; to mark; deeds; to pass along, to\ntransmit; to favour, to prefer. Of this root, five forms occur 21\ntimes in the Qur’an: يُؤْثَرُ yuʾthar once; آثَر ʾāthara five times; أَثَر\nʾathar three times; آثَار ʾāthār 11 times and أَثَارَة ʾathāratun once.\n\n11"
+    }
+  ],
   "occurrences": [
     "12:91:4",
     "18:64:8",

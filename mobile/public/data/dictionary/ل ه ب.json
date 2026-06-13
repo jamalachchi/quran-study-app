@@ -1,9 +1,17 @@
 {
-  "id": 3450,
   "root": "ل ه ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلهو - لهب\n\n(لهب) اللام والهاء والباء أصلٌ صحيح، وهو ارتفاعُ لسان النَّار، ثم يقاسُ عليه ما يقاربه. من ذلك اللَّهب: لَهَب النَّار. تقول: التهبت التهاباً. وكلُّ شيءٍ ارتفع ضوؤُه ولمَعَ لمعاناً شديداً فإنَّه يقال فيه ذلك. قال:\n\nوتاجَ الملك يلتهبُ التهابا\n\nرأيتَ مَهابةً وليوثَ غابٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلهو - لهب\n\n(لهب) اللام والهاء والباء أصلٌ صحيح، وهو ارتفاعُ لسان النَّار، ثم يقاسُ عليه ما يقاربه. من ذلك اللَّهب: لَهَب النَّار. تقول: التهبت التهاباً. وكلُّ شيءٍ ارتفع ضوؤُه ولمَعَ لمعاناً شديداً فإنَّه يقال فيه ذلك. قال:\n\nوتاجَ الملك يلتهبُ التهابا\n\nرأيتَ مَهابةً وليوثَ غابٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ل/ه/ب l–h–b tongue of fire, flame, to blaze; radiance; to be extremely\nhungry, thirst. Of this root, لَهَب lahab occurs twice and أَبِي لَهَب\nʾabī lahab once in the Qur’an.\n\nلَهَب lahab [n./v. n.] flame; raging of fire (111:3) سَيَصْلَىٰ نَارًا ذَاتَ\nلَهَبٍ he will burn in the flaming Fire.\n\nأَبِي لَهَب ʾabī lahab [nickname] (an attribute of ʿabdu’l-ʿuzzā,\none of Prophet Muḥammad’s uncles’ who used to abuse him) the\none with the fiery temper, the one worthy of going to Hell (111:1)\nتَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ may the hands of ʾabū Lahab be paralysed!—\nmay he come to ruin [too]; * أبي لهب name of Sura 111, Meccan\nsura, so-named because of the reference in verse 1 to ʾabī\nLahab’. Also called تبت (see ت/ب/ب t–b–t) and المسد (see م/س/د m–\ns–d).",
+      "definition_english": "ل/ه/ب l–h–b tongue of fire, flame, to blaze; radiance; to be extremely\nhungry, thirst. Of this root, لَهَب lahab occurs twice and أَبِي لَهَب\nʾabī lahab once in the Qur’an.\n\nلَهَب lahab [n./v. n.] flame; raging of fire (111:3) سَيَصْلَىٰ نَارًا ذَاتَ\nلَهَبٍ he will burn in the flaming Fire.\n\nأَبِي لَهَب ʾabī lahab [nickname] (an attribute of ʿabdu’l-ʿuzzā,\none of Prophet Muḥammad’s uncles’ who used to abuse him) the\none with the fiery temper, the one worthy of going to Hell (111:1)\nتَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ may the hands of ʾabū Lahab be paralysed!—\nmay he come to ruin [too]; * أبي لهب name of Sura 111, Meccan\nsura, so-named because of the reference in verse 1 to ʾabī\nLahab’. Also called تبت (see ت/ب/ب t–b–t) and المسد (see م/س/د m–\ns–d)."
+    }
+  ],
   "occurrences": [
     "111:1:4",
     "111:3:4",

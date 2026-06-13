@@ -1,9 +1,17 @@
 {
-  "id": 432,
   "root": "ت ق ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتفل - تفه\n\n(تقن) التاء والقاف والنون أصلان: أحدهما إحكام الشّيء، والثاني الطين والحَمْأة.\n\nفالقول الأوّل أتقَنْت الشّيء أحكَمْتُه. ورجل تقن : حاذقٌ. وابن تِقْن: رجلٌ كان جيّد الرّمي يُضْرَبُ به المَثَل. قال:\n\n* يرمي بها أرمَى من ابن تِقْنِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتفل - تفه\n\n(تقن) التاء والقاف والنون أصلان: أحدهما إحكام الشّيء، والثاني الطين والحَمْأة.\n\nفالقول الأوّل أتقَنْت الشّيء أحكَمْتُه. ورجل تقن : حاذقٌ. وابن تِقْن: رجلٌ كان جيّد الرّمي يُضْرَبُ به المَثَل. قال:\n\n* يرمي بها أرمَى من ابن تِقْنِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-q-n dregs of a well, to dredge up a well; nature; to do\nsomething well, to be skilful, to be eloquent; to perfect,\nperfection. Of this root, أَتْقَن ʾatqana occurs once in the Qurʾān.\n\n135",
+      "definition_english": "t-q-n dregs of a well, to dredge up a well; nature; to do\nsomething well, to be skilful, to be eloquent; to perfect,\nperfection. Of this root, أَتْقَن ʾatqana occurs once in the Qurʾān.\n\n135"
+    }
+  ],
   "occurrences": [
     "27:88:12"
   ]

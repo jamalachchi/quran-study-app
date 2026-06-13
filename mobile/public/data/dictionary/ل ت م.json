@@ -1,8 +1,11 @@
 {
-  "id": 3504,
   "root": "ل ت م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لتم) اللام والتاء والميم كلمة. يقال: لتَمَها، إذا طعنها في مَنْحَرها بشَفْرة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لتم) اللام والتاء والميم كلمة. يقال: لتَمَها، إذا طعنها في مَنْحَرها بشَفْرة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

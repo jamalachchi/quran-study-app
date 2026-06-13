@@ -1,9 +1,17 @@
 {
-  "id": 1280,
   "root": "د ح ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدجم - دجن\n\n(دحض) الدال والحاء والضاد أصلٌ يدلُّ على زوالٍ وزَلَق. يقال دَحَضَتْ رجلُه: زَلِقَتْ. ومنه دحَضَت الشّمس: زالت. ودَحَضَتْ حُجّةُ فلانٍ، إذا لم تَثْبُت. قال الله جلّ ثناؤه: ] حُجَّتُهُمْ دَاحِضَةٌ عِنْدَ رَبِّهِمْ [ [الشورى 16].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدجم - دجن\n\n(دحض) الدال والحاء والضاد أصلٌ يدلُّ على زوالٍ وزَلَق. يقال دَحَضَتْ رجلُه: زَلِقَتْ. ومنه دحَضَت الشّمس: زالت. ودَحَضَتْ حُجّةُ فلانٍ، إذا لم تَثْبُت. قال الله جلّ ثناؤه: ] حُجَّتُهُمْ دَاحِضَةٌ عِنْدَ رَبِّهِمْ [ [الشورى 16].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d-ḥ-ḍ to slip, to become slippery, to lose one’s footing; to\nweaken, to lose one’s grip; to refute, to invalidate, to argue down,\nprove wrong, (of the sun) to move away from the middle of the\nsky. Of this root, three forms occur four times in the Qurʾān:\nيُدْحِضُونَ yudḥiḍūn twice; دَاحِضَة dāḥiḍatun once and مُدْحَضُون\nmudḥaḍūn once.\n\nيُدْحِض yudḥiḍ [imperf. of v. أَدْحَضَ ʾadḥaḍa, trans.] to refute, to\ninvalidate, to argue down (18:56) وَيُجَادِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ\nٱلْحَقَّ yet those who disbelieve seek to refute the truth with false\narguments.\n\nدَاحِضَة dāḥiḍatun [quasi-act. part.] refutable, baseless, null and\nvoid (42:16) وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ\nعِندَ رَبِّهِمْ and those who argue about God after He has been\nacknowledged [by others], their argument is null and void with\ntheir Lord.\n\n-ي\n\nمُدْحَضُون mudḥaḍūn [pl. of pass. part. مُدْحَض mudḥaḍ] defeated,\nvanquished (37:141) فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ he cast lots and was\none of the defeated.",
+      "definition_english": "d-ḥ-ḍ to slip, to become slippery, to lose one’s footing; to\nweaken, to lose one’s grip; to refute, to invalidate, to argue down,\nprove wrong, (of the sun) to move away from the middle of the\nsky. Of this root, three forms occur four times in the Qurʾān:\nيُدْحِضُونَ yudḥiḍūn twice; دَاحِضَة dāḥiḍatun once and مُدْحَضُون\nmudḥaḍūn once.\n\nيُدْحِض yudḥiḍ [imperf. of v. أَدْحَضَ ʾadḥaḍa, trans.] to refute, to\ninvalidate, to argue down (18:56) وَيُجَادِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ\nٱلْحَقَّ yet those who disbelieve seek to refute the truth with false\narguments.\n\nدَاحِضَة dāḥiḍatun [quasi-act. part.] refutable, baseless, null and\nvoid (42:16) وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ\nعِندَ رَبِّهِمْ and those who argue about God after He has been\nacknowledged [by others], their argument is null and void with\ntheir Lord.\n\n-ي\n\nمُدْحَضُون mudḥaḍūn [pl. of pass. part. مُدْحَض mudḥaḍ] defeated,\nvanquished (37:141) فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ he cast lots and was\none of the defeated."
+    }
+  ],
   "occurrences": [
     "18:56:11",
     "37:141:4",

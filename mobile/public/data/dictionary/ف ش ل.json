@@ -1,9 +1,22 @@
 {
-  "id": 3010,
   "root": "ف ش ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفزع\n\n(فشل) الفاء والشين واللام. يقولون: تفَشَّل الماءُ: سالَ. والفَشْل: شيءٌ من أدَاة الهَوْدَج.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفزع\n\n(فشل) الفاء والشين واللام. يقولون: تفَشَّل الماءُ: سالَ. والفَشْل: شيءٌ من أدَاة الهَوْدَج.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "(49:6) يَاأَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا you who believe, if an\nunreliable person brings you news, check it first.",
+      "definition_english": "(49:6) يَاأَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا you who believe, if an\nunreliable person brings you news, check it first."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–sh–l to be weak, to be lazy; to be faint-hearted, to be\ncowardly; to fail. Of this root, فَشِل fashila, occurs three times in\nthe Qur’an.\n\nفَشِل fashila a [v. intrans.] 1 to fail (8:46) وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ\nرِيحُكُمْ and do not dispute [among yourselves], for you will fail and\nyour power will desert you 2 to weaken, to lose heart (3:122) إِذْ\nهَمَّتْ طَائِفَتَانِ مِنْكُمْ أَنْ تَفْشَلَا remember when two groups of you were\nabout to lose heart.",
+      "definition_english": "f–sh–l to be weak, to be lazy; to be faint-hearted, to be\ncowardly; to fail. Of this root, فَشِل fashila, occurs three times in\nthe Qur’an.\n\nفَشِل fashila a [v. intrans.] 1 to fail (8:46) وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ\nرِيحُكُمْ and do not dispute [among yourselves], for you will fail and\nyour power will desert you 2 to weaken, to lose heart (3:122) إِذْ\nهَمَّتْ طَائِفَتَانِ مِنْكُمْ أَنْ تَفْشَلَا remember when two groups of you were\nabout to lose heart."
+    }
+  ],
   "occurrences": [
     "3:122:6",
     "3:152:10",

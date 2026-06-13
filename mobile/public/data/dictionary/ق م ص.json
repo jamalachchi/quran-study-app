@@ -1,9 +1,22 @@
 {
-  "id": 3077,
   "root": "ق م ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقمس\n\n(قمص) القاف والميم والصاد أصلان: أحدهما يدل على لُبس شيء والانشِيامِ فيه، والآخَر على نَزْوِ شيءٍ وحركة.\n\nفالأوَّل القَميص للإنسان معروف. يقال: تَقَمَّصَه، إذا لَبِسه. ثم يُستعار ذلك في كلِّ شيء دخل فيه الإنسان، فيقال: تقمَّصَ الإمارَةَ، وتقمَّص الوِلاية. وجَمْع القميص أقمصةٌ، وقُمُص.\n\nوالأصل الآخر القَمْص، من قولهم: قمص البعير ويقمُص قمصاً وقِمَاصاً، وهو أن يرفع يدَيه ثم يطرحَهما معاً ويَعجِنَ برجليه. وفي الحديث ذكر القامصة، وهو من هذا. يقال قَمَص البحر بالسَّفينة، إذا حَرّكَها بالموج، فكأنَّها بعيرٌ يقمِصُ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقمس\n\n(قمص) القاف والميم والصاد أصلان: أحدهما يدل على لُبس شيء والانشِيامِ فيه، والآخَر على نَزْوِ شيءٍ وحركة.\n\nفالأوَّل القَميص للإنسان معروف. يقال: تَقَمَّصَه، إذا لَبِسه. ثم يُستعار ذلك في كلِّ شيء دخل فيه الإنسان، فيقال: تقمَّصَ الإمارَةَ، وتقمَّص الوِلاية. وجَمْع القميص أقمصةٌ، وقُمُص.\n\nوالأصل الآخر القَمْص، من قولهم: قمص البعير ويقمُص قمصاً وقِمَاصاً، وهو أن يرفع يدَيه ثم يطرحَهما معاً ويَعجِنَ برجليه. وفي الحديث ذكر القامصة، وهو من هذا. يقال قَمَص البحر بالسَّفينة، إذا حَرّكَها بالموج، فكأنَّها بعيرٌ يقمِصُ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى your Lord has neither forsaken you [Prophet],\nnor [has He come to] hate [you].\n\nقَالِين qālin [pl. of act. part. قَالٍ qālin] one who hates, loathes or\ndetests (26:168) إِنِّي لِعَمَلِكُمْ مِنَ الْقَالِينَ truly, I am one of those who\ndetest what you do.",
+      "definition_english": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى your Lord has neither forsaken you [Prophet],\nnor [has He come to] hate [you].\n\nقَالِين qālin [pl. of act. part. قَالٍ qālin] one who hates, loathes or\ndetests (26:168) إِنِّي لِعَمَلِكُمْ مِنَ الْقَالِينَ truly, I am one of those who\ndetest what you do."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–m–ṣ shirt, garment, inner garment, dress, gown, wrap,\nshield, to wear a shirt, to masquerade; to quake, to be jumpy, to\nbe agile, to gallop. It has been suggested that قَمِيص qamīṣ may be\na borrowing from Greek through Syriac or Ethiopic. Of this root,\nonly قَمِيص qamīṣ occurs six times in the Qur’an.\n\nقَمِيص qamīṣ [n.] tunic, shirt, garment (12:18) وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ\nكَذِبٍ and they came with false blood on his shirt.\n\n776",
+      "definition_english": "q–m–ṣ shirt, garment, inner garment, dress, gown, wrap,\nshield, to wear a shirt, to masquerade; to quake, to be jumpy, to\nbe agile, to gallop. It has been suggested that قَمِيص qamīṣ may be\na borrowing from Greek through Syriac or Ethiopic. Of this root,\nonly قَمِيص qamīṣ occurs six times in the Qur’an.\n\nقَمِيص qamīṣ [n.] tunic, shirt, garment (12:18) وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ\nكَذِبٍ and they came with false blood on his shirt.\n\n776"
+    }
+  ],
   "occurrences": [
     "12:18:3",
     "12:25:4",

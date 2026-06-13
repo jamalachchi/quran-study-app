@@ -1,8 +1,11 @@
 {
-  "id": 1897,
   "root": "س ح ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسحر - سحط\n\n(سحط) السين والحاء والطاء كلمة. يقولون: السَّحط: الذَّبْح الوَحِيّ.\n\nسحف سحق",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسحر - سحط\n\n(سحط) السين والحاء والطاء كلمة. يقولون: السَّحط: الذَّبْح الوَحِيّ.\n\nسحف سحق",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

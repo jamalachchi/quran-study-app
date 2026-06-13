@@ -1,8 +1,11 @@
 {
-  "id": 3894,
   "root": "ن ب ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنبت\n\n(نبج) النون والباء والجيم. يقولون: النَّبّاج: الرَّفيع [الصَّوت ]، وهي كلمةٌ واحدة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنبت\n\n(نبج) النون والباء والجيم. يقولون: النَّبّاج: الرَّفيع [الصَّوت ]، وهي كلمةٌ واحدة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

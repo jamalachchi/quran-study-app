@@ -1,8 +1,11 @@
 {
-  "id": 3126,
   "root": "ق ب ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقبس - قبص\n\n(قبص) القاف والباء والصاد أصلانِ يَدُلُّ أحدهما على خِفّةٍ وسُرعة، والآخَر على تجمُّع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقبس - قبص\n\n(قبص) القاف والباء والصاد أصلانِ يَدُلُّ أحدهما على خِفّةٍ وسُرعة، والآخَر على تجمُّع.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

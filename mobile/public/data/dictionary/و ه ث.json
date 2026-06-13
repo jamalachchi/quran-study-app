@@ -1,8 +1,11 @@
 {
-  "id": 4526,
   "root": "و ه ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهث) الواو والهاء والثاء. يقولون: الوَهْثُ: الانهماك في الشَّيء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولق - ومأ\n\n(وهث) الواو والهاء والثاء. يقولون: الوَهْثُ: الانهماك في الشَّيء.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 1515,
   "root": "ر ه ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرهط\n\nوفُضِّلَ أقوامٌ عليك مَرَاهِصا\n\nرمى بِكَ في أُخراهُم تَركُكَ العُلَى\n\n(رهط) الراء والهاء والطاء أصلٌ يدلُّ على تجمُّعٍ في النّاسِ وغيرِهم. فالرَّهط: العِصابة من ثلاثةٍ إلى عَشرة. قال الخليل: ما دون السَّبعة إلى الثلاثةِ نفرٌ. وتخفيف الرَّهط أحسن من تثقيله . قال والترهيط: دَهْوَرةُ اللُّقْمَةِ وجَمْعُها . قال:\n\n* يا أيُّها الآكلُ ذو التَّرهِيط *\n\nوالرَّاهطاء: جُحْرٌ من جِحْرة اليَربوع بين النّافقاء والقاصعاء، يَخْبَأُ فيه أولادَه. وقال: والرِّهاط: أديمٌ يُقطَع كقَدْر ما بين الحُجْزة إلى الرُّكْبة، ثم يُشقَّق كأمثال الشُّرُك، تلبَسه الجارية. قال:\n\nوطعنٍ مثلِ تعْطيط الرِّهاطِ\n\nبِضربٍ تَسْقُطُ الهاماتُ منه\n\nوالواحد رَهْطٌ . وَقال:\n\nكِ أجْعَلْكَ رَهْطاً على حُيَّضِ\n\nمتى ما أَشَأْ غَيْرَ زَهْوِ المُلُو",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرهط\n\nوفُضِّلَ أقوامٌ عليك مَرَاهِصا\n\nرمى بِكَ في أُخراهُم تَركُكَ العُلَى\n\n(رهط) الراء والهاء والطاء أصلٌ يدلُّ على تجمُّعٍ في النّاسِ وغيرِهم. فالرَّهط: العِصابة من ثلاثةٍ إلى عَشرة. قال الخليل: ما دون السَّبعة إلى الثلاثةِ نفرٌ. وتخفيف الرَّهط أحسن من تثقيله . قال والترهيط: دَهْوَرةُ اللُّقْمَةِ وجَمْعُها . قال:\n\n* يا أيُّها الآكلُ ذو التَّرهِيط *\n\nوالرَّاهطاء: جُحْرٌ من جِحْرة اليَربوع بين النّافقاء والقاصعاء، يَخْبَأُ فيه أولادَه. وقال: والرِّهاط: أديمٌ يُقطَع كقَدْر ما بين الحُجْزة إلى الرُّكْبة، ثم يُشقَّق كأمثال الشُّرُك، تلبَسه الجارية. قال:\n\nوطعنٍ مثلِ تعْطيط الرِّهاطِ\n\nبِضربٍ تَسْقُطُ الهاماتُ منه\n\nوالواحد رَهْطٌ . وَقال:\n\nكِ أجْعَلْكَ رَهْطاً على حُيَّضِ\n\nمتى ما أَشَأْ غَيْرَ زَهْوِ المُلُو",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-h-ṭ group of people, particularly men, under ten in number; a person’s family or tribe; mound covering one of the entrances to the jerboa’s tunnels; to take large mouthfuls. Of this root, رَهْط rahṭ occurs three times in the Qur’an.\nرَهْط rahṭ [n.] 1 a group of people between three and ten in number, all related by family or loyalty (27:48) وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ there was a band of nine men in the city who spread corruption in the land and did nothing that was good 2 family, tribe, clan (11:91) وَإِنَّا لَنَرَاكَ فِينَا ضَعِيفًا وَلَوْلَا رَهْطُكَ and we find you very weak in our midst, but for your tribe,\n\n386 ر/ه/ق\n\nwe would have stoned you.",
+      "definition_english": "r-h-ṭ group of people, particularly men, under ten in number; a person’s family or tribe; mound covering one of the entrances to the jerboa’s tunnels; to take large mouthfuls. Of this root, رَهْط rahṭ occurs three times in the Qur’an.\nرَهْط rahṭ [n.] 1 a group of people between three and ten in number, all related by family or loyalty (27:48) وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ there was a band of nine men in the city who spread corruption in the land and did nothing that was good 2 family, tribe, clan (11:91) وَإِنَّا لَنَرَاكَ فِينَا ضَعِيفًا وَلَوْلَا رَهْطُكَ and we find you very weak in our midst, but for your tribe,\n\n386 ر/ه/ق\n\nwe would have stoned you."
+    }
+  ],
   "occurrences": [
     "11:91:13",
     "11:92:3",

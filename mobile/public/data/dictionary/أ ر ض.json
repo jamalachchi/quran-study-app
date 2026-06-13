@@ -1,9 +1,17 @@
 {
-  "id": 75,
   "root": "أ ر ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأذي - أرز\n\n(أرض) الهمزة والراء والضاد ثلاثة أصول، أصل يتفرع وتكثر مسائله، وأصلان لا ينقاسانِ بل كلُّ واحدٍ موضوعٌ حيثُ وضعَتْه العرب. فأمّا هذان",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأذي - أرز\n\n(أرض) الهمزة والراء والضاد ثلاثة أصول، أصل يتفرع وتكثر مسائله، وأصلان لا ينقاسانِ بل كلُّ واحدٍ موضوعٌ حيثُ وضعَتْه العرب. فأمّا هذان",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–r–ḍ the earth, earth, land; to be flat; to be fatty; to be\ntouched. Of this root, أَرْض ʾarḍ occurs 461 times in the Qur’an.\n\nأَرْض ʾarḍ [n.] 1 [with the definite article ال] the Earth (16:3)\nخَلَقَ السَّمَاوَاتِ وَالأَرْضَ بِالْحَقِّ He created the heavens and the Earth in\ntruth 2 land, soil (36:33) وَآيَةٌ لَهُمُ الأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا and a sign for\nthem is the dead land, We bring it to life 3 ground (50:44) يَوْمَ\nتَشَقَّقُ الأَرْضُ عَنْهُمْ سِرَاعًا upon the Day when the ground is split asunder\nfrom about them, and [humankind] emerges in haste 4 country,\nland (20:57) أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَامُوسَى have you come to\ndrive us from our land with your sorcery, Moses? 5 domain\n(29:56) يَاعِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ My believing\nservants!, My domain is vast, so worship Me and Me alone;\n*(12:9) اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا kill Joseph or cast him forth in\nsome land [lit. throw him on the ground].",
+      "definition_english": "ʾ–r–ḍ the earth, earth, land; to be flat; to be fatty; to be\ntouched. Of this root, أَرْض ʾarḍ occurs 461 times in the Qur’an.\n\nأَرْض ʾarḍ [n.] 1 [with the definite article ال] the Earth (16:3)\nخَلَقَ السَّمَاوَاتِ وَالأَرْضَ بِالْحَقِّ He created the heavens and the Earth in\ntruth 2 land, soil (36:33) وَآيَةٌ لَهُمُ الأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا and a sign for\nthem is the dead land, We bring it to life 3 ground (50:44) يَوْمَ\nتَشَقَّقُ الأَرْضُ عَنْهُمْ سِرَاعًا upon the Day when the ground is split asunder\nfrom about them, and [humankind] emerges in haste 4 country,\nland (20:57) أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَامُوسَى have you come to\ndrive us from our land with your sorcery, Moses? 5 domain\n(29:56) يَاعِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ My believing\nservants!, My domain is vast, so worship Me and Me alone;\n*(12:9) اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا kill Joseph or cast him forth in\nsome land [lit. throw him on the ground]."
+    }
+  ],
   "occurrences": [
     "10:101:6",
     "10:14:5",

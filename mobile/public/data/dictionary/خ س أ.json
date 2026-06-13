@@ -1,8 +1,16 @@
 {
-  "id": 996,
   "root": "خ س أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخسق - خسل\n\n(خسأ) الخاء والسين والهمزة يدلُّ على الإبعاد. يقال خَسَأْتُ الكلبَ. وفي القرآن: ] قَالَ اخْسَؤُوا فِيهَا وَلاَ تُكَلِّمُونِ [ [المؤمنون 108]، كما يقال ابعُدوا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخسق - خسل\n\n(خسأ) الخاء والسين والهمزة يدلُّ على الإبعاد. يقال خَسَأْتُ الكلبَ. وفي القرآن: ] قَالَ اخْسَؤُوا فِيهَا وَلاَ تُكَلِّمُونِ [ [المؤمنون 108]، كما يقال ابعُدوا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–s–ʾ to drive away, to chase out; to cast out; to humble; rejected, spurned; to defeat, to impair; to confuse, to dull, to frustrate. Of this root, three forms occur four times in the Qur’an: اخْسَئُوا ʾikhsaʾū once; خَاسِئ khāsiʾ once and خَاسِئُون khāsiʾūn twice.\nاخْسَئُوا ʾikhsaʾū [imper. of v. خَسَأَ khasaʾa, intrans.] to chase, to shame, to scorn (23:108) قَالَ اخْسَئُوا فِيهَا وَلَا تُكَلِّمُونِ He will say, ‘Away with you!, in you go!, do not speak to Me!’\n\nخَاسِئ khāsiʾ [act. part.; pl. khāsiʾūn] 1 chased away, driven away, rejected, cut off, forsaken, outcasts (7:166) فَلَمَّا عَتَوْا عَنْ مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ but when they became too proud to abandon that which they were forbidden [to do], We said to them, ‘Be [like] apes!, outcasts!’ 2 unsuccessful, in vain, frustrated, unable (67:4) ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ Look again and again! Your sight will return to you frustrated and dimmed.",
+      "definition_english": "kh–s–ʾ to drive away, to chase out; to cast out; to humble; rejected, spurned; to defeat, to impair; to confuse, to dull, to frustrate. Of this root, three forms occur four times in the Qur’an: اخْسَئُوا ʾikhsaʾū once; خَاسِئ khāsiʾ once and خَاسِئُون khāsiʾūn twice.\nاخْسَئُوا ʾikhsaʾū [imper. of v. خَسَأَ khasaʾa, intrans.] to chase, to shame, to scorn (23:108) قَالَ اخْسَئُوا فِيهَا وَلَا تُكَلِّمُونِ He will say, ‘Away with you!, in you go!, do not speak to Me!’\n\nخَاسِئ khāsiʾ [act. part.; pl. khāsiʾūn] 1 chased away, driven away, rejected, cut off, forsaken, outcasts (7:166) فَلَمَّا عَتَوْا عَنْ مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ but when they became too proud to abandon that which they were forbidden [to do], We said to them, ‘Be [like] apes!, outcasts!’ 2 unsuccessful, in vain, frustrated, unable (67:4) ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ Look again and again! Your sight will return to you frustrated and dimmed."
+    }
+  ],
   "occurrences": []
 }

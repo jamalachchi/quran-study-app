@@ -1,9 +1,17 @@
 {
-  "id": 1726,
   "root": "ز ج ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزبر\n\n(زجر) الزاء والجيم والراء كلمة تدل على الانتهار. يقال زَجَرت البعيرَ حتَّى مضَى، أزجُره. وزجَرْت فلاناً عن الشيء فانْزَجر. والزَّجور من الإبل: التي تعرف بعينها وتُنكر بأنْفها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزبر\n\n(زجر) الزاء والجيم والراء كلمة تدل على الانتهار. يقال زَجَرت البعيرَ حتَّى مضَى، أزجُره. وزجَرْت فلاناً عن الشيء فانْزَجر. والزَّجور من الإبل: التي تعرف بعينها وتُنكر بأنْفها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-j-r to scold, to rebuke; to forbid, to restrain, to prohibit; to drive away. Of this root, five forms occur six times in the Qur’an: إِزْدُجِر ʾizdujir once; مُزْدَجَر muzdajar once; زَجْر zajr once; زَجْرَة zajratun twice and زَاجِرَات zājirāt once.\nإِزْدُجِر ʾizdujir [pass. of v. VIII] to be rebuked, to be repulsed, to be driven away (54:9) فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ they rejected Our servant, saying, ‘He is possessed!’ and he was repulsed.\n\nمُزْدَجَر muzdajar [v. n.; n. of place] deterring, restraining; lesson\n\n395\n\nto be learned (54:4) وَلَقَدْ جَاءَهُمْ مِنَ الْأَنْبَاءِ مَا فِيهِ مُزْدَجَرٌ and there have come to them some tidings [of past generations] in which [they should find] a deterrent.\n\nزَجْر zajr [v. n.] scolding, reproaching, repelling (37:1–2) وَالصَّافَّاتِ صَفًّا فَالزَّاجِرَاتِ زَجْرًا by those ranged in rows, who rebuke reproachfully.\n\nزَجْرَة zajratun [unit. n.] a chasing away; a scolding; a cry (37:19) فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ it is but a single call and–lo and behold!–they will be [alive] looking around.\n\nزَاجِرَات zājirāt [pl. of act. part. fem. زَاجِرَة zājiratun] admonisher, one who rebukes, one who repels (37:1–2) وَالصَّافَّاتِ صَفًّا فَالزَّاجِرَاتِ زَجْرًا by those ranged in rows, who rebuke reproachfully.",
+      "definition_english": "z-j-r to scold, to rebuke; to forbid, to restrain, to prohibit; to drive away. Of this root, five forms occur six times in the Qur’an: إِزْدُجِر ʾizdujir once; مُزْدَجَر muzdajar once; زَجْر zajr once; زَجْرَة zajratun twice and زَاجِرَات zājirāt once.\nإِزْدُجِر ʾizdujir [pass. of v. VIII] to be rebuked, to be repulsed, to be driven away (54:9) فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ they rejected Our servant, saying, ‘He is possessed!’ and he was repulsed.\n\nمُزْدَجَر muzdajar [v. n.; n. of place] deterring, restraining; lesson\n\n395\n\nto be learned (54:4) وَلَقَدْ جَاءَهُمْ مِنَ الْأَنْبَاءِ مَا فِيهِ مُزْدَجَرٌ and there have come to them some tidings [of past generations] in which [they should find] a deterrent.\n\nزَجْر zajr [v. n.] scolding, reproaching, repelling (37:1–2) وَالصَّافَّاتِ صَفًّا فَالزَّاجِرَاتِ زَجْرًا by those ranged in rows, who rebuke reproachfully.\n\nزَجْرَة zajratun [unit. n.] a chasing away; a scolding; a cry (37:19) فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ it is but a single call and–lo and behold!–they will be [alive] looking around.\n\nزَاجِرَات zājirāt [pl. of act. part. fem. زَاجِرَة zājiratun] admonisher, one who rebukes, one who repels (37:1–2) وَالصَّافَّاتِ صَفًّا فَالزَّاجِرَاتِ زَجْرًا by those ranged in rows, who rebuke reproachfully."
+    }
+  ],
   "occurrences": [
     "37:19:3",
     "37:2:1",

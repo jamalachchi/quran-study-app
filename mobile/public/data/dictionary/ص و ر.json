@@ -1,9 +1,17 @@
 {
-  "id": 2213,
   "root": "ص و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصوح - صور\n\n(صور) الصاد والواو والراء كلماتٌ كثيرةٌ متباينة الأصول. وليس هذا الباب ببابِ قياسٍ ولا اشتقاق. وقد مضى فيما كتبناه مثله .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصوح - صور\n\n(صور) الصاد والواو والراء كلماتٌ كثيرةٌ متباينة الأصول. وليس هذا الباب ببابِ قياسٍ ولا اشتقاق. وقد مضى فيما كتبناه مثله .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-w-r to cause to incline or lean towards, to incline to; to\nshape, to form, to fashion, to represent; sculpture, picture; to\nimagine, to conceive; to cut into pieces; to disperse; to prepare;\n\n541",
+      "definition_english": "s-w-r to cause to incline or lean towards, to incline to; to\nshape, to form, to fashion, to represent; sculpture, picture; to\nimagine, to conceive; to cut into pieces; to disperse; to prepare;\n\n541"
+    }
+  ],
   "occurrences": [
     "18:99:9",
     "20:102:4",

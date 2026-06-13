@@ -1,9 +1,17 @@
 {
-  "id": 1534,
   "root": "ر ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرول - روم\n\n(ريب) الراء والياء والباء أُصَيلٌ يدلُّ على شكٍّ، أو شكٍّ وخوف، فالرَّيْب: الشّكّ. قال الله جلّ ثناؤه: ] الم. ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ [ [البقرة 1- 2]، أَي لا شَكَّ. ثم قال الشاعر:\n\nفلا ريْبَ أن قد كان ثَمَّ لَحِيمُ\n\nفقالوا تَرَكْنَا القومَ قد حَصَِرُوا بهِ\n\nوالرَّيب: ما رابَكَ مِن أمرٍ. تقول: رابَنِي هذا الأمرُ، إذا أدخَلَ عليك شَكّاً وخَوفا. وأرابَ الرّجلُ: صارَ ذا رِيبةٍ. وقد رابَنِي أمْرُه. ورَيْب الدّهر: صُروفه؛ والقياس واحد. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرول - روم\n\n(ريب) الراء والياء والباء أُصَيلٌ يدلُّ على شكٍّ، أو شكٍّ وخوف، فالرَّيْب: الشّكّ. قال الله جلّ ثناؤه: ] الم. ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ [ [البقرة 1- 2]، أَي لا شَكَّ. ثم قال الشاعر:\n\nفلا ريْبَ أن قد كان ثَمَّ لَحِيمُ\n\nفقالوا تَرَكْنَا القومَ قد حَصَِرُوا بهِ\n\nوالرَّيب: ما رابَكَ مِن أمرٍ. تقول: رابَنِي هذا الأمرُ، إذا أدخَلَ عليك شَكّاً وخَوفا. وأرابَ الرّجلُ: صارَ ذا رِيبةٍ. وقد رابَنِي أمْرُه. ورَيْب الدّهر: صُروفه؛ والقياس واحد. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-y-b calamities; doubts, to suspect, to entertain; to accuse, to alarm. Of this root, five forms occur 36 times in the Qur’an: ارْتَابَ ʾirtāba nine times; رَيْب rayb 18 times; رِيبَة rībatun once; مُرِيب murīb seven times and مُرْتَاب murtāb once.\nارْتَابَ ʾirtāba [v. VIII, intrans.] 1 to be in doubt (49:15) إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا the true believers are the ones who came to believe in God and His Messenger and then had no doubt 2 to doubt, to cast doubt, to show doubt (5:106) فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَى so they swear by God, if you have doubt over [their testimony], ‘We would not barter [the truth] for any price even if he [the benefactor] is of [our] kin.’\n\nرَيْب rayb [n.] 1 doubt, uncertainty (2:23) وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ if you have doubts about the revelation\n\n391",
+      "definition_english": "r-y-b calamities; doubts, to suspect, to entertain; to accuse, to alarm. Of this root, five forms occur 36 times in the Qur’an: ارْتَابَ ʾirtāba nine times; رَيْب rayb 18 times; رِيبَة rībatun once; مُرِيب murīb seven times and مُرْتَاب murtāb once.\nارْتَابَ ʾirtāba [v. VIII, intrans.] 1 to be in doubt (49:15) إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا the true believers are the ones who came to believe in God and His Messenger and then had no doubt 2 to doubt, to cast doubt, to show doubt (5:106) فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَى so they swear by God, if you have doubt over [their testimony], ‘We would not barter [the truth] for any price even if he [the benefactor] is of [our] kin.’\n\nرَيْب rayb [n.] 1 doubt, uncertainty (2:23) وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ if you have doubts about the revelation\n\n391"
+    }
+  ],
   "occurrences": [
     "10:37:18",
     "11:110:18",

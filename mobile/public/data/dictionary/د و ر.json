@@ -1,9 +1,22 @@
 {
-  "id": 1237,
   "root": "د و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدوي\n\n(دور) الدال والواو والراء أصلٌ واحد يدلُّ على إحداق الشيء بالشيء من حوالَيه. يقال دارَ يدُور دَوَراناً. والدّوَّارِيُّ: الدَّهر؛ لأنَّه يَدُور بالنَّاس أحوالاً. قال:\n\n* والدَّهْرُ بالإنْسان دَوَّارِيُّ *\n\nوالدُّوَار، مثقَّل ومخفّف: حَجَرٌ كان يُؤخذ من الحرم إلى ناحيةٍ ويُطافُ به،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدوي\n\n(دور) الدال والواو والراء أصلٌ واحد يدلُّ على إحداق الشيء بالشيء من حوالَيه. يقال دارَ يدُور دَوَراناً. والدّوَّارِيُّ: الدَّهر؛ لأنَّه يَدُور بالنَّاس أحوالاً. قال:\n\n* والدَّهْرُ بالإنْسان دَوَّارِيُّ *\n\nوالدُّوَار، مثقَّل ومخفّف: حَجَرٌ كان يُؤخذ من الحرم إلى ناحيةٍ ويُطافُ به،",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "(55:37) فَإِذَا انشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ when the sky is torn apart and becomes rose-red, like red leather (or, like molten/melted fat).\n",
+      "definition_english": "(55:37) فَإِذَا انشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ when the sky is torn apart and becomes rose-red, like red leather (or, like molten/melted fat).\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–w–r a circle, to circle, to go round, to turn; a halo; a frame; a wide open space between mountains; to treat, to manage; a dwelling, a house; to have a setback, to be afflicted; to dispute with, to dissuade. Of this root, seven forms occur 55 times in the Qurʾan: تَدُور tadūr once; تُدِيرُون tudīrūn once; دَار dār 32 times; دِيَار diyār 16 times; دَيَّار dayyār once; دَائِرَة dāʾiratun three times and دَوَائِر dawāʾir once.\nتَدُور tadūr [imperf. of v. دَار dāra, intrans.] to roll, to turn (33:19) تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ with their eyes rolling, like someone fainting [in the throes] of death.\n\nتُدِيرُ tudīr [imperf. of v. IV أَدَار ʾadāra, trans.] to run, to operate, to transact, to exchange, to hand (2:282) إِلَّا أَن تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ unless it be ready merchandise which you hand one to the other.\n\nدَار dār [n.] 1 house, home, mansion, abode, dwelling (28:81) فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ We caused the earth to swallow him together with his home; *(14:28) دَارَ الْبَوَارِ the home of utter ruin, Hellfire; *(41:28) دَارُ الْخُلْدِ the abode of immortality, Paradise; *(6:127) دَارُ السَّلَامِ the abode of peace, Paradise; *(7:145) دَارُ الْفَاسِقِينَ the abode of the deviators, Hellfire; *(40:39) دَارُ الْقَرَارِ the abode of settlement, or endurance, the next life; *(35:35) دَارُ الْمُقَامَةِ the abode of everlasting residence, Paradise; *(16:30) دَارُ الْمُتَّقِينَ the abode of the pious, Paradise 2 town, city, neighbourhood, village (11:65) فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ but they hamstrung her\n\n318",
+      "definition_english": "d–w–r a circle, to circle, to go round, to turn; a halo; a frame; a wide open space between mountains; to treat, to manage; a dwelling, a house; to have a setback, to be afflicted; to dispute with, to dissuade. Of this root, seven forms occur 55 times in the Qurʾan: تَدُور tadūr once; تُدِيرُون tudīrūn once; دَار dār 32 times; دِيَار diyār 16 times; دَيَّار dayyār once; دَائِرَة dāʾiratun three times and دَوَائِر dawāʾir once.\nتَدُور tadūr [imperf. of v. دَار dāra, intrans.] to roll, to turn (33:19) تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ with their eyes rolling, like someone fainting [in the throes] of death.\n\nتُدِيرُ tudīr [imperf. of v. IV أَدَار ʾadāra, trans.] to run, to operate, to transact, to exchange, to hand (2:282) إِلَّا أَن تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ unless it be ready merchandise which you hand one to the other.\n\nدَار dār [n.] 1 house, home, mansion, abode, dwelling (28:81) فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ We caused the earth to swallow him together with his home; *(14:28) دَارَ الْبَوَارِ the home of utter ruin, Hellfire; *(41:28) دَارُ الْخُلْدِ the abode of immortality, Paradise; *(6:127) دَارُ السَّلَامِ the abode of peace, Paradise; *(7:145) دَارُ الْفَاسِقِينَ the abode of the deviators, Hellfire; *(40:39) دَارُ الْقَرَارِ the abode of settlement, or endurance, the next life; *(35:35) دَارُ الْمُقَامَةِ the abode of everlasting residence, Paradise; *(16:30) دَارُ الْمُتَّقِينَ the abode of the pious, Paradise 2 town, city, neighbourhood, village (11:65) فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ but they hamstrung her\n\n318"
+    }
+  ],
   "occurrences": [
     "10:25:4",
     "11:65:5",

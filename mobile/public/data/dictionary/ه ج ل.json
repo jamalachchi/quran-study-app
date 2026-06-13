@@ -1,8 +1,11 @@
 {
-  "id": 4203,
   "root": "ه ج ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهجر\n\n(هجل) الهاء والجيم واللام أصلانِ يدلُّ أحدُهما على اختلاطٍ، والآخرُ على رَمْي شيء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهجر\n\n(هجل) الهاء والجيم واللام أصلانِ يدلُّ أحدُهما على اختلاطٍ، والآخرُ على رَمْي شيء.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

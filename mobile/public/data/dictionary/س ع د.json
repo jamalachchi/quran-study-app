@@ -1,9 +1,17 @@
 {
-  "id": 1764,
   "root": "س ع د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسعد - سعر\n\n(سعد) السين والعين والدال أصلٌ يدل على خير وسرور، خلاف النَّحْس. فالسَّعْد: اليُمْن في الأمر. والسَّعْدان: نبات من أفضل المرعى. يقولون في أمثالهم: \"مرعى ولا كالسَّعدان\". وسعود النجم عشرة : مثل سعد بُلَعَ، وسعد الذابح. وسمِّيت سُعوداً ليُمنها. هذا هو الأصل، ثم قالوا لساعد الإنسان ساعد، لأنَّه يتقوَّى به على أموره. ولهذا يقال ساعده على أمره، إذا عاونَه، كأنه ضم ساعده إلى ساعِده. وقال بعضهم: المساعدة المعاونة في كل شيء، والإسعاد لا يكون إلاَّ في البكاء. فأما السَّعْدانة، التي هي كِركِرة البعير، فإنما سمِّيت بذلك تشبيهاً لها في انبساطها على الأرض بالسَّعْدان الذي ينبسط على الأرض في منبِتِه . والسَّعْدانة عقدة الشِّسْع التي تلي الأرض. و السَّعْدانات: العقَد التي تكون في كِفَّة الميزان. وسُعْد: موضع. قال جرير:\n\nأحبُّ لحبِّ فاطمةَ الدِّيارا\n\nألاَ حَيِّ الدِّيار بسُعْد إنِّي\n\nويقال إنَّ السَّعدانة: الحمامة الأنْثى، وهو مشتقٌّ من السَّعْد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسعد - سعر\n\n(سعد) السين والعين والدال أصلٌ يدل على خير وسرور، خلاف النَّحْس. فالسَّعْد: اليُمْن في الأمر. والسَّعْدان: نبات من أفضل المرعى. يقولون في أمثالهم: \"مرعى ولا كالسَّعدان\". وسعود النجم عشرة : مثل سعد بُلَعَ، وسعد الذابح. وسمِّيت سُعوداً ليُمنها. هذا هو الأصل، ثم قالوا لساعد الإنسان ساعد، لأنَّه يتقوَّى به على أموره. ولهذا يقال ساعده على أمره، إذا عاونَه، كأنه ضم ساعده إلى ساعِده. وقال بعضهم: المساعدة المعاونة في كل شيء، والإسعاد لا يكون إلاَّ في البكاء. فأما السَّعْدانة، التي هي كِركِرة البعير، فإنما سمِّيت بذلك تشبيهاً لها في انبساطها على الأرض بالسَّعْدان الذي ينبسط على الأرض في منبِتِه . والسَّعْدانة عقدة الشِّسْع التي تلي الأرض. و السَّعْدانات: العقَد التي تكون في كِفَّة الميزان. وسُعْد: موضع. قال جرير:\n\nأحبُّ لحبِّ فاطمةَ الدِّيارا\n\nألاَ حَيِّ الدِّيار بسُعْد إنِّي\n\nويقال إنَّ السَّعدانة: الحمامة الأنْثى، وهو مشتقٌّ من السَّعْد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-ʿ-d happiness, fortune; assistance; arm, power. Of this root, two forms occur once each in the Qur’an: سُعِدُوا suʿidū and سَعِيد saʿīd.\nسُعِدُوا suʿidū [pass. v. IV, with the initial أ omitted = أُسْعِدُوا ʾusʿidū or in another reading سَعِدُوا saʿidū, v. intrans.] to be made fortunate, to be blessed, to be made happy; to become fortunate, to become happy (11:108) وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ as for those who were blessed with happiness (or, good fortune), they will be in Paradise.\n\nسَعِيد saʿīd [quasi-act. part.] fortunate, blessed, happy (11:105)\n\n437",
+      "definition_english": "s-ʿ-d happiness, fortune; assistance; arm, power. Of this root, two forms occur once each in the Qur’an: سُعِدُوا suʿidū and سَعِيد saʿīd.\nسُعِدُوا suʿidū [pass. v. IV, with the initial أ omitted = أُسْعِدُوا ʾusʿidū or in another reading سَعِدُوا saʿidū, v. intrans.] to be made fortunate, to be blessed, to be made happy; to become fortunate, to become happy (11:108) وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ as for those who were blessed with happiness (or, good fortune), they will be in Paradise.\n\nسَعِيد saʿīd [quasi-act. part.] fortunate, blessed, happy (11:105)\n\n437"
+    }
+  ],
   "occurrences": [
     "11:105:10",
     "11:108:3"

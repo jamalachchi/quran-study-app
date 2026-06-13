@@ -1,9 +1,17 @@
 {
-  "id": 1462,
   "root": "ر ق د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرقب - رقح\n\n(رقد) الراء والقاف والدال أصلٌ واحدٌ يدلُّ على النَّوم؛ ويُشتقّ منه. فالرُّقاد: النَّوم. يقال رقَد رُقوداً. ومن الذي اشتُقَّ منه: أَرْقَدَ الرَّجُل بالأرض، إذا أقام بها.\n\nومما شذَّ عن الأصل: *أرْقَدَ الظّليمُ وغيرُه، إِذا أسرع في مُضِيِّه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرقب - رقح\n\n(رقد) الراء والقاف والدال أصلٌ واحدٌ يدلُّ على النَّوم؛ ويُشتقّ منه. فالرُّقاد: النَّوم. يقال رقَد رُقوداً. ومن الذي اشتُقَّ منه: أَرْقَدَ الرَّجُل بالأرض، إذا أقام بها.\n\nومما شذَّ عن الأصل: *أرْقَدَ الظّليمُ وغيرُه، إِذا أسرع في مُضِيِّه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–q–d sleep, to sleep, to lie down; sleeping place, bedding; grave, resting place; to be lazy, to be phlegmatic; to settle in one place; to become tattered. Of this root, two words occur once each in the Qur’an: رُقُود ruqūd and مَرْقَد marqad.\nرُقُود ruqūd [v. n.; pl. of quasi-act. part. رَاقِد rāqid] sleeping; asleep (18:18) وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ you would have thought they were awake, though they were asleep.\n\nمَرْقَد marqad [v. n.; n. of place] sleeping; place of sleep (36:52) يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا alas for us!, who has raised us up from our sleeping places?",
+      "definition_english": "r–q–d sleep, to sleep, to lie down; sleeping place, bedding; grave, resting place; to be lazy, to be phlegmatic; to settle in one place; to become tattered. Of this root, two words occur once each in the Qur’an: رُقُود ruqūd and مَرْقَد marqad.\nرُقُود ruqūd [v. n.; pl. of quasi-act. part. رَاقِد rāqid] sleeping; asleep (18:18) وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ you would have thought they were awake, though they were asleep.\n\nمَرْقَد marqad [v. n.; n. of place] sleeping; place of sleep (36:52) يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا alas for us!, who has raised us up from our sleeping places?"
+    }
+  ],
   "occurrences": [
     "18:18:4",
     "36:52:6"

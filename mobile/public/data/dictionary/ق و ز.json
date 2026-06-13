@@ -1,8 +1,11 @@
 {
-  "id": 3105,
   "root": "ق و ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقور - قوز\n\n(قوز) القاف والواو والزاء كلمةٌ واحدة، وهي القَوز: الكثيب، وجمعه أقوازٌ وقِيزان. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقور - قوز\n\n(قوز) القاف والواو والزاء كلمةٌ واحدة، وهي القَوز: الكثيب، وجمعه أقوازٌ وقِيزان. قال:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

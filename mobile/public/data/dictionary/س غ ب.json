@@ -1,9 +1,22 @@
 {
-  "id": 1769,
   "root": "س غ ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسعر\n\n(سغب) السين والغين والباء أصلٌ واحدٌ يدلُّ على الجوع. فالمَسْغَبَة: المجاعة، يقال سَغِبَ يَسْغَبُ سُغُوباً، وهو ساغب وسغبان. قال ابن دريد :\n\nسفق سفك سفل - سفن\n\nقال بعض أهل اللغة: لا يكون السَّغَب إلا الجوعَ مع التعب. قال وربَّما سمي العطَش سَغَباً؛ وليس بمستعمل.\n\n(باب السين والفاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسعر\n\n(سغب) السين والغين والباء أصلٌ واحدٌ يدلُّ على الجوع. فالمَسْغَبَة: المجاعة، يقال سَغِبَ يَسْغَبُ سُغُوباً، وهو ساغب وسغبان. قال ابن دريد :\n\nسفق سفك سفل - سفن\n\nقال بعض أهل اللغة: لا يكون السَّغَب إلا الجوعَ مع التعب. قال وربَّما سمي العطَش سَغَباً؛ وليس بمستعمل.\n\n(باب السين والفاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "*(37:102) فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ when he [the boy] reached the age of working with him [his father] (or when he reached the age of maturity) II [v. n. used adverbially] moving energetically (2:260) ثُمَّ ادْعُهُنَّ يَأْتِينَكَ سَعْيًا then summon them, and they will come rushing to you.\n",
+      "definition_english": "*(37:102) فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ when he [the boy] reached the age of working with him [his father] (or when he reached the age of maturity) II [v. n. used adverbially] moving energetically (2:260) ثُمَّ ادْعُهُنَّ يَأْتِينَكَ سَعْيًا then summon them, and they will come rushing to you.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-gh-b debilitating hunger, fatigue, famine; thirst. Of this root, only مَسْغَبَة masghabatun occurs once in the Qur’an.\nمَسْغَبَة masghabatun [n.] debilitating hunger, severe hunger (90:14–15) أَوْ إِطْعامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ يَتِيمًا ذا مَقْرَبَةٍ or feeding, on a day of extreme hunger, an orphan of the kinsfolk.",
+      "definition_english": "s-gh-b debilitating hunger, fatigue, famine; thirst. Of this root, only مَسْغَبَة masghabatun occurs once in the Qur’an.\nمَسْغَبَة masghabatun [n.] debilitating hunger, severe hunger (90:14–15) أَوْ إِطْعامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ يَتِيمًا ذا مَقْرَبَةٍ or feeding, on a day of extreme hunger, an orphan of the kinsfolk."
+    }
+  ],
   "occurrences": [
     "90:14:6"
   ]

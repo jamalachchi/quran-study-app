@@ -1,9 +1,17 @@
 {
-  "id": 2712,
   "root": "ع ط ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعطف - عطل\n\n(عطل) العين والطاء واللام أصلٌ صحيحٌ واحدٌ يدلُّ على خلوٍّ وفَراغ. يقول: عُطِّلت الدارُ، ودارٌ معَطَّلة ومتى تُركت الإبلُ بلا راعٍ فقد عُطِّلت،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعطف - عطل\n\n(عطل) العين والطاء واللام أصلٌ صحيحٌ واحدٌ يدلُّ على خلوٍّ وفَراغ. يقول: عُطِّلت الدارُ، ودارٌ معَطَّلة ومتى تُركت الإبلُ بلا راعٍ فقد عُطِّلت،",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ع/ط/ل ʿ-ṭ-l to be without jewellery, to be without ornaments, to be featureless, to be without arms, to be idle, to be without work, to be without a leader, to be unattached, to make someone idle, to cause to be dysfunctional. Of this root, two forms occur once each in the Qurʾan: عُطِّلَتْ ʿuṭṭilat and مُعَطَّلَةٌ muʿaṭṭalatun.\nعُطِّلَ ʿuṭṭila [pass. v. II] to be rendered dysfunctional, to be ignored (81:4) وَإِذَا الْعِشَارُ عُطِّلَتْ when people become too distracted to carry out the most urgent tasks [literally interpreted as either: when pregnant she-camels in their tenth month are abandoned (out of a twelve month term, and so valuable and in need of constant attention) or, when clouds heavily laden with life-giving rain are ignored].\n\nمُعَطَّلَةٌ muʿaṭṭalatun [pass. part.] abandoned, deserted, ruined, caused to be dysfunctional (22:45) فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ and now it has fallen in upon its turrets, and [how many] a deserted well, and [how many] a lofty palace.",
+      "definition_english": "ع/ط/ل ʿ-ṭ-l to be without jewellery, to be without ornaments, to be featureless, to be without arms, to be idle, to be without work, to be without a leader, to be unattached, to make someone idle, to cause to be dysfunctional. Of this root, two forms occur once each in the Qurʾan: عُطِّلَتْ ʿuṭṭilat and مُعَطَّلَةٌ muʿaṭṭalatun.\nعُطِّلَ ʿuṭṭila [pass. v. II] to be rendered dysfunctional, to be ignored (81:4) وَإِذَا الْعِشَارُ عُطِّلَتْ when people become too distracted to carry out the most urgent tasks [literally interpreted as either: when pregnant she-camels in their tenth month are abandoned (out of a twelve month term, and so valuable and in need of constant attention) or, when clouds heavily laden with life-giving rain are ignored].\n\nمُعَطَّلَةٌ muʿaṭṭalatun [pass. part.] abandoned, deserted, ruined, caused to be dysfunctional (22:45) فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ and now it has fallen in upon its turrets, and [how many] a deserted well, and [how many] a lofty palace."
+    }
+  ],
   "occurrences": [
     "22:45:12",
     "81:4:3"

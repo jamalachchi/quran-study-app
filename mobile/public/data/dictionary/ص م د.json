@@ -1,9 +1,17 @@
 {
-  "id": 2189,
   "root": "ص م د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصلق\n\n(صمد) الصاد والميم والدال أَصلان: أحدهما القَصْد، والآخَر الصَّلابة في الشَّيء.\n\nفالأوَّل: الصَّمْد: القصد. يقال صَمَدْتُه صَمْداً. وفلان مُصَمَّدٌ، إِذا كان سيِّداً يُقصَدُ إليه في الأمور. وصَمَدٌ أيضاً. والله جلَّ ثناؤه الصَّمَد؛ لأنه يَصْمِد إليه عبادُهُ بالدُّعاء والطَّلَب. قال في الصَّمَد :\n\nصمر صمع\n\nخذْها حُذَيفَُ فأنت السيِّد الصَّمَدُ\n\nعلوتُهُ بحُسامٍ ثم قلتُ لـه\n\nوقال في المصَمَّد طَرَفَة:\n\nإلى ذِروةِ البيت الرَّفيعِ المُصمَّدِ\n\nوإِنْ يَلْتَقِي الحيُّ الجميعُ تُلاقِني\n\nوالأصل الآخر الصَّمْد، وهو كلُّ مكانٍ صُلْب. قال أبو النَّجم:\n\n* يغادِرُ الصَّمْدَ كظَهْر الأَجزَلِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصلق\n\n(صمد) الصاد والميم والدال أَصلان: أحدهما القَصْد، والآخَر الصَّلابة في الشَّيء.\n\nفالأوَّل: الصَّمْد: القصد. يقال صَمَدْتُه صَمْداً. وفلان مُصَمَّدٌ، إِذا كان سيِّداً يُقصَدُ إليه في الأمور. وصَمَدٌ أيضاً. والله جلَّ ثناؤه الصَّمَد؛ لأنه يَصْمِد إليه عبادُهُ بالدُّعاء والطَّلَب. قال في الصَّمَد :\n\nصمر صمع\n\nخذْها حُذَيفَُ فأنت السيِّد الصَّمَدُ\n\nعلوتُهُ بحُسامٍ ثم قلتُ لـه\n\nوقال في المصَمَّد طَرَفَة:\n\nإلى ذِروةِ البيت الرَّفيعِ المُصمَّدِ\n\nوإِنْ يَلْتَقِي الحيُّ الجميعُ تُلاقِني\n\nوالأصل الآخر الصَّمْد، وهو كلُّ مكانٍ صُلْب. قال أبو النَّجم:\n\n* يغادِرُ الصَّمْدَ كظَهْر الأَجزَلِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–m–d hard, rugged, elevated ground; to be solid; support, a\nsource of strength; to make for, to direct oneself towards, to aim\nat; to endeavour to reach or attain; to seek power from. Of this\nroot, one form, الصَّمَد ʾal-ṣamad, occurs once in the Qur’an.\n\nالصَّمَد ʾal-ṣamad [quasi-act. part.] the dependable one, the one\nfrom whom others request help, one who is constant, [an attribute\nof God] Eternal (112:2) اللَّهُ الصَّمَدُ God is the Eternal, the\nDependable *الصمد* and الصمدية name of Sura 112, Meccan sura,\nso-named because of the reference in verse 2 to God ‘the\nEternal’. Also called الإخلاص ʾal-ʾikhlāṣ (see خ/ل/ص kh–l–ṣ).",
+      "definition_english": "ṣ–m–d hard, rugged, elevated ground; to be solid; support, a\nsource of strength; to make for, to direct oneself towards, to aim\nat; to endeavour to reach or attain; to seek power from. Of this\nroot, one form, الصَّمَد ʾal-ṣamad, occurs once in the Qur’an.\n\nالصَّمَد ʾal-ṣamad [quasi-act. part.] the dependable one, the one\nfrom whom others request help, one who is constant, [an attribute\nof God] Eternal (112:2) اللَّهُ الصَّمَدُ God is the Eternal, the\nDependable *الصمد* and الصمدية name of Sura 112, Meccan sura,\nso-named because of the reference in verse 2 to God ‘the\nEternal’. Also called الإخلاص ʾal-ʾikhlāṣ (see خ/ل/ص kh–l–ṣ)."
+    }
+  ],
   "occurrences": [
     "112:2:2"
   ]

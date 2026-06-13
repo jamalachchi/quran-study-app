@@ -1,8 +1,11 @@
 {
-  "id": 357,
   "root": "ب ه ظ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبنو\n\n(بهظ) الباء والهاء والظاء كلمةٌ واحدةٌ، وهو قولهم بَهَظه الأمرُ، إذا ثَقُل عليه. وذا أَمْرٌ باهظ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبنو\n\n(بهظ) الباء والهاء والظاء كلمةٌ واحدةٌ، وهو قولهم بَهَظه الأمرُ، إذا ثَقُل عليه. وذا أَمْرٌ باهظ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

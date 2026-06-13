@@ -1,9 +1,17 @@
 {
-  "id": 4483,
   "root": "و ق د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوعد - وعر\n\n(وقد) الواو والقاف والدال: كلمةٌ تدلُّ على اشتعالِ نارٍ. وَقَدَت النّار تَقِدُ واتَّقَدَتْ وتَوَقَّدَتْ، وأوْقَدْتُها أنا. والوَقُود: الحَطَب. والوُقود: فِعلُ النّارِ إذا وَقَدَتْ. والوَقَد: نَفْس النّار. ووَقْدَة الصَّيفِ: أشدُّه حَرَّاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوعد - وعر\n\n(وقد) الواو والقاف والدال: كلمةٌ تدلُّ على اشتعالِ نارٍ. وَقَدَت النّار تَقِدُ واتَّقَدَتْ وتَوَقَّدَتْ، وأوْقَدْتُها أنا. والوَقُود: الحَطَب. والوُقود: فِعلُ النّارِ إذا وَقَدَتْ. والوَقَد: نَفْس النّار. ووَقْدَة الصَّيفِ: أشدُّه حَرَّاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–q–d firewood, fuel, extreme heat of day, to burn, to heat up,\nto kindle; to shine, to glimmer; to be agile, to be alert, to be quick.\nOf this root, five forms occur 11 times in the Qur’an: أَوْقَدَ ʾawqada\nfour times; يُوقَد yūqad once; اِسْتَوْقَدَ ʾistawqada once; وَقُود waqūd\nfour times and مُوقَدَة mūqadatun once.\n\nأَوْقَدَ ʾawqada [v. IV trans.] to kindle (a fire), to light (a fire)\n*(5:64) كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا اللَّهُ whenever they kindle a fire of\nwar, God puts it out.\n\nيُوقَد yūqad [pass. imperf. of v. أُوقِدَ ʾūqida] to be kindled, to be\nlit, to be fuelled (24:35) يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ fuelled from a blessed\nolive tree.\n\nاِسْتَوْقَدَ ʾistawqada [v. X, trans.] (of a fire) to seek to kindle, to\nlabour to light (2:17) كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا like a [person] who has\nlaboured in order to kindle a fire.\n\nوَقُود waqūd I [n.] fuel (3:10) هُمْ وَقُودُ النَّارِ they will be fuel for the\nfire II [v. n.] the act of burning, the act of fuelling (85:5) النَّارِ ذَاتِ\nالْوَقُودِ the well-fuelled fire.\n\nمُوقَدَة mūqadatun [pass. part.] kindled, made to rage (104:6) نَارُ\nاللَّهِ الْمُوقَدَةُ [it is] God’s Fire, made to blaze.",
+      "definition_english": "w–q–d firewood, fuel, extreme heat of day, to burn, to heat up,\nto kindle; to shine, to glimmer; to be agile, to be alert, to be quick.\nOf this root, five forms occur 11 times in the Qur’an: أَوْقَدَ ʾawqada\nfour times; يُوقَد yūqad once; اِسْتَوْقَدَ ʾistawqada once; وَقُود waqūd\nfour times and مُوقَدَة mūqadatun once.\n\nأَوْقَدَ ʾawqada [v. IV trans.] to kindle (a fire), to light (a fire)\n*(5:64) كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا اللَّهُ whenever they kindle a fire of\nwar, God puts it out.\n\nيُوقَد yūqad [pass. imperf. of v. أُوقِدَ ʾūqida] to be kindled, to be\nlit, to be fuelled (24:35) يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ fuelled from a blessed\nolive tree.\n\nاِسْتَوْقَدَ ʾistawqada [v. X, trans.] (of a fire) to seek to kindle, to\nlabour to light (2:17) كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا like a [person] who has\nlaboured in order to kindle a fire.\n\nوَقُود waqūd I [n.] fuel (3:10) هُمْ وَقُودُ النَّارِ they will be fuel for the\nfire II [v. n.] the act of burning, the act of fuelling (85:5) النَّارِ ذَاتِ\nالْوَقُودِ the well-fuelled fire.\n\nمُوقَدَة mūqadatun [pass. part.] kindled, made to rage (104:6) نَارُ\nاللَّهِ الْمُوقَدَةُ [it is] God’s Fire, made to blaze."
+    }
+  ],
   "occurrences": [
     "104:6:3",
     "13:17:13",

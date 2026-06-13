@@ -1,9 +1,17 @@
 {
-  "id": 852,
   "root": "ح ل ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحلب\n\n(حلف) الحاء واللام والفاء أصلٌ واحد، وهو الملازمة. يقال حالف فلانٌ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحلب\n\n(حلف) الحاء واللام والفاء أصلٌ واحد، وهو الملازمة. يقال حالف فلانٌ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ-l-f to be solid; an oath, to swear, to take an oath; to become an ally, to enter into an alliance, an alliance. Of this root, two forms occur 13 times in the Qurʾan: حَلَفَ ḥalafa 12 times and حَلَّاف ḥallāf once.\nحَلَفَ ḥalafa i [v. intrans. with عَلَىٰ which is often elided] to swear, to take an oath (9:56) وَيَحْلِفُونَ بِاللَّهِ إِنَّهُمْ لَمِنكُمْ and they swear by God that they belong with you; *(58:14) يَحْلِفُونَ عَلَى الْكَذِبِ they swear to the truthfulness of a falsehood [lit. they swear on the lying].\n\nحَلَّاف ḥallāf [intens. act. part.] one given to too much swearing, one who takes oaths too easily and too often (68:10) وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ and do not yield to any contemptible swearer.",
+      "definition_english": "ḥ-l-f to be solid; an oath, to swear, to take an oath; to become an ally, to enter into an alliance, an alliance. Of this root, two forms occur 13 times in the Qurʾan: حَلَفَ ḥalafa 12 times and حَلَّاف ḥallāf once.\nحَلَفَ ḥalafa i [v. intrans. with عَلَىٰ which is often elided] to swear, to take an oath (9:56) وَيَحْلِفُونَ بِاللَّهِ إِنَّهُمْ لَمِنكُمْ and they swear by God that they belong with you; *(58:14) يَحْلِفُونَ عَلَى الْكَذِبِ they swear to the truthfulness of a falsehood [lit. they swear on the lying].\n\nحَلَّاف ḥallāf [intens. act. part.] one given to too much swearing, one who takes oaths too easily and too often (68:10) وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ and do not yield to any contemptible swearer."
+    }
+  ],
   "occurrences": [
     "4:62:10",
     "58:14:15",

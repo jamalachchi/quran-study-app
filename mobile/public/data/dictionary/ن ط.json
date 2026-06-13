@@ -1,8 +1,11 @@
 {
-  "id": 3837,
   "root": "ن ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\n(نط) النون والطاء. يقولون النّطانِط من الرِّجال: الطِّوال، الواحد نَطْنَاط، ونطنطت الشَّيء: مددتَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\n(نط) النون والطاء. يقولون النّطانِط من الرِّجال: الطِّوال، الواحد نَطْنَاط، ونطنطت الشَّيء: مددتَه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

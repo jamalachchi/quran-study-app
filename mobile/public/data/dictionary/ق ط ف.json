@@ -1,9 +1,17 @@
 {
-  "id": 3211,
   "root": "ق ط ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقطع\n\nتَكشَّفُ عن مَناكبها القطوعُ\n\nوالقِطْع: النَّصل من السِّهام العَريض، كأنَّه لما بُرِيَ قُطِع.\n\nومما شَذَّ عن هذا الباب القُطَيعاء: [ضربٌ من التَّمر. قال ]:\n\nقطف - قطل - قطم\n\nوعندهم البَرْنِيُّ في جُلَل ثُجْلِ\n\n[باتوا يعشُّون القُطيعاءَ] ضيفَهم\n\n(قطف) القاف والطاء والفاء أصلٌ صحيح يدلُّ على أخْذِ ثمرةٍ من شجرة، ثم يستعار ذلك، فتقول: قَطَفت الثمرة أقْطِفُها قَطْفاً. والقِطْف: العُنقود. ويقال: أقطَفَ الكَرْم: دنا قِطافُه. والقُطَافة: ما يسقُط من القُطوف. ويستعار ذلك فيقال: قَطَف الدّابَّةُ يَقطِف قَطْفاً، وهو قَطوفٌ، كأنَّه من سرعة نَقْلهِ قوائمَه يقطِفُ من الأرض شيئاً. وقد يقال للخَدْشِ: قَطْف؛ والمعنى قريب. [قال]:\n\n* ولكن وجْهَ مولاك تقطِفُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقطع\n\nتَكشَّفُ عن مَناكبها القطوعُ\n\nوالقِطْع: النَّصل من السِّهام العَريض، كأنَّه لما بُرِيَ قُطِع.\n\nومما شَذَّ عن هذا الباب القُطَيعاء: [ضربٌ من التَّمر. قال ]:\n\nقطف - قطل - قطم\n\nوعندهم البَرْنِيُّ في جُلَل ثُجْلِ\n\n[باتوا يعشُّون القُطيعاءَ] ضيفَهم\n\n(قطف) القاف والطاء والفاء أصلٌ صحيح يدلُّ على أخْذِ ثمرةٍ من شجرة، ثم يستعار ذلك، فتقول: قَطَفت الثمرة أقْطِفُها قَطْفاً. والقِطْف: العُنقود. ويقال: أقطَفَ الكَرْم: دنا قِطافُه. والقُطَافة: ما يسقُط من القُطوف. ويستعار ذلك فيقال: قَطَف الدّابَّةُ يَقطِف قَطْفاً، وهو قَطوفٌ، كأنَّه من سرعة نَقْلهِ قوائمَه يقطِفُ من الأرض شيئاً. وقد يقال للخَدْشِ: قَطْف؛ والمعنى قريب. [قال]:\n\n* ولكن وجْهَ مولاك تقطِفُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–ṭ–f to pluck off, to harvest, fruits on the tree, bunches of\ngrapes; velvet. Of this root, قُطُوف quṭūf occurs twice in the\nQur’an.\n\nقُطُوف quṭūf [pl. of n. قِطْف qiṭf] fruits ready for plucking,\nclusters of ripe fruit (76:14) وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا\nits shades shall be hanging low above them, and its fruits/fruit-\nclusters shall be brought low, within easy reach.",
+      "definition_english": "q–ṭ–f to pluck off, to harvest, fruits on the tree, bunches of\ngrapes; velvet. Of this root, قُطُوف quṭūf occurs twice in the\nQur’an.\n\nقُطُوف quṭūf [pl. of n. قِطْف qiṭf] fruits ready for plucking,\nclusters of ripe fruit (76:14) وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا\nits shades shall be hanging low above them, and its fruits/fruit-\nclusters shall be brought low, within easy reach."
+    }
+  ],
   "occurrences": [
     "69:23:1",
     "76:14:5"

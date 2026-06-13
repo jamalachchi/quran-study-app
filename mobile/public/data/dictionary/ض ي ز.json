@@ -1,9 +1,17 @@
 {
-  "id": 2329,
   "root": "ض ي ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضوج - ضوع\n\n(ضيز) الضاد والياء والزاء قد مضى ذكره، وأصله فيما يقال الواو. وقد قيل إنَّه من بَنات الياء، فلذلك ذكرناه هاهنا. فالقِسمة الضّيزى: النّاقصة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضوج - ضوع\n\n(ضيز) الضاد والياء والزاء قد مضى ذكره، وأصله فيما يقال الواو. وقد قيل إنَّه من بَنات الياء، فلذلك ذكرناه هاهنا. فالقِسمة الضّيزى: النّاقصة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-y-z deviation, to be twisted, to be crooked; unfairness, to\nbe unjust. Of this root, ضيزى ḍīzā, occurs once in the Qurʾan.\n\nضيزى ḍīzā [quasi-act. part.] crooked, unjust (53:21–2) ألكم الذكر\nوله الأنثى • تلك إذاً قسمة ضيزى are you to have the male [for an\noffspring] and He the female?–that would be [by your own\nreckoning] a most unjust distribution!",
+      "definition_english": "ḍ-y-z deviation, to be twisted, to be crooked; unfairness, to\nbe unjust. Of this root, ضيزى ḍīzā, occurs once in the Qurʾan.\n\nضيزى ḍīzā [quasi-act. part.] crooked, unjust (53:21–2) ألكم الذكر\nوله الأنثى • تلك إذاً قسمة ضيزى are you to have the male [for an\noffspring] and He the female?–that would be [by your own\nreckoning] a most unjust distribution!"
+    }
+  ],
   "occurrences": [
     "53:22:4"
   ]

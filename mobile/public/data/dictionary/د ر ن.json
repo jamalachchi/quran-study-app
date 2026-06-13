@@ -1,8 +1,11 @@
 {
-  "id": 1141,
   "root": "د ر ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدرم - درن\n\n(درن) الدال والراء والنون أصلٌ صحيح، وهو تقادُمٌ في الشَّيء مع تغيُّرِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدرم - درن\n\n(درن) الدال والراء والنون أصلٌ صحيح، وهو تقادُمٌ في الشَّيء مع تغيُّرِ",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

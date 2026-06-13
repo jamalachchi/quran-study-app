@@ -1,9 +1,17 @@
 {
-  "id": 2211,
   "root": "ص و ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصوت\n\nفَلَسْتَ لأنسيٍّ ولكن لملأَكٍ\n\nتَنَزَّلَ من جوِّ السَّماءِ يَصوبُ\n\nويقال للأمر إذا استقرَّ قرارَه على الكلام الجارِي مَجْرى الأمثال: \"قد صابت بِقُرّ\". قال طرَفة:\n\nفتناهيتُ وقد صابَت بِقُرّْ\n\nسادراً * أحسَبُ غَيِّي رشَداً\n\nوالتَّصويب: حَدَب في حَدور، لا يكون إلاَّ كذا. فأمَّا الصُّيَّابة فالخِيار من كلِّ شيء، كأنَّه من الصَّوب، وهو خالصُ ماءِ السَّحاب، فكأنَّها مُشْتقّةٌ من ذلك.\n\n(صوت) الصاد والواو والتاء أصلٌ صحيح، وهو الصَّوت، وهو جنسٌ لكلِّ ما وَقَرَ في أُذنِ السَّامعِ. يقال هذا صوتُ زَيد. ورجل صيِّت، إِذا كان",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصوت\n\nفَلَسْتَ لأنسيٍّ ولكن لملأَكٍ\n\nتَنَزَّلَ من جوِّ السَّماءِ يَصوبُ\n\nويقال للأمر إذا استقرَّ قرارَه على الكلام الجارِي مَجْرى الأمثال: \"قد صابت بِقُرّ\". قال طرَفة:\n\nفتناهيتُ وقد صابَت بِقُرّْ\n\nسادراً * أحسَبُ غَيِّي رشَداً\n\nوالتَّصويب: حَدَب في حَدور، لا يكون إلاَّ كذا. فأمَّا الصُّيَّابة فالخِيار من كلِّ شيء، كأنَّه من الصَّوب، وهو خالصُ ماءِ السَّحاب، فكأنَّها مُشْتقّةٌ من ذلك.\n\n(صوت) الصاد والواو والتاء أصلٌ صحيح، وهو الصَّوت، وهو جنسٌ لكلِّ ما وَقَرَ في أُذنِ السَّامعِ. يقال هذا صوتُ زَيد. ورجل صيِّت، إِذا كان",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s-w-t sound, voice, noise; to emit a sound; to cause to make\na sound; fame, renown. Of this root, two forms occur four times\neach in the Qur’an: صَوْت ṣawt and أَصْوَات ʾaṣwāt.\n\nصَوْت ṣawt [n.; pl. أَصْوَات ʾaṣwāt] 1 voice (49:2) يَاأَيُّهَا الَّذِينَ آمَنُوا لا\nتَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ you who believe, do not raise your\nvoices above the voice of the Prophet 2 sound (in an\ninterpretation of 17:64) وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ and excite\nwhichever of them you can with your noise.",
+      "definition_english": "s-w-t sound, voice, noise; to emit a sound; to cause to make\na sound; fame, renown. Of this root, two forms occur four times\neach in the Qur’an: صَوْت ṣawt and أَصْوَات ʾaṣwāt.\n\nصَوْت ṣawt [n.; pl. أَصْوَات ʾaṣwāt] 1 voice (49:2) يَاأَيُّهَا الَّذِينَ آمَنُوا لا\nتَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ you who believe, do not raise your\nvoices above the voice of the Prophet 2 sound (in an\ninterpretation of 17:64) وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ and excite\nwhichever of them you can with your noise."
+    }
+  ],
   "occurrences": [
     "17:64:5",
     "20:108:8",

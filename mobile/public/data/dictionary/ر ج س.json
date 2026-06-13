@@ -1,9 +1,17 @@
 {
-  "id": 1584,
   "root": "ر ج س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرجح - رجز\n\n(رجس) الراء والجيم والسين أصلٌ يدلُّ* على اختلاطٍ. يقال هُمْ في مَرْجُوسَةٍ مِن أمرِهم، أي اختِلاط. والرَّجْس: صوت الرَّعد، وذلك أنه يتردَّد. وكذلك هَدِيرُ البعيرِ رَجْسٌ. وسَحابٌ رَجّاسٌ، وبعيرٌ رَجّاس. وحكى ابنُ الأعرابيِّ: هذا رَاجِسٌ حَسَنٌ، أي راعِدٌ حَسن. ومن الباب الرِّجْس: القَذَر؛ لأنّه لَطْخٌ وخَلْط.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرجح - رجز\n\n(رجس) الراء والجيم والسين أصلٌ يدلُّ* على اختلاطٍ. يقال هُمْ في مَرْجُوسَةٍ مِن أمرِهم، أي اختِلاط. والرَّجْس: صوت الرَّعد، وذلك أنه يتردَّد. وكذلك هَدِيرُ البعيرِ رَجْسٌ. وسَحابٌ رَجّاسٌ، وبعيرٌ رَجّاس. وحكى ابنُ الأعرابيِّ: هذا رَاجِسٌ حَسَنٌ، أي راعِدٌ حَسن. ومن الباب الرِّجْس: القَذَر؛ لأنّه لَطْخٌ وخَلْط.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–j–s dirt, filth, punishment, abomination, misbehaviour,\ndoubt; the roar of camels, thunder, to gauge the level of water in a\nwell. Of this root, رِجْس rijs occurs 10 times in the Qur’an.\n\nرِجْس rijs [n.] 1 dirt, filth, abomination (5:90) إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ\nوَالْأَنْصَابُ وَالْأَزْلامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ intoxicants, gambling, idols\nand divining arrows are an abomination of the work of Satan 2\npunishment, affliction (7:71) قَدْ وَقَعَ عَلَيْكُمْ مِنْ رَبِّكُمْ رِجْسٌ وَغَضَبٌ\npunishment and wrath have already [been decided] to fall upon\nyou from your Lord 3 doubt, mistrust (9:125) أَمَّا الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ\nفَزَادَتْهُمْ رِجْسًا إِلَى رِجْسِهِمْ as for those who are sick at heart, it added\ndoubt to their doubt.",
+      "definition_english": "r–j–s dirt, filth, punishment, abomination, misbehaviour,\ndoubt; the roar of camels, thunder, to gauge the level of water in a\nwell. Of this root, رِجْس rijs occurs 10 times in the Qur’an.\n\nرِجْس rijs [n.] 1 dirt, filth, abomination (5:90) إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ\nوَالْأَنْصَابُ وَالْأَزْلامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ intoxicants, gambling, idols\nand divining arrows are an abomination of the work of Satan 2\npunishment, affliction (7:71) قَدْ وَقَعَ عَلَيْكُمْ مِنْ رَبِّكُمْ رِجْسٌ وَغَضَبٌ\npunishment and wrath have already [been decided] to fall upon\nyou from your Lord 3 doubt, mistrust (9:125) أَمَّا الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ\nفَزَادَتْهُمْ رِجْسًا إِلَى رِجْسِهِمْ as for those who are sick at heart, it added\ndoubt to their doubt."
+    }
+  ],
   "occurrences": [
     "10:100:10",
     "22:30:19",

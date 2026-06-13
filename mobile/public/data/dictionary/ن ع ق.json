@@ -1,9 +1,17 @@
 {
-  "id": 4041,
   "root": "ن ع ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنعق - نعل\n\nومن الكلمة الأولى ناعَفْتُ الرّجُل: عارضتُه. وتَنَعَّفَ الرّجُلُ: ارتقَى نَعْفاً.\n\n(نعق) النون والعين والقاف كلمةٌ تدلُّ على صَوت. ونعَق الراعي بالغَنَم يَنْعَق ويَنْعِق، إذا صاح بهِ زجراً، نعيقاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنعق - نعل\n\nومن الكلمة الأولى ناعَفْتُ الرّجُل: عارضتُه. وتَنَعَّفَ الرّجُلُ: ارتقَى نَعْفاً.\n\n(نعق) النون والعين والقاف كلمةٌ تدلُّ على صَوت. ونعَق الراعي بالغَنَم يَنْعَق ويَنْعِق، إذا صاح بهِ زجراً، نعيقاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ʿ–q entrance to desert rat’s burrow; croaking, bleating,\ngibberish, to scream, to shout at herds of goats and sheep, (all)\nliving things. Of this root, يَنْعِق yanʿiq, occurs once in the Qur’an.\n\nيَنْعِق yanʿiq [imperf of v. نَعَق naʿaqa, intrans.] to cry out, to\nshout, to bleat, to croak (2:171) وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا\nيَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً [calling to] those who disbelieve is like [the\ncalling of one] who shrieks to a dumb animal [lit. one [a\nherdsman] calling to things that hear nothing but a shout and a\ncry].",
+      "definition_english": "n–ʿ–q entrance to desert rat’s burrow; croaking, bleating,\ngibberish, to scream, to shout at herds of goats and sheep, (all)\nliving things. Of this root, يَنْعِق yanʿiq, occurs once in the Qur’an.\n\nيَنْعِق yanʿiq [imperf of v. نَعَق naʿaqa, intrans.] to cry out, to\nshout, to bleat, to croak (2:171) وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا\nيَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً [calling to] those who disbelieve is like [the\ncalling of one] who shrieks to a dumb animal [lit. one [a\nherdsman] calling to things that hear nothing but a shout and a\ncry]."
+    }
+  ],
   "occurrences": [
     "2:171:6"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 1101,
   "root": "خ ب ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخبز - خبس\n\n(خبل) الخاء والباء واللام أصلٌ واحد يدلُّ على فساد الأعضاء. فالخَبَل: الجُنون. يقال اختبله الجنّ. والجّنيُّ خابل، والجمع خُبَّل. والخَبَل: فساد الأعضاء. ويقال خُبِلت يده، إذا قُطِعت وأُفسِدَت. قال أوس:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخبز - خبس\n\n(خبل) الخاء والباء واللام أصلٌ واحد يدلُّ على فساد الأعضاء. فالخَبَل: الجُنون. يقال اختبله الجنّ. والجّنيُّ خابل، والجمع خُبَّل. والخَبَل: فساد الأعضاء. ويقال خُبِلت يده، إذا قُطِعت وأُفسِدَت. قال أوس:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–b–l corruption; loss of limbs, wounds; a type of jinn, to be\ntouched by jinn, to be insane, to be confounded, degeneration; to\ndecrease, to cheat on an agreement, the Devil. Of this root, خَبَال\nkhabāl occurs twice in the Qur’an.\n\n254",
+      "definition_english": "kh–b–l corruption; loss of limbs, wounds; a type of jinn, to be\ntouched by jinn, to be insane, to be confounded, degeneration; to\ndecrease, to cheat on an agreement, the Devil. Of this root, خَبَال\nkhabāl occurs twice in the Qur’an.\n\n254"
+    }
+  ],
   "occurrences": [
     "3:118:11",
     "9:47:7"

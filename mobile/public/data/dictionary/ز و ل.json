@@ -1,9 +1,17 @@
 {
-  "id": 1702,
   "root": "ز و ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزول - زون\n\nويقولون من هذا زَوْزَكَت المرأة، إذا أسرعت في المشي. وهذا باب قريبٌ من الذي قبلَه.\n\n(زول) الزاء والواو واللام أصلٌ واحدٌ يدلُّ على تنحّي الشيءِ عن مكانه. يقولون: زال الشيءُ زَوالاً، وزالت الشمس عن كبد السماء تزُول. ويقال أزَلْتُهُ عن المكان وزوّلته عنه. قال ذو الرمة:\n\nوبيضاءَ لا تَنحاشُ مِنّا وأُمُّها\n\nإذا ما رأتْنا زِيل منا زَوِيلُها\n\nويقال إنّ الزّائلة كلُّ شيء يتحرك. وأنشد:\n\nوكنت امرأً أرمي الزّوائِلَ مَرَّةً\n\nفأصبحْتُ قد ودَّعْت رَمْيَ الزّوائِل\n\nومما شذّ عن الباب قولُهم: شيءٌ زوْل، أي عَجَب. وامرأةٌ زَولة، أي خفيفة. وقال الطرِمّاح:\n\nوألقَتْ إليَّ القولَ منهنَّ زَوْلةٌ\n\nتُخَاضِنُ أو ترنُو لقول المُخاضِنِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزول - زون\n\nويقولون من هذا زَوْزَكَت المرأة، إذا أسرعت في المشي. وهذا باب قريبٌ من الذي قبلَه.\n\n(زول) الزاء والواو واللام أصلٌ واحدٌ يدلُّ على تنحّي الشيءِ عن مكانه. يقولون: زال الشيءُ زَوالاً، وزالت الشمس عن كبد السماء تزُول. ويقال أزَلْتُهُ عن المكان وزوّلته عنه. قال ذو الرمة:\n\nوبيضاءَ لا تَنحاشُ مِنّا وأُمُّها\n\nإذا ما رأتْنا زِيل منا زَوِيلُها\n\nويقال إنّ الزّائلة كلُّ شيء يتحرك. وأنشد:\n\nوكنت امرأً أرمي الزّوائِلَ مَرَّةً\n\nفأصبحْتُ قد ودَّعْت رَمْيَ الزّوائِل\n\nومما شذّ عن الباب قولُهم: شيءٌ زوْل، أي عَجَب. وامرأةٌ زَولة، أي خفيفة. وقال الطرِمّاح:\n\nوألقَتْ إليَّ القولَ منهنَّ زَوْلةٌ\n\nتُخَاضِنُ أو ترنُو لقول المُخاضِنِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-w-l to disappear, to go away, to cease, to vanish; to abate, to\ncalm down; to practise. Of this root, two forms occur four times\nin the Qurʾan: زَالَ zāla three times and زَوَال zawāl once.\n\nزَالَ zāla u [v. intrans.] to disappear, to vanish, to collapse\n(35:41) إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ\nبَعْدِهِ God keeps/holds the heavens and earth lest they vanish; if\nthey did vanish, no one else thereafter could keep/hold them.\n\nزَوَال zawāl [v. n.] vanishing, extinction, end, ending (14:44) أَوَلَمْ\nتَكُونُوا أَقْسَمْتُمْ مِنْ قَبْلُ مَا لَكُمْ مِنْ زَوَالٍ did you not swear before that there\nwould be no ending for you?",
+      "definition_english": "z-w-l to disappear, to go away, to cease, to vanish; to abate, to\ncalm down; to practise. Of this root, two forms occur four times\nin the Qurʾan: زَالَ zāla three times and زَوَال zawāl once.\n\nزَالَ zāla u [v. intrans.] to disappear, to vanish, to collapse\n(35:41) إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ\nبَعْدِهِ God keeps/holds the heavens and earth lest they vanish; if\nthey did vanish, no one else thereafter could keep/hold them.\n\nزَوَال zawāl [v. n.] vanishing, extinction, end, ending (14:44) أَوَلَمْ\nتَكُونُوا أَقْسَمْتُمْ مِنْ قَبْلُ مَا لَكُمْ مِنْ زَوَالٍ did you not swear before that there\nwould be no ending for you?"
+    }
+  ],
   "occurrences": [
     "14:44:26",
     "14:46:10",

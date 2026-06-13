@@ -1,9 +1,17 @@
 {
-  "id": 3451,
   "root": "ل ه ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلهث - لهج\n\nويقولون للعَطشان: لَهْبَان، وهذا على جهة الاستعارة، كأنَّ حرارةَ جوفه تَلتهب. ويقولون: اللَّهَب: الغُبار السَّاطع. فإن صحَّ فاستعارةٌ أيضاً. ويقال: فَرَسٌ مُلْهِبٌ، إذا أثارَ الغبار. وللفرس أُلْهُوب، اشتقَّ كلُّ هذا من الأوّل. قال امرؤ القيس:\n\nفللزَّجْرِ ألهوبٌ وللسّاقِ دِرَّةٌ\n\nوللسَّوط منه وَقْعُ أخْرَجَ مُهْذِبِ\n\nواللَّهَب واللُّهاب: اشتعال النّار، ويستعمل اللُّهاب في العَطَش، فأمَّا اللِّهب، وهو المَضيق بين الجبلين فليس من هذا، وأصله الصَّاد، وإنَّما هو لِصْب، فأُبدلت الصاد هاءً. وبنو لِهْبٍ: بطنٌ من العرب.\n\n(لهث) اللام والهاء والثاء كلمةٌ واحدة، وهي أنْ يَدْلَعَ الكلبُ لسانَه من العطش. قال الله تعالى: ] إنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أوْ تَتْرُكْهُ يَلْهَثْ [ [الأعراف 176]، واللُّهَاث: حَرُّ العطَش. وهذا إنَّما هو مقيسٌ على ما ذكرناه من شأن الكلب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلهث - لهج\n\nويقولون للعَطشان: لَهْبَان، وهذا على جهة الاستعارة، كأنَّ حرارةَ جوفه تَلتهب. ويقولون: اللَّهَب: الغُبار السَّاطع. فإن صحَّ فاستعارةٌ أيضاً. ويقال: فَرَسٌ مُلْهِبٌ، إذا أثارَ الغبار. وللفرس أُلْهُوب، اشتقَّ كلُّ هذا من الأوّل. قال امرؤ القيس:\n\nفللزَّجْرِ ألهوبٌ وللسّاقِ دِرَّةٌ\n\nوللسَّوط منه وَقْعُ أخْرَجَ مُهْذِبِ\n\nواللَّهَب واللُّهاب: اشتعال النّار، ويستعمل اللُّهاب في العَطَش، فأمَّا اللِّهب، وهو المَضيق بين الجبلين فليس من هذا، وأصله الصَّاد، وإنَّما هو لِصْب، فأُبدلت الصاد هاءً. وبنو لِهْبٍ: بطنٌ من العرب.\n\n(لهث) اللام والهاء والثاء كلمةٌ واحدة، وهي أنْ يَدْلَعَ الكلبُ لسانَه من العطش. قال الله تعالى: ] إنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أوْ تَتْرُكْهُ يَلْهَثْ [ [الأعراف 176]، واللُّهَاث: حَرُّ العطَش. وهذا إنَّما هو مقيسٌ على ما ذكرناه من شأن الكلب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–h–th the physical sensation of thirst, panting with thirst,\npanting; to loll the tongue; fatigue. Of this root, only يَلْهَث\nyalhath occurs twice in the Qur’an.\n\nيَلْهَث yalhath [imperf. v., intrans.] to pant with thirst, to hang\none’s tongue out, panting (7:176) فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ\nتَتْرُكْهُ يَلْهَثْ so his likeness is that of a dog: attack him, and he pants\n[with his tongue out]; leave him alone, and he pants [with his\ntongue out].",
+      "definition_english": "l–h–th the physical sensation of thirst, panting with thirst,\npanting; to loll the tongue; fatigue. Of this root, only يَلْهَث\nyalhath occurs twice in the Qur’an.\n\nيَلْهَث yalhath [imperf. v., intrans.] to pant with thirst, to hang\none’s tongue out, panting (7:176) فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ\nتَتْرُكْهُ يَلْهَثْ so his likeness is that of a dog: attack him, and he pants\n[with his tongue out]; leave him alone, and he pants [with his\ntongue out]."
+    }
+  ],
   "occurrences": [
     "7:176:17",
     "7:176:20"

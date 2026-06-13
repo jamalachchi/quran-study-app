@@ -1,9 +1,17 @@
 {
-  "id": 294,
   "root": "ب ط ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبطخ\n\n(بطر) الباء والطاء والراء أصلٌ واحد وهو الشَّقُّ. وسُمّي البيطار لذلك. ويقال له أيضاً المُبَيْطِر. قال النَّابغة:\n\nشَكَّ المُبَيْطرِ إذْ يَشْفِي من العَضَدِ\n\nشَكَّ الفَرِيصَةَ بالمِدْرَى فأنْفَذَها\n\nفالعضَدُ داءٌ يأخُذُ في العَضُد.\n\nويُحمَل عليها البَطَر، وهو تجاوُزُ الحَدِّ في المَرَح.\n\nوأما قولهم: ذهب دَمُه بَِطْراً، فقد يجوز أن يكون شاذّاً عن الأصل، ويمكن أن يقال إنّه شقَّ مَجْراه شقّاً فذهب، وذلك إذا أُهْدِر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبطخ\n\n(بطر) الباء والطاء والراء أصلٌ واحد وهو الشَّقُّ. وسُمّي البيطار لذلك. ويقال له أيضاً المُبَيْطِر. قال النَّابغة:\n\nشَكَّ المُبَيْطرِ إذْ يَشْفِي من العَضَدِ\n\nشَكَّ الفَرِيصَةَ بالمِدْرَى فأنْفَذَها\n\nفالعضَدُ داءٌ يأخُذُ في العَضُد.\n\nويُحمَل عليها البَطَر، وهو تجاوُزُ الحَدِّ في المَرَح.\n\nوأما قولهم: ذهب دَمُه بَِطْراً، فقد يجوز أن يكون شاذّاً عن الأصل، ويمكن أن يقال إنّه شقَّ مَجْراه شقّاً فذهب، وذلك إذا أُهْدِر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-ṭ-r to slash; to fail to appreciate others; to be conceited, to\nfail to show gratitude. Of this root, two forms occur once each in\nthe Qur’an: بَطِرَ baṭira and بَطَر baṭar.\n\nبَطِرَ baṭira a [v. intrans. with prep. فِي, v. n. بَطَر baṭar] (with فِي\nelided in the following verse) to exult by reason of wealth and\nbehave with pride and conceit and lack of gratitude for God’s\nfavours (28:58) وَكَمْ أَهْلَكْنَا مِنْ قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا how many a\ncommunity, that once revelled in its wanton wealth and easy\nliving, have We destroyed!",
+      "definition_english": "b-ṭ-r to slash; to fail to appreciate others; to be conceited, to\nfail to show gratitude. Of this root, two forms occur once each in\nthe Qur’an: بَطِرَ baṭira and بَطَر baṭar.\n\nبَطِرَ baṭira a [v. intrans. with prep. فِي, v. n. بَطَر baṭar] (with فِي\nelided in the following verse) to exult by reason of wealth and\nbehave with pride and conceit and lack of gratitude for God’s\nfavours (28:58) وَكَمْ أَهْلَكْنَا مِنْ قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا how many a\ncommunity, that once revelled in its wanton wealth and easy\nliving, have We destroyed!"
+    }
+  ],
   "occurrences": [
     "28:58:5",
     "8:47:7"

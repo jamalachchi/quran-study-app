@@ -1,9 +1,12 @@
 {
-  "id": 1594,
   "root": "ر ح ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرحق - رحل\n\n(رحق) الراء والحاء والقاف كلمةٌ واحدة. وهي الرَّحيق: اسمٌ من أسماء الخمر، ويقال هي أفضَلُها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرحق - رحل\n\n(رحق) الراء والحاء والقاف كلمةٌ واحدة. وهي الرَّحيق: اسمٌ من أسماء الخمر، ويقال هي أفضَلُها.",
+      "definition_english": null
+    }
+  ],
   "occurrences": [
     "83:25:3"
   ]

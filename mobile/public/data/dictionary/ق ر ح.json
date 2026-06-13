@@ -1,9 +1,17 @@
 {
-  "id": 3180,
   "root": "ق ر ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقرت - قرح\n\n(قرح) القاف والراء والحاء ثلاثةُ أصولٍ صحيحةٍ: أحدُها يدلُّ على ألمٍ بجراحٍ أو ما أشبَهها، والآخَر يدلُّ على شيءٍ من شَوْب، والآخِر على استنباطِ شيء.\n\nفالأوَّل القَرْح: قَرْح الجِلد يُجرَح . والقَرْح: ما يخرُجُ به من قُروحٍ تؤلمه. قال الله تعالى: ] إنْ يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ القَوْمُ قَرْحٌ مِثْلُه [ [آل عمران 140]. يقال قَرَحَه، إذا جَرحَه، والقريح: الجريح. والقَرِح : الذي خَرَجَتْ به القُروح.\n\nوالأصل الثاني: الماء القَرَاح: الذي لا يشُوبُه غيره. قال:\n\nنَشْوِي القَراحَ كأَنْ لا حيَّ بالوادِي\n\nبِتْنا عُذوباً وباتَ البقُّ يَلسَِبُنا",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقرت - قرح\n\n(قرح) القاف والراء والحاء ثلاثةُ أصولٍ صحيحةٍ: أحدُها يدلُّ على ألمٍ بجراحٍ أو ما أشبَهها، والآخَر يدلُّ على شيءٍ من شَوْب، والآخِر على استنباطِ شيء.\n\nفالأوَّل القَرْح: قَرْح الجِلد يُجرَح . والقَرْح: ما يخرُجُ به من قُروحٍ تؤلمه. قال الله تعالى: ] إنْ يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ القَوْمُ قَرْحٌ مِثْلُه [ [آل عمران 140]. يقال قَرَحَه، إذا جَرحَه، والقريح: الجريح. والقَرِح : الذي خَرَجَتْ به القُروح.\n\nوالأصل الثاني: الماء القَرَاح: الذي لا يشُوبُه غيره. قال:\n\nنَشْوِي القَراحَ كأَنْ لا حيَّ بالوادِي\n\nبِتْنا عُذوباً وباتَ البقُّ يَلسَِبُنا",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–r–ḥ wound, sore, ulcer, skin eruption, abscess; to invent, to initiate, to suggest; intellect, the innate disposition; pure. Of this root, قَرْح qarḥ occurs three times in the Qur’an.\nقَرْح qarḥ [n.] wound, pain, hardship (3:140) إِنْ يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِثْلُهُ if a hardship touches you [you should bear in mind that] a similar hardship has touched those people [your enemies].",
+      "definition_english": "q–r–ḥ wound, sore, ulcer, skin eruption, abscess; to invent, to initiate, to suggest; intellect, the innate disposition; pure. Of this root, قَرْح qarḥ occurs three times in the Qur’an.\nقَرْح qarḥ [n.] wound, pain, hardship (3:140) إِنْ يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِثْلُهُ if a hardship touches you [you should bear in mind that] a similar hardship has touched those people [your enemies]."
+    }
+  ],
   "occurrences": [
     "3:140:3",
     "3:140:7",

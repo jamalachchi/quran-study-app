@@ -1,9 +1,17 @@
 {
-  "id": 2881,
   "root": "ف ك ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفقس\n\n(فكر) الفاء والكاف والراء تردُّدُ القَلْب في الشَّيء. يقال تفكّرَ إذا ردَّدَ قلبه معتبِرا. ورجلٌ فِكِّير: كثير الفِكر .\n\n(باب الفاء واللام وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفقس\n\n(فكر) الفاء والكاف والراء تردُّدُ القَلْب في الشَّيء. يقال تفكّرَ إذا ردَّدَ قلبه معتبِرا. ورجلٌ فِكِّير: كثير الفِكر .\n\n(باب الفاء واللام وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–k–r thought, reflection, idea, to think, to reflect. Of this root,\ntwo forms occur 18 times in the Qur’an: فَكَّر fakkara once and\nتَتَفَكَّرُوا tatafakkarū 17 times.\n\nفَكَّر fakkara [v. II, intrans.] to think, to ponder (74:18) إِنَّهُ فَكَّرَ\nوَقَدَّرَ He thought and planned.\n\nيَتَفَكَّر yatafakkar [imperf. of v. V, intrans.] to contemplate, to\nreflect, to meditate (3:191) وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَوَاتِ وَالْأَرْضِ and they\nreflect on the creation of the heavens and earth.",
+      "definition_english": "f–k–r thought, reflection, idea, to think, to reflect. Of this root,\ntwo forms occur 18 times in the Qur’an: فَكَّر fakkara once and\nتَتَفَكَّرُوا tatafakkarū 17 times.\n\nفَكَّر fakkara [v. II, intrans.] to think, to ponder (74:18) إِنَّهُ فَكَّرَ\nوَقَدَّرَ He thought and planned.\n\nيَتَفَكَّر yatafakkar [imperf. of v. V, intrans.] to contemplate, to\nreflect, to meditate (3:191) وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَوَاتِ وَالْأَرْضِ and they\nreflect on the creation of the heavens and earth."
+    }
+  ],
   "occurrences": [
     "10:24:43",
     "13:3:24",

@@ -1,9 +1,17 @@
 {
-  "id": 2880,
   "root": "ف ك ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفقس\n\n(فكه) الفاء والكاف والهاء أصلٌ صحيح يدلُّ على طِيب واستطابةٍ. من ذلك الرّجُل الفَكِه: الطيِّب النَّفس.\n\nومن الباب: الفاكهة، لأنَّها تُستَطابُ وتُستطرَف.\n\nومن الباب: المُفاكهَة، وهي المُزاحة وما يُستحلَى من كلام.\n\nومن الباب: أفكَهَتِ النّاقةُ والشّاةُ، إذا دَرَّتا عند أكل الرَّبيع وكان في اللبن أدْنَى خُثُورة؛ وهو أطيَبُ اللَّبن.\n\nفأمَّا التَّفَكُّه في قوله تعالى: ] فَظَلْتُمْ تَفَكَّهُونَ [ [الواقعة 65]، فليس من هذا، وهو من باب الإبدال ، والأصل تَفَكَّنون، وهو من التندُّم، وقد مضى ذِكرُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفقس\n\n(فكه) الفاء والكاف والهاء أصلٌ صحيح يدلُّ على طِيب واستطابةٍ. من ذلك الرّجُل الفَكِه: الطيِّب النَّفس.\n\nومن الباب: الفاكهة، لأنَّها تُستَطابُ وتُستطرَف.\n\nومن الباب: المُفاكهَة، وهي المُزاحة وما يُستحلَى من كلام.\n\nومن الباب: أفكَهَتِ النّاقةُ والشّاةُ، إذا دَرَّتا عند أكل الرَّبيع وكان في اللبن أدْنَى خُثُورة؛ وهو أطيَبُ اللَّبن.\n\nفأمَّا التَّفَكُّه في قوله تعالى: ] فَظَلْتُمْ تَفَكَّهُونَ [ [الواقعة 65]، فليس من هذا، وهو من باب الإبدال ، والأصل تَفَكَّنون، وهو من التندُّم، وقد مضى ذِكرُه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–k–h (of a she-camel) to produce plenty of milk; fruit; to jest,\nto have a sense of humour; to be kindly; to enjoy something, to\nlive in luxury; to be regretful. Of this root, five forms occur 19\ntimes in the Qur’an: تَفَكَّهُون tafakkahūn once; فَكِهِين fakihīn once;\nفَاكِهُون fākihūn three times; فَاكِهَة fākihatun 11 times and\nفَوَاكِه fawākih three times.\n\nتَفَكَّهُون tafakkahūn [imperf. of v. V تَفَكَّهَ tafakkaha with the 2ⁿᵈ\nperson prefix ت elided] to wonder, to muse; to be gripped by\nremorse, to be shocked, to wail (56:65) لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ\nتَفَكَّهُونَ if We willed, We could turn it [your harvest] into debris, so\nyou would continue wondering.\n\n721",
+      "definition_english": "f–k–h (of a she-camel) to produce plenty of milk; fruit; to jest,\nto have a sense of humour; to be kindly; to enjoy something, to\nlive in luxury; to be regretful. Of this root, five forms occur 19\ntimes in the Qur’an: تَفَكَّهُون tafakkahūn once; فَكِهِين fakihīn once;\nفَاكِهُون fākihūn three times; فَاكِهَة fākihatun 11 times and\nفَوَاكِه fawākih three times.\n\nتَفَكَّهُون tafakkahūn [imperf. of v. V تَفَكَّهَ tafakkaha with the 2ⁿᵈ\nperson prefix ت elided] to wonder, to muse; to be gripped by\nremorse, to be shocked, to wail (56:65) لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ\nتَفَكَّهُونَ if We willed, We could turn it [your harvest] into debris, so\nyou would continue wondering.\n\n721"
+    }
+  ],
   "occurrences": [
     "23:19:10",
     "36:55:7",

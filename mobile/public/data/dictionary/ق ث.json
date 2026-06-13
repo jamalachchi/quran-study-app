@@ -1,8 +1,11 @@
 {
-  "id": 3041,
   "root": "ق ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\n(قث) القاف والثاء كلمةٌ تدلُّ على الجمع. يقال: جاء فلانٌ يقُثُّ مالاً ودنيا عريضة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\n(قث) القاف والثاء كلمةٌ تدلُّ على الجمع. يقال: جاء فلانٌ يقُثُّ مالاً ودنيا عريضة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

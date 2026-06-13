@@ -1,9 +1,17 @@
 {
-  "id": 1713,
   "root": "ز ي ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزول - زون\n\n(زين) الزاء والياء والنون أصلٌ صحيح يدلُّ على حُسن الشيء وتحسينه. فالزَّيْن نَقيضُ الشَّيْن. يقال زيَّنت الشيء تزييناً. وأزْيَنتِ الأرضُ وازّيَّنتْ وازدانت إذا حَسَّنَها عُشْبُها. ويقال إن كان صحيحاً ـ إنّ الزَّين: عُرْف الدِّيك. ويُنشدون:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزول - زون\n\n(زين) الزاء والياء والنون أصلٌ صحيح يدلُّ على حُسن الشيء وتحسينه. فالزَّيْن نَقيضُ الشَّيْن. يقال زيَّنت الشيء تزييناً. وأزْيَنتِ الأرضُ وازّيَّنتْ وازدانت إذا حَسَّنَها عُشْبُها. ويقال إن كان صحيحاً ـ إنّ الزَّين: عُرْف الدِّيك. ويُنشدون:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z—y—n to decorate, to ornament, to adorn. Of this root, four forms occur 46 times in the Qurʾan: زيّن zayyana 16 times; زيّن zuyyina 10 times; ٱزّيّنت ʾizzayyanat once and زينة zīnatun 19 times.\nزيّن zayyana [v. II, trans.] 1 to adorn, to decorate (37:6) إنا زيّنا السماء الدنيا بزينة الكواكب We have adorned the nearer sky with an adornment, the planets 2 to make seemingly fair, to make alluring (6:43) وزيّن لهم الشيطان ما كانوا يعملون and Satan made their [bad] deeds alluring to them.\n\nٱزّيّنت ʾizzayyanat [an assimilated form of v. V تزيّنت tazayyanat, intrans.] to adorn oneself, make oneself alluring (10:24) حتى إذا أخذت الأرض زخرفها وٱزّيّنت until the earth has taken on her ornaments and adorned herself.\n\nزينة zīnatun [n.] 1 adornment (18:7) إنا جعلنا ما على الأرض زينةً لها We have made all that is on the earth as an adornment for it; *(20:59) يوم الزينة the feast day [lit. the day of decoration] 2 treasure, valuables, jewellery (20:87) ولكنا حُمّلنا أوزاراً من زينة القوم but we were laden with loads of the people’s jewellery 3 luxury and pomp (10:88) ربنا إنك آتيت فرعون وملأه زينةً وأموالاً في الحياة الدنيا",
+      "definition_english": "z—y—n to decorate, to ornament, to adorn. Of this root, four forms occur 46 times in the Qurʾan: زيّن zayyana 16 times; زيّن zuyyina 10 times; ٱزّيّنت ʾizzayyanat once and زينة zīnatun 19 times.\nزيّن zayyana [v. II, trans.] 1 to adorn, to decorate (37:6) إنا زيّنا السماء الدنيا بزينة الكواكب We have adorned the nearer sky with an adornment, the planets 2 to make seemingly fair, to make alluring (6:43) وزيّن لهم الشيطان ما كانوا يعملون and Satan made their [bad] deeds alluring to them.\n\nٱزّيّنت ʾizzayyanat [an assimilated form of v. V تزيّنت tazayyanat, intrans.] to adorn oneself, make oneself alluring (10:24) حتى إذا أخذت الأرض زخرفها وٱزّيّنت until the earth has taken on her ornaments and adorned herself.\n\nزينة zīnatun [n.] 1 adornment (18:7) إنا جعلنا ما على الأرض زينةً لها We have made all that is on the earth as an adornment for it; *(20:59) يوم الزينة the feast day [lit. the day of decoration] 2 treasure, valuables, jewellery (20:87) ولكنا حُمّلنا أوزاراً من زينة القوم but we were laden with loads of the people’s jewellery 3 luxury and pomp (10:88) ربنا إنك آتيت فرعون وملأه زينةً وأموالاً في الحياة الدنيا"
+    }
+  ],
   "occurrences": [
     "10:12:23",
     "10:24:22",

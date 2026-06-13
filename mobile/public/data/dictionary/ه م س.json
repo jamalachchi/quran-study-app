@@ -1,9 +1,22 @@
 {
-  "id": 4283,
   "root": "ه م س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهمس - همش\n\nوقوسٌ هَمْزَى: شديدةُ الدَّفعِ للسَّهم. والهمَّاز: العَيَّاب، وكذا الهُمَزَة. قال:\n\nوإنْ أُغيَّبْ فأنت الهامزُ اللُّمَزَهْ\n\nتُدْلِي بوُدِّيَ إذْ لاقَيتَنِي كذِباً\n\nوَهمْزُ الشَّيطان كالمُوتَة تَغلِبُ على قَلْب الإنسان تَذهب به.\n\n(همس) الهاء والميم والسين يدلُّ على خَفاءِ صَوتٍ وحِسٍّ. منه الهَمْس: الصَّوت الخفِيّ. وهَمْسُ الأقدام أخفَى ما يكونُ من وطءِ القدَم. وأمَّا قولُهم الهَمَّاس: الأسَد الشَّديد، فمِنْ هذا عندنا أيضاً، لأنّه إنَّما يُراد به هَمْسُه إمَّا في وَطْئه وإمَّا في عَضِّه. قال:\n\n* عادتْه خَبْطٌ وعضٌّ هَمّاسْ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهمس - همش\n\nوقوسٌ هَمْزَى: شديدةُ الدَّفعِ للسَّهم. والهمَّاز: العَيَّاب، وكذا الهُمَزَة. قال:\n\nوإنْ أُغيَّبْ فأنت الهامزُ اللُّمَزَهْ\n\nتُدْلِي بوُدِّيَ إذْ لاقَيتَنِي كذِباً\n\nوَهمْزُ الشَّيطان كالمُوتَة تَغلِبُ على قَلْب الإنسان تَذهب به.\n\n(همس) الهاء والميم والسين يدلُّ على خَفاءِ صَوتٍ وحِسٍّ. منه الهَمْس: الصَّوت الخفِيّ. وهَمْسُ الأقدام أخفَى ما يكونُ من وطءِ القدَم. وأمَّا قولُهم الهَمَّاس: الأسَد الشَّديد، فمِنْ هذا عندنا أيضاً، لأنّه إنَّما يُراد به هَمْسُه إمَّا في وَطْئه وإمَّا في عَضِّه. قال:\n\n* عادتْه خَبْطٌ وعضٌّ هَمّاسْ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "بَهِيج and you perceive the earth lifeless, yet when We send down\nupon it water, it stirs and swells and puts forth vegetation of\nevery joyous kind.",
+      "definition_english": "بَهِيج and you perceive the earth lifeless, yet when We send down\nupon it water, it stirs and swells and puts forth vegetation of\nevery joyous kind."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–m–s to whisper, to mumble, to mutter; to squeeze, to move\nstealthily. Of this root, هَمْس hams occurs once in the Qur’an.\n\nهَمْس hams [v. n./n.] whispering, muttering, faint murmur\n(20:108) وَخَشَعَتِ الْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا voices will be hushed\nfor the Lord of Mercy, so you will hear only whispering.\n\n992",
+      "definition_english": "h–m–s to whisper, to mumble, to mutter; to squeeze, to move\nstealthily. Of this root, هَمْس hams occurs once in the Qur’an.\n\nهَمْس hams [v. n./n.] whispering, muttering, faint murmur\n(20:108) وَخَشَعَتِ الْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا voices will be hushed\nfor the Lord of Mercy, so you will hear only whispering.\n\n992"
+    }
+  ],
   "occurrences": [
     "20:108:13"
   ]

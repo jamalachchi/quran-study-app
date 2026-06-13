@@ -1,9 +1,17 @@
 {
-  "id": 897,
   "root": "ح ي ص",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حيص) الحاء والياء والصاد أصلٌ واحد، وهو المَيْل في جَوْرٍ وتلدُّد. يقال حَاصَ عن الحقِّ يَحِيص حَيْصاً، إذا جارَ. قال:\n\n* وإنْ حاصَتْ عن المَوْتِ عامرُ *\n\nويَرْوُون:\n\n* بميزانِ صِدْقٍ ما يَحِيص شعيرةً *\n\nومن الباب قولهم: وقَعُوا في حَيْص بَيْص، أي شدّة. قال الهُذلي:\n\nلم تَلْتَحِصْنِي حَيْصَ بَيْصَ لَحَاصِ\n\nقد كُنْتُ خَرّاجاً ولوجاً صَيْرفاً",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حيص) الحاء والياء والصاد أصلٌ واحد، وهو المَيْل في جَوْرٍ وتلدُّد. يقال حَاصَ عن الحقِّ يَحِيص حَيْصاً، إذا جارَ. قال:\n\n* وإنْ حاصَتْ عن المَوْتِ عامرُ *\n\nويَرْوُون:\n\n* بميزانِ صِدْقٍ ما يَحِيص شعيرةً *\n\nومن الباب قولهم: وقَعُوا في حَيْص بَيْص، أي شدّة. قال الهُذلي:\n\nلم تَلْتَحِصْنِي حَيْصَ بَيْصَ لَحَاصِ\n\nقد كُنْتُ خَرّاجاً ولوجاً صَيْرفاً",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–ṣ to veer away, to swerve, to dodge; confusion; an escape. Of this root, مَحِيص maḥīṣ occurs five times in the Qur’an.\nمَحِيص maḥīṣ [v. n./n. of place] escaping/a place of escape (50:36) فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ so they searched throughout the land: is there any escape/place to escape to?",
+      "definition_english": "h–y–ṣ to veer away, to swerve, to dodge; confusion; an escape. Of this root, مَحِيص maḥīṣ occurs five times in the Qur’an.\nمَحِيص maḥīṣ [v. n./n. of place] escaping/a place of escape (50:36) فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ so they searched throughout the land: is there any escape/place to escape to?"
+    }
+  ],
   "occurrences": [
     "14:21:34",
     "41:48:12",

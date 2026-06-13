@@ -1,9 +1,17 @@
 {
-  "id": 1543,
   "root": "ر ي ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nريط - ريع\n\n(ريع) الراء والياء والعين أصلان: أحدهما الارتفاع والعلُوّ، والآخَر الرُّجوع.\n\nفالأوَّل الرِّيع، وهو الارتفاع من الأرض. ويقال بل الرِّيع جمعٌ، والواحدة رِيعة، والجمع رياعٌ. قال ذو الرمة:\n\n* طراقُ الخوافِي مُشْرِفاً فوقَ رِيعةٍ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nريط - ريع\n\n(ريع) الراء والياء والعين أصلان: أحدهما الارتفاع والعلُوّ، والآخَر الرُّجوع.\n\nفالأوَّل الرِّيع، وهو الارتفاع من الأرض. ويقال بل الرِّيع جمعٌ، والواحدة رِيعة، والجمع رياعٌ. قال ذو الرمة:\n\n* طراقُ الخوافِي مُشْرِفاً فوقَ رِيعةٍ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-y-ʿ mountain, heights, roads; growth, to give a great yield; to return, to recur; to run, to spread; early stages (e.g. of youth). Of this root, رِيع rīʿ occurs once in the Qur’an.\nرِيع rīʿ [n.] height, suitable location, vantage point (26:128) أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ [how come] you, in your folly, erect idolatrous altars [lit. landmarks] on every vantage point?",
+      "definition_english": "r-y-ʿ mountain, heights, roads; growth, to give a great yield; to return, to recur; to run, to spread; early stages (e.g. of youth). Of this root, رِيع rīʿ occurs once in the Qur’an.\nرِيع rīʿ [n.] height, suitable location, vantage point (26:128) أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ [how come] you, in your folly, erect idolatrous altars [lit. landmarks] on every vantage point?"
+    }
+  ],
   "occurrences": [
     "26:128:3"
   ]

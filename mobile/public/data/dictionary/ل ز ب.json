@@ -1,9 +1,17 @@
 {
-  "id": 3547,
   "root": "ل ز ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلحن\n\n(لزب) اللام والزاء والباء يدلُّ على ثبوتِ شيءٍ ولُزومه. يقال: للاّزِمِ لازب. وصار هذا الشيءُ ضربةَ لازِبٍ، أي لا يكاد يفارِق، قال النابغة:\n\nولا يَحسَِبون الخيرَ لا شرَّ بعدَه\n\nولا يَحْسَِبون الشَّرَّ ضربةَ لازِب\n\nلزج لسع لسم - لسن\n\nواللَّزْبة: السّنَة الشديدة، والجمع لَزْبات كأنَّ القَحْط لَزَب، أي ثبت فيها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلحن\n\n(لزب) اللام والزاء والباء يدلُّ على ثبوتِ شيءٍ ولُزومه. يقال: للاّزِمِ لازب. وصار هذا الشيءُ ضربةَ لازِبٍ، أي لا يكاد يفارِق، قال النابغة:\n\nولا يَحسَِبون الخيرَ لا شرَّ بعدَه\n\nولا يَحْسَِبون الشَّرَّ ضربةَ لازِب\n\nلزج لسع لسم - لسن\n\nواللَّزْبة: السّنَة الشديدة، والجمع لَزْبات كأنَّ القَحْط لَزَب، أي ثبت فيها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–z–b to be narrow; to be scanty, famine, hardship; to adhere,\nto stick together; to sting. Of this root, only لازب lāzib occurs once\nin the Qur’an.\n\nلازب lāzib [quasi-act. part.] sticky, adhesive (37:11) إِنَّا خَلَقْنَاهُم مِّن\nطِينٍ لَّازِبٍ We have created them from sticky clay.",
+      "definition_english": "l–z–b to be narrow; to be scanty, famine, hardship; to adhere,\nto stick together; to sting. Of this root, only لازب lāzib occurs once\nin the Qur’an.\n\nلازب lāzib [quasi-act. part.] sticky, adhesive (37:11) إِنَّا خَلَقْنَاهُم مِّن\nطِينٍ لَّازِبٍ We have created them from sticky clay."
+    }
+  ],
   "occurrences": [
     "37:11:12"
   ]

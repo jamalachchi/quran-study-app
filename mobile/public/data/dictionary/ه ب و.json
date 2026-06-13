@@ -1,9 +1,17 @@
 {
-  "id": 4188,
   "root": "ه ب و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهبو\n\nحُبُكَ النِّطاقِ فشَبَّ غَيْرَ مهَبَّلِ\n\nمِمَّنْ حَمَلْنَ به وهنَّ عَواقِدٌ\n\nوالهِبِلُ : الشَّيخ الكَبير، والظَّليم المُسِنّ.\n\nوالثالثة قولهم: اهْتَبَلَ الغِرّة، إذا افتَرَصَها. والهَبَّال: الصَّيَّاد يَهتَبِل الصَّيد يَغترُّه، ولذلك سمِّي الذِّئب هِبِلاًّ، لأنّه يَحتَالُ لصيده ويَهتَبِله.\n\nوأمَّا المَهْبِل فمستقَرُّ الولَد من الرّحِم، وهو عندنا من باب الإبدال، وهو في ذلك أصله مَحْبِل.\n\n(هبو) الهاء والباء والحرف المعتلّ: كلمةٌ تدلُّ على غَبَرة ورقَّة فيها. منه الهَبْوَة: الغَبَرة. وهبا الغُبارُ يَهبو فهو هابٍ: سَطع. والهَبَاء: دُقاق التُّراب. قال:\n\nدعَتْه إلى هابِي الترابِ عقيم\n\nتَزَوَّد منا بينَ أذْناهُ ضَربةً\n\nوهَبَا الرَّمادُ: اختلَطَ بالتُّراب وهَمَد. والشَّيءُ المنبثُّ الذي تراه في ضَوء الشمس: هَباءٌ.\n\nهتر - هتع - هتف - هتك\n\n(باب الهاء والتاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهبو\n\nحُبُكَ النِّطاقِ فشَبَّ غَيْرَ مهَبَّلِ\n\nمِمَّنْ حَمَلْنَ به وهنَّ عَواقِدٌ\n\nوالهِبِلُ : الشَّيخ الكَبير، والظَّليم المُسِنّ.\n\nوالثالثة قولهم: اهْتَبَلَ الغِرّة، إذا افتَرَصَها. والهَبَّال: الصَّيَّاد يَهتَبِل الصَّيد يَغترُّه، ولذلك سمِّي الذِّئب هِبِلاًّ، لأنّه يَحتَالُ لصيده ويَهتَبِله.\n\nوأمَّا المَهْبِل فمستقَرُّ الولَد من الرّحِم، وهو عندنا من باب الإبدال، وهو في ذلك أصله مَحْبِل.\n\n(هبو) الهاء والباء والحرف المعتلّ: كلمةٌ تدلُّ على غَبَرة ورقَّة فيها. منه الهَبْوَة: الغَبَرة. وهبا الغُبارُ يَهبو فهو هابٍ: سَطع. والهَبَاء: دُقاق التُّراب. قال:\n\nدعَتْه إلى هابِي الترابِ عقيم\n\nتَزَوَّد منا بينَ أذْناهُ ضَربةً\n\nوهَبَا الرَّمادُ: اختلَطَ بالتُّراب وهَمَد. والشَّيءُ المنبثُّ الذي تراه في ضَوء الشمس: هَباءٌ.\n\nهتر - هتع - هتف - هتك\n\n(باب الهاء والتاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–b–w dust floating in the air, dust particles visible in\nsunlight, mote, dust cloud; to swagger, to walk with conceit; to\ndissolve into nothing, to vanish into nothing, vain effort. Of this\nroot, هَبَاء habāʾ occurs twice in the Qur’an.\n\nهَبَاء habāʾ [n.] fine dust, particles floating in the air (25:23)\nوَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا and We will get to whatever\n[good] deeds they have done, and turn them to scattered dust.",
+      "definition_english": "h–b–w dust floating in the air, dust particles visible in\nsunlight, mote, dust cloud; to swagger, to walk with conceit; to\ndissolve into nothing, to vanish into nothing, vain effort. Of this\nroot, هَبَاء habāʾ occurs twice in the Qur’an.\n\nهَبَاء habāʾ [n.] fine dust, particles floating in the air (25:23)\nوَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا and We will get to whatever\n[good] deeds they have done, and turn them to scattered dust."
+    }
+  ],
   "occurrences": [
     "25:23:8",
     "56:6:2"

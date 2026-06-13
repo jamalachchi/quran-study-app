@@ -1,8 +1,11 @@
 {
-  "id": 3051,
   "root": "ق ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقض - قط\n\n(قط) القاف والطاء أصلٌ صحيح يدلُّ على قَطْع الشّيء بسُرعةٍ عَرْضاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقض - قط\n\n(قط) القاف والطاء أصلٌ صحيح يدلُّ على قَطْع الشّيء بسُرعةٍ عَرْضاً.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

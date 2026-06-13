@@ -1,9 +1,17 @@
 {
-  "id": 1286,
   "root": "د خ ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدجم - دجن\n\n(دخر) الدال والخاء والراء أصلٌ يدلُّ على الذُّل. يقال دَخَرَ الرّجُلُ، وهو داخِر، إذا ذَلَّ. وأَدْخَرَه غيرُه: أَذَلَّه. فأما الدَّخْدَار فالثَّوب الكريمُ يُصانُ. قال:\n\n* ويَجْلُو صَفْحَ دَخْدارٍ قَشِيبِ *\n\nدخس - دخش دخص\n\nوليس هذا من الكلمة الأولى في شيءٍ؛ لأنَّ هذه مُعرّبة، قالوا: أصلها تَخْت دار، أي مَصُونٌ في تَخْت .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدجم - دجن\n\n(دخر) الدال والخاء والراء أصلٌ يدلُّ على الذُّل. يقال دَخَرَ الرّجُلُ، وهو داخِر، إذا ذَلَّ. وأَدْخَرَه غيرُه: أَذَلَّه. فأما الدَّخْدَار فالثَّوب الكريمُ يُصانُ. قال:\n\n* ويَجْلُو صَفْحَ دَخْدارٍ قَشِيبِ *\n\nدخس - دخش دخص\n\nوليس هذا من الكلمة الأولى في شيءٍ؛ لأنَّ هذه مُعرّبة، قالوا: أصلها تَخْت دار، أي مَصُونٌ في تَخْت .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "d–kh–r to be humbled, to be compelled; to be confused, to be\nsubservient. Of this root, دَاخِرُون dākhirūn occurs four times in the\nQur’an.\n\nدَاخِرُون dākhirūn [pl. of act. part. دَاخِر dākhir] 1 obedient,\nsubservient (16:48) أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللهُ مِنْ شَيْءٍ يَتَفَيَّؤُا ظِلَالُهُ عَنِ الْيَمِينِ\nوَالشَّمَائِلِ سُجَّدًا لِلَّهِ وَهُمْ دَاخِرُونَ do they not ponder the fact that whatever\nGod has created that casts shadows all around [lit. to the right\nand to the left]–all submit [lit. prostrate themselves] to God, in\nhumility 2 humiliated, abject, debased (40:60) إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ\nعِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ those who are too proud to serve Me, will\nenter Hell, humiliated.\n\nتَدَّخِرُون taddakhirūn (see ذ/خ/ر dh–kh–r).",
+      "definition_english": "d–kh–r to be humbled, to be compelled; to be confused, to be\nsubservient. Of this root, دَاخِرُون dākhirūn occurs four times in the\nQur’an.\n\nدَاخِرُون dākhirūn [pl. of act. part. دَاخِر dākhir] 1 obedient,\nsubservient (16:48) أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللهُ مِنْ شَيْءٍ يَتَفَيَّؤُا ظِلَالُهُ عَنِ الْيَمِينِ\nوَالشَّمَائِلِ سُجَّدًا لِلَّهِ وَهُمْ دَاخِرُونَ do they not ponder the fact that whatever\nGod has created that casts shadows all around [lit. to the right\nand to the left]–all submit [lit. prostrate themselves] to God, in\nhumility 2 humiliated, abject, debased (40:60) إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ\nعِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ those who are too proud to serve Me, will\nenter Hell, humiliated.\n\nتَدَّخِرُون taddakhirūn (see ذ/خ/ر dh–kh–r)."
+    }
+  ],
   "occurrences": [
     "16:48:17",
     "27:87:18",

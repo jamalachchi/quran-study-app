@@ -1,9 +1,17 @@
 {
-  "id": 2436,
   "root": "ط ي ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطيس\n\n(طين) الطاء والياء والنون كلمةٌ واحدة، وهي الطِّين، وهو معروف. ويقال طيَّنْت البيتَ، وطِنت الكتابَ. ويقال طانَه الله تعالى على الخَيْر، أي جَبَله. وكأَنَّ معناه، والله أعلم، من طِنت الكتاب، أي ختمته؛ كأنَّه طبعه على الخير وختم أمرَهُ بهِ.\n\n(باب الطاء والباء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطيس\n\n(طين) الطاء والياء والنون كلمةٌ واحدة، وهي الطِّين، وهو معروف. ويقال طيَّنْت البيتَ، وطِنت الكتابَ. ويقال طانَه الله تعالى على الخَيْر، أي جَبَله. وكأَنَّ معناه، والله أعلم، من طِنت الكتاب، أي ختمته؛ كأنَّه طبعه على الخير وختم أمرَهُ بهِ.\n\n(باب الطاء والباء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṭ-y-n mud, clay, to be muddy, to coat with mud; nature, disposition; specific character. Some scholars attribute the word طِين ṭīn to an early borrowing from either Syriac or Aramaic. Of this root, طِين ṭīn occurs 12 times in the Qurʾan.\nطِين ṭīn [n.] 1 clay, mud (23:12) وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ We created man from an essence of clay 2 mud bricks (28:38) فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ فَاجْعَل لِّي صَرْحًا so, light a fire for me, Hāmān, on [bricks of] clay, then build me a tall building.\n\n583\n\nظ / ẓā\n\nالظاء ʾal-ẓāʾ the seventeenth letter of the alphabet; it represents a voiced inter-dental fricative velarised sound.",
+      "definition_english": "ṭ-y-n mud, clay, to be muddy, to coat with mud; nature, disposition; specific character. Some scholars attribute the word طِين ṭīn to an early borrowing from either Syriac or Aramaic. Of this root, طِين ṭīn occurs 12 times in the Qurʾan.\nطِين ṭīn [n.] 1 clay, mud (23:12) وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ We created man from an essence of clay 2 mud bricks (28:38) فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ فَاجْعَل لِّي صَرْحًا so, light a fire for me, Hāmān, on [bricks of] clay, then build me a tall building.\n\n583\n\nظ / ẓā\n\nالظاء ʾal-ẓāʾ the seventeenth letter of the alphabet; it represents a voiced inter-dental fricative velarised sound."
+    }
+  ],
   "occurrences": [
     "17:61:13",
     "23:12:7",

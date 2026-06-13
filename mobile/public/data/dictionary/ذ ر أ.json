@@ -1,8 +1,16 @@
 {
-  "id": 1305,
   "root": "ذ ر أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذرو - ذرأ\n\n(ذرأ) الذال والراء والهمزة أصلان: أحدهما لونٌ إلى البياض، والآخر كالشَّي يُبذَرُ ويُزْرَع.\n\nفالأوّل الذُّرْأة، وهو البياضُ من شَيبٍ وغيرِه. ومنه ملح ذَرَآنِيٌّ وذَرْآنيّ. والذُّرْأة: البياض. ورجل أذرَأُ: أشيب، والمرأة ذَرْآء. وقال الشيبانيّ: شَعْرَةٌ ذَرْآءُ، على وزن ذرعاء، أي بيضاء. والفِعل منه ذَرِئَ يَذْرَأُ. ويقال إِنَّ الذَّرْآءَ من الغنم: البَيضاء الأذُن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذرو - ذرأ\n\n(ذرأ) الذال والراء والهمزة أصلان: أحدهما لونٌ إلى البياض، والآخر كالشَّي يُبذَرُ ويُزْرَع.\n\nفالأوّل الذُّرْأة، وهو البياضُ من شَيبٍ وغيرِه. ومنه ملح ذَرَآنِيٌّ وذَرْآنيّ. والذُّرْأة: البياض. ورجل أذرَأُ: أشيب، والمرأة ذَرْآء. وقال الشيبانيّ: شَعْرَةٌ ذَرْآءُ، على وزن ذرعاء، أي بيضاء. والفِعل منه ذَرِئَ يَذْرَأُ. ويقال إِنَّ الذَّرْآءَ من الغنم: البَيضاء الأذُن.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–r–ʾ first sprouts of a plant; offspring, to create, to cause to increase in number; to spread; to produce. Of this root, only ذَرَأَ dharaʾa occurs six times in the Qur’an.\nذَرَأَ dharaʾa [v. trans.] 1 to create, to fashion out (6:136) وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا they apportion to God a share of the land produce and the livestock He created 2 to cause to increase, to cause to procreate (42:11) جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا وَمِنَ الْأَنْعَامِ أَزْوَاجًا يَذْرَؤُكُمْ فِيهِ He made for you of yourselves pairs, and of the cattle pairs [also], so as to multiply you therein.",
+      "definition_english": "dh–r–ʾ first sprouts of a plant; offspring, to create, to cause to increase in number; to spread; to produce. Of this root, only ذَرَأَ dharaʾa occurs six times in the Qur’an.\nذَرَأَ dharaʾa [v. trans.] 1 to create, to fashion out (6:136) وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا they apportion to God a share of the land produce and the livestock He created 2 to cause to increase, to cause to procreate (42:11) جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا وَمِنَ الْأَنْعَامِ أَزْوَاجًا يَذْرَؤُكُمْ فِيهِ He made for you of yourselves pairs, and of the cattle pairs [also], so as to multiply you therein."
+    }
+  ],
   "occurrences": []
 }

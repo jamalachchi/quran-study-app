@@ -1,9 +1,17 @@
 {
-  "id": 1074,
   "root": "خ و ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخوث\n\n(خوض) الخاء والواو والضاد أصلٌ واحد يدلُّ على توسُّطِ شيء ودُخولٍ. يقال خُضْتُ الماءَ وغيرَه. وتخاوَضوا في الحديثِ والأمرِ، أي تفاوَضُوا وتداخَل كلامُهم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخوث\n\n(خوض) الخاء والواو والضاد أصلٌ واحد يدلُّ على توسُّطِ شيء ودُخولٍ. يقال خُضْتُ الماءَ وغيرَه. وتخاوَضوا في الحديثِ والأمرِ، أي تفاوَضُوا وتداخَل كلامُهم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–w–ḍ to wade, to ford, a ford; to plunge into a subject\nheedlessly, to engage in discussion without much knowledge;\nambiguity, confusion, to shake up. Of this root, three forms occur\n11 times in the Qur’an: خاض khāḍa eight times; خوض khawḍ\n\n289                                        خ/و/ف\n\ntwice and خائضون khāʾiḍūn once.\n\nخَاضَ khāḍa u [v. intrans.] to indulge in idle talk, to plunge into\nmalicious gossip, to talk abusively, speak evil of someone\n(6:68) وإذا رأيت الذين يخوضون في آياتنا فأعرض عنهم حتى يخوضوا في حديث غيره\nwhen you come across people who speak ill of Our\nrevelations, turn away from them until they move on to another\ntopic.\n\nخَوْض khawḍ [n./v. n.] idle talk, malicious gossip, abusive talk\n(6:91) ذرهم في خوضهم يلعبون leave them alone playing in their vain\ntalk.\n\nخَائِضُون khāʾiḍūn [pl. of act. part. خَائِض khāʾiḍ] one engaged in\nidle talk or vain discourse (74:45) وكنا نخوض مع الخائضين\nwe\nindulged in vain talk with vain talkers.",
+      "definition_english": "kh–w–ḍ to wade, to ford, a ford; to plunge into a subject\nheedlessly, to engage in discussion without much knowledge;\nambiguity, confusion, to shake up. Of this root, three forms occur\n11 times in the Qur’an: خاض khāḍa eight times; خوض khawḍ\n\n289                                        خ/و/ف\n\ntwice and خائضون khāʾiḍūn once.\n\nخَاضَ khāḍa u [v. intrans.] to indulge in idle talk, to plunge into\nmalicious gossip, to talk abusively, speak evil of someone\n(6:68) وإذا رأيت الذين يخوضون في آياتنا فأعرض عنهم حتى يخوضوا في حديث غيره\nwhen you come across people who speak ill of Our\nrevelations, turn away from them until they move on to another\ntopic.\n\nخَوْض khawḍ [n./v. n.] idle talk, malicious gossip, abusive talk\n(6:91) ذرهم في خوضهم يلعبون leave them alone playing in their vain\ntalk.\n\nخَائِضُون khāʾiḍūn [pl. of act. part. خَائِض khāʾiḍ] one engaged in\nidle talk or vain discourse (74:45) وكنا نخوض مع الخائضين\nwe\nindulged in vain talk with vain talkers."
+    }
+  ],
   "occurrences": [
     "43:83:2",
     "4:140:19",

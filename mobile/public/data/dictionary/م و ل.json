@@ -1,9 +1,17 @@
 {
-  "id": 3642,
   "root": "م و ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمهن - موت\n\n(مول) الميم والواو واللام كلمة واحدة، هي تَمَوَّلَ الرّجُل: اتخذَ مالاً. ومَالَ يَمَالُ: كثُر مالُه. ويقولون في قول القائل:\n\nموم مون موه\n\n* مَلأَى من الماءِ كَعَيْنِ المُولَهْ *\n\nإنّ المُولَة: العَنكبوت؛ وفيه نظر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمهن - موت\n\n(مول) الميم والواو واللام كلمة واحدة، هي تَمَوَّلَ الرّجُل: اتخذَ مالاً. ومَالَ يَمَالُ: كثُر مالُه. ويقولون في قول القائل:\n\nموم مون موه\n\n* مَلأَى من الماءِ كَعَيْنِ المُولَهْ *\n\nإنّ المُولَة: العَنكبوت؛ وفيه نظر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–w–l property, possessions, wealth, gold and silver,\n(specifically) camels (for Arabs), to become wealthy, to finance.\nOf this root, two words occur 66 times in the Qur’an: مال māl 25\n\n907",
+      "definition_english": "m–w–l property, possessions, wealth, gold and silver,\n(specifically) camels (for Arabs), to become wealthy, to finance.\nOf this root, two words occur 66 times in the Qur’an: مال māl 25\n\n907"
+    }
+  ],
   "occurrences": [
     "104:2:3",
     "104:3:3",

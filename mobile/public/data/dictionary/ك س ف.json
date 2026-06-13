@@ -1,9 +1,17 @@
 {
-  "id": 3386,
   "root": "ك س ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكسع - كسف\n\n(كسف) الكاف والسين والفاء أصلٌ يدلُّ على تغيُّر في حالِ الشيء إلى ما لا يُحَبّ، وعلى قطع شيءٍ من شيء. من ذلك كُسُوف القَمر، وهو زوالُ\n\nكسل كسم - كسا\n\nضوئه. ويقال: رجلٌ كاسِفُ الوجه، إذا كان عابساً. وهو كاسف البال، أي سيِّئُ الحال.\n\nوأمَّا القَطْع فيقال: كَسَفَ العُرقوبَ بالسّيف كَسْفاً يكسِفُهُ. والكِسْفة: الطَّائفة من الثَّوب، يقال: أعطِنِي كِسفةً من ثوبك. والكِسْفة: القِطعة من الغَيم. قال الله* تعالى: ] وإنْ يَرَوْا كِسْفاً مِن السَّماءِ ساقِطاً [ [الطور 44].",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكسع - كسف\n\n(كسف) الكاف والسين والفاء أصلٌ يدلُّ على تغيُّر في حالِ الشيء إلى ما لا يُحَبّ، وعلى قطع شيءٍ من شيء. من ذلك كُسُوف القَمر، وهو زوالُ\n\nكسل كسم - كسا\n\nضوئه. ويقال: رجلٌ كاسِفُ الوجه، إذا كان عابساً. وهو كاسف البال، أي سيِّئُ الحال.\n\nوأمَّا القَطْع فيقال: كَسَفَ العُرقوبَ بالسّيف كَسْفاً يكسِفُهُ. والكِسْفة: الطَّائفة من الثَّوب، يقال: أعطِنِي كِسفةً من ثوبك. والكِسْفة: القِطعة من الغَيم. قال الله* تعالى: ] وإنْ يَرَوْا كِسْفاً مِن السَّماءِ ساقِطاً [ [الطور 44].",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–s–f eclipse, to become dark; to cast one’s sight down, to be\ndejected; to cut off, to cut up, piece of cloud. Of this root, two\nforms occur five times in the Qur’an: كِسْف kisf once and كِسَف kisaf\nfour times.\n\nكِسْف kisf [n.; pl. كِسَف kisaf] 1 piece, part, segment (26:187) فَأَسْقِطْ\nعَلَيْنَا كِسْفًا مِنَ السَّمَاءِ so make bits of the heavens fall down on us, if\nyou are telling the truth 2 [adverbially] in pieces (17:92) أَوْ تُسْقِطَ\nالسَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا or make the sky fall on us, in pieces, as\nyou have claimed.",
+      "definition_english": "k–s–f eclipse, to become dark; to cast one’s sight down, to be\ndejected; to cut off, to cut up, piece of cloud. Of this root, two\nforms occur five times in the Qur’an: كِسْف kisf once and كِسَف kisaf\nfour times.\n\nكِسْف kisf [n.; pl. كِسَف kisaf] 1 piece, part, segment (26:187) فَأَسْقِطْ\nعَلَيْنَا كِسْفًا مِنَ السَّمَاءِ so make bits of the heavens fall down on us, if\nyou are telling the truth 2 [adverbially] in pieces (17:92) أَوْ تُسْقِطَ\nالسَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا or make the sky fall on us, in pieces, as\nyou have claimed."
+    }
+  ],
   "occurrences": [
     "17:92:7",
     "26:187:3",

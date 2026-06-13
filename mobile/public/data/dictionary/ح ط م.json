@@ -1,9 +1,17 @@
 {
-  "id": 811,
   "root": "ح ط م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحطم - حطأ\n\nكلون الوَرْسِ عُلّ به الأديم\n\nكُمَيْتٌ غيرُ مُحْلِفةٍ ولكن\n\nوحِضارُ الإبل: بِيضُها. قال الهذليّ:\n\n* شُومُها وحِضارُها *\n\n{باب الحاء والطاء وما يثلثهما}\n\n(حطم) الحاء والطاء والميم أصلٌ واحد، وهو كَسْر الشيء. يقال حطمت الشيءَ حَطْماً كسرتُه. ويقال للمتكسَّر في نفسه حَطِم. ويقال للفرس إذا تهدَّم لطول عمره حَطِمٌ. ويقال بل الحَطَمُ داءٌ يصيب الدابّة في قوائمها أو ضَعْفٌ. وهو فرسٌ حَطِم. والحُطْمة: السنة الشديدة؛ لأنها تَحْطِم كلّ شيء. والحُطَم: السوَّاق يَعنف، يحطِم بعضَ الإبل ببعض. قال الراجز:\n\n* قد لفَّها الليلُ بسَوَّاقٍ حُطَمْ *\n\nوسمِّيت النارُ الحُطَمةَ لِحَطْمِها ما تَلْقَى. ويقال للعَكَرة من الإبل حُطَمَة لأنها تحطِم كلَّ شيءٍ تلقاه. وحُطْمة السَّيل: دُفَّاعُ مُعظَمِهِ. وهذا ليس أصلاً؛ لأنه مقلوب من الطُّحْمة. فأما الحطيم فممكنٌ أن يكون من هذا، وهو الحِجْر، لكثرة من ينْتابُه، كأنه يُحْطَم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحطم - حطأ\n\nكلون الوَرْسِ عُلّ به الأديم\n\nكُمَيْتٌ غيرُ مُحْلِفةٍ ولكن\n\nوحِضارُ الإبل: بِيضُها. قال الهذليّ:\n\n* شُومُها وحِضارُها *\n\n{باب الحاء والطاء وما يثلثهما}\n\n(حطم) الحاء والطاء والميم أصلٌ واحد، وهو كَسْر الشيء. يقال حطمت الشيءَ حَطْماً كسرتُه. ويقال للمتكسَّر في نفسه حَطِم. ويقال للفرس إذا تهدَّم لطول عمره حَطِمٌ. ويقال بل الحَطَمُ داءٌ يصيب الدابّة في قوائمها أو ضَعْفٌ. وهو فرسٌ حَطِم. والحُطْمة: السنة الشديدة؛ لأنها تَحْطِم كلّ شيء. والحُطَم: السوَّاق يَعنف، يحطِم بعضَ الإبل ببعض. قال الراجز:\n\n* قد لفَّها الليلُ بسَوَّاقٍ حُطَمْ *\n\nوسمِّيت النارُ الحُطَمةَ لِحَطْمِها ما تَلْقَى. ويقال للعَكَرة من الإبل حُطَمَة لأنها تحطِم كلَّ شيءٍ تلقاه. وحُطْمة السَّيل: دُفَّاعُ مُعظَمِهِ. وهذا ليس أصلاً؛ لأنه مقلوب من الطُّحْمة. فأما الحطيم فممكنٌ أن يكون من هذا، وهو الحِجْر، لكثرة من ينْتابُه، كأنه يُحْطَم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–ṭ–m to break, to shatter, to crush; fragment, piece; wreckage,\ndebris; a cruel person; a glutton; severe. Of this root, three forms\noccur six times in the Qurʾan: يَحْطِم yaḥṭim once; حُطَام ḥuṭām three\ntimes and حُطَمَة ḥuṭamatun twice.\n\nيَحْطِم yaḥṭim [imperf. v., trans.] to crush, smash up, break into\nsmall pieces (27:18) يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ\nلَا يَشْعُرُونَ ants!, go into your homes, lest Solomon and his hosts\ncrush you while they are unaware.\n\nحُطَام ḥuṭām [coll. n.; pl. of n. حُطْمَة ḥuṭmatun] wreckage, debris,\nsmithereens (56:65) لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ if We willed, We\ncould turn it [your harvest] into debris, and leave you wailing.\n\nحُطَمَة ḥuṭamatun [intens. act. part.] crusher, smasher, an epithet\nof Hellfire (104:4) كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ no indeed!, he will be thrust\ninto the Crusher!",
+      "definition_english": "h–ṭ–m to break, to shatter, to crush; fragment, piece; wreckage,\ndebris; a cruel person; a glutton; severe. Of this root, three forms\noccur six times in the Qurʾan: يَحْطِم yaḥṭim once; حُطَام ḥuṭām three\ntimes and حُطَمَة ḥuṭamatun twice.\n\nيَحْطِم yaḥṭim [imperf. v., trans.] to crush, smash up, break into\nsmall pieces (27:18) يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ\nلَا يَشْعُرُونَ ants!, go into your homes, lest Solomon and his hosts\ncrush you while they are unaware.\n\nحُطَام ḥuṭām [coll. n.; pl. of n. حُطْمَة ḥuṭmatun] wreckage, debris,\nsmithereens (56:65) لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ if We willed, We\ncould turn it [your harvest] into debris, and leave you wailing.\n\nحُطَمَة ḥuṭamatun [intens. act. part.] crusher, smasher, an epithet\nof Hellfire (104:4) كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ no indeed!, he will be thrust\ninto the Crusher!"
+    }
+  ],
   "occurrences": [
     "104:4:4",
     "104:5:4",

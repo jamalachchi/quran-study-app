@@ -1,8 +1,11 @@
 {
-  "id": 1399,
   "root": "ر ص غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرشد - رصع\n\n(رصغ) الراء والصاد والغين ليس أصلاً. لكنّ الخليل قال: الرُّصْغ لغةٌ في الرُّسغ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرشد - رصع\n\n(رصغ) الراء والصاد والغين ليس أصلاً. لكنّ الخليل قال: الرُّصْغ لغةٌ في الرُّسغ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

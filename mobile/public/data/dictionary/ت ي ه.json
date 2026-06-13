@@ -1,9 +1,22 @@
 {
-  "id": 464,
   "root": "ت ي ه",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتنأ - تهم\n\n(تيه) التاء والياء والهاء، كلمة صحيحة، وهي جِنْسٌ من الحَيْرَة والتِّيه والتّيهاء: المفازة يَتيه فيها الإنسان.\n\n(باب التاء والهمزة وما يثلثهما )",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتنأ - تهم\n\n(تيه) التاء والياء والهاء، كلمة صحيحة، وهي جِنْسٌ من الحَيْرَة والتِّيه والتّيهاء: المفازة يَتيه فيها الإنسان.\n\n(باب التاء والهمزة وما يثلثهما )",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "revealed to Moses comprising the Pentateuch (the first five books\nof the Bible) as distinct from الْإِنْجِيل ʾal-ʾinjīl (the Evangel, the Gospel,\nthe New Testament) (q.v. الْإِنْجِيل al-ʾinjīl) (3:65) يَا أَهْلَ الْكِتَابِ لِمَ\nتُحَاجُّونَ فِي إِبْرَاهِيمَ وَمَا أُنْزِلَتِ التَّوْرَاةُ وَالْإِنْجِيلُ إِلا مِنْ بَعْدِهِ\npeople of the Book,\nwhy do you argue about Abraham when the Torah and the Gospel\nwere not revealed until after his time?\n\nThe Qurʾan states that these scriptures were subjected to\ndistortion and tampering (2:75-9; 4:46 and 5:15). The Qurʾan\nalso alludes to the fact that the Prophet Muḥammad’s advent was\npredicted in these sacred scriptures (7:157).\n\nتِين tīn [coll. n. with no verbal root thought to be a borrowing from a\nsister Semitic language occurring once in the Qurʾān] fig(s) (95:1)\nوَالتِّينِ وَالزَّيْتُونِ\nby the fig and the olive; *التِّين name of Sura 95,\nMeccan sura, so-named because of the reference to ‘Figs’ in\nverse 1.",
+      "definition_english": "revealed to Moses comprising the Pentateuch (the first five books\nof the Bible) as distinct from الْإِنْجِيل ʾal-ʾinjīl (the Evangel, the Gospel,\nthe New Testament) (q.v. الْإِنْجِيل al-ʾinjīl) (3:65) يَا أَهْلَ الْكِتَابِ لِمَ\nتُحَاجُّونَ فِي إِبْرَاهِيمَ وَمَا أُنْزِلَتِ التَّوْرَاةُ وَالْإِنْجِيلُ إِلا مِنْ بَعْدِهِ\npeople of the Book,\nwhy do you argue about Abraham when the Torah and the Gospel\nwere not revealed until after his time?\n\nThe Qurʾan states that these scriptures were subjected to\ndistortion and tampering (2:75-9; 4:46 and 5:15). The Qurʾan\nalso alludes to the fact that the Prophet Muḥammad’s advent was\npredicted in these sacred scriptures (7:157).\n\nتِين tīn [coll. n. with no verbal root thought to be a borrowing from a\nsister Semitic language occurring once in the Qurʾān] fig(s) (95:1)\nوَالتِّينِ وَالزَّيْتُونِ\nby the fig and the olive; *التِّين name of Sura 95,\nMeccan sura, so-named because of the reference to ‘Figs’ in\nverse 1."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-y-h expanse of desolate unmarked featureless desert;\nwilderness; to lose one’s way, to be misguided; to be conceited,\nto be obstinate. Of this root, يَتِيهُون yatīhūn occurs once in the\nQurʾān.\n\nيَتِيه yatīh [imperf. of v. تَاهَ tāha, intrans.] to wander around\nhaving lost one’s way (5:26) قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِي\nالْأَرْضِ\nHe said, ‘It [the holy land] is forbidden to them for forty\nyears, [they will] wander in the land [being lost].’\n\n# VERBATIM \n\nث / thāʾ\n\nالثاء ʾal-thāʾ the fourth letter of the alphabet; it represents a voiceless\ninter-dental fricative sound.",
+      "definition_english": "t-y-h expanse of desolate unmarked featureless desert;\nwilderness; to lose one’s way, to be misguided; to be conceited,\nto be obstinate. Of this root, يَتِيهُون yatīhūn occurs once in the\nQurʾān.\n\nيَتِيه yatīh [imperf. of v. تَاهَ tāha, intrans.] to wander around\nhaving lost one’s way (5:26) قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِي\nالْأَرْضِ\nHe said, ‘It [the holy land] is forbidden to them for forty\nyears, [they will] wander in the land [being lost].’\n\n# VERBATIM \n\nث / thāʾ\n\nالثاء ʾal-thāʾ the fourth letter of the alphabet; it represents a voiceless\ninter-dental fricative sound."
+    }
+  ],
   "occurrences": [
     "5:26:7"
   ]

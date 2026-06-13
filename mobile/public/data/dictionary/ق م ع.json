@@ -1,9 +1,17 @@
 {
-  "id": 3079,
   "root": "ق م ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقمس\n\n(قمع) القاف والميم والعين أصولٌ ثلاثة صحيحة: أحدها نزولُ شيءٍ مائعٍ في أداةٍ تُعْمَل له، والآخَر إذلالٌ وقهر، والثالث جنسٌ من الحيوان.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقمس\n\n(قمع) القاف والميم والعين أصولٌ ثلاثة صحيحة: أحدها نزولُ شيءٍ مائعٍ في أداةٍ تُعْمَل له، والآخَر إذلالٌ وقهر، والثالث جنسٌ من الحيوان.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–m–ʿ to subdue, to vanquish, to tame, to bridle; to abate;\nearlobes, heads; sty on the eye; dust storm; curved iron rod. Of\nthis root, مَقَامِع maqāmiʿ occurs once in the Qur’an.\n\nمَقَامِع maqāmiʿ [pl. of n. of instrument مِقْمَعَة miqmaʿatun]\nhooked iron rods (22:21) وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ and iron rods will be\nprepared for them.",
+      "definition_english": "q–m–ʿ to subdue, to vanquish, to tame, to bridle; to abate;\nearlobes, heads; sty on the eye; dust storm; curved iron rod. Of\nthis root, مَقَامِع maqāmiʿ occurs once in the Qur’an.\n\nمَقَامِع maqāmiʿ [pl. of n. of instrument مِقْمَعَة miqmaʿatun]\nhooked iron rods (22:21) وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ and iron rods will be\nprepared for them."
+    }
+  ],
   "occurrences": [
     "22:21:2"
   ]

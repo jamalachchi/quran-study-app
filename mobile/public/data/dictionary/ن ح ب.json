@@ -1,9 +1,17 @@
 {
-  "id": 3950,
   "root": "ن ح ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنحو\n\n(نحب) النون والحاء والباء أصلانِ: أحدهما يدلُّ على نَذْرٍ وما أشبَهَه من خَطَر أو إخطار شيء، والآخر على صوتٍ من الأصوات.\n\nفالأوّل: النَّحْب: النَّذْر. وسار فلانٌ على نَحْبٍ، إذا جهد، فكأنَّه خاطَرَ على شيءٍ فَجدَّ. قال:\n\n* كما سار عن إحدى يديه المُنَحِّبُ *\n\nأي المُخاطِر. وقد كان التَّنْحِيب في العرب، وهو كالمخاطَرة، تقول: إن كان كذا فلك عليَّ كذا وإلاَّ فلي عليك. وجاء الإسلامُ بالنَّهي عنه. ومنه ناحَبْتُه إلى فلانٍ، إذا حاكمتَه. والقياسُ فيهما واحد. وكذا النَّحْب: الموت، كأنَّه نذْرٌ ينذُِرُهُ الإنسان يَلزَمُه الوفاءُ به، ولا بُدَّ له منه.\n\nوالأصل الآخر النَّحيب: [نحيبُ] الباكِي، وهو بكاؤُه مع صوتٍ وإعوال. ومنه النُّحَاب: سُعال الإبل. ونَحَب البعيرُ يَنْحَب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنحو\n\n(نحب) النون والحاء والباء أصلانِ: أحدهما يدلُّ على نَذْرٍ وما أشبَهَه من خَطَر أو إخطار شيء، والآخر على صوتٍ من الأصوات.\n\nفالأوّل: النَّحْب: النَّذْر. وسار فلانٌ على نَحْبٍ، إذا جهد، فكأنَّه خاطَرَ على شيءٍ فَجدَّ. قال:\n\n* كما سار عن إحدى يديه المُنَحِّبُ *\n\nأي المُخاطِر. وقد كان التَّنْحِيب في العرب، وهو كالمخاطَرة، تقول: إن كان كذا فلك عليَّ كذا وإلاَّ فلي عليك. وجاء الإسلامُ بالنَّهي عنه. ومنه ناحَبْتُه إلى فلانٍ، إذا حاكمتَه. والقياسُ فيهما واحد. وكذا النَّحْب: الموت، كأنَّه نذْرٌ ينذُِرُهُ الإنسان يَلزَمُه الوفاءُ به، ولا بُدَّ له منه.\n\nوالأصل الآخر النَّحيب: [نحيبُ] الباكِي، وهو بكاؤُه مع صوتٍ وإعوال. ومنه النُّحَاب: سُعال الإبل. ونَحَب البعيرُ يَنْحَب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ḥ–b vow, to fulfil a vow, (allotted) lifespan, to come to the\nend of one’s life, death; to weep; danger, to take chances; walking\nbriskly, to work hard; to debate. Of this root, نَحْبٌ naḥb, occurs\nonce in the Qur’an.\n\nنَحْبٌ naḥb [v. n./n.] interpreted in the sources as either vow or\nlifespan (33:23) مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ فَمِنْهُمْ مَنْ قَضَى\nنَحْبَهُ of the believers are men who were true to that which they\npledged with God—some of them have fulfilled their pledge [by dying in\nbattle], and some are still waiting.",
+      "definition_english": "n–ḥ–b vow, to fulfil a vow, (allotted) lifespan, to come to the\nend of one’s life, death; to weep; danger, to take chances; walking\nbriskly, to work hard; to debate. Of this root, نَحْبٌ naḥb, occurs\nonce in the Qur’an.\n\nنَحْبٌ naḥb [v. n./n.] interpreted in the sources as either vow or\nlifespan (33:23) مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ فَمِنْهُمْ مَنْ قَضَى\nنَحْبَهُ of the believers are men who were true to that which they\npledged with God—some of them have fulfilled their pledge [by dying in\nbattle], and some are still waiting."
+    }
+  ],
   "occurrences": [
     "33:23:12"
   ]

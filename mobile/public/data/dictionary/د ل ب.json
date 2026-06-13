@@ -1,8 +1,11 @@
 {
-  "id": 1193,
   "root": "د ل ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الدال\n\nدله - دلي\n\n(دلب) الدال واللام والباء ليس بشيء. والدُّلْبُ فيما يقال: شَجَرٌ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الدال\n\nدله - دلي\n\n(دلب) الدال واللام والباء ليس بشيء. والدُّلْبُ فيما يقال: شَجَرٌ .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

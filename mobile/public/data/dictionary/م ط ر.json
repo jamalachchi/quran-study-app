@@ -1,9 +1,17 @@
 {
-  "id": 3772,
   "root": "م ط ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمضغ\n\n(مطر) الميم والطاء والراء أصلٌ صحيحٌ فيه معنيان: أحدهما الغَيث النّازل من السَّماء والآخر جِنْسٌ من العَدْو.\n\nفالأوَّل المطَر، ومُطِرْنا مَطراً. وقال ناسٌ: لا يقال أُمْطِرَ إلاّ في العَذاب.\n\nمطع مطق - مظع\n\nقال الله تعالى: ] أُمْطِرَتْ مَطَرَ السَّوْءِ [ [الفرقان 40]. وتَمَطَّرَ الرَّجُل: تعرَّض للمطَر. ومنه المستمطِر: طالب الخير.\n\nوالثاني قولُهم: تمطَّرَ الرَّجُل في الأرض، إذا ذَهَب. والمتمطِّر: الرَّاكب الفرس يجري به. وتمطَّرَتْ به فرسُه: جَرَتْ.\n\n(مطع ) الميم والطاء والعين. قال: هو مَطَعَ في الأرض مَطْعاً ومُطُوعاً، إذا ذهب فلم يُوجَدْ ذِكْرُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمضغ\n\n(مطر) الميم والطاء والراء أصلٌ صحيحٌ فيه معنيان: أحدهما الغَيث النّازل من السَّماء والآخر جِنْسٌ من العَدْو.\n\nفالأوَّل المطَر، ومُطِرْنا مَطراً. وقال ناسٌ: لا يقال أُمْطِرَ إلاّ في العَذاب.\n\nمطع مطق - مظع\n\nقال الله تعالى: ] أُمْطِرَتْ مَطَرَ السَّوْءِ [ [الفرقان 40]. وتَمَطَّرَ الرَّجُل: تعرَّض للمطَر. ومنه المستمطِر: طالب الخير.\n\nوالثاني قولُهم: تمطَّرَ الرَّجُل في الأرض، إذا ذَهَب. والمتمطِّر: الرَّاكب الفرس يجري به. وتمطَّرَتْ به فرسُه: جَرَتْ.\n\n(مطع ) الميم والطاء والعين. قال: هو مَطَعَ في الأرض مَطْعاً ومُطُوعاً، إذا ذهب فلم يُوجَدْ ذِكْرُه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ṭ–r rain, to rain, to hail; to pray for rain; to expose oneself to\nthe elements; to be steady in one’s views, habit, custom; to seek\nassistance. Of this root, four forms occur 15 times in the\nQur’an: أَمْطَرَ ʾamṭara six times; أُمْطِرَ ʾumṭira once; مَطَر maṭar\nseven times and مُمْطِر mumṭir once.\n\nأَمْطَرَ ʾamṭara [v. IV, trans; pass. v. أُمْطِرَ ʾumṭir] to rain, to cause\nto rain, to cause to pour over (15:74) وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ and\nWe rained on them stones of baked clay.\n\nمَطَر maṭar [n.] rain, downpour (4:102) إِنْ كَانَ بِكُمْ أَذًى مِنْ مَطَرٍ if\nyou are inconvenienced by rain.\n\nمُمْطِر mumṭir [act. part.] that which gives rain, that which\ncauses rain, rain-giving (46:24) هَذَا عَارِضٌ مُمْطِرُنَا this is a\ntraversing cloud that will give us rain!",
+      "definition_english": "m–ṭ–r rain, to rain, to hail; to pray for rain; to expose oneself to\nthe elements; to be steady in one’s views, habit, custom; to seek\nassistance. Of this root, four forms occur 15 times in the\nQur’an: أَمْطَرَ ʾamṭara six times; أُمْطِرَ ʾumṭira once; مَطَر maṭar\nseven times and مُمْطِر mumṭir once.\n\nأَمْطَرَ ʾamṭara [v. IV, trans; pass. v. أُمْطِرَ ʾumṭir] to rain, to cause\nto rain, to cause to pour over (15:74) وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ and\nWe rained on them stones of baked clay.\n\nمَطَر maṭar [n.] rain, downpour (4:102) إِنْ كَانَ بِكُمْ أَذًى مِنْ مَطَرٍ if\nyou are inconvenienced by rain.\n\nمُمْطِر mumṭir [act. part.] that which gives rain, that which\ncauses rain, rain-giving (46:24) هَذَا عَارِضٌ مُمْطِرُنَا this is a\ntraversing cloud that will give us rain!"
+    }
+  ],
   "occurrences": [
     "11:82:7",
     "15:74:4",

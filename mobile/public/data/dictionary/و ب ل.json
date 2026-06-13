@@ -1,9 +1,17 @@
 {
-  "id": 4324,
   "root": "و ب ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وبل) الواو والباء واللام: أصلٌ يدلُّ على شدّةٍ في شَيءٍ وتجمُّع. الوَبْل والوابل: المَطَر الشَّديد. ويقال: وَبَلَتِ السَّماء: أتَتْ بوابلٍ. قال:\n\n* إن ديَّمُوا جادَ وإنْ جَادُوا وَبَلْ *\n\nووَبَلَةُ الشَّيءِ: ثِقَلُه. ومنه يقال شيءٌ وبيلٌ أي وخيم. واستَوْبَلْتُ البلدَ، إذا لم يوافقْكَ وإن كنت مُحبّاً. والوَبيل: الضَّرْبُ الشَّديد. والوَبيل: الرّجُل الثَّقيل في أمرٍ يتولاّه لا يُصلِحه. والمَوْبل: الأمْعَزُ الشَّديد . والوَبيل: خَشَبَةُ القَصَّار\n\nوبأ - وتح - وتد - وتر\n\nالتي يدُقُّ بها الثِّياب. والوبيل: الحُزْمة من الحَطَب. ويقال: الوَبيل الكلأ رطباً كان أو يابساً. والوابلة: عَظْمُ مَفْصِل الرُّكبة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وبل) الواو والباء واللام: أصلٌ يدلُّ على شدّةٍ في شَيءٍ وتجمُّع. الوَبْل والوابل: المَطَر الشَّديد. ويقال: وَبَلَتِ السَّماء: أتَتْ بوابلٍ. قال:\n\n* إن ديَّمُوا جادَ وإنْ جَادُوا وَبَلْ *\n\nووَبَلَةُ الشَّيءِ: ثِقَلُه. ومنه يقال شيءٌ وبيلٌ أي وخيم. واستَوْبَلْتُ البلدَ، إذا لم يوافقْكَ وإن كنت مُحبّاً. والوَبيل: الضَّرْبُ الشَّديد. والوَبيل: الرّجُل الثَّقيل في أمرٍ يتولاّه لا يُصلِحه. والمَوْبل: الأمْعَزُ الشَّديد . والوَبيل: خَشَبَةُ القَصَّار\n\nوبأ - وتح - وتد - وتر\n\nالتي يدُقُّ بها الثِّياب. والوبيل: الحُزْمة من الحَطَب. ويقال: الوَبيل الكلأ رطباً كان أو يابساً. والوابلة: عَظْمُ مَفْصِل الرُّكبة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–b–l a large thick stick, a bundle of firewood; bad\nconsequences; heavy rain; to be unhealthy, (of air) to be polluted,\ndisasters. Of this root, three forms occur eight times in the\nQur’an: وَابِل wābil three times; وَبَال wabāl four times and وَبِيل\nwabīl once.\n\nوَابِل wābil [n./act. part.] heavy rain, torrential rain (2:264) فَمَثَلُهُ\nكَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا his likeness is that of a slab\nof smooth, solid rock with earth on it: heavy rain falls on it and\nleaves it completely bare.\n\nوَبَال wabāl [v. n.] the evil/disastrous consequences of deeds\n(64:5) فَذَاقُوا وَبَالَ أَمْرِهِمْ they tasted the evil consequences of their\nconduct.\n\nوَبِيل wabīl [quasi-act. part.] crushing, calamitous, disastrous\n(73:16) فَأَخَذْنَاهُ أَخْذًا وَبِيلًا so We inflicted a heavy punishment on him.",
+      "definition_english": "w–b–l a large thick stick, a bundle of firewood; bad\nconsequences; heavy rain; to be unhealthy, (of air) to be polluted,\ndisasters. Of this root, three forms occur eight times in the\nQur’an: وَابِل wābil three times; وَبَال wabāl four times and وَبِيل\nwabīl once.\n\nوَابِل wābil [n./act. part.] heavy rain, torrential rain (2:264) فَمَثَلُهُ\nكَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا his likeness is that of a slab\nof smooth, solid rock with earth on it: heavy rain falls on it and\nleaves it completely bare.\n\nوَبَال wabāl [v. n.] the evil/disastrous consequences of deeds\n(64:5) فَذَاقُوا وَبَالَ أَمْرِهِمْ they tasted the evil consequences of their\nconduct.\n\nوَبِيل wabīl [quasi-act. part.] crushing, calamitous, disastrous\n(73:16) فَأَخَذْنَاهُ أَخْذًا وَبِيلًا so We inflicted a heavy punishment on him."
+    }
+  ],
   "occurrences": [
     "2:264:25",
     "2:265:15",

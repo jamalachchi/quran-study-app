@@ -1,8 +1,11 @@
 {
-  "id": 310,
   "root": "ب غ و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبعط\n\n(بغو) الباء والغين والواو ليس فيه إلا البَغْو. وذكر ابن دُرَيْدٍ أنه التمرُ قبلَ أن يستحكِمَ يُبْسُه .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبعط\n\n(بغو) الباء والغين والواو ليس فيه إلا البَغْو. وذكر ابن دُرَيْدٍ أنه التمرُ قبلَ أن يستحكِمَ يُبْسُه .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

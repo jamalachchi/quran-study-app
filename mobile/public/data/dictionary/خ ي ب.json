@@ -1,9 +1,17 @@
 {
-  "id": 1081,
   "root": "خ ي ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخيب - خير\n\n{باب الخاء والياء وما يثلثهما}\n\n(خيب) الخاء والياء والباء أصلٌ واحد يدلُّ على عدم فائدةٍ وحِرمانٍ. والأصل قولهم للقِدْحِ الذي لا يُورِي: هو خَيّاب. ثمّ قالوا: سَعَى في أمرٍ فخابَ، وذلك إذا حُرِم فلم يُفِدْ خيْراً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخيب - خير\n\n{باب الخاء والياء وما يثلثهما}\n\n(خيب) الخاء والياء والباء أصلٌ واحد يدلُّ على عدم فائدةٍ وحِرمانٍ. والأصل قولهم للقِدْحِ الذي لا يُورِي: هو خَيّاب. ثمّ قالوا: سَعَى في أمرٍ فخابَ، وذلك إذا حُرِم فلم يُفِدْ خيْراً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh-y-b the losing arrow in a game of fortune; to fail, to be\ndisappointed; to go wrong; frustration, failure. Of this root, two\nforms occur five times in the Qurʾān: خَابَ khāba four times; and\nخَآئِبُون khāʾibūn once.\n\nخَاب khāba i [v. intrans.] to lose, to fail, to come to nothing\n(20:111) وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا and those who carry [the burden of\nhaving committed] injustice will meet with failure.\n\nخَائِبُون khāʾibūn [pl. of quasi-act. part. خَائِب khāʾib] (one who\nis) losing, failing, disappointed, a failure (3:127) لِيَقْطَعَ طَرَفًا مِّنَ ٱلَّذِينَ\nكَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ and that He might cut off a part of the\ndisbelievers’ [army] or frustrate them so that they turn on their\nheels, losers.",
+      "definition_english": "kh-y-b the losing arrow in a game of fortune; to fail, to be\ndisappointed; to go wrong; frustration, failure. Of this root, two\nforms occur five times in the Qurʾān: خَابَ khāba four times; and\nخَآئِبُون khāʾibūn once.\n\nخَاب khāba i [v. intrans.] to lose, to fail, to come to nothing\n(20:111) وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا and those who carry [the burden of\nhaving committed] injustice will meet with failure.\n\nخَائِبُون khāʾibūn [pl. of quasi-act. part. خَائِب khāʾib] (one who\nis) losing, failing, disappointed, a failure (3:127) لِيَقْطَعَ طَرَفًا مِّنَ ٱلَّذِينَ\nكَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ and that He might cut off a part of the\ndisbelievers’ [army] or frustrate them so that they turn on their\nheels, losers."
+    }
+  ],
   "occurrences": [
     "14:15:2",
     "20:111:6",

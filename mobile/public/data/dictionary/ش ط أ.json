@@ -1,8 +1,16 @@
 {
-  "id": 1963,
   "root": "ش ط أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشطأ - شطب\n\nويشبه أن يكون مِنْ حُجّة من قال بهذا القول، وأنَّ النون في الشيطان أصليةٌ قولُ أميَّة:\n\nورماهُ في القَيد والأغلالِ\n\nأيُّما شاطنٍ عَصَاهُ عَكاهُ\n\nأفلا تراه بناه على فاعلٍ وجعل النّونَ فيه أصلية؟! فيكون الشيطان على هذا القول بوزن فَيْعال. ويقال إنَّ النون *فيه زائدة، [على ] فعلان، وأنَّه من شاط، وقد ذكر في بابه.\n\n(شطأ) الشين والطاء والهمزة فيه كلمتان: إحداهما الشَّطْء شَطءُ النَّبات، وهو ما خرج من حول الأصل، والجمع أشطاء. وقد شَطَأت الشَّجرة. قال الله جلَّ ثناؤه: ] كَزَرْعٍ أَخْرَجَ شَطْأَهُ [ [الفتح 29]. والأصل شاطئ الوادي: جانبه. وشاطأتُ الرّجُل: مشيت على شاطئٍ ومشى هو على الشاطئِ الآخر. وهما متبايِنَتَان.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشطأ - شطب\n\nويشبه أن يكون مِنْ حُجّة من قال بهذا القول، وأنَّ النون في الشيطان أصليةٌ قولُ أميَّة:\n\nورماهُ في القَيد والأغلالِ\n\nأيُّما شاطنٍ عَصَاهُ عَكاهُ\n\nأفلا تراه بناه على فاعلٍ وجعل النّونَ فيه أصلية؟! فيكون الشيطان على هذا القول بوزن فَيْعال. ويقال إنَّ النون *فيه زائدة، [على ] فعلان، وأنَّه من شاط، وقد ذكر في بابه.\n\n(شطأ) الشين والطاء والهمزة فيه كلمتان: إحداهما الشَّطْء شَطءُ النَّبات، وهو ما خرج من حول الأصل، والجمع أشطاء. وقد شَطَأت الشَّجرة. قال الله جلَّ ثناؤه: ] كَزَرْعٍ أَخْرَجَ شَطْأَهُ [ [الفتح 29]. والأصل شاطئ الوادي: جانبه. وشاطأتُ الرّجُل: مشيت على شاطئٍ ومشى هو على الشاطئِ الآخر. وهما متبايِنَتَان.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–ṭ–ʾ to slice lengthwise; to overfill with water; side or bank of a river; to overburden; to put forth shoots, to sprout, to put out branches. Of this root, two words occur once each in the Qurʾan: شطأ shaṭʾ and شاطئ shāṭiʾ.\nشطأ shaṭʾ [n.] plant shoot (48:29) كَزَرْعٍ أَخْرَجَ شَطْأَهُ like seeds that put forth their shoots.\n\nشاطئ shāṭiʾ [n.] bank, ridge, embankment (28:30) نُودِيَ مِن شَاطِئِ الْوَادِ الْأَيْمَنِ he was called from the right side [lit. bank] of the valley.\n\n485",
+      "definition_english": "sh–ṭ–ʾ to slice lengthwise; to overfill with water; side or bank of a river; to overburden; to put forth shoots, to sprout, to put out branches. Of this root, two words occur once each in the Qurʾan: شطأ shaṭʾ and شاطئ shāṭiʾ.\nشطأ shaṭʾ [n.] plant shoot (48:29) كَزَرْعٍ أَخْرَجَ شَطْأَهُ like seeds that put forth their shoots.\n\nشاطئ shāṭiʾ [n.] bank, ridge, embankment (28:30) نُودِيَ مِن شَاطِئِ الْوَادِ الْأَيْمَنِ he was called from the right side [lit. bank] of the valley.\n\n485"
+    }
+  ],
   "occurrences": []
 }

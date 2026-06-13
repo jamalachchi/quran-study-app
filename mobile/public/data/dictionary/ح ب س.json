@@ -1,9 +1,22 @@
 {
-  "id": 906,
   "root": "ح ب س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحبس\n\nرأتْ رجلاً يسعى إليها فحملقَتْ\n\nرَشاشٌ كغِسْلِ الوفرة\n\nتنوشُ برجليها وقد بَلّ ريشَها\n\nالمُعْزِب : الصائد؛ لأنه لا يأوي إلى أهله. وحَمْلقَتْ: قَلَبت حملاقَ عينِها. والمعنى أن شتمكم إيّاي لا يذهب باطلاً، فأكون بمنزلةِ الحبارى التي لا حيلة عندها إذا وقعت في الحِبالة إلا تقليبُ عينها. وهي من أذَلّ الطير. وتنوشُ برجليها: تضربُ بهما. والغِِسْل: الخِطمى. يريد سلحَتْ على ريشها. ومثلُه قول الكُميت:\n\nلأزرقَ مَعْلولِ الأظافير بالخَضْبِ\n\nوَعِيدَ الحُبارَى من بعيدٍ تنفَّشت\n\n(حبس) الحاء والباء والسين. يقال حَبَسْتُه حَبْساً. والحَبْس: ما وُقِف. يقال أَحْبَسْتُ فرساً في سبيل الله . والحِبْسُ: مَصنعةٌ للماء، والجمع أحباس.\n\nحبش - حبص - حبض - حبط",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحبس\n\nرأتْ رجلاً يسعى إليها فحملقَتْ\n\nرَشاشٌ كغِسْلِ الوفرة\n\nتنوشُ برجليها وقد بَلّ ريشَها\n\nالمُعْزِب : الصائد؛ لأنه لا يأوي إلى أهله. وحَمْلقَتْ: قَلَبت حملاقَ عينِها. والمعنى أن شتمكم إيّاي لا يذهب باطلاً، فأكون بمنزلةِ الحبارى التي لا حيلة عندها إذا وقعت في الحِبالة إلا تقليبُ عينها. وهي من أذَلّ الطير. وتنوشُ برجليها: تضربُ بهما. والغِِسْل: الخِطمى. يريد سلحَتْ على ريشها. ومثلُه قول الكُميت:\n\nلأزرقَ مَعْلولِ الأظافير بالخَضْبِ\n\nوَعِيدَ الحُبارَى من بعيدٍ تنفَّشت\n\n(حبس) الحاء والباء والسين. يقال حَبَسْتُه حَبْساً. والحَبْس: ما وُقِف. يقال أَحْبَسْتُ فرساً في سبيل الله . والحِبْسُ: مَصنعةٌ للماء، والجمع أحباس.\n\nحبش - حبص - حبض - حبط",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "أَحْبَار ʾaḥbār [pl. of n. حَبْر/حِبْر ḥabr/ḥibr] variously interpreted as a learned person, an authority in matters of faith, a priest, a rabbi (5:44) إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ We revealed the Torah, with guidance and light in it, by which the prophets, who had submitted [to God], made judgement for the Jews, and [so did] the rabbis and the scholars.\n",
+      "definition_english": "أَحْبَار ʾaḥbār [pl. of n. حَبْر/حِبْر ḥabr/ḥibr] variously interpreted as a learned person, an authority in matters of faith, a priest, a rabbi (5:44) إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ We revealed the Torah, with guidance and light in it, by which the prophets, who had submitted [to God], made judgement for the Jews, and [so did] the rabbis and the scholars.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḥ–b–s to detain, to restrict, to confine, prison; to endow. Of this root, يَحْبِس yaḥbis occurs twice in the Qurʾan.\nيَحْبِس yaḥbis [imperf. of v. حَبَسَ ḥabasa, trans.] 1 to delay, to stop from happening (11:8) وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُۥ and if We delay the chastisement till a reckoned time they are sure to say, ‘What is delaying it?’ 2 [jur.] to detain, to keep back (5:106) يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ you who believe, the method of testifying among you when death approaches any of you and you are making a bequest, is to let two just men of your own people act as witnesses, or let two men from another people, if you are journeying in the land and the calamity of death afflicts you—you should keep back the two witnesses after prayer.",
+      "definition_english": "ḥ–b–s to detain, to restrict, to confine, prison; to endow. Of this root, يَحْبِس yaḥbis occurs twice in the Qurʾan.\nيَحْبِس yaḥbis [imperf. of v. حَبَسَ ḥabasa, trans.] 1 to delay, to stop from happening (11:8) وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُۥ and if We delay the chastisement till a reckoned time they are sure to say, ‘What is delaying it?’ 2 [jur.] to detain, to keep back (5:106) يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ you who believe, the method of testifying among you when death approaches any of you and you are making a bequest, is to let two just men of your own people act as witnesses, or let two men from another people, if you are journeying in the land and the calamity of death afflicts you—you should keep back the two witnesses after prayer."
+    }
+  ],
   "occurrences": [
     "11:8:10",
     "5:106:28"

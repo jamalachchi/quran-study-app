@@ -1,8 +1,11 @@
 {
-  "id": 3108,
   "root": "ق و ط",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقوس\n\n(قوط) القاف والواو والطاء كلمةٌ واحدة. يقولون: القَوْط: اليسير من الغَنَم، والجمع أقْواط.\n\nقوع قوف قوق - قول",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقوس\n\n(قوط) القاف والواو والطاء كلمةٌ واحدة. يقولون: القَوْط: اليسير من الغَنَم، والجمع أقْواط.\n\nقوع قوف قوق - قول",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

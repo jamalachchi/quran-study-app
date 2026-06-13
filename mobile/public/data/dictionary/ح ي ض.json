@@ -1,9 +1,17 @@
 {
-  "id": 898,
   "root": "ح ي ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n(حيض) الحاء والياء والضاد كلمة واحدة. يقال حاضَتْ السَّمُرَةُ إذا خرج منها ماءٌ أحمر. ولذلك سمِّيت النُّفَساء حائضاً، تشبيهاً لدمها بذلك الماء.\n\nحيط - حيف - حيق - حيك - حين",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n(حيض) الحاء والياء والضاد كلمة واحدة. يقال حاضَتْ السَّمُرَةُ إذا خرج منها ماءٌ أحمر. ولذلك سمِّيت النُّفَساء حائضاً، تشبيهاً لدمها بذلك الماء.\n\nحيط - حيف - حيق - حيك - حين",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–y–ḍ flooding, to flood; to menstruate, menstruation. Of this root, two forms occur four times in the Qur’an: يَحِضْنَ yaḥiḍna once and مَحِيض maḥīḍ three times.\nتَحِيض taḥīḍ [imperf. of v. حَاضَت ḥāḍat, intrans.] to menstruate (65:4) وَاللَّائِي لَمْ يَحِضْنَ and for those who have not [yet] menstruated.\n\nمَحِيض maḥīḍ [v. n.; n. of time] menstruating/period of menstruating (2:222) فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ so keep away from [do not have intercourse with] women during menstruation.",
+      "definition_english": "h–y–ḍ flooding, to flood; to menstruate, menstruation. Of this root, two forms occur four times in the Qur’an: يَحِضْنَ yaḥiḍna once and مَحِيض maḥīḍ three times.\nتَحِيض taḥīḍ [imperf. of v. حَاضَت ḥāḍat, intrans.] to menstruate (65:4) وَاللَّائِي لَمْ يَحِضْنَ and for those who have not [yet] menstruated.\n\nمَحِيض maḥīḍ [v. n.; n. of time] menstruating/period of menstruating (2:222) فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ so keep away from [do not have intercourse with] women during menstruation."
+    }
+  ],
   "occurrences": [
     "2:222:10",
     "2:222:3",

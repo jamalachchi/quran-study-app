@@ -1,9 +1,17 @@
 {
-  "id": 4281,
   "root": "ه م ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهمج\n\n(همر) الهاء والميم والراء: أصلٌ يدلُّ على صَبٍّ وانصباب. وهَمَر دمْعه. وهَمَرَ الدّمعُ وانهمَرَ: سالَ. وفلانٌ يُهامِر الشَّيء، إذا أخذه جَرْفا. وهَمَر في كلامِهِ: أكثَرَ. وهو مِهمارٌ، أي كثير الكلام. وهَمَر له من مالِهِ، كأنَّه صَبّه له صَبَّاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهمج\n\n(همر) الهاء والميم والراء: أصلٌ يدلُّ على صَبٍّ وانصباب. وهَمَر دمْعه. وهَمَرَ الدّمعُ وانهمَرَ: سالَ. وفلانٌ يُهامِر الشَّيء، إذا أخذه جَرْفا. وهَمَر في كلامِهِ: أكثَرَ. وهو مِهمارٌ، أي كثير الكلام. وهَمَر له من مالِهِ، كأنَّه صَبّه له صَبَّاً.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–m–r to pour down, to shed, a shower of rain, rain clouds; to\ntalk too much, a talkative person; to give generously. Of this root,\nمُنْهَمِر munhamir occurs once in the Qur’an.\n\nمُنْهَمِر munhamir [act. part. of v. VII اِنْهَمَرَ ʾinhamara] pouring\ndown profusely (54:11) فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ so We opened\nthe gates of the sky with torrential water.",
+      "definition_english": "h–m–r to pour down, to shed, a shower of rain, rain clouds; to\ntalk too much, a talkative person; to give generously. Of this root,\nمُنْهَمِر munhamir occurs once in the Qur’an.\n\nمُنْهَمِر munhamir [act. part. of v. VII اِنْهَمَرَ ʾinhamara] pouring\ndown profusely (54:11) فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ so We opened\nthe gates of the sky with torrential water."
+    }
+  ],
   "occurrences": [
     "54:11:5"
   ]

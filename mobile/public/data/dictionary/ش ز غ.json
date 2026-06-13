@@ -1,8 +1,11 @@
 {
-  "id": 2128,
   "root": "ش ز غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشرث - شرج\n\n(شزغ) الشين والزاء والغين ليس بشيء. ويقولون إنَّ الشِّزْغ الضِّفْدَع. وهذا ممّا لا معنَى له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشرث - شرج\n\n(شزغ) الشين والزاء والغين ليس بشيء. ويقولون إنَّ الشِّزْغ الضِّفْدَع. وهذا ممّا لا معنَى له.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

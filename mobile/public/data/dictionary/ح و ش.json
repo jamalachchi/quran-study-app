@@ -1,9 +1,17 @@
 {
-  "id": 884,
   "root": "ح و ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحوش\n\n* أحْوَسُ في الظلماء بالرُّمْحِ الخَطِلْ *\n\nوهو حوّاس بالليل.\n\n(حوش) الحاء والواو والشين كلمة واحدةٌ. الحُوش الوَحْش. يقال للوحشيِّ حُوشِيٌّ. وقال عمرُ في زهيرٍ: \"كان لا يعاظِل بين القوافي، ولا يتبع حُوشِيَّ الكلام، ولا يمدَحُ الرّجلَ إلا بما فيه\". قال القتبيّ: الإبل الحُوشيّة منسوبةٌ إلى الحُوش، وإنها فُحولُ نَعَم الجِنِّ، ضَرَبتْ في بعض الإبل فنُسِبتْ إليها. قال رؤبة:\n\n*جَرَّت رحانا مِن بلاد الحُوشِ *\n\nوأظنُّ أنَّ هذا من المقلوب، مثل جَذَبَ وجَبَذَ. وأصل الكلمة إن صَحّت فمن التجمُّع والجَمْع، يقال حُشْتُ الصّيدَ وأَحَشْتُه، إذا أخذْتَه من حَوَالِه وجمعتَه لتَصْرفه إلى الحِبالة. واحتَوَشَ القومُ فلاناً: جعَلُوه وَسْطهم. ويقال تَحَوَّشَ عنِّي القوم: تنحَّوا. وما ينحاش فلانٌ مِن شيءٍ، إذا لم يتجمَّعْ له؛ لقلّة اكتراثِه به. قال:\n\nإذا ما رأتْنَا زِيل مِنّا زَوِيلُها\n\nوبَيْضاءَ لا تَنحاشُ مِنّا وأمُّها\n\nويقال إنّ الحُوَاشَةَ الأمْرُ يكون فيه الإثمُ؛ وهو من الباب، لأن الإنسان يتجمَّع منه ويَنْحاش. وأنشد:\n\nحوص - حوض - حوط\n\nوآثَرْتَ الدُّعابَةَ غير راضِ\n\nأردْتَ حُواشةً وجهِلْتَ حَقّاً\n\nويقال الحُواشَة الاستحياء؛ وهو من الأصل، لأن المستحيي يتجمَّع من الشيء. والحَوْشُ: أن يأكل الإنسانُ من جوانب الطعام حتى يَنْهَكه . والحائِش: جماعة النَّخْل، ولا واحدَ له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحوش\n\n* أحْوَسُ في الظلماء بالرُّمْحِ الخَطِلْ *\n\nوهو حوّاس بالليل.\n\n(حوش) الحاء والواو والشين كلمة واحدةٌ. الحُوش الوَحْش. يقال للوحشيِّ حُوشِيٌّ. وقال عمرُ في زهيرٍ: \"كان لا يعاظِل بين القوافي، ولا يتبع حُوشِيَّ الكلام، ولا يمدَحُ الرّجلَ إلا بما فيه\". قال القتبيّ: الإبل الحُوشيّة منسوبةٌ إلى الحُوش، وإنها فُحولُ نَعَم الجِنِّ، ضَرَبتْ في بعض الإبل فنُسِبتْ إليها. قال رؤبة:\n\n*جَرَّت رحانا مِن بلاد الحُوشِ *\n\nوأظنُّ أنَّ هذا من المقلوب، مثل جَذَبَ وجَبَذَ. وأصل الكلمة إن صَحّت فمن التجمُّع والجَمْع، يقال حُشْتُ الصّيدَ وأَحَشْتُه، إذا أخذْتَه من حَوَالِه وجمعتَه لتَصْرفه إلى الحِبالة. واحتَوَشَ القومُ فلاناً: جعَلُوه وَسْطهم. ويقال تَحَوَّشَ عنِّي القوم: تنحَّوا. وما ينحاش فلانٌ مِن شيءٍ، إذا لم يتجمَّعْ له؛ لقلّة اكتراثِه به. قال:\n\nإذا ما رأتْنَا زِيل مِنّا زَوِيلُها\n\nوبَيْضاءَ لا تَنحاشُ مِنّا وأمُّها\n\nويقال إنّ الحُوَاشَةَ الأمْرُ يكون فيه الإثمُ؛ وهو من الباب، لأن الإنسان يتجمَّع منه ويَنْحاش. وأنشد:\n\nحوص - حوض - حوط\n\nوآثَرْتَ الدُّعابَةَ غير راضِ\n\nأردْتَ حُواشةً وجهِلْتَ حَقّاً\n\nويقال الحُواشَة الاستحياء؛ وهو من الأصل، لأن المستحيي يتجمَّع من الشيء. والحَوْشُ: أن يأكل الإنسانُ من جوانب الطعام حتى يَنْهَكه . والحائِش: جماعة النَّخْل، ولا واحدَ له.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–w–sh an enclosure; unfamiliar; to exclude, to avoid, to turn away from; to hold off. Of this root, only حَاشَا ḥāshā occurs twice in the Qur’an.\nحَاشَ لله/حَاشَا لله ḥāsha liʾllāh/ḥāshā liʾllāh (also read as حاشا لله hā shan with tanwīn) [consisting of حاش hāsha, {denoting exception and classified as a noun, also said to be a verb} + redundant prep. li (حرف الجر الزائد ل) {denoting emphasis} + Allah (الله). Interjection generally expressing dissociation by the speakers from their having unworthy thoughts of, or committing certain actions towards, someone by invoking God as witness and ascribing to Him remoteness from ever allowing a certain thing].",
+      "definition_english": "h–w–sh an enclosure; unfamiliar; to exclude, to avoid, to turn away from; to hold off. Of this root, only حَاشَا ḥāshā occurs twice in the Qur’an.\nحَاشَ لله/حَاشَا لله ḥāsha liʾllāh/ḥāshā liʾllāh (also read as حاشا لله hā shan with tanwīn) [consisting of حاش hāsha, {denoting exception and classified as a noun, also said to be a verb} + redundant prep. li (حرف الجر الزائد ل) {denoting emphasis} + Allah (الله). Interjection generally expressing dissociation by the speakers from their having unworthy thoughts of, or committing certain actions towards, someone by invoking God as witness and ascribing to Him remoteness from ever allowing a certain thing]."
+    }
+  ],
   "occurrences": [
     "12:31:23",
     "12:51:10"

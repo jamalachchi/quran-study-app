@@ -1,9 +1,22 @@
 {
-  "id": 359,
   "root": "ب ه ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبنو\n\n(بهل) الباء والهاء واللام. أصول ثلاثة: أحدها التّخلية، والثاني جِنْسٌ من الدُّعَاء، والثالث قِلَّةٌ في الماء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبنو\n\n(بهل) الباء والهاء واللام. أصول ثلاثة: أحدها التّخلية، والثاني جِنْسٌ من الدُّعَاء، والثالث قِلَّةٌ في الماء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "بَهْجَة bahjatun [n./v. n.] delight, beauty, joy (27:60) وَأَنزَلَ لَكُم مِّنَ السَّمَاءِ مَاء فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ and He sent for you from the sky water with which We caused gardens of delight to grow.\nبَهِيج bahīj [quasi-act. part.] joyful, delightful, lovely, pleasing (22:5) وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا الْمَاء اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ and you perceive the earth lifeless, yet when We send down upon it water, it stirs and swells and puts forth [vegetation] of every joyous kind.",
+      "definition_english": "بَهْجَة bahjatun [n./v. n.] delight, beauty, joy (27:60) وَأَنزَلَ لَكُم مِّنَ السَّمَاءِ مَاء فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ and He sent for you from the sky water with which We caused gardens of delight to grow.\nبَهِيج bahīj [quasi-act. part.] joyful, delightful, lovely, pleasing (22:5) وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا الْمَاء اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ and you perceive the earth lifeless, yet when We send down upon it water, it stirs and swells and puts forth [vegetation] of every joyous kind."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–h–l to leave an animal unattended, to neglect; to be without a husband; to chase out; to curse, to invoke God’s wrath; to swear one’s innocence; to pray eagerly. Of this root, نَبْتَهِل nabtahil occurs once in the Qur’an.\nنَبْتَهِل nabtahil [imperf. of v. VIII اِبْتَهَلَ ʾibtahala, intrans. with no prep.] to pray earnestly, reference to مُبَاهَلَة mubāhala a traditional form of ‘trial by prayer’ practised in Arabia in which two antagonists debate a disputed subject in public with one another and end by invoking God’s curse upon the lying party (3:61) ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةَ اللَّهِ عَلَى الْكَاذِبِينَ and let us pray earnestly and then invoke God’s curse on those who are lying.",
+      "definition_english": "b–h–l to leave an animal unattended, to neglect; to be without a husband; to chase out; to curse, to invoke God’s wrath; to swear one’s innocence; to pray eagerly. Of this root, نَبْتَهِل nabtahil occurs once in the Qur’an.\nنَبْتَهِل nabtahil [imperf. of v. VIII اِبْتَهَلَ ʾibtahala, intrans. with no prep.] to pray earnestly, reference to مُبَاهَلَة mubāhala a traditional form of ‘trial by prayer’ practised in Arabia in which two antagonists debate a disputed subject in public with one another and end by invoking God’s curse upon the lying party (3:61) ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةَ اللَّهِ عَلَى الْكَاذِبِينَ and let us pray earnestly and then invoke God’s curse on those who are lying."
+    }
+  ],
   "occurrences": [
     "3:61:20"
   ]

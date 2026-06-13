@@ -1,9 +1,17 @@
 {
-  "id": 1477,
   "root": "ر ك ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nركب\n\n(ركع) الراء والكاف والعين أصلٌ واحدٌ يدلُّ على انحناءٍ في الإنسان وغيرِه. يقال ركَعَ الرّجلُ، إذا انحنى. وكلُّ منحنٍ راكع. قال لَبيد:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nركب\n\n(ركع) الراء والكاف والعين أصلٌ واحدٌ يدلُّ على انحناءٍ في الإنسان وغيرِه. يقال ركَعَ الرّجلُ، إذا انحنى. وكلُّ منحنٍ راكع. قال لَبيد:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-k-ʿ to bow, to kneel; to submit, to surrender, to yield; to regress, to deteriorate in health, to fall on hard times, to become poor. Of this root, four forms occur 13 times in the Qur’an: يَرْكَعُ yarkaʿ five times; رَاكِع rākiʿ once; رَاكِعُون rākiʿūn four times and رُكَّع rukkaʿ three times.\nيَرْكَعُ yarkaʿ [imperf. of v. رَكَعَ rakaʿa, intrans.] 1 to obey, to submit [to God] (77:48) وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ and if it is said to them, ‘Submit [to God]’, they do not submit 2 to worship (3:43) وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ prostrate yourself and bow down in worship with those who worship 3 [jur.] to perform the daily prayers in the prescribed manner (22:77) يَاأَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ you who believe, perform the daily prayers [lit. bow down and prostrate yourselves] and worship your Lord.\n\nرَاكِع rākiʿ [act. part., pl. رَاكِعُون rākiʿūn] 1 one falling to his knees or prostrating himself (38:24) فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ so he asked his Lord for forgiveness, falling down on his knees, and repented 2 one who worships (2:43) وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ maintain the prayer, pay the prescribed alms, and worship with the worshippers.\n\nرُكَّع rukkaʿ [intens. pl.] ones who are constant at their bowing *(22:26) الرُّكَّعِ السُّجُودِ constant worshippers [lit. those who are constantly bowing and prostrating themselves].",
+      "definition_english": "r-k-ʿ to bow, to kneel; to submit, to surrender, to yield; to regress, to deteriorate in health, to fall on hard times, to become poor. Of this root, four forms occur 13 times in the Qur’an: يَرْكَعُ yarkaʿ five times; رَاكِع rākiʿ once; رَاكِعُون rākiʿūn four times and رُكَّع rukkaʿ three times.\nيَرْكَعُ yarkaʿ [imperf. of v. رَكَعَ rakaʿa, intrans.] 1 to obey, to submit [to God] (77:48) وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ and if it is said to them, ‘Submit [to God]’, they do not submit 2 to worship (3:43) وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ prostrate yourself and bow down in worship with those who worship 3 [jur.] to perform the daily prayers in the prescribed manner (22:77) يَاأَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ you who believe, perform the daily prayers [lit. bow down and prostrate yourselves] and worship your Lord.\n\nرَاكِع rākiʿ [act. part., pl. رَاكِعُون rākiʿūn] 1 one falling to his knees or prostrating himself (38:24) فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ so he asked his Lord for forgiveness, falling down on his knees, and repented 2 one who worships (2:43) وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ maintain the prayer, pay the prescribed alms, and worship with the worshippers.\n\nرُكَّع rukkaʿ [intens. pl.] ones who are constant at their bowing *(22:26) الرُّكَّعِ السُّجُودِ constant worshippers [lit. those who are constantly bowing and prostrating themselves]."
+    }
+  ],
   "occurrences": [
     "22:26:15",
     "22:77:4",

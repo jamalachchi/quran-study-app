@@ -1,9 +1,17 @@
 {
-  "id": 277,
   "root": "ب س ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبسل\n\n(بسر) الباء والسين والراء أصلان: أحدُهما الطَّراءة وأن يكون الشّيءُ قَبْل إناه. والأصل الآخر وُقوف الشّيءِ وقِلَّةُ حَرَكته.\n\nفالأوّل قولهم لِكلِّ شيءٍ غَضٍّ بُسْرٌ؛ ونباتٌ بُسْرٌ إذا كان طَرِيّاً. وماءٌ بُسْرٌ قريبُ عَهْدٍ بالسَّحاب. وابتَسَرَ الفَحْلُ النّاقةَ إذا ضَرَبَها على غيرِ ضَبَعَة. ويقال للشّمس في أوّل طُلوعِها بُسْرة. ومن هذا قولُهمْ بَسَر الرّجُل الحاجةَ إذا طَلَبها مِن غير مَوْضِع الطَّلَب. وقياسُه صحيح، لأنّه كأنّه طلبَها قبل إناها . والبَسْر ظَلْمُ السِّقَاء، وذلك شُرْبُه قبل رَوْبه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبسل\n\n(بسر) الباء والسين والراء أصلان: أحدُهما الطَّراءة وأن يكون الشّيءُ قَبْل إناه. والأصل الآخر وُقوف الشّيءِ وقِلَّةُ حَرَكته.\n\nفالأوّل قولهم لِكلِّ شيءٍ غَضٍّ بُسْرٌ؛ ونباتٌ بُسْرٌ إذا كان طَرِيّاً. وماءٌ بُسْرٌ قريبُ عَهْدٍ بالسَّحاب. وابتَسَرَ الفَحْلُ النّاقةَ إذا ضَرَبَها على غيرِ ضَبَعَة. ويقال للشّمس في أوّل طُلوعِها بُسْرة. ومن هذا قولُهمْ بَسَر الرّجُل الحاجةَ إذا طَلَبها مِن غير مَوْضِع الطَّلَب. وقياسُه صحيح، لأنّه كأنّه طلبَها قبل إناها . والبَسْر ظَلْمُ السِّقَاء، وذلك شُرْبُه قبل رَوْبه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-s-r unripe green date; to do something prematurely; to\nscowl, to frown, to be gloomy. Of this root, two forms occur once\neach in the Qur’an: بَسَرَ basara and بَاسِرَة bāsiratun.\n\nبَسَرَ basara u [v. intrans./trans.] to scowl, to look sour (74:22)\nثُمَّ عَبَسَ وَبَسَرَ then he frowned and looked sour.\n\nبَاسِرَة bāsiratun [act. part. fem.] scowling, frowning,\ndespondent, sour (75:24) وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ and some faces on that\nday will look sour.",
+      "definition_english": "b-s-r unripe green date; to do something prematurely; to\nscowl, to frown, to be gloomy. Of this root, two forms occur once\neach in the Qur’an: بَسَرَ basara and بَاسِرَة bāsiratun.\n\nبَسَرَ basara u [v. intrans./trans.] to scowl, to look sour (74:22)\nثُمَّ عَبَسَ وَبَسَرَ then he frowned and looked sour.\n\nبَاسِرَة bāsiratun [act. part. fem.] scowling, frowning,\ndespondent, sour (75:24) وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ and some faces on that\nday will look sour."
+    }
+  ],
   "occurrences": [
     "74:22:3",
     "75:24:3"

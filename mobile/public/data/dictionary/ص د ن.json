@@ -1,8 +1,11 @@
 {
-  "id": 2254,
   "root": "ص د ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصدق\n\n(صدن) الصاد والدال والنون أصلٌ ضعيف. يقولون: الصَّيْدَن: الثَّعْلَب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصدق\n\n(صدن) الصاد والدال والنون أصلٌ ضعيف. يقولون: الصَّيْدَن: الثَّعْلَب.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

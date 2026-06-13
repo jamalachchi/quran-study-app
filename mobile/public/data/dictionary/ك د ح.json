@@ -1,9 +1,17 @@
 {
-  "id": 3366,
   "root": "ك د ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكحل\n\n(كدح) الكاف والدال والحاء أصلٌ صحيح يدلُّ على تأثيرٍ في شيء. يقال كَدَحه وكدّحه، إذا خَدَشَه. وحمار مُكَدَّح: قد عضَّضَتْه الحُمُر. ومن هذا القياس كدَح إذا كَسَبَ، يكدَح كَدْحاً فهو كادح. قال الله عزّ وعلا: ] إنَّكَ كَادِحٌ [ [الانشقاق 6]، أي كاسِب.\n\n(باب الكاف والذال وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكحل\n\n(كدح) الكاف والدال والحاء أصلٌ صحيح يدلُّ على تأثيرٍ في شيء. يقال كَدَحه وكدّحه، إذا خَدَشَه. وحمار مُكَدَّح: قد عضَّضَتْه الحُمُر. ومن هذا القياس كدَح إذا كَسَبَ، يكدَح كَدْحاً فهو كادح. قال الله عزّ وعلا: ] إنَّكَ كَادِحٌ [ [الانشقاق 6]، أي كاسِب.\n\n(باب الكاف والذال وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–d–ḥ to scratch or scrape off the skin; to bite; to scratch a\nliving; hardship; drudgery. Of this root, two forms occur once\neach in the Qur’an: كَدْح kadḥ and كَادِح kādiḥ.\n\nكَدْح kadḥ [v. n.] applying oneself diligently, striving hard,\nlabouring after (84:6) يَاأَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ\nHumankind, you are laboriously toiling towards your Lord, and\nyou will meet Him.\n\nكَادِح kādiḥ [act. part.] one who strives hard, labours after, toils,\napplies himself diligently (84:6) يَاأَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا\nفَمُلَاقِيهِ Humankind, you are laboriously toiling towards your Lord,\nand you will meet Him.",
+      "definition_english": "k–d–ḥ to scratch or scrape off the skin; to bite; to scratch a\nliving; hardship; drudgery. Of this root, two forms occur once\neach in the Qur’an: كَدْح kadḥ and كَادِح kādiḥ.\n\nكَدْح kadḥ [v. n.] applying oneself diligently, striving hard,\nlabouring after (84:6) يَاأَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ\nHumankind, you are laboriously toiling towards your Lord, and\nyou will meet Him.\n\nكَادِح kādiḥ [act. part.] one who strives hard, labours after, toils,\napplies himself diligently (84:6) يَاأَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا\nفَمُلَاقِيهِ Humankind, you are laboriously toiling towards your Lord,\nand you will meet Him."
+    }
+  ],
   "occurrences": [
     "84:6:4",
     "84:6:7"

@@ -1,8 +1,16 @@
 {
-  "id": 4313,
   "root": "و أ ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوأب - وأد\n\n(وأل) الواو والهمزة واللام: كلمةٌ تدلُّ على تجمُّع والتجاء. يقال استوأَلَتِ الإبلُ: اجتَمَعَتْ. والمَوْئِل: الملجأ مِن وألَ إليه يَئِلُ. والوَأْلَة: البَنَّة من البَعر المتجمِّع.\n\nوأم - وأه - وأي",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوأب - وأد\n\n(وأل) الواو والهمزة واللام: كلمةٌ تدلُّ على تجمُّع والتجاء. يقال استوأَلَتِ الإبلُ: اجتَمَعَتْ. والمَوْئِل: الملجأ مِن وألَ إليه يَئِلُ. والوَأْلَة: البَنَّة من البَعر المتجمِّع.\n\nوأم - وأه - وأي",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–ʾ–l place where floodwaters gather; close members of the\nfamily, protection; to run for one’s life. Of this root, مَوْئِل mawʾil,\noccurs once in the Qur’an.\n\nمَوْئِل mawʾil [v. n./n. of place] escape/refuge, asylum (18:58) بَلْ\nلَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِهِ مَوْئِلًا but they have an appointed time from\nwhich they will have no refuge/escape.",
+      "definition_english": "w–ʾ–l place where floodwaters gather; close members of the\nfamily, protection; to run for one’s life. Of this root, مَوْئِل mawʾil,\noccurs once in the Qur’an.\n\nمَوْئِل mawʾil [v. n./n. of place] escape/refuge, asylum (18:58) بَلْ\nلَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِهِ مَوْئِلًا but they have an appointed time from\nwhich they will have no refuge/escape."
+    }
+  ],
   "occurrences": []
 }

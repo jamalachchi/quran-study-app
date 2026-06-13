@@ -1,8 +1,11 @@
 {
-  "id": 1450,
   "root": "ر ف ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرفث - رفد\n\n(رفش) الراء والفاء والشين ليس* شيئاً. ويقولون: الرَّفْش الأكل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرفث - رفد\n\n(رفش) الراء والفاء والشين ليس* شيئاً. ويقولون: الرَّفْش الأكل.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

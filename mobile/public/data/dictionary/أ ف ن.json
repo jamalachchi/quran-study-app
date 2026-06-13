@@ -1,8 +1,11 @@
 {
-  "id": 121,
   "root": "أ ف ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأفل - أفن\n\n(أفن) الهمزة والفاء والنون يدلّ على خلوّ الشيء وتفريغه. قالوا: الأفَن قلّة العقل، ورجل مأفونٌ. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأفل - أفن\n\n(أفن) الهمزة والفاء والنون يدلّ على خلوّ الشيء وتفريغه. قالوا: الأفَن قلّة العقل، ورجل مأفونٌ. قال:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

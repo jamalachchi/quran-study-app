@@ -1,9 +1,17 @@
 {
-  "id": 2331,
   "root": "ض ي ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضيع - ضيف\n\n(ضيف) الضاد والياء والفاء أصلٌ واحدٌ صحيح، يدلُّ على مَيل الشيء إلى الشيء. يقال أَضَفْتُ الشَّيءَ إلى الشَّيء: أمَلْتهُ. وضافت الشمس تَضِيف:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضيع - ضيف\n\n(ضيف) الضاد والياء والفاء أصلٌ واحدٌ صحيح، يدلُّ على مَيل الشيء إلى الشيء. يقال أَضَفْتُ الشَّيءَ إلى الشَّيء: أمَلْتهُ. وضافت الشمس تَضِيف:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ḍ-y-f the sides of a valley or a mountain; to add something\nto something else; (of the sun) to be near the time of setting; to\nhost, to seek someone’s hospitality; to fear, to be cautious. Of this\nroot, two forms occur five times in the Qurʾan: يضيّف yuḍayyif\nonce and ضيف ḍayf five times.\n\nيضيّف yuḍayyif [imperf. of v. II ضيّف ḍayyafa, trans.] to take in\nas a guest, to proffer hospitality (18:77) استطعما أهلها فأبوا أن يضيّفوهما\nthey approached its inhabitants for food, but they refused to give\nthem hospitality.\n\nضيف ḍayf [invariable n.] guest/guests (15:68) إنّ هؤلاء ضيفي فلا\nتفضحون these are my guests, so do not disgrace me.",
+      "definition_english": "ḍ-y-f the sides of a valley or a mountain; to add something\nto something else; (of the sun) to be near the time of setting; to\nhost, to seek someone’s hospitality; to fear, to be cautious. Of this\nroot, two forms occur five times in the Qurʾan: يضيّف yuḍayyif\nonce and ضيف ḍayf five times.\n\nيضيّف yuḍayyif [imperf. of v. II ضيّف ḍayyafa, trans.] to take in\nas a guest, to proffer hospitality (18:77) استطعما أهلها فأبوا أن يضيّفوهما\nthey approached its inhabitants for food, but they refused to give\nthem hospitality.\n\nضيف ḍayf [invariable n.] guest/guests (15:68) إنّ هؤلاء ضيفي فلا\nتفضحون these are my guests, so do not disgrace me."
+    }
+  ],
   "occurrences": [
     "11:78:22",
     "15:51:3",

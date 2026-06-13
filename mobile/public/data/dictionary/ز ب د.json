@@ -1,9 +1,17 @@
 {
-  "id": 1719,
   "root": "ز ب د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزيف - زأر\n\n(زبد) الزاء والباء والدال أصلٌ واحدٌ يدلُّ على تولُّد شيءٍ عن شيء. من ذلك زَبَدُ الماءِ وغيرِه. يقال أزْبَدَ إزْباداً. والزُّبد من ذلك أيضاً. يقال زَبَدْتُ الصبي أزبُده، إذا أطعمتَه الزُّبد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزيف - زأر\n\n(زبد) الزاء والباء والدال أصلٌ واحدٌ يدلُّ على تولُّد شيءٍ عن شيء. من ذلك زَبَدُ الماءِ وغيرِه. يقال أزْبَدَ إزْباداً. والزُّبد من ذلك أيضاً. يقال زَبَدْتُ الصبي أزبُده، إذا أطعمتَه الزُّبد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-b-d froth, foam, scum; butter; essence; to be angry. Of this root, only زَبَد zabad occurs once in the Qur’an.\nزَبَد zabad [n.] foam, scum, froth (13:17) فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ as for the froth it vanishes with no consequence, but that which benefits humankind remains in the earth.",
+      "definition_english": "z-b-d froth, foam, scum; butter; essence; to be angry. Of this root, only زَبَد zabad occurs once in the Qur’an.\nزَبَد zabad [n.] foam, scum, froth (13:17) فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ as for the froth it vanishes with no consequence, but that which benefits humankind remains in the earth."
+    }
+  ],
   "occurrences": [
     "13:17:10",
     "13:17:21",

@@ -1,8 +1,11 @@
 {
-  "id": 2343,
   "root": "ض ب ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضبح - ضبد\n\n(ضبز) الضاد والباء والزاء. يقولون الضَّبْز: شدّة اللَّحظ ولا معنَى لهذا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضبح - ضبد\n\n(ضبز) الضاد والباء والزاء. يقولون الضَّبْز: شدّة اللَّحظ ولا معنَى لهذا.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

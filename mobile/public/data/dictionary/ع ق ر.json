@@ -1,9 +1,17 @@
 {
-  "id": 2523,
   "root": "ع ق ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعقر\n\nوممّا يشبه هذا الأصل قولُهم للقصير أعْقَد. وإنما قيل لـه ذلك لأنّه كأنّه عُقْدَة. والعُقْد: القِصَار. قال:\n\nإذا سَدَّدُوها غير عُقْدٍ ولا عُصْلِ\n\nماذيّة الخُرْصان زُرق نصالها\n\n(عقر) العين والقاف والراء أصلان متباعدٌ ما بينهما، وكلُّ واحد منهما مُطَّرِدٌ في معناه، جامعٌ لمعاني فُروعه. فالأول الجَرْح أو ما يشبه الجَرح من الهَزْم في الشيء. والثاني دالٌّ على ثباتٍ ودوام.\n\nفالأوّل قول الخليل: العَقْرُ كالجَرْح، يقال: عَقَرت الفرسَ، أي كَسَعْتُ قوائمَه بالسَّيف. وفرسٌ عقير ومعقور. وخَيلٌ عَقْرَى. قال زياد :\n\nكُومَ الهِجان وكلَّ طِرفٍ سابحِ\n\nوإذا مررت بقبرِهِ فاعقِرْ به\n\nوقال لبيد:\n\nرَفَع القوادمَ كالعقير الأعزلِ\n\nلَمَّا رأى لُبَدُ النُّسُورَ تطايرت\n\nشبَّه النَّسرَ بالفرس المعقور. وتُعقَر النّاقة حتى تسقط، فإذا سقطت نَحَرَها مستمكناً منها. قال امرؤ القيس:\n\nفيا عجباً لرَحلِها المُتَحمِّلِ\n\nويوم عقَرتُ للِعذارى مَطِيَّتي",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعقر\n\nوممّا يشبه هذا الأصل قولُهم للقصير أعْقَد. وإنما قيل لـه ذلك لأنّه كأنّه عُقْدَة. والعُقْد: القِصَار. قال:\n\nإذا سَدَّدُوها غير عُقْدٍ ولا عُصْلِ\n\nماذيّة الخُرْصان زُرق نصالها\n\n(عقر) العين والقاف والراء أصلان متباعدٌ ما بينهما، وكلُّ واحد منهما مُطَّرِدٌ في معناه، جامعٌ لمعاني فُروعه. فالأول الجَرْح أو ما يشبه الجَرح من الهَزْم في الشيء. والثاني دالٌّ على ثباتٍ ودوام.\n\nفالأوّل قول الخليل: العَقْرُ كالجَرْح، يقال: عَقَرت الفرسَ، أي كَسَعْتُ قوائمَه بالسَّيف. وفرسٌ عقير ومعقور. وخَيلٌ عَقْرَى. قال زياد :\n\nكُومَ الهِجان وكلَّ طِرفٍ سابحِ\n\nوإذا مررت بقبرِهِ فاعقِرْ به\n\nوقال لبيد:\n\nرَفَع القوادمَ كالعقير الأعزلِ\n\nلَمَّا رأى لُبَدُ النُّسُورَ تطايرت\n\nشبَّه النَّسرَ بالفرس المعقور. وتُعقَر النّاقة حتى تسقط، فإذا سقطت نَحَرَها مستمكناً منها. قال امرؤ القيس:\n\nفيا عجباً لرَحلِها المُتَحمِّلِ\n\nويوم عقَرتُ للِعذارى مَطِيَّتي",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–q–r the main part of one’s dwelling, real estate, landed\nproperty, residence; furniture; to slay by stabbing, to wound, to be\nsavaged by an animal; to be barren, to be sterile; to be alcoholic;\nmedicine. Of this root, two forms occur eight times in the Qur’an:\nعَقَرَ ʿaqara five times and عَاقِر ʿāqir three times.\n\nعَقَرَ ʿaqara i [v. trans.] to hamstring, to kill by stabbing (7:77)\nفَعَقَرُوا النَّاقَةَ and then they hamstrung the she-camel.\n\nعَاقِر ʿāqir [quasi-act. part.] barren, unable to bear a child (3:40)\nوَامْرَأَتِي عَاقِرٌ and my wife is barren.",
+      "definition_english": "ʿ–q–r the main part of one’s dwelling, real estate, landed\nproperty, residence; furniture; to slay by stabbing, to wound, to be\nsavaged by an animal; to be barren, to be sterile; to be alcoholic;\nmedicine. Of this root, two forms occur eight times in the Qur’an:\nعَقَرَ ʿaqara five times and عَاقِر ʿāqir three times.\n\nعَقَرَ ʿaqara i [v. trans.] to hamstring, to kill by stabbing (7:77)\nفَعَقَرُوا النَّاقَةَ and then they hamstrung the she-camel.\n\nعَاقِر ʿāqir [quasi-act. part.] barren, unable to bear a child (3:40)\nوَامْرَأَتِي عَاقِرٌ and my wife is barren."
+    }
+  ],
   "occurrences": [
     "11:65:1",
     "19:5:8",

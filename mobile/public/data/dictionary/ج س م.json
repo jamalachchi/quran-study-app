@@ -1,9 +1,17 @@
 {
-  "id": 617,
   "root": "ج س م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجزح - جزر\n\n(جسم) الجيم والسين والميم يدلُّ على تجمُّع الشيء. فالجسم كلُّ شخصٍ مُدْرَكٍ. كذا قال ابن دريد . والجَسيم: العظيم الجِسم، وكذلك الجُسام. والجُسْمان: الشخص.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجزح - جزر\n\n(جسم) الجيم والسين والميم يدلُّ على تجمُّع الشيء. فالجسم كلُّ شخصٍ مُدْرَكٍ. كذا قال ابن دريد . والجَسيم: العظيم الجِسم، وكذلك الجُسام. والجُسْمان: الشخص.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "j–s–m group of people or animals, body; to become large, to become great; to select, to undertake, difficulties, wise people. Of this root, two words occur once each in the Qurʾan: جِسْم jism and أَجْسَام ʾajsām.\nجِسْم jism [n., pl. أَجْسَام ʾajsām] body, physical constitution (63:4) وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ and when you see them their physical constitutions impress you.",
+      "definition_english": "j–s–m group of people or animals, body; to become large, to become great; to select, to undertake, difficulties, wise people. Of this root, two words occur once each in the Qurʾan: جِسْم jism and أَجْسَام ʾajsām.\nجِسْم jism [n., pl. أَجْسَام ʾajsām] body, physical constitution (63:4) وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ and when you see them their physical constitutions impress you."
+    }
+  ],
   "occurrences": [
     "2:247:35",
     "63:4:4"

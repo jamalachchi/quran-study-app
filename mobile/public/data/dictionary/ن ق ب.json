@@ -1,9 +1,22 @@
 {
-  "id": 4085,
   "root": "ن ق ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنقب\n\nأخَذتَ أفضلَه وأخلَصَه. والنُّقَاوة: أفضَلُ ما انتقَيْت من شيء. والنَّقَاة: الرّديُّ فيما يقال، كأنَّه الذي انتُقِيَ فطُرِح وقال بعضهم: نَقاة كلِّ شيء: ردِيُّه إلا التَّمْر، فإنَّ نَقَاتَه خِيارُه.\n\nوفي الباب النِّقْيُ: مُخُّ العظام، سمِّيَ لخُلوصه ونظافته. ويقال لشَحْمة العَين من الشَّاة السَّمينة وغيرِها: النِّقْي. وناقةٌ لا تُنقِي. قال:\n\nمن لحم مُنْقيةٍ ومن أكبادِ\n\nحاموا على أضيافهم فشوَوْا لهم\n\nوأمَّا الفرّاء فزعَم أنّ الأنقاء: كلُّ عظمٍ ذي مُخّ. وهذا إنْ صحَّ فهو على تسمية العرب الشَّيءَ باسم غيرِه إذا كان مُجاوراً له.\n\n(نقب) النون والقاف والباء أصلٌ صحيح يدلُّ على فَتح في شيء. ونقَب الحائطَ ينقُبه نَقْباً. والبَيطارُ ينقُبُ سُرَّةَ الدّابّة ليخرج منها ماء. وتلك الحديدة مِنْقب. وكلبٌ نقيبٌ: نُقِبَتْ غَلْصَمتُه ليضعُفَ صوته، يَفعلُه اللِّئامُ لئلاّ يسمَعَ صوتَه الضَّيْف . والنَّاقِبة: قَرْحةٌ تخرج بالجَنْب تهجم على الجَوف . ونَقِبَ خُفُّ البعير: تخَرَّق نَقَباً. والنُّقْبة: أوّل الجَرَب يبدو. والجمع نُقَب. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنقب\n\nأخَذتَ أفضلَه وأخلَصَه. والنُّقَاوة: أفضَلُ ما انتقَيْت من شيء. والنَّقَاة: الرّديُّ فيما يقال، كأنَّه الذي انتُقِيَ فطُرِح وقال بعضهم: نَقاة كلِّ شيء: ردِيُّه إلا التَّمْر، فإنَّ نَقَاتَه خِيارُه.\n\nوفي الباب النِّقْيُ: مُخُّ العظام، سمِّيَ لخُلوصه ونظافته. ويقال لشَحْمة العَين من الشَّاة السَّمينة وغيرِها: النِّقْي. وناقةٌ لا تُنقِي. قال:\n\nمن لحم مُنْقيةٍ ومن أكبادِ\n\nحاموا على أضيافهم فشوَوْا لهم\n\nوأمَّا الفرّاء فزعَم أنّ الأنقاء: كلُّ عظمٍ ذي مُخّ. وهذا إنْ صحَّ فهو على تسمية العرب الشَّيءَ باسم غيرِه إذا كان مُجاوراً له.\n\n(نقب) النون والقاف والباء أصلٌ صحيح يدلُّ على فَتح في شيء. ونقَب الحائطَ ينقُبه نَقْباً. والبَيطارُ ينقُبُ سُرَّةَ الدّابّة ليخرج منها ماء. وتلك الحديدة مِنْقب. وكلبٌ نقيبٌ: نُقِبَتْ غَلْصَمتُه ليضعُفَ صوته، يَفعلُه اللِّئامُ لئلاّ يسمَعَ صوتَه الضَّيْف . والنَّاقِبة: قَرْحةٌ تخرج بالجَنْب تهجم على الجَوف . ونَقِبَ خُفُّ البعير: تخَرَّق نَقَباً. والنُّقْبة: أوّل الجَرَب يبدو. والجمع نُقَب. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "يُنْفَى yunfā [pass. imperf. of v. نَفَى nafā] to be exiled, to be\nbanished (5:33) أَوْ يُنْفَوْا مِنَ الْأَرْضِ or they will be banished from the\nland.",
+      "definition_english": "يُنْفَى yunfā [pass. imperf. of v. نَفَى nafā] to be exiled, to be\nbanished (5:33) أَوْ يُنْفَوْا مِنَ الْأَرْضِ or they will be banished from the\nland."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–q–b perforation on a camel’s hooves; to pierce, to dig, to\ndig up; to search; nature, disposition, good character, good deeds;\nchief; veil, to wear a veil. Of this root, three forms occur once\neach in the Qur’an: نَقَّبَ naqqaba; نَقْب naqb and نَقِيب naqīb.\n\nنَقَّبَ naqqaba [v. II intrans.] to search high and low, to wander\nall over the earth (50:36) فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ so they searched\nthroughout the land; [have they found] any escape?\n\nنَقْب naqb [v. n.] the act of making a hole, piercing; preaching\n(18:97) فَمَا اسْطَاعُوا أَنْ يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا so they could not scale\nit, nor could they pierce it.\n\nنَقِيب naqīb [n.] leader, chief, chieftain (5:12) وَبَعَثْنَا مِنْهُمُ اثْنَيْ\nعَشَرَ نَقِيبًا and out of them We appointed twelve leaders.",
+      "definition_english": "n–q–b perforation on a camel’s hooves; to pierce, to dig, to\ndig up; to search; nature, disposition, good character, good deeds;\nchief; veil, to wear a veil. Of this root, three forms occur once\neach in the Qur’an: نَقَّبَ naqqaba; نَقْب naqb and نَقِيب naqīb.\n\nنَقَّبَ naqqaba [v. II intrans.] to search high and low, to wander\nall over the earth (50:36) فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ so they searched\nthroughout the land; [have they found] any escape?\n\nنَقْب naqb [v. n.] the act of making a hole, piercing; preaching\n(18:97) فَمَا اسْطَاعُوا أَنْ يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا so they could not scale\nit, nor could they pierce it.\n\nنَقِيب naqīb [n.] leader, chief, chieftain (5:12) وَبَعَثْنَا مِنْهُمُ اثْنَيْ\nعَشَرَ نَقِيبًا and out of them We appointed twelve leaders."
+    }
+  ],
   "occurrences": [
     "18:97:8",
     "50:36:10",

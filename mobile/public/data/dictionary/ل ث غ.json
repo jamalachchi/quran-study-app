@@ -1,8 +1,11 @@
 {
-  "id": 3507,
   "root": "ل ث غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلبأ\n\n(لثغ) اللام والثاء والغين. يقولون: اللُّثْغة في اللسان أن يقلب الرّاء غيناً والسِّين ثاء .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلبأ\n\n(لثغ) اللام والثاء والغين. يقولون: اللُّثْغة في اللسان أن يقلب الرّاء غيناً والسِّين ثاء .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

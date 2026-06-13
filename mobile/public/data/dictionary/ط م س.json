@@ -1,9 +1,17 @@
 {
-  "id": 2406,
   "root": "ط م س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الطاء\n\nطلق\n\n(طمس) الطاء والميم والسين أصلٌ يدلُّ على محوِ الشيء ومسحِهِ. يقال طَمَسْتُ الخَطَّ، وطَمست الأثرَ. والشيءُ طامسٌ أيضاً. وقد طَمَسَ هو بنفسهِ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الطاء\n\nطلق\n\n(طمس) الطاء والميم والسين أصلٌ يدلُّ على محوِ الشيء ومسحِهِ. يقال طَمَسْتُ الخَطَّ، وطَمست الأثرَ. والشيءُ طامسٌ أيضاً. وقد طَمَسَ هو بنفسهِ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t–m–s to be effaced, to be obliterated, to be blotted out, to be wiped out; to go far; to reckon. Of this root, two forms occur five times in the Qur’an: طَمَس ṭamasa four times and طُمِسَ ṭumisa once.\nطَمَسَ ṭamasa i [v., trans.] 1 to obliterate, to fill in, to blot out\n\n572 ط/م/ع\n\n(54:37) فَطَمَسْنَا أَعْيُنَهُمْ so, We blotted out their eyes 2 to deprive of guidance (4:47) يَاأَيُّهَا الَّذِينَ أُوتُوا الْكِتَابَ ءَامِنُوا بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَى أَدْبَارِهَا you who have been given the Book, believe in what We have sent down confirming what you already have, before We wipe out [any] directions and turn them [all] backwards [lit. before we obliterate faces and turn them upon their backs] (i.e. deprive you of Our guidance) 3 to render useless, to destroy (10:88) رَبَّنَا اطْمِسْ عَلَى أَمْوَالِهِمْ وَاشْدُدْ عَلَى قُلُوبِهِمْ our Lord, render their wealth useless and harden their hearts 4 to reverse, to turn something back to front (in an interpretation of verse 4:47) مِن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَى أَدْبَارِهَا before we turn some faces back to front (i.e. turn you on your heels).\n\nطُمِسَ ṭumisa [pass. v.] to be obliterated, to be blotted out, to be dimmed (77:8) وَإِذَا النُّجُومُ طُمِسَتْ and when the stars are dimmed.",
+      "definition_english": "t–m–s to be effaced, to be obliterated, to be blotted out, to be wiped out; to go far; to reckon. Of this root, two forms occur five times in the Qur’an: طَمَس ṭamasa four times and طُمِسَ ṭumisa once.\nطَمَسَ ṭamasa i [v., trans.] 1 to obliterate, to fill in, to blot out\n\n572 ط/م/ع\n\n(54:37) فَطَمَسْنَا أَعْيُنَهُمْ so, We blotted out their eyes 2 to deprive of guidance (4:47) يَاأَيُّهَا الَّذِينَ أُوتُوا الْكِتَابَ ءَامِنُوا بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَى أَدْبَارِهَا you who have been given the Book, believe in what We have sent down confirming what you already have, before We wipe out [any] directions and turn them [all] backwards [lit. before we obliterate faces and turn them upon their backs] (i.e. deprive you of Our guidance) 3 to render useless, to destroy (10:88) رَبَّنَا اطْمِسْ عَلَى أَمْوَالِهِمْ وَاشْدُدْ عَلَى قُلُوبِهِمْ our Lord, render their wealth useless and harden their hearts 4 to reverse, to turn something back to front (in an interpretation of verse 4:47) مِن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَى أَدْبَارِهَا before we turn some faces back to front (i.e. turn you on your heels).\n\nطُمِسَ ṭumisa [pass. v.] to be obliterated, to be blotted out, to be dimmed (77:8) وَإِذَا النُّجُومُ طُمِسَتْ and when the stars are dimmed."
+    }
+  ],
   "occurrences": [
     "10:88:18",
     "36:66:3",

@@ -1,9 +1,17 @@
 {
-  "id": 3860,
   "root": "ن و ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنوي\n\n(نوب) النون والواو والباء كلمةٌ واحدة تدلُّ على اعتياد مكان ورجوعٍ إليه. وناب يَنُوبُ، وانتاب ينتاب. ويقال إنَّ النُّوبَ: النَّحل، قالوا: وسمِّيَت به لرَعْيها ونَوْبِها إلى مكانها. وقد قيل إنَّه جمع نائب. وقول أبي ذؤيب:\n\nكما يَهْتاجُ مَوْشِيٌّ قَشِيبُ\n\nأرِقْتُ لذِكرِهِ من غير نَوْبٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنوي\n\n(نوب) النون والواو والباء كلمةٌ واحدة تدلُّ على اعتياد مكان ورجوعٍ إليه. وناب يَنُوبُ، وانتاب ينتاب. ويقال إنَّ النُّوبَ: النَّحل، قالوا: وسمِّيَت به لرَعْيها ونَوْبِها إلى مكانها. وقد قيل إنَّه جمع نائب. وقول أبي ذؤيب:\n\nكما يَهْتاجُ مَوْشِيٌّ قَشِيبُ\n\nأرِقْتُ لذِكرِهِ من غير نَوْبٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–w–b affliction, a seizure, calamity; to visit, to deputise; to\ntake turns, a shift; to go back, to revert, to repent. Of this root,\nthree forms occur 18 times in the Qur’an: أَنَاب ʾanāba 11 times;\nمُنِيب munīb five times and مُنِيبُون munībūn twice.\n\nأَنَاب ʾanāba [v. IV intrans.] to go back, to repent, to turn (to\nGod) (40:13) وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ but only those who turn to God\nwill take heed.\n\nمُنِيب munīb [act. part., pl. مُنِيبُون munībūn] one who repents, one\nwho turns (to God) (39:8) وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ when\nharm afflicts man, he calls to his Lord, turning to Him.",
+      "definition_english": "n–w–b affliction, a seizure, calamity; to visit, to deputise; to\ntake turns, a shift; to go back, to revert, to repent. Of this root,\nthree forms occur 18 times in the Qur’an: أَنَاب ʾanāba 11 times;\nمُنِيب munīb five times and مُنِيبُون munībūn twice.\n\nأَنَاب ʾanāba [v. IV intrans.] to go back, to repent, to turn (to\nGod) (40:13) وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ but only those who turn to God\nwill take heed.\n\nمُنِيب munīb [act. part., pl. مُنِيبُون munībūn] one who repents, one\nwho turns (to God) (39:8) وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ when\nharm afflicts man, he calls to his Lord, turning to Him."
+    }
+  ],
   "occurrences": [
     "11:75:5",
     "11:88:35",

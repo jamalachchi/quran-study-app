@@ -1,9 +1,17 @@
 {
-  "id": 3859,
   "root": "ن و ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنوي\n\n(باب النون والواو وما يثلثهما)\n\n(نوي) النون والواو والحرف المعتلّ أصلٌ صحيح يدلُّ على معنيين: أحدهما مَقْصَدٌ لشيء، والآخر عَجَمُ شيء.\n\nفالأوَّل النَّوَى. قال أهلُ اللغة: النَّوَى: التَّحَوُّل من دار إلى دار. هذا هو الأصل، ثم حمل عليه البابُ كلُّه فقالوا: [نوَى] الأمرَ يَنوِيه، إذا قَصَدَ له. وممَّا يصحِّح هذهِ التآويلَ قولُهم: نَوَاه الله، كأنَّه قَصَدَه بالحِفْظِ والحِياطة. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنوي\n\n(باب النون والواو وما يثلثهما)\n\n(نوي) النون والواو والحرف المعتلّ أصلٌ صحيح يدلُّ على معنيين: أحدهما مَقْصَدٌ لشيء، والآخر عَجَمُ شيء.\n\nفالأوَّل النَّوَى. قال أهلُ اللغة: النَّوَى: التَّحَوُّل من دار إلى دار. هذا هو الأصل، ثم حمل عليه البابُ كلُّه فقالوا: [نوَى] الأمرَ يَنوِيه، إذا قَصَدَ له. وممَّا يصحِّح هذهِ التآويلَ قولُهم: نَوَاه الله، كأنَّه قَصَدَه بالحِفْظِ والحِياطة. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–w–y a fruit stone; home, to leave home; direction, intention,\nto intend, to determine. Of this root, نَوَى nawā, occurs once in the\nQur’an.\n\nنَوَى nawā [coll. n., sing. نَوَاة nawātun] fruit stones, particularly\nthose of the date (6:95) إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ God it is who splits\nopen the seed and the fruit stones.",
+      "definition_english": "n–w–y a fruit stone; home, to leave home; direction, intention,\nto intend, to determine. Of this root, نَوَى nawā, occurs once in the\nQur’an.\n\nنَوَى nawā [coll. n., sing. نَوَاة nawātun] fruit stones, particularly\nthose of the date (6:95) إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ God it is who splits\nopen the seed and the fruit stones."
+    }
+  ],
   "occurrences": [
     "6:95:5"
   ]

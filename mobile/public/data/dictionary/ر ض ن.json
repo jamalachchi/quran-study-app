@@ -1,8 +1,11 @@
 {
-  "id": 1406,
   "root": "ر ض ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرضف - رضم\n\n(رضن) الراء والضاد والنون تشبه الباب الذي قبلها. فالمرضون من الحجارة: المَنْضود.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرضف - رضم\n\n(رضن) الراء والضاد والنون تشبه الباب الذي قبلها. فالمرضون من الحجارة: المَنْضود.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

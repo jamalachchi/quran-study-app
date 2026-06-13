@@ -1,8 +1,11 @@
 {
-  "id": 3487,
   "root": "ل ا ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(لاع) اللام والألف والعين، اللاَّعُ: الرَّجُل الجَبَان؛ يقال هاعٌ لاعٌ، وهائع لائع، أي جَبان.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلوح - لوذ\n\n(لاع) اللام والألف والعين، اللاَّعُ: الرَّجُل الجَبَان؛ يقال هاعٌ لاعٌ، وهائع لائع، أي جَبان.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,8 +1,11 @@
 {
-  "id": 1789,
   "root": "س ك م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسقع - سقف\n\n(سكم) السين والكاف والميم ليس بشيء. على أنَّ بعضهم ذكر أن السكم مقَارَبة الخطو.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسقع - سقف\n\n(سكم) السين والكاف والميم ليس بشيء. على أنَّ بعضهم ذكر أن السكم مقَارَبة الخطو.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

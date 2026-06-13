@@ -1,9 +1,17 @@
 {
-  "id": 1800,
   "root": "س ل خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسلب\n\n(سلخ) السين واللام والخاء أصلٌ واحد، وهو إخراج الشيء عن جلده. ثم يُحْمَل عليه. والأصل سلخْتُ جلدةَ الشاةِ سلخاً. والسِّلْخ: جلد الحية تنسلخ. ويقال أسود سالخ لأنَّه يسلخ جلده كلَّ عام فيما يقال. وحكى بعضُهم سلختِ المرأة دِرْعَها: نزعَتْهُ. ومن قياس الباب: سلخت الشَّهرَ، إذا صرتَ في آخر يومه. وهذا مجاز. وانسلخَ الشَّهرُ، وانسلخ النَّهارُ من الليل المقْبِل. ومن الباب نخلة مِسْلاخٌ، وهي التي تنثُر بُسرَها أخضر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسلب\n\n(سلخ) السين واللام والخاء أصلٌ واحد، وهو إخراج الشيء عن جلده. ثم يُحْمَل عليه. والأصل سلخْتُ جلدةَ الشاةِ سلخاً. والسِّلْخ: جلد الحية تنسلخ. ويقال أسود سالخ لأنَّه يسلخ جلده كلَّ عام فيما يقال. وحكى بعضُهم سلختِ المرأة دِرْعَها: نزعَتْهُ. ومن قياس الباب: سلخت الشَّهرَ، إذا صرتَ في آخر يومه. وهذا مجاز. وانسلخَ الشَّهرُ، وانسلخ النَّهارُ من الليل المقْبِل. ومن الباب نخلة مِسْلاخٌ، وهي التي تنثُر بُسرَها أخضر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–l–kh to strip off the hide, or skin, of an animal, to pull off; to bone, to extricate; (of months) to pass away, to depart. Of this root, two forms occur three times in the Qurʾan: نسلخ naslakh once and انسلخ ʾinsalakha twice.\n447\n\nنسلخ naslakh [imperf. of v. سلخ salakha, trans.] to extricate, to peel off, to strip away (36:37) وآية لهم الليل نسلخ منه النهار فإذا هم مظلمون and a sign for them is the night, from which We strip the daylight, and–lo and behold!–they are in darkness.\n\nانسلخ ʾinsalakha [v. VII, intrans.] 1 to pass away, to become detached (9:5) فإذا انسلخ الأشهر الحرم when the [four] forbidden months have passed 2 to cast off, to abandon, to forsake (7:175) واتل عليهم نبأ الذي آتيناه آياتنا فانسلخ منها and recite to them the story of the one We gave Our messages, yet he tore himself away from them.\n\nسلسَبيل salsabīl, a quintupal word, occurring once in the Qurʾan. It is also classified under various other roots: س/ل/س s–l–s (to be smooth, easy flowing, soft, easy of manner); ل/س/ل/س s–l–s–l (to be sweet and thirst quenching); and ل/س/ل s–l–l (to extract gently and unobtrusively). Also said to be a borrowing.\n\nسلسَبيل salsabīl [quasi-act. part.; n.] palatable and easy on the gullet; choicest of wine; proper name for a spring in Paradise (76:17–18) ويسقون فيها كأسا كان مزاجها زنجبيلا عينا فيها تسمى سلسبيلا and they will be given a drink infused with ginger from a spring called Salsabil.",
+      "definition_english": "s–l–kh to strip off the hide, or skin, of an animal, to pull off; to bone, to extricate; (of months) to pass away, to depart. Of this root, two forms occur three times in the Qurʾan: نسلخ naslakh once and انسلخ ʾinsalakha twice.\n447\n\nنسلخ naslakh [imperf. of v. سلخ salakha, trans.] to extricate, to peel off, to strip away (36:37) وآية لهم الليل نسلخ منه النهار فإذا هم مظلمون and a sign for them is the night, from which We strip the daylight, and–lo and behold!–they are in darkness.\n\nانسلخ ʾinsalakha [v. VII, intrans.] 1 to pass away, to become detached (9:5) فإذا انسلخ الأشهر الحرم when the [four] forbidden months have passed 2 to cast off, to abandon, to forsake (7:175) واتل عليهم نبأ الذي آتيناه آياتنا فانسلخ منها and recite to them the story of the one We gave Our messages, yet he tore himself away from them.\n\nسلسَبيل salsabīl, a quintupal word, occurring once in the Qurʾan. It is also classified under various other roots: س/ل/س s–l–s (to be smooth, easy flowing, soft, easy of manner); ل/س/ل/س s–l–s–l (to be sweet and thirst quenching); and ل/س/ل s–l–l (to extract gently and unobtrusively). Also said to be a borrowing.\n\nسلسَبيل salsabīl [quasi-act. part.; n.] palatable and easy on the gullet; choicest of wine; proper name for a spring in Paradise (76:17–18) ويسقون فيها كأسا كان مزاجها زنجبيلا عينا فيها تسمى سلسبيلا and they will be given a drink infused with ginger from a spring called Salsabil."
+    }
+  ],
   "occurrences": [
     "36:37:4",
     "7:175:7",

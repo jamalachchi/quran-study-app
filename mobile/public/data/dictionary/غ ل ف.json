@@ -1,9 +1,17 @@
 {
-  "id": 2761,
   "root": "غ ل ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغلب\n\n(غلف) الغين واللام والفاء كلمةٌ واحدةٌ صحيحة، تدلُّ على غِشاوةٍ وغِشيانِ شيء لشيء. يقال: غِلافُ السَّيفِ والسِّكِّين. وقَلبٌ أغلَفُ: كأنَّما أُغشِيَ غِلافاً فهو لا يَعي شيئاً. قال الله تعالى: ] وَقَالُوا قُلُوبُنا غُلْفٌ [ [البقرة 88]، أي أُغشِيَتْ شيئاً فهي لا تَعي. وقرئت : ] غُلُفٌ [ ، أي أوعيةٌ للعِلْم. والقياس في ذلك كله واحد. ويقولون: تغَلَّف بالغالية، وليس ببعيدٍ ممّا ذكرناه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغلب\n\n(غلف) الغين واللام والفاء كلمةٌ واحدةٌ صحيحة، تدلُّ على غِشاوةٍ وغِشيانِ شيء لشيء. يقال: غِلافُ السَّيفِ والسِّكِّين. وقَلبٌ أغلَفُ: كأنَّما أُغشِيَ غِلافاً فهو لا يَعي شيئاً. قال الله تعالى: ] وَقَالُوا قُلُوبُنا غُلْفٌ [ [البقرة 88]، أي أُغشِيَتْ شيئاً فهي لا تَعي. وقرئت : ] غُلُفٌ [ ، أي أوعيةٌ للعِلْم. والقياس في ذلك كله واحد. ويقولون: تغَلَّف بالغالية، وليس ببعيدٍ ممّا ذكرناه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–l–f to cover, to wrap, to seal; to be uncircumcised; to be covered with vegetation. Of this root, only غُلْف ghulf occurs twice in the Qurʾan.\nغُلْف ghulf [pl. of quasi-act. part. أَغْلَف ʾaghlaf] enveloped, sealed up (2:88) وَقَالُوا قُلُوبُنَا غُلْفٌ they say, ‘Our hearts are impenetrably wrapped up [against whatever you say]’.",
+      "definition_english": "gh–l–f to cover, to wrap, to seal; to be uncircumcised; to be covered with vegetation. Of this root, only غُلْف ghulf occurs twice in the Qurʾan.\nغُلْف ghulf [pl. of quasi-act. part. أَغْلَف ʾaghlaf] enveloped, sealed up (2:88) وَقَالُوا قُلُوبُنَا غُلْفٌ they say, ‘Our hearts are impenetrably wrapped up [against whatever you say]’."
+    }
+  ],
   "occurrences": [
     "2:88:3",
     "4:155:13"

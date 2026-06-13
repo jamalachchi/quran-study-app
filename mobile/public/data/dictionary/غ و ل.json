@@ -1,9 +1,17 @@
 {
-  "id": 2786,
   "root": "غ و ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغوج - غور\n\n(غول) الغين والواو واللام أصلٌ صحيح يدلُّ على خَتْل وأخْذٍ من حيث لا يدري. يقال: غالَهُ يَغُوله: أخَذَهُ من حيث لم يدرِ. قالوا: والغَوْل: بُعْدُ المَفَازَة، لأنَّه يغتالُ من مَرَّ به. قال:\n\n* به تمَطَّتْ غَوْلَ كلِّ مِيلَهِ *\n\nوالغُول من السَّعالي سمِّيت لأنها تغتال. والغِيلة: الاغتيال، والياء واوٌ في الأصل. والمِغْوَل: سيفٌ دقيق له قَفَاً؛ وأظنه سمِّي مِغْوَلاً لأنَّهُ يُسْتَرُ بقرابٍ حتى لا يُدرى ما فيه. والله أعلم.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغوج - غور\n\n(غول) الغين والواو واللام أصلٌ صحيح يدلُّ على خَتْل وأخْذٍ من حيث لا يدري. يقال: غالَهُ يَغُوله: أخَذَهُ من حيث لم يدرِ. قالوا: والغَوْل: بُعْدُ المَفَازَة، لأنَّه يغتالُ من مَرَّ به. قال:\n\n* به تمَطَّتْ غَوْلَ كلِّ مِيلَهِ *\n\nوالغُول من السَّعالي سمِّيت لأنها تغتال. والغِيلة: الاغتيال، والياء واوٌ في الأصل. والمِغْوَل: سيفٌ دقيق له قَفَاً؛ وأظنه سمِّي مِغْوَلاً لأنَّهُ يُسْتَرُ بقرابٍ حتى لا يُدرى ما فيه. والله أعلم.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "gh–w–l to kill by stealth; to devour; to overwhelm, to deprive of reason, intoxication, materials affecting the mind or judgement; to seize; ghoul, troll, adder. Of this root, only غَوْل ghawl occurs once in the Qurʾan.\nغَوْل ghawl [v. n./n.] intoxication, inebriation, depriving one of his reason (37:45–7) يُطَافُ عَلَيْهِمْ بِكَأْسٍ [...] لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ a drink will be passed around among them [...] containing nothing that obliterates reason and they will not be intoxicated by it.",
+      "definition_english": "gh–w–l to kill by stealth; to devour; to overwhelm, to deprive of reason, intoxication, materials affecting the mind or judgement; to seize; ghoul, troll, adder. Of this root, only غَوْل ghawl occurs once in the Qurʾan.\nغَوْل ghawl [v. n./n.] intoxication, inebriation, depriving one of his reason (37:45–7) يُطَافُ عَلَيْهِمْ بِكَأْسٍ [...] لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ a drink will be passed around among them [...] containing nothing that obliterates reason and they will not be intoxicated by it."
+    }
+  ],
   "occurrences": [
     "37:47:3"
   ]

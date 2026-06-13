@@ -1,9 +1,22 @@
 {
-  "id": 3392,
   "root": "ك س د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكسع - كسف\n\n(كسد) الكاف والسين والدال أصلٌ صحيح يدلُّ على الشَّيء الدُّون لا يُرغَب فيه. من ذلك: كَسَد الشَّيءُ كَساداً فهو كاسد وكَسِيد. وكلُّ دونٍ كَسِيد. قال:\n\n* فماجدٌ وكسيدُ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكسع - كسف\n\n(كسد) الكاف والسين والدال أصلٌ صحيح يدلُّ على الشَّيء الدُّون لا يُرغَب فيه. من ذلك: كَسَد الشَّيءُ كَساداً فهو كاسد وكَسِيد. وكلُّ دونٍ كَسِيد. قال:\n\n* فماجدٌ وكسيدُ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "(2:225) لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ God will\nnot take you to account for oaths you have uttered\nunintentionally, but He will take you to account for what your\nhearts have intended.\n\nاِكْتَسَبَ ʾiktasaba [v. VIII, trans.] to commit, to acquire a bad\nthing (2:286) لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ God\ndoes not burden any soul beyond its capacity: for it is [only] that\nwhich it has gained and against it [only] that which it has\ncommitted.",
+      "definition_english": "(2:225) لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ God will\nnot take you to account for oaths you have uttered\nunintentionally, but He will take you to account for what your\nhearts have intended.\n\nاِكْتَسَبَ ʾiktasaba [v. VIII, trans.] to commit, to acquire a bad\nthing (2:286) لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ God\ndoes not burden any soul beyond its capacity: for it is [only] that\nwhich it has gained and against it [only] that which it has\ncommitted."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–s–d (of the market) to be dull, market depression, to be\nsluggish, to be stagnant. Of this root, كَسَاد kasād occurs once in the\nQur’an.\n\nكَسَاد kasād [v. n.] slackness of commerce, sluggishness of trade\n(9:24) وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا and a trade you fear may become\nstagnant.",
+      "definition_english": "k–s–d (of the market) to be dull, market depression, to be\nsluggish, to be stagnant. Of this root, كَسَاد kasād occurs once in the\nQur’an.\n\nكَسَاد kasād [v. n.] slackness of commerce, sluggishness of trade\n(9:24) وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا and a trade you fear may become\nstagnant."
+    }
+  ],
   "occurrences": [
     "9:24:13"
   ]

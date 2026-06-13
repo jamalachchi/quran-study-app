@@ -1,8 +1,11 @@
 {
-  "id": 4146,
   "root": "ه و ذ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهوي\n\n(هوذ) الهاء والواو والذال: كلمةٌ واحدة، هي هَوْذَةُ: القَطاةُ، وبها سمِّي الرجل هَوْذَة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهوي\n\n(هوذ) الهاء والواو والذال: كلمةٌ واحدة، هي هَوْذَةُ: القَطاةُ، وبها سمِّي الرجل هَوْذَة.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

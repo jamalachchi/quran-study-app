@@ -1,9 +1,17 @@
 {
-  "id": 1445,
   "root": "ر ف ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرفق\n\n(رفت) الراء والفاء والتاء أصلٌ واحد يدلُّ على فَتٍّ ولَيٍّ. يقال رفَتُّ الشّيءَ بيدي، إِذا فتَتَّه حتّى صارَ رُفاتا. وارْفَتَّ الحَبْلُ، إذا انقطع. واشتُقّ منه رفَتَ عُنقَه، إِذا دقَّها وَلَفَتَها [و] لوَاها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرفق\n\n(رفت) الراء والفاء والتاء أصلٌ واحد يدلُّ على فَتٍّ ولَيٍّ. يقال رفَتُّ الشّيءَ بيدي، إِذا فتَتَّه حتّى صارَ رُفاتا. وارْفَتَّ الحَبْلُ، إذا انقطع. واشتُقّ منه رفَتَ عُنقَه، إِذا دقَّها وَلَفَتَها [و] لوَاها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–f–t remnants, rejects, to break into small pieces, to disintegrate, human remains, to decay, small pieces, dry broken grass. Of this root, رُفَات rufāt occurs twice in the Qur’an.\nرُفَات rufāt [v. n./n.] decayed remnants, dust (17:49) وَقَالُوا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا they also say, ‘What? When we are turned to bones and dust, shall we really be raised a new creation?’",
+      "definition_english": "r–f–t remnants, rejects, to break into small pieces, to disintegrate, human remains, to decay, small pieces, dry broken grass. Of this root, رُفَات rufāt occurs twice in the Qur’an.\nرُفَات rufāt [v. n./n.] decayed remnants, dust (17:49) وَقَالُوا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا they also say, ‘What? When we are turned to bones and dust, shall we really be raised a new creation?’"
+    }
+  ],
   "occurrences": [
     "17:49:5",
     "17:98:10"

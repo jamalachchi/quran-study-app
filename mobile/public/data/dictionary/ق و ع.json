@@ -1,9 +1,17 @@
 {
-  "id": 3109,
   "root": "ق و ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقوس\n\n(قوع) القاف والواو والعين أصلٌ يدلُّ على تبسُّط في مكانٍ. من ذلك القاع: الأرض المَلْساء. والألِفُ في الأصل واو، يقال في التصغير قَوَيْعٌ. قال ابن دريد : القَوْع: المِسْطح الذي يُبسَط فيه التَّمر، والجمع أقواع. فأمّا القَوْع، وهو ضِرابُ الفحلِ الناقةَ، فليس من هذا الباب، لأنَّه من المقلوب. وأصله قَعْو؛ وقد ذُكِر.\n\nوممّا شَذَّ عن هذا الباب قولُهم: إنَّ القُوَاعَ: الذَّكَر من الأرانب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقوس\n\n(قوع) القاف والواو والعين أصلٌ يدلُّ على تبسُّط في مكانٍ. من ذلك القاع: الأرض المَلْساء. والألِفُ في الأصل واو، يقال في التصغير قَوَيْعٌ. قال ابن دريد : القَوْع: المِسْطح الذي يُبسَط فيه التَّمر، والجمع أقواع. فأمّا القَوْع، وهو ضِرابُ الفحلِ الناقةَ، فليس من هذا الباب، لأنَّه من المقلوب. وأصله قَعْو؛ وقد ذُكِر.\n\nوممّا شَذَّ عن هذا الباب قولُهم: إنَّ القُوَاعَ: الذَّكَر من الأرانب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–w–ʿ lowland, plain or level land, marshland, bottom;\ncourtyard. Of this root, two forms occur each in a single place in\nthe Qur’an: قَاع qāʿ and قِيعَة qiʿatun.\n\nقَاع qāʿ [n.] barren, desolate plain (20:106) وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ\nيَنْسِفُهَا رَبِّي نَسْفًا فَيَذَرُهَا قَاعًا صَفْصَفًا and they ask you [Prophet] about the\nmountains: say, [on that day] my Lord will blast them into dust\nand leave them as a flat plain.\n\nقِيعَة qiʿatun [n.] open, desolate plain (24:39) وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ\nكَسَرَابٍ بِقِيعَةٍ but the deeds of those who disbelieve are like a mirage\nin a barren plain.",
+      "definition_english": "q–w–ʿ lowland, plain or level land, marshland, bottom;\ncourtyard. Of this root, two forms occur each in a single place in\nthe Qur’an: قَاع qāʿ and قِيعَة qiʿatun.\n\nقَاع qāʿ [n.] barren, desolate plain (20:106) وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ\nيَنْسِفُهَا رَبِّي نَسْفًا فَيَذَرُهَا قَاعًا صَفْصَفًا and they ask you [Prophet] about the\nmountains: say, [on that day] my Lord will blast them into dust\nand leave them as a flat plain.\n\nقِيعَة qiʿatun [n.] open, desolate plain (24:39) وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ\nكَسَرَابٍ بِقِيعَةٍ but the deeds of those who disbelieve are like a mirage\nin a barren plain."
+    }
+  ],
   "occurrences": [
     "20:106:2",
     "24:39:5"

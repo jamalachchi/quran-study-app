@@ -1,8 +1,11 @@
 {
-  "id": 2889,
   "root": "ف ل ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفلح - فلذ\n\n(فلز) الفاء واللام والزاء ليس فيه شيء إلاّ أنّهم يقولون: الفِلِزُّ: خَبَث الحديد يَنْفيه الكِير.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفلح - فلذ\n\n(فلز) الفاء واللام والزاء ليس فيه شيء إلاّ أنّهم يقولون: الفِلِزُّ: خَبَث الحديد يَنْفيه الكِير.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,22 @@
 {
-  "id": 4070,
   "root": "ن ف ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنفل\n\n(نفح) النون والفاء والحاء: أصلٌ يدلُّ على اندفاعِ الشَّيء أو رَفْعِه. ونَفَحتْ رائحةُ الطِّيب نَفحاً: انتشرَتْ واندفعت. ولهذا الطِّيب نَفحةٌ طيِّبة. ثم قيس عليه فقيل: نَفَح بالمال نَفحاً، كأنَّه أرسله من يده إرسالاً. ولا تزالُ لفلانٍ نَفَحاتٌ من معروف. ونَفَحت الرِّيح. هبَّت. وقوسٌ نَفُوحٌ: بعيدة الدَّفع للسَّهم. ونَفَحت الدّابّةُ: رمَتْ بحافرها فضربَتْ به. وكذلك نَفَحَه بالسَّيف: تناوَله به. والنَّفوح من ا لنُّوق: ما يخرُج لبنُها من أحاليلها من غير حَلْب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنفل\n\n(نفح) النون والفاء والحاء: أصلٌ يدلُّ على اندفاعِ الشَّيء أو رَفْعِه. ونَفَحتْ رائحةُ الطِّيب نَفحاً: انتشرَتْ واندفعت. ولهذا الطِّيب نَفحةٌ طيِّبة. ثم قيس عليه فقيل: نَفَح بالمال نَفحاً، كأنَّه أرسله من يده إرسالاً. ولا تزالُ لفلانٍ نَفَحاتٌ من معروف. ونَفَحت الرِّيح. هبَّت. وقوسٌ نَفُوحٌ: بعيدة الدَّفع للسَّهم. ونَفَحت الدّابّةُ: رمَتْ بحافرها فضربَتْ به. وكذلك نَفَحَه بالسَّيف: تناوَله به. والنَّفوح من ا لنُّوق: ما يخرُج لبنُها من أحاليلها من غير حَلْب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "نَفَّاثَات naffāthāt [pl. of intens. fem. act. part. نَفَّاثَة naffāthatun]\nones who blows, exudes, hisses, or casts (a spell) *(113:4) النَّفَّاثَاتِ\nفي العقد witches [lit. female blowers on knots].",
+      "definition_english": "نَفَّاثَات naffāthāt [pl. of intens. fem. act. part. نَفَّاثَة naffāthatun]\nones who blows, exudes, hisses, or casts (a spell) *(113:4) النَّفَّاثَاتِ\nفي العقد witches [lit. female blowers on knots]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–f–ḥ rennet; dose; touch; (of a scent) to waft about, pleasant\nsmell; to make a present; to kick, to fend off. Of this root, نَفْحَة\nnafḥatun, occurs once in the Qur’an.\n\nنَفْحَة nafḥatun [unit n.] breath, touch, puff, breeze (21:46) وَلَئِنْ\nمَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبِّكَ yet if a [mere] breath of the chastisement of\nyour Lord touches them.",
+      "definition_english": "n–f–ḥ rennet; dose; touch; (of a scent) to waft about, pleasant\nsmell; to make a present; to kick, to fend off. Of this root, نَفْحَة\nnafḥatun, occurs once in the Qur’an.\n\nنَفْحَة nafḥatun [unit n.] breath, touch, puff, breeze (21:46) وَلَئِنْ\nمَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبِّكَ yet if a [mere] breath of the chastisement of\nyour Lord touches them."
+    }
+  ],
   "occurrences": [
     "21:46:3"
   ]

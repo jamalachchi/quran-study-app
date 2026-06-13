@@ -1,9 +1,22 @@
 {
-  "id": 3688,
   "root": "م ح ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمحق - محك\n\n(محن) الميم والحاء والنون كلماتٌ ثلاثُ على غير قياس.\n\nالأولى المَحْن: الاختبار. ومَحَنَه وامتحنه.\n\nوالثانية: أتيتُه فما مَحَنني شيئاً، أي ما أعطانيه.\n\nوالثالثة مَحَنه سَوطاً: ضربَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمحق - محك\n\n(محن) الميم والحاء والنون كلماتٌ ثلاثُ على غير قياس.\n\nالأولى المَحْن: الاختبار. ومَحَنَه وامتحنه.\n\nوالثانية: أتيتُه فما مَحَنني شيئاً، أي ما أعطانيه.\n\nوالثالثة مَحَنه سَوطاً: ضربَه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–n experience, to try, to put to the test, to afflict; to smelt,\nto purify; to whip, to wear out; to be hardened. Of this root,\nٱمْتَحَنَ ʾimtaḥana, occurs twice in the Qur’an.\n\nٱمْتَحَنَ ʾimtaḥana [v. VIII, trans.] 1 to test, to examine, to\nscrutinise (60:10) when believing\nwomen come to you as emigrants test them [their faith] 2 to train,\nto prepare; to know (49:3) إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَئِكَ\nالَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى those who subdue their voices in the\npresence of the Messenger of God—are the ones whose hearts God\n\n871",
+      "definition_english": "m–ḥ–n experience, to try, to put to the test, to afflict; to smelt,\nto purify; to whip, to wear out; to be hardened. Of this root,\nٱمْتَحَنَ ʾimtaḥana, occurs twice in the Qur’an.\n\nٱمْتَحَنَ ʾimtaḥana [v. VIII, trans.] 1 to test, to examine, to\nscrutinise (60:10) when believing\nwomen come to you as emigrants test them [their faith] 2 to train,\nto prepare; to know (49:3) إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَئِكَ\nالَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى those who subdue their voices in the\npresence of the Messenger of God—are the ones whose hearts God\n\n871"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–n experience, to try, to put to the test, to afflict; to smelt, to purify; to whip, to wear out; to be hardened. Of this root, اِمْتَحَنَ ʾimtaḥana, occurs twice in the Qur’an.\nاِمْتَحَنَ ʾimtaḥana [v. III, trans.] 1 to test, to examine, to scrutinise (60:10) إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ when believing women come to you as emigrants test them [their faith] 2 to train, to prepare; to know (49:3) إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى those who subdue their voices in the presence of the Messenger of God–are the ones whose hearts God\n\n871",
+      "definition_english": "m–ḥ–n experience, to try, to put to the test, to afflict; to smelt, to purify; to whip, to wear out; to be hardened. Of this root, اِمْتَحَنَ ʾimtaḥana, occurs twice in the Qur’an.\nاِمْتَحَنَ ʾimtaḥana [v. III, trans.] 1 to test, to examine, to scrutinise (60:10) إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ when believing women come to you as emigrants test them [their faith] 2 to train, to prepare; to know (49:3) إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى those who subdue their voices in the presence of the Messenger of God–are the ones whose hearts God\n\n871"
+    }
+  ],
   "occurrences": [
     "49:3:10",
     "60:10:8"

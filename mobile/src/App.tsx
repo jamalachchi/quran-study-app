@@ -3,7 +3,6 @@ import { CHAPTERS } from "./lib/chapters";
 import type { Verse, Word } from "./lib/types";
 import AyahReader from "./components/AyahReader";
 import TafseerTab from "./components/TafseerTab";
-import IrabTab from "./components/IrabTab";
 import BottomSheet from "./components/BottomSheet";
 import Logo from "./components/Logo";
 import { RECITERS } from "./lib/utils";
@@ -44,10 +43,16 @@ export default function App() {
     const chapter = CHAPTERS.find((c) => c.id === surahId);
     return chapter ? chapter.verses_count : 7;
   });
-  const [activeTab, setActiveTab] = useState<"quran" | "tafseer" | "irab">("quran");
+  const [activeTab, setActiveTab] = useState<"quran" | "tafseer">("quran");
   
-  // Translation preference (20 = Saheeh International, 85 = Abdel Haleem, 149 = Bridges)
-  const [selectedTranslation, setSelectedTranslation] = useState<number>(20);
+  // Translation preference (85 = Abdel Haleem, 131 = Mustafa Khattab, 203 = Muhammad Asad)
+  const [selectedTranslation, setSelectedTranslation] = useState<number>(() => {
+    if (typeof window !== "undefined") {
+      const saved = localStorage.getItem("selectedTranslation");
+      return saved ? parseInt(saved, 10) : 85;
+    }
+    return 85;
+  });
 
   // Verse data states
   const [verseData, setVerseData] = useState<Verse | null>(null);
@@ -79,6 +84,10 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem("selectedSurah", selectedSurah.toString());
   }, [selectedSurah]);
+
+  useEffect(() => {
+    localStorage.setItem("selectedTranslation", selectedTranslation.toString());
+  }, [selectedTranslation]);
 
   useEffect(() => {
     localStorage.setItem("selectedAyah", selectedAyah.toString());
@@ -440,16 +449,16 @@ export default function App() {
           <div className="flex items-center gap-2">
             {/* Translation Select Dropdown */}
             <div className="relative flex items-center gap-1 bg-slate-100 dark:bg-slate-800/80 px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-300">
-              <Languages size={11} />
+               <Languages size={11} />
               <select
                 value={selectedTranslation}
                 onChange={(e) => setSelectedTranslation(Number(e.target.value))}
                 className="appearance-none bg-transparent text-[10px] font-bold pr-3 border-none focus:outline-hidden focus:ring-0 cursor-pointer outline-hidden"
                 title="Translation Source"
               >
-                <option value={20} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200">Saheeh Int.</option>
                 <option value={85} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200">Haleem</option>
-                <option value={149} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200">Bridges</option>
+                <option value={131} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200">Khattab</option>
+                <option value={203} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200">Asad</option>
               </select>
               <div className="absolute inset-y-0 right-1.5 flex items-center pointer-events-none text-slate-400 dark:text-slate-500">
                 <svg className="w-2.5 h-2.5 fill-current" viewBox="0 0 20 20">
@@ -633,15 +642,6 @@ export default function App() {
             tafsirs={verseData?.tafsirs || []}
           />
         )}
-        
-        {activeTab === "irab" && (
-          <IrabTab
-            surahId={selectedSurah}
-            ayahId={selectedAyah}
-            verseText={verseText}
-            irab={verseData?.irab}
-          />
-        )}
       </main>
 
       {/* DETAILED BOTTOM SHEET MODAL */}
@@ -657,13 +657,13 @@ export default function App() {
       />
 
       {/* BOTTOM TAB NAVIGATION BAR */}
-      <nav className="w-full z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 flex justify-around py-2 px-1">
+      <nav className="w-full z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 grid grid-cols-2 justify-items-center py-2 px-1">
         <button
           onClick={() => setActiveTab("quran")}
-          className={`flex flex-col items-center gap-1 py-1.5 px-3 rounded-xl transition-all cursor-pointer ${
+          className={`w-full flex flex-col items-center gap-1 py-1.5 rounded-xl transition-all cursor-pointer ${
             activeTab === "quran"
               ? "text-brand-emerald bg-brand-emerald/5"
-              : "text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+              : "text-slate-400 hover:text-slate-650 dark:hover:text-slate-250"
           }`}
         >
           <Logo size={18} active={activeTab === "quran"} />
@@ -672,26 +672,14 @@ export default function App() {
 
         <button
           onClick={() => setActiveTab("tafseer")}
-          className={`flex flex-col items-center gap-1 py-1.5 px-3 rounded-xl transition-all cursor-pointer ${
+          className={`w-full flex flex-col items-center gap-1 py-1.5 rounded-xl transition-all cursor-pointer ${
             activeTab === "tafseer"
               ? "text-brand-emerald bg-brand-emerald/5"
-              : "text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+              : "text-slate-400 hover:text-slate-650 dark:hover:text-slate-250"
           }`}
         >
           <Sparkles size={18} />
           <span className="text-[10px] font-bold">Tafseer</span>
-        </button>
-
-        <button
-          onClick={() => setActiveTab("irab")}
-          className={`flex flex-col items-center gap-1 py-1.5 px-3 rounded-xl transition-all cursor-pointer ${
-            activeTab === "irab"
-              ? "text-brand-emerald bg-brand-emerald/5"
-              : "text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
-          }`}
-        >
-          <Layers size={18} />
-          <span className="text-[10px] font-bold">I'rab (Grammar)</span>
         </button>
       </nav>
     </div>

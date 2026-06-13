@@ -1,9 +1,22 @@
 {
-  "id": 773,
   "root": "ح ر ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحرج\n\n(حرج) الحاء والراء والجيم أصلٌ واحد، وهو معظم الباب وإليه مرجع فروعه، وذلك تجمُّع الشيء وضِيقُه. فمنه الحَرَج جمع حَرَجة، وهي مجتمع شجرٍ. ويقال في الجمع حَرَجات. قال:\n\nبذي سَلَمٍ لا جادكُنَّ ربيعُ\n\nأَيا حَرَجاتِ الحيِّ حِينَ تحمَّلوا\n\nويقال حِراجٌ أيضاً. قال:\n\n* عايَنَ حيَّاً كالحراج نَعَمُهْ *\n\nومن ذلك الحرَجَ الإثم، والحَرَج الضِّيق. قال الله تعالى: ] وَمَنْ يُرِدْ أنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقاً حَرَجاً [ [الأنعام 125]. ويقال حَرِجَتِ العينُ تَحرَج، أي تحارُ. وتقول: حَرِجَ عَلَيَّ ظُلمك، أي حرُم. ويقال أحْرَجَها بتطليقةٍ، أي حرّمَها. ويقولون: أكسَعَها بالمُحْرِجات، يريدون بثلاث تطليقات. والحَرَج: السَّرير الذي تُحمَل عليه الموتى. والمِحَفَّةُ حَرَجٌ. قال:\n\nعلى حَرَجٍ كالقَرّ تَخْفِق أكفاني\n\nفإمّا تَرَيْنِي في رِحالةِ جابرٍ\n\nوناقة حَرَجٌ وحُرْجُوجٌ: ضامرة، وذلك تداخُلُ عظامِها ولحمِها. ومنه الحَرِجُ الرّجل الذي لا يكاد يبرحُ القتال.\n\nومما شذّ عن هذا الباب قولهم إنّ الْحِرْجَ الوَدَعة، والجمع أحراج. ويقال هو نَصيب الكلْب من لحم الصَّيْد. قال جحدر:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحرج\n\n(حرج) الحاء والراء والجيم أصلٌ واحد، وهو معظم الباب وإليه مرجع فروعه، وذلك تجمُّع الشيء وضِيقُه. فمنه الحَرَج جمع حَرَجة، وهي مجتمع شجرٍ. ويقال في الجمع حَرَجات. قال:\n\nبذي سَلَمٍ لا جادكُنَّ ربيعُ\n\nأَيا حَرَجاتِ الحيِّ حِينَ تحمَّلوا\n\nويقال حِراجٌ أيضاً. قال:\n\n* عايَنَ حيَّاً كالحراج نَعَمُهْ *\n\nومن ذلك الحرَجَ الإثم، والحَرَج الضِّيق. قال الله تعالى: ] وَمَنْ يُرِدْ أنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقاً حَرَجاً [ [الأنعام 125]. ويقال حَرِجَتِ العينُ تَحرَج، أي تحارُ. وتقول: حَرِجَ عَلَيَّ ظُلمك، أي حرُم. ويقال أحْرَجَها بتطليقةٍ، أي حرّمَها. ويقولون: أكسَعَها بالمُحْرِجات، يريدون بثلاث تطليقات. والحَرَج: السَّرير الذي تُحمَل عليه الموتى. والمِحَفَّةُ حَرَجٌ. قال:\n\nعلى حَرَجٍ كالقَرّ تَخْفِق أكفاني\n\nفإمّا تَرَيْنِي في رِحالةِ جابرٍ\n\nوناقة حَرَجٌ وحُرْجُوجٌ: ضامرة، وذلك تداخُلُ عظامِها ولحمِها. ومنه الحَرِجُ الرّجل الذي لا يكاد يبرحُ القتال.\n\nومما شذّ عن هذا الباب قولهم إنّ الْحِرْجَ الوَدَعة، والجمع أحراج. ويقال هو نَصيب الكلْب من لحم الصَّيْد. قال جحدر:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "حَارَبَ ḥāraba [v. III, trans.] to wage war (9:107) وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا\nضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ\nand those\nwho took for themselves [built] a mosque in an attempt to cause\nharm, disbelief and disunity among the believers, and as an\noutpost for those who fought God and His Messenger.\n\nحَرْب ḥarb [n.] war (5:64) كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ whenever\nthey kindle a fire of war, God puts it out.\n\nمِحْرَاب miḥrāb [n.; pl. مَحَارِيب maḥārīb] 1 palace, private\nquarters, sanctuary (38:21) وَهَلْ أَتَىٰكَ نَبَأُ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ and\nhas the story of the litigants come to you, when they climbed into\nthe private quarters? 2 temple, sanctuary (3:39) فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ\nيُصَلِّي فِي ٱلْمِحْرَابِ so the angels called out to him, while he stood\npraying in the sanctuary.",
+      "definition_english": "حَارَبَ ḥāraba [v. III, trans.] to wage war (9:107) وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا\nضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ\nand those\nwho took for themselves [built] a mosque in an attempt to cause\nharm, disbelief and disunity among the believers, and as an\noutpost for those who fought God and His Messenger.\n\nحَرْب ḥarb [n.] war (5:64) كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ whenever\nthey kindle a fire of war, God puts it out.\n\nمِحْرَاب miḥrāb [n.; pl. مَحَارِيب maḥārīb] 1 palace, private\nquarters, sanctuary (38:21) وَهَلْ أَتَىٰكَ نَبَأُ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ and\nhas the story of the litigants come to you, when they climbed into\nthe private quarters? 2 temple, sanctuary (3:39) فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ\nيُصَلِّي فِي ٱلْمِحْرَابِ so the angels called out to him, while he stood\npraying in the sanctuary."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–r–j thick tangle of reeds or trees; arbour; to oppress;\n198",
+      "definition_english": "h–r–j thick tangle of reeds or trees; arbour; to oppress;\n198"
+    }
+  ],
   "occurrences": [
     "22:78:14",
     "24:61:12",

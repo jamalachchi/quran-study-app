@@ -1,9 +1,17 @@
 {
-  "id": 2051,
   "root": "ش ي د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشيح\n\n(شيد) الشين والياء والدال أصلٌ واحدٌ يدلُّ على رفعِ الشّيء. يقال شِدْت القَصر أَشِيدُهُ شَيْداً. وهو قصرٌ مَشِيدٌ، أي معمولٌ بالشِّيد. وسمِّي شِيداً لأنَّ به يُرفَعُ البناء. يقال قَصرٌ مَشِيدٌ أي مُطَوّل. والإشادة: رفْع الصَّوت والتنويه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشيح\n\n(شيد) الشين والياء والدال أصلٌ واحدٌ يدلُّ على رفعِ الشّيء. يقال شِدْت القَصر أَشِيدُهُ شَيْداً. وهو قصرٌ مَشِيدٌ، أي معمولٌ بالشِّيد. وسمِّي شِيداً لأنَّ به يُرفَعُ البناء. يقال قَصرٌ مَشِيدٌ أي مُطَوّل. والإشادة: رفْع الصَّوت والتنويه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–y–d plaster, gypsum, to plaster (a wall) with gypsum or the\nlike; to erect a building, or raise a building, high, tall\nconstructions; to strengthen, to acclaim, to proclaim. Of this root,\ntwo forms occur once each in the Qurʾan: مَشِيد mashīd and\nمُشَيَّدَاتٍ mushayyadātin.\n\nمَشِيد mashīd [pass. part. of v. trans. شَادَ shāda] plastered, loftily\nerected (22:45) فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ\nمُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ how many a town We have destroyed, while it is\ndoing wrong, and now it is fallen upon its roofs; and [how many]\na deserted well; and [how many] a lofty palace.\n\n505",
+      "definition_english": "sh–y–d plaster, gypsum, to plaster (a wall) with gypsum or the\nlike; to erect a building, or raise a building, high, tall\nconstructions; to strengthen, to acclaim, to proclaim. Of this root,\ntwo forms occur once each in the Qurʾan: مَشِيد mashīd and\nمُشَيَّدَاتٍ mushayyadātin.\n\nمَشِيد mashīd [pass. part. of v. trans. شَادَ shāda] plastered, loftily\nerected (22:45) فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ\nمُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ how many a town We have destroyed, while it is\ndoing wrong, and now it is fallen upon its roofs; and [how many]\na deserted well; and [how many] a lofty palace.\n\n505"
+    }
+  ],
   "occurrences": [
     "22:45:14",
     "4:78:9"

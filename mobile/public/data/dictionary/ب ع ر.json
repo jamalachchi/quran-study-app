@@ -1,9 +1,17 @@
 {
-  "id": 304,
   "root": "ب ع ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبعد\n\n(بعر) الباء والعين والراء أصلان: الجمال، والبَعَْر. يقال بعير وأبعِرةٌ وأباعِرُ وبُعْرَانُ. قال بعضُ اللصوص :\n\nأُجَرِّرُ حَبْلاً ليس فيه بَعِيرُ\n\nوإنّي لأسْتَحْيي مِنَ الله أَنْ أُرَى\n\nوَبُعْرَانُ رَبِّي في البلادِ كثيرُ\n\nوأَن أسأَلَ المرءَ اللّئيمَ بَعِيرَهُ\n\nوالبَعَْر معروف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبعد\n\n(بعر) الباء والعين والراء أصلان: الجمال، والبَعَْر. يقال بعير وأبعِرةٌ وأباعِرُ وبُعْرَانُ. قال بعضُ اللصوص :\n\nأُجَرِّرُ حَبْلاً ليس فيه بَعِيرُ\n\nوإنّي لأسْتَحْيي مِنَ الله أَنْ أُرَى\n\nوَبُعْرَانُ رَبِّي في البلادِ كثيرُ\n\nوأَن أسأَلَ المرءَ اللّئيمَ بَعِيرَهُ\n\nوالبَعَْر معروف.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-ʿ-r a camel of either sex; a donkey; (of a camel) to grow to\nmaturity; a camel’s droppings; to become angry. بَعِير baʿīr is\ndescribed by ʾal-Suyūṭī as a borrowing from Hebrew. Of this root,\nبَعِير baʿīr occurs twice in the Qurʾan.\n\nبَعِير baʿīr [n.] a grown camel (also said to mean donkey or a\nbeast of burden) (12:72) نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ\nوَأَنَا بِهِ زَعِيمٌ we are missing the king’s cup and for the one who returns it there\nwill be a camel-load and I guarantee that.",
+      "definition_english": "b-ʿ-r a camel of either sex; a donkey; (of a camel) to grow to\nmaturity; a camel’s droppings; to become angry. بَعِير baʿīr is\ndescribed by ʾal-Suyūṭī as a borrowing from Hebrew. Of this root,\nبَعِير baʿīr occurs twice in the Qurʾan.\n\nبَعِير baʿīr [n.] a grown camel (also said to mean donkey or a\nbeast of burden) (12:72) نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ\nوَأَنَا بِهِ زَعِيمٌ we are missing the king’s cup and for the one who returns it there\nwill be a camel-load and I guarantee that."
+    }
+  ],
   "occurrences": [
     "12:65:22",
     "12:72:9"

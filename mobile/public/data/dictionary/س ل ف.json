@@ -1,9 +1,17 @@
 {
-  "id": 1805,
   "root": "س ل ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسلب\n\n(سلف) السين واللام والفاء أصلٌ يدلُّ على تقدُّم وسبْق. من ذلك السَّلَف: الذين مضَوا. والقومُ السُّلاَّف: المتقدِّمون. والسُّلاَف: السائل من عصير العنب قبل أن يُعصَر. والسُّلْفَة: المعجَّل من الطَّعام قبل الغَدَاء. والسّلوف:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسلب\n\n(سلف) السين واللام والفاء أصلٌ يدلُّ على تقدُّم وسبْق. من ذلك السَّلَف: الذين مضَوا. والقومُ السُّلاَّف: المتقدِّمون. والسُّلاَف: السائل من عصير العنب قبل أن يُعصَر. والسُّلْفَة: المعجَّل من الطَّعام قبل الغَدَاء. والسّلوف:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–l–f to go past, to precede, to come to an end; to go over; to level up; to give an advance, previous generations. Of this root, three forms occur eight times in the Qurʾan: سلف salafa five times; أسلف ʾaslafa twice and سلفا salafan once.\nسلف salafa u [v. intrans.] to go past, to happen in the past (4:23) حرمت عليكم أمهاتكم ... وأن تجمعوا بين الأختين إلا ما قد سلف Forbidden to you are your mothers, ..., being married to two sisters simultaneously–with the exception of what took place in the past.\n\n449\n\nأسلف ʾaslafa [v. IV, intrans.] to have previously acted, committed, achieved, done (10:30) هنالك تبلو كل نفس ما أسلفت then and there every soul will experience what it did in the past.\n\nسلفا salafan [v. n.; n.] a thing of the past, precedent (43:56) فجعلناهم سلفا ومثلا للآخرين We made them a thing of the past and an example for later people.",
+      "definition_english": "s–l–f to go past, to precede, to come to an end; to go over; to level up; to give an advance, previous generations. Of this root, three forms occur eight times in the Qurʾan: سلف salafa five times; أسلف ʾaslafa twice and سلفا salafan once.\nسلف salafa u [v. intrans.] to go past, to happen in the past (4:23) حرمت عليكم أمهاتكم ... وأن تجمعوا بين الأختين إلا ما قد سلف Forbidden to you are your mothers, ..., being married to two sisters simultaneously–with the exception of what took place in the past.\n\n449\n\nأسلف ʾaslafa [v. IV, intrans.] to have previously acted, committed, achieved, done (10:30) هنالك تبلو كل نفس ما أسلفت then and there every soul will experience what it did in the past.\n\nسلفا salafan [v. n.; n.] a thing of the past, precedent (43:56) فجعلناهم سلفا ومثلا للآخرين We made them a thing of the past and an example for later people."
+    }
+  ],
   "occurrences": [
     "10:30:6",
     "2:275:34",

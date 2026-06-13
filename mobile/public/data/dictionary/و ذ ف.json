@@ -1,8 +1,11 @@
 {
-  "id": 4378,
   "root": "و ذ ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nودج - وذر\n\n(وذف) الواو والذال والفاء: كلمةٌ واحدة، هي التوذُّف: التَّبَختُر. يقال: أقبَلَ يتوذّف.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nودج - وذر\n\n(وذف) الواو والذال والفاء: كلمةٌ واحدة، هي التوذُّف: التَّبَختُر. يقال: أقبَلَ يتوذّف.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 3936,
   "root": "ن ج م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنجل - نجم\n\n(نجم) النون والجيم والميم أصلٌ صحيح يدلُّ على طُلُوعٍ وظهور.*ونَجَمَ النَّجمُ: طَلَعَ. ونَجَمَ السِّنُّ والقَرْنُ: طَلَعَا. والنّجم: الثُّرَيَّا، اسمٌ لها.\n\nنجه نجو\n\nوإذا قالوا: طَلَعَ النَّجْم، فإنَّهم يريدونها. وليس لهذا الحديثِ نَجْمٌ، أي أصلٌ ومَطْلِع. والنَّجم من النَّبات: ما لم يكن له ساقٌ، مِن نَجَمَ، إذا طَلَعَ. والمِنْجَم في المِيزان: الحديدة المعترِضة التي فيها اللِّسان؛ وهو ذلك القياس.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنجل - نجم\n\n(نجم) النون والجيم والميم أصلٌ صحيح يدلُّ على طُلُوعٍ وظهور.*ونَجَمَ النَّجمُ: طَلَعَ. ونَجَمَ السِّنُّ والقَرْنُ: طَلَعَا. والنّجم: الثُّرَيَّا، اسمٌ لها.\n\nنجه نجو\n\nوإذا قالوا: طَلَعَ النَّجْم، فإنَّهم يريدونها. وليس لهذا الحديثِ نَجْمٌ، أي أصلٌ ومَطْلِع. والنَّجم من النَّبات: ما لم يكن له ساقٌ، مِن نَجَمَ، إذا طَلَعَ. والمِنْجَم في المِيزان: الحديدة المعترِضة التي فيها اللِّسان؛ وهو ذلك القياس.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–j–m star (particularly Pleiades or the Seven Sisters),\ninstalments, fixed terms, astrology, to tell the future, (of a star) to\nrise, to appear; plants with no stalk, to sprout; to show up. Of this\nroot, two forms occur 13 times in the Qur’an: نَجْم najm four times\nand نُجُوم nujūm nine times.\n\nنَجْم najm I [n., pl. نُجُوم nujūm] star (6:97) وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ\nand He it is who has made the stars for\nyou to use as a guide through the darkness of land and sea II\n[coll. n.] 1 stars (16:16) وَعَلَامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ and [by the aid of]\nlandmarks and by the stars they find their way; * النجم name of\nSura 53, Meccan sura, so-named because of the reference in verse\n1 to the ‘Stars’ 2 plants with no stalk, herbage (in one\ninterpretation of نَجْم najm in 55:6) وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ the plants\nand the trees prostrate (or, fall into the Grand Design).",
+      "definition_english": "n–j–m star (particularly Pleiades or the Seven Sisters),\ninstalments, fixed terms, astrology, to tell the future, (of a star) to\nrise, to appear; plants with no stalk, to sprout; to show up. Of this\nroot, two forms occur 13 times in the Qur’an: نَجْم najm four times\nand نُجُوم nujūm nine times.\n\nنَجْم najm I [n., pl. نُجُوم nujūm] star (6:97) وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ\nand He it is who has made the stars for\nyou to use as a guide through the darkness of land and sea II\n[coll. n.] 1 stars (16:16) وَعَلَامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ and [by the aid of]\nlandmarks and by the stars they find their way; * النجم name of\nSura 53, Meccan sura, so-named because of the reference in verse\n1 to the ‘Stars’ 2 plants with no stalk, herbage (in one\ninterpretation of نَجْم najm in 55:6) وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ the plants\nand the trees prostrate (or, fall into the Grand Design)."
+    }
+  ],
   "occurrences": [
     "16:12:7",
     "16:16:2",

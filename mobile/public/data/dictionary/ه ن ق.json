@@ -1,8 +1,11 @@
 {
-  "id": 4295,
   "root": "ه ن ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهنأ - هنب\n\n(هنق) الهاء والنون والقاف. حكى ابنُ دريد : الهَنَق: شبه الضَّجَرِ يعترِي الإنسان. وأنشد:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهنأ - هنب\n\n(هنق) الهاء والنون والقاف. حكى ابنُ دريد : الهَنَق: شبه الضَّجَرِ يعترِي الإنسان. وأنشد:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

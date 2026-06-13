@@ -1,8 +1,21 @@
 {
-  "id": 21,
   "root": "أ و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأو - أيّ\n\nتَئنُّ حين تجذب المخْطُوما\n\nأنينَ عَبْرَى أَسلَمَتْ حَميما\n\nقال يعقوب: الأنّانة من النّساء: التي يموت عنها زوجُها وتتزوج ثانياً ، فكلما رَأته رَنّتْ وقالت: رحم الله فُلاناً.\n\nوأما (الهمزة والهاء) فليس بأصلٍ واحد، لأنّ حكايات الأصوات ليست أصولاً يقاس عليها، لكنهم يقولون: أهّ أهّةً وآهة. قال مثقِّب:\n\nإذا ما قمت أرحُلُها بِليلٍ\n\nتأوَّهُ آهَةَ الرَّجُلِ الحزينِ\n\n(أو) كلمة شكٍّ وإباحة.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأو - أيّ\n\nتَئنُّ حين تجذب المخْطُوما\n\nأنينَ عَبْرَى أَسلَمَتْ حَميما\n\nقال يعقوب: الأنّانة من النّساء: التي يموت عنها زوجُها وتتزوج ثانياً ، فكلما رَأته رَنّتْ وقالت: رحم الله فُلاناً.\n\nوأما (الهمزة والهاء) فليس بأصلٍ واحد، لأنّ حكايات الأصوات ليست أصولاً يقاس عليها، لكنهم يقولون: أهّ أهّةً وآهة. قال مثقِّب:\n\nإذا ما قمت أرحُلُها بِليلٍ\n\nتأوَّهُ آهَةَ الرَّجُلِ الحزينِ\n\n(أو) كلمة شكٍّ وإباحة.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "-ي/ن\nأَيْكَة ʾaykatun [n., with no verbal root, occurring four times in the Qurʾan] thicket, clump of trees, forest *(15:78) أَصْحَٰبُ الأَيْكَةِ the dwellers of woods (an epithet for the people of Midian to whom the Prophet Shuʿayb was sent).",
+      "definition_english": "-ي/ن\nأَيْكَة ʾaykatun [n., with no verbal root, occurring four times in the Qurʾan] thicket, clump of trees, forest *(15:78) أَصْحَٰبُ الأَيْكَةِ the dwellers of woods (an epithet for the people of Midian to whom the Prophet Shuʿayb was sent)."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "-ي/ن ʾ–w/y–n time, to fall due, fatigue; philologists classify under this vague root some function words more on the basis of phonetic, rather than semantic, affinity. Of this root, four forms occur 25 times in the Qurʾan: الآن al-ʾāna eight times; أَيَّان ʾayyāna six times; أَيْن ʾayna seven times and أَيْنَمَا ʾaynamā four times.\nالآن al-ʾāna [adverbially used n. considered by a group of grammarians to consist of the article الـ + آن (time)] 1 now (2:71) قَالُوا۟ الآنَ جِئْتَ بِٱلْحَقِّ they said, ‘Now you have brought the truth’ 2 nowadays, at the present time (72:9) وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَٰعِدَ لِلسَّمْعِ فَمَن يَسْتَمِعِ الآنَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا and that we used to sit on places therein to listen, but the one who listens nowadays, finds for himself a meteor lying in wait.\n\nأَيَّان ʾayyāna interrogative pronoun of the future respecting time yet to come (اسم زمان للمستقبل) and used for great events in contrast with مَتَى (matā) (q.v.) ‘whenever?’ (51:12) يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ they ask, ‘Whenever is this Judgement Day coming?!’ In connected discourse أَيَّان may lose its interrogative function and become governed by a preceding agent, e.g. a verb; denoting a sense of ‘difficult time ahead’ (16:21) أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ they are dead, not living, and have no awareness of when they will ever be raised up.\n\n68",
+      "definition_english": "-ي/ن ʾ–w/y–n time, to fall due, fatigue; philologists classify under this vague root some function words more on the basis of phonetic, rather than semantic, affinity. Of this root, four forms occur 25 times in the Qurʾan: الآن al-ʾāna eight times; أَيَّان ʾayyāna six times; أَيْن ʾayna seven times and أَيْنَمَا ʾaynamā four times.\nالآن al-ʾāna [adverbially used n. considered by a group of grammarians to consist of the article الـ + آن (time)] 1 now (2:71) قَالُوا۟ الآنَ جِئْتَ بِٱلْحَقِّ they said, ‘Now you have brought the truth’ 2 nowadays, at the present time (72:9) وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَٰعِدَ لِلسَّمْعِ فَمَن يَسْتَمِعِ الآنَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا and that we used to sit on places therein to listen, but the one who listens nowadays, finds for himself a meteor lying in wait.\n\nأَيَّان ʾayyāna interrogative pronoun of the future respecting time yet to come (اسم زمان للمستقبل) and used for great events in contrast with مَتَى (matā) (q.v.) ‘whenever?’ (51:12) يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ they ask, ‘Whenever is this Judgement Day coming?!’ In connected discourse أَيَّان may lose its interrogative function and become governed by a preceding agent, e.g. a verb; denoting a sense of ‘difficult time ahead’ (16:21) أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ they are dead, not living, and have no awareness of when they will ever be raised up.\n\n68"
+    }
+  ],
   "occurrences": []
 }

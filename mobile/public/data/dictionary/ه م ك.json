@@ -1,8 +1,11 @@
 {
-  "id": 4288,
   "root": "ه م ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهمس - همش\n\n(همك) الهاء والميم والكاف: كلمةٌ واحدة. انهمَكَ في الأمر: جَدَّ ولَجّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهمس - همش\n\n(همك) الهاء والميم والكاف: كلمةٌ واحدة. انهمَكَ في الأمر: جَدَّ ولَجّ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

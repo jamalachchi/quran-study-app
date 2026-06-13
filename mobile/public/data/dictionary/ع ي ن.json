@@ -1,9 +1,22 @@
 {
-  "id": 2609,
   "root": "ع ي ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعين\n\n(عين) العين والياء والنون أصلٌ واحد صحيح يدلُّ على عُضوٍ به يُبْصَر ويُنظَر، ثم يشتقُّ منه، والأصلُ في جميعه ما ذكرنا.\n\nقال الخليل: العين النّاظرة لكلِّ ذي بَصَر. والعين تجمع على أعيُن وعُيون وأعيان. قال الشاعر:\n\nحَتّى يَمِلْنَ بأجيادٍ وأعيانِ\n\nفقد أرُوعُ قلوبَ الغانياتِ به\n\nوقال:\n\n* فقد قرَّ أعيانَ الشَّوامِتِ أنّهم *\n\nوربّما جمعوا أعيُنا على أعيناتٍ. قال:\n\n* بأعينُات لم يخالطها قَذَى *\n\nوعَيْنُ القَلْب مثَل على معنى التشبيه. ومن أمثال العرب في العين، قولهم: \"ولا أفعَلُه ما حَمَلتْ عيني الماء\"، أي لا أفعله أبداً. ويقولون: \"عَينٌ بها كلُّ داء\" للكثير العيوب. ويقال: رجلٌ شديد جَفْنِ العين، إذا كان صبوراً على السَّهَر. ويقال: عِنْتُ الرّجلَ، إذا أصبتَه بعينك، فأنا أعينُه عَيْنا، وهو مَعْيون. قال:\n\nوإخال أنّكَ] سيِّدٌ مَعيونُ\n\nقد كان قومُك يحسبونك [سيّداً\n\nورجل عَيُونٌ ومِعيانٌ : خبيث العين. والعائن: الذي يَعِين، ورأيت",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعين\n\n(عين) العين والياء والنون أصلٌ واحد صحيح يدلُّ على عُضوٍ به يُبْصَر ويُنظَر، ثم يشتقُّ منه، والأصلُ في جميعه ما ذكرنا.\n\nقال الخليل: العين النّاظرة لكلِّ ذي بَصَر. والعين تجمع على أعيُن وعُيون وأعيان. قال الشاعر:\n\nحَتّى يَمِلْنَ بأجيادٍ وأعيانِ\n\nفقد أرُوعُ قلوبَ الغانياتِ به\n\nوقال:\n\n* فقد قرَّ أعيانَ الشَّوامِتِ أنّهم *\n\nوربّما جمعوا أعيُنا على أعيناتٍ. قال:\n\n* بأعينُات لم يخالطها قَذَى *\n\nوعَيْنُ القَلْب مثَل على معنى التشبيه. ومن أمثال العرب في العين، قولهم: \"ولا أفعَلُه ما حَمَلتْ عيني الماء\"، أي لا أفعله أبداً. ويقولون: \"عَينٌ بها كلُّ داء\" للكثير العيوب. ويقال: رجلٌ شديد جَفْنِ العين، إذا كان صبوراً على السَّهَر. ويقال: عِنْتُ الرّجلَ، إذا أصبتَه بعينك، فأنا أعينُه عَيْنا، وهو مَعْيون. قال:\n\nوإخال أنّكَ] سيِّدٌ مَعيونُ\n\nقد كان قومُك يحسبونك [سيّداً\n\nورجل عَيُونٌ ومِعيانٌ : خبيث العين. والعائن: الذي يَعِين، ورأيت",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ع/ي/ش ʿ–y–sh state and way of living, life (particularly of animals),\nto live, to make one’s home in a particular place or with a\nparticular person, livelihood. Of this root, four forms occur eight\ntimes in the Qur’an: عِيشَة ʿīshatun twice; مَعَاشًا maʿāshan once;\nمَعِيشَة maʿīshatun three times and مَعَايِش maʿāyish twice.\n\nعِيشَة ʿīshatun [v. n./n.] way of living, mode of living (69:21)\nفَهُوَ فِي عِيشَةٍ رَاضِيَةٍ and so he will live a pleasant life.\n\nمَعَاش maʿāsh [v. n./n.] toiling for a livelihood; a livelihood, a\nliving (78:11) وَجَعَلْنَا النَّهَارَ مَعَاشًا and We made the day [for earning]\na living/for toiling.\n\nمَعِيشَة maʿīshatun [v. n.; n., pl. مَعَايِش maʿāyish] state of living,\nmanner of living; victuals, means of subsistence, livelihood\n(43:32) نَحْنُ قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا We apportion out among\nthem their livelihood in this life.",
+      "definition_english": "ع/ي/ش ʿ–y–sh state and way of living, life (particularly of animals),\nto live, to make one’s home in a particular place or with a\nparticular person, livelihood. Of this root, four forms occur eight\ntimes in the Qur’an: عِيشَة ʿīshatun twice; مَعَاشًا maʿāshan once;\nمَعِيشَة maʿīshatun three times and مَعَايِش maʿāyish twice.\n\nعِيشَة ʿīshatun [v. n./n.] way of living, mode of living (69:21)\nفَهُوَ فِي عِيشَةٍ رَاضِيَةٍ and so he will live a pleasant life.\n\nمَعَاش maʿāsh [v. n./n.] toiling for a livelihood; a livelihood, a\nliving (78:11) وَجَعَلْنَا النَّهَارَ مَعَاشًا and We made the day [for earning]\na living/for toiling.\n\nمَعِيشَة maʿīshatun [v. n.; n., pl. مَعَايِش maʿāyish] state of living,\nmanner of living; victuals, means of subsistence, livelihood\n(43:32) نَحْنُ قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا We apportion out among\nthem their livelihood in this life."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ–y–n eye, eyesight, to see, to have beautiful eyes, to injure\nthe eye, to give the evil eye, to spy, to ascertain, notables; water\n\n658",
+      "definition_english": "ʿ–y–n eye, eyesight, to see, to have beautiful eyes, to injure\nthe eye, to give the evil eye, to spy, to ascertain, notables; water\n\n658"
+    }
+  ],
   "occurrences": [
     "102:7:3",
     "11:31:18",

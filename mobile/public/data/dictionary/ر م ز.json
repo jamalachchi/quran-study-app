@@ -1,9 +1,17 @@
 {
-  "id": 1486,
   "root": "ر م ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرمد\n\n(رمز) الراء والميم والزاء أصلٌ واحدٌ يدلُّ على حركةٍ واضطراب. يقال كتيبة رَمَّازة: تموج من نواحِيها. ويقال ضربه فما ارمَأَزَّ، أي ما تحرَّك. وارتَمَز أيضاً: تحرَّك.\n\nويقولون: إِنّ الرَّاموز: البحر. وأراه في شعر هذَيل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرمد\n\n(رمز) الراء والميم والزاء أصلٌ واحدٌ يدلُّ على حركةٍ واضطراب. يقال كتيبة رَمَّازة: تموج من نواحِيها. ويقال ضربه فما ارمَأَزَّ، أي ما تحرَّك. وارتَمَز أيضاً: تحرَّك.\n\nويقولون: إِنّ الرَّاموز: البحر. وأراه في شعر هذَيل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r-m-z sign, signal, nod, wink, gesture, motion, to signal, to gesticulate, to move lips or eyes without uttering a sound; to move, to quiver. Of this root, رَمْز ramz, occurs once in the Qur’an.\nرَمْز ramz [v. n.; n.] signal, sign, making a sign, gesturing (3:41) آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَةَ أَيَّامٍ إِلَّا رَمْزًا your sign is that you will not speak to people for three days, except by gesturing.",
+      "definition_english": "r-m-z sign, signal, nod, wink, gesture, motion, to signal, to gesticulate, to move lips or eyes without uttering a sound; to move, to quiver. Of this root, رَمْز ramz, occurs once in the Qur’an.\nرَمْز ramz [v. n.; n.] signal, sign, making a sign, gesturing (3:41) آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَةَ أَيَّامٍ إِلَّا رَمْزًا your sign is that you will not speak to people for three days, except by gesturing."
+    }
+  ],
   "occurrences": [
     "3:41:14"
   ]

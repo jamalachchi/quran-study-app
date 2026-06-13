@@ -1,9 +1,17 @@
 {
-  "id": 144,
   "root": "أ م د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأمن\n\n(أمد) الهمزة والميم والدال، الأمد: الغاية. كلمةٌ واحدة لا يقاس عليها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأمن\n\n(أمد) الهمزة والميم والدال، الأمد: الغاية. كلمةٌ واحدة لا يقاس عليها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "أ/م/د ʾ-m-d end, terminus; term, period, span, long time; to be angry. Of this root, أمد ʾamad occurs four times in the Qurʾan.\nأمد ʾamad [n.] 1 distance (3:30) وَمَا عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا and what it has done of evil; it will wish that there were a long distance between itself and that [evil] 2 time (57:16) وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلُ فَطَالَ عَلَيْهِمُ الْأَمَدُ فَقَسَتْ قُلُوبُهُمْ and that they should not be like those who were given the Scripture before, and the time became long for them, so their hearts hardened 3 appointed time, point in time, particular time; end, terminus (72:25) قُلْ إِنْ أَدْرِى أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّى أَمَدًا say, ‘I do not know whether what you have been promised is near, or whether a particular time has been appointed for it by my Lord’ 4 [adverbially] in duration (18:12) ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَىُّ الْحِزْبَيْنِ أَحْصَى لِمَا لَبِثُوا أَمَدًا then We woke them so that We might know which of the two parties was better able to calculate how long a time they had remained [in the cave].",
+      "definition_english": "أ/م/د ʾ-m-d end, terminus; term, period, span, long time; to be angry. Of this root, أمد ʾamad occurs four times in the Qurʾan.\nأمد ʾamad [n.] 1 distance (3:30) وَمَا عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا and what it has done of evil; it will wish that there were a long distance between itself and that [evil] 2 time (57:16) وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلُ فَطَالَ عَلَيْهِمُ الْأَمَدُ فَقَسَتْ قُلُوبُهُمْ and that they should not be like those who were given the Scripture before, and the time became long for them, so their hearts hardened 3 appointed time, point in time, particular time; end, terminus (72:25) قُلْ إِنْ أَدْرِى أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّى أَمَدًا say, ‘I do not know whether what you have been promised is near, or whether a particular time has been appointed for it by my Lord’ 4 [adverbially] in duration (18:12) ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَىُّ الْحِزْبَيْنِ أَحْصَى لِمَا لَبِثُوا أَمَدًا then We woke them so that We might know which of the two parties was better able to calculate how long a time they had remained [in the cave]."
+    }
+  ],
   "occurrences": [
     "18:12:9",
     "3:30:19",

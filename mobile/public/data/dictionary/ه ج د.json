@@ -1,9 +1,17 @@
 {
-  "id": 4198,
   "root": "ه ج د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهجد - هجر\n\nمالِهِ، مثل قَسَم، وقد مَرّ. وقال ابن دريد الهَثم: دقُّ الشَّيء حتى يَنسَحِق، وهثمتُه أَهْثِمه.\n\n(باب الهاء والجيم وما يثلثهما)\n\n(هجد) الهاء والجيم والدال أُصَيْلٌ يدلُّ على ركودٍ في مكان. يقال: هَجَد، إذا نامَ هُجُوداً. والهاجد: النَّائم؛ وإن صلَّى ليلاً فهو متهجِّد، كأنَّه بصلاته تركَ الهجودَ عنه. وهذا قياسٌ مستعمَل، كما يقال رجلٌ آثم؛ فإذا كَرِهَ الإثمَ وانتَفَى منه قيل متأثِّم. والعرب تقول: أهْجَدَ البعيرُ: ألقَى جِرانَهُ بالأرض.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهجد - هجر\n\nمالِهِ، مثل قَسَم، وقد مَرّ. وقال ابن دريد الهَثم: دقُّ الشَّيء حتى يَنسَحِق، وهثمتُه أَهْثِمه.\n\n(باب الهاء والجيم وما يثلثهما)\n\n(هجد) الهاء والجيم والدال أُصَيْلٌ يدلُّ على ركودٍ في مكان. يقال: هَجَد، إذا نامَ هُجُوداً. والهاجد: النَّائم؛ وإن صلَّى ليلاً فهو متهجِّد، كأنَّه بصلاته تركَ الهجودَ عنه. وهذا قياسٌ مستعمَل، كما يقال رجلٌ آثم؛ فإذا كَرِهَ الإثمَ وانتَفَى منه قيل متأثِّم. والعرب تقول: أهْجَدَ البعيرُ: ألقَى جِرانَهُ بالأرض.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–j–d to sleep in the night or in the latter part of the night; to\nstay awake at night; (of a camel) to rest the fore part of the neck\nupon the ground. Of this root, تَهَجَّد tahajjad occurs once in the\nQur’an.\n\nتَهَجَّد tahajjad [imper. of v. V تَهَجَّدَ tahajjada, intrans.] to\nperform voluntary prayers in the depths of night (17:79) وَمِنَ اللَّيْلِ\nفَتَهَجَّدْ بِهِ نَافِلَةً لَكَ and in some part of the night, pray, as an extra\noffering of your own [for your own benefit].",
+      "definition_english": "h–j–d to sleep in the night or in the latter part of the night; to\nstay awake at night; (of a camel) to rest the fore part of the neck\nupon the ground. Of this root, تَهَجَّد tahajjad occurs once in the\nQur’an.\n\nتَهَجَّد tahajjad [imper. of v. V تَهَجَّدَ tahajjada, intrans.] to\nperform voluntary prayers in the depths of night (17:79) وَمِنَ اللَّيْلِ\nفَتَهَجَّدْ بِهِ نَافِلَةً لَكَ and in some part of the night, pray, as an extra\noffering of your own [for your own benefit]."
+    }
+  ],
   "occurrences": [
     "17:79:3"
   ]

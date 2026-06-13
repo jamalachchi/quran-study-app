@@ -1,9 +1,17 @@
 {
-  "id": 4107,
   "root": "ن ك س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنكر - نكز\n\n(نكس) النون والكاف والسين أصلٌ يدلُّ على قَلْب الشّيء. منه النَّكْس: قَلبُك شيئاً على رأسه. والوِلاد المنكوس: أن يَخرُج رجلاهُ قَبْلَ رأسِه. والنِّكْسُ: السَّهم الذي ينكسر فُوقُه، فيُجعلُ أعلاه أسفلَه. ويقال للمائق: إنَّه لنِكْسٌ، تشبيهاً بذلك. والمُنَكِّس من الخيل: الذي إذا جرى لم يَسْمُ برأسهِ ولا هادِيهِ من ضَعفه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنكر - نكز\n\n(نكس) النون والكاف والسين أصلٌ يدلُّ على قَلْب الشّيء. منه النَّكْس: قَلبُك شيئاً على رأسه. والوِلاد المنكوس: أن يَخرُج رجلاهُ قَبْلَ رأسِه. والنِّكْسُ: السَّهم الذي ينكسر فُوقُه، فيُجعلُ أعلاه أسفلَه. ويقال للمائق: إنَّه لنِكْسٌ، تشبيهاً بذلك. والمُنَكِّس من الخيل: الذي إذا جرى لم يَسْمُ برأسهِ ولا هادِيهِ من ضَعفه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–k–s to turn upside down, to turn down, to reverse, to hang\none’s head in shame, to be weak; to relapse, degeneration. Of this\nroot, three forms occur once each in the Qur’an: نُكِس nukisa; نَكَّس\nnakkasa and نَاكِسُون nākisūn.\n\nنُكِس nukisa [pass. v.] to be caused to relapse, to be caused to\nrevert, to be turned upside down *(21:65) نُكِسُوا عَلَى رُءُوسِهِمْ they\nwent back to their stubbornness, became obstinate [lit. they were\nturned upside down on their heads].\n\nنَكَّس nakkasa [v. II trans.] to cause to reverse, to turn upside\ndown (36:68) وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ he whom We bring into very\nold age We reverse him in constitution [from strength to\nweakness].\n\nنَاكِسُون nākisūn [pl. of act. part. نَاكِس nākis] those who bend\nsomething down *(32:12) نَاكِسُوا رُءُوسِهِمْ hanging their heads [in\nshame].",
+      "definition_english": "n–k–s to turn upside down, to turn down, to reverse, to hang\none’s head in shame, to be weak; to relapse, degeneration. Of this\nroot, three forms occur once each in the Qur’an: نُكِس nukisa; نَكَّس\nnakkasa and نَاكِسُون nākisūn.\n\nنُكِس nukisa [pass. v.] to be caused to relapse, to be caused to\nrevert, to be turned upside down *(21:65) نُكِسُوا عَلَى رُءُوسِهِمْ they\nwent back to their stubbornness, became obstinate [lit. they were\nturned upside down on their heads].\n\nنَكَّس nakkasa [v. II trans.] to cause to reverse, to turn upside\ndown (36:68) وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ he whom We bring into very\nold age We reverse him in constitution [from strength to\nweakness].\n\nنَاكِسُون nākisūn [pl. of act. part. نَاكِس nākis] those who bend\nsomething down *(32:12) نَاكِسُوا رُءُوسِهِمْ hanging their heads [in\nshame]."
+    }
+  ],
   "occurrences": [
     "21:65:2",
     "32:12:5",

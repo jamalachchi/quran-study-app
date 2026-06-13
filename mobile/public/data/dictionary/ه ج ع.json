@@ -1,9 +1,17 @@
 {
-  "id": 4201,
   "root": "ه ج ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهجر\n\n(هجع) الهاء والجيم والعين: كلمةٌ تدلُّ على نوم. وهَجَع هُجوعاً: نام ليلاً. ولقيتُه بعد هَجعةٍ.\n\nومما قِيس على هذا: رجلٌ هجع ، أي أحمقُ مُستَنِيمٌ إلى كُلٍّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهجر\n\n(هجع) الهاء والجيم والعين: كلمةٌ تدلُّ على نوم. وهَجَع هُجوعاً: نام ليلاً. ولقيتُه بعد هَجعةٍ.\n\nومما قِيس على هذا: رجلٌ هجع ، أي أحمقُ مُستَنِيمٌ إلى كُلٍّ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–j–ʿ part of the night; to sleep at night, to lie down\npeacefully at night; slumber; to abate; foolish person. Of this root,\nيَهْجَعُون yahjaʿūn occurs once in the Qur’an.\n\nيَهْجَعُ yahjaʿ [imperf. of v. intrans.] to sleep at night without\nany concerns (51:17) كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ little of the night\nwould they [lie down] to sleep unconcerned.",
+      "definition_english": "h–j–ʿ part of the night; to sleep at night, to lie down\npeacefully at night; slumber; to abate; foolish person. Of this root,\nيَهْجَعُون yahjaʿūn occurs once in the Qur’an.\n\nيَهْجَعُ yahjaʿ [imperf. of v. intrans.] to sleep at night without\nany concerns (51:17) كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ little of the night\nwould they [lie down] to sleep unconcerned."
+    }
+  ],
   "occurrences": [
     "51:17:6"
   ]

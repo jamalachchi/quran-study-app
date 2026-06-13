@@ -1,9 +1,17 @@
 {
-  "id": 2001,
   "root": "ش ك و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشكم\n\n(شكو) الشين والكاف والحرف المعتل أصلٌ واحدٌ يدلُّ على توجُّع من شيء. فالشّكو المصدر؛ شكوته [شكْواً ، و] شَكاةً، وشِكايةً. وشكوتُ فلاناً فأشكاني، أي أعتبني من شَكواي . وأشكاني، إذا فعل بك ما يُحوِجُك إلى شكايته. والشَّكاة والشِّكاية بمعنى. والشكِيّ: الذي يشتكي وجعاً. والشكِيُّ المشكوِّ أيضاً؛ شكَوتُه فهو شَكِيٌّ ومشكوٌّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشكم\n\n(شكو) الشين والكاف والحرف المعتل أصلٌ واحدٌ يدلُّ على توجُّع من شيء. فالشّكو المصدر؛ شكوته [شكْواً ، و] شَكاةً، وشِكايةً. وشكوتُ فلاناً فأشكاني، أي أعتبني من شَكواي . وأشكاني، إذا فعل بك ما يُحوِجُك إلى شكايته. والشَّكاة والشِّكاية بمعنى. والشكِيّ: الذي يشتكي وجعاً. والشكِيُّ المشكوِّ أيضاً؛ شكَوتُه فهو شَكِيٌّ ومشكوٌّ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ش/ك/و sh–k–w to grieve, to show, or reveal, one’s grief or sorrow, to complain. Of this root, two forms occur once each in the Qurʾan: أَشْكُو ʾashkū and تَشْتَكِي tashtakī.\nأَشْكُو ʾashkū [imperf. of v. شَكَا shakā, trans.] to complain, to submit a complaint (12:86) إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ I only make complaint of my anguish and grief to God.\n\nتَشْتَكِي tashtakī [imperf. of v. VIII, trans. with no object] to complain vigorously (58:1) قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ God has heard the words of she who disputes with you [Prophet] concerning her husband and complains to God.\n\nإِشْمَأَزَّ ʾishmaʾazza (see ش/م/ز sh–m–z).",
+      "definition_english": "ش/ك/و sh–k–w to grieve, to show, or reveal, one’s grief or sorrow, to complain. Of this root, two forms occur once each in the Qurʾan: أَشْكُو ʾashkū and تَشْتَكِي tashtakī.\nأَشْكُو ʾashkū [imperf. of v. شَكَا shakā, trans.] to complain, to submit a complaint (12:86) إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ I only make complaint of my anguish and grief to God.\n\nتَشْتَكِي tashtakī [imperf. of v. VIII, trans. with no object] to complain vigorously (58:1) قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ God has heard the words of she who disputes with you [Prophet] concerning her husband and complains to God.\n\nإِشْمَأَزَّ ʾishmaʾazza (see ش/م/ز sh–m–z)."
+    }
+  ],
   "occurrences": [
     "12:86:3",
     "24:35:7",

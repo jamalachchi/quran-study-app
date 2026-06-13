@@ -1,9 +1,22 @@
 {
-  "id": 3689,
   "root": "م ح و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمحق - محك\n\n(محو) الميم والحاء والحرف المعتل أصلٌ صحيح يدلُّ على الذَّهاب بالشيء. ومَحَتِ الرِّيحُ السحابَ: ذهبَتْ به. وتسمَّى الشّمالُ مَحْوَة، لأنّها تَمحو السَّحاب. ومَحَوْت الكتابَ أَمْحُوه مَحْواً. وامَّحَى الشّيءُ: ذهب أثرُه، كذلك امْتَحَى.\n\nمحت محج - مخر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمحق - محك\n\n(محو) الميم والحاء والحرف المعتل أصلٌ صحيح يدلُّ على الذَّهاب بالشيء. ومَحَتِ الرِّيحُ السحابَ: ذهبَتْ به. وتسمَّى الشّمالُ مَحْوَة، لأنّها تَمحو السَّحاب. ومَحَوْت الكتابَ أَمْحُوه مَحْواً. وامَّحَى الشّيءُ: ذهب أثرُه، كذلك امْتَحَى.\n\nمحت محج - مخر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–w to wipe out, to eradicate, to disappear completely, to be\neffaced, to be featureless; (of land) to be covered with rain water;\nto annul. Of this root, مَحَا maḥā, occurs three times in the Qur’an.\n\nمَحَا maḥā u [v. trans.] 1 to erase, to blot out (13:39) يَمْحُوا اللَّهُ مَا\nيَشَاءُ وَيُثْبِتُ God erases or confirms whatever He wills 2 to darken,\nto withdraw the light (17:12) فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً\nWe then made dark the portent of the night and made the portent\nof the day to see.",
+      "definition_english": "m–ḥ–w to wipe out, to eradicate, to disappear completely, to be\neffaced, to be featureless; (of land) to be covered with rain water;\nto annul. Of this root, مَحَا maḥā, occurs three times in the Qur’an.\n\nمَحَا maḥā u [v. trans.] 1 to erase, to blot out (13:39) يَمْحُوا اللَّهُ مَا\nيَشَاءُ وَيُثْبِتُ God erases or confirms whatever He wills 2 to darken,\nto withdraw the light (17:12) فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً\nWe then made dark the portent of the night and made the portent\nof the day to see."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ḥ–w to wipe out, to eradicate, to disappear completely, to be effaced, to be featureless; (of land) to be covered with rain water; to annul. Of this root, محا maḥā, occurs three times in the Qur’an.\nمحا maḥā u [v. trans.] 1 to erase, to blot out (13:39) يَمْحُوا اللَّهُ مَا يَشَاءُ وَيُثْبِتُ God erases or confirms whatever He wills 2 to darken, to withdraw the light (17:12) فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً We then made dark the portent of the night and made the portent of the day to see.",
+      "definition_english": "m–ḥ–w to wipe out, to eradicate, to disappear completely, to be effaced, to be featureless; (of land) to be covered with rain water; to annul. Of this root, محا maḥā, occurs three times in the Qur’an.\nمحا maḥā u [v. trans.] 1 to erase, to blot out (13:39) يَمْحُوا اللَّهُ مَا يَشَاءُ وَيُثْبِتُ God erases or confirms whatever He wills 2 to darken, to withdraw the light (17:12) فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً We then made dark the portent of the night and made the portent of the day to see."
+    }
+  ],
   "occurrences": [
     "13:39:1",
     "17:12:5",

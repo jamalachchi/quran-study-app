@@ -1,9 +1,17 @@
 {
-  "id": 3270,
   "root": "ك ل ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كلح) الكاف واللام والحاء أصلٌ يدلُّ على عُبوس وشَتامةٍ في الوجه. من ذلك الكُلوح، وهو العبوس. يقال كَلَح الرَّجُل، [و] دهرٌ كالِحٌ.\n\nكلد كلز كلس - كلع\n\nقال الله تعالى: ] تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ [ [المؤمنون 104]. وربما قالوا للسَّنَة المُجْدِبة: كَلاَحِ. وما أقْبَح كَلَحَته، أي إذا كلَحَ فقَبُح فمُه وما حوالَيه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كلح) الكاف واللام والحاء أصلٌ يدلُّ على عُبوس وشَتامةٍ في الوجه. من ذلك الكُلوح، وهو العبوس. يقال كَلَح الرَّجُل، [و] دهرٌ كالِحٌ.\n\nكلد كلز كلس - كلع\n\nقال الله تعالى: ] تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ [ [المؤمنون 104]. وربما قالوا للسَّنَة المُجْدِبة: كَلاَحِ. وما أقْبَح كَلَحَته، أي إذا كلَحَ فقَبُح فمُه وما حوالَيه.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–l–ḥ scowling, frowning, to be grave, austere; hardship,\nfamine; succession of thunderbolts. Of this root, كَالِحُون kāliḥūn\noccurs once in the Qur’an.\n\n816",
+      "definition_english": "k–l–ḥ scowling, frowning, to be grave, austere; hardship,\nfamine; succession of thunderbolts. Of this root, كَالِحُون kāliḥūn\noccurs once in the Qur’an.\n\n816"
+    }
+  ],
   "occurrences": [
     "23:104:6"
   ]

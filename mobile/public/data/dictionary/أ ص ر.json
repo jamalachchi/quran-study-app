@@ -1,9 +1,17 @@
 {
-  "id": 112,
   "root": "أ ص ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأصد - أصر\n\n(أصر) الهمزة والصاد والراء، أصلٌ واحدٌ يتفرع منه أشياء متقاربة. فالأصر الحبسُ والعَطف وما في معناهما. وتفسيرُ ذلك أنَّ العهد يقال له إصْرٌ، والقرابة تسمى آصِرَةٌ، وكل عقدٍ وقرابةٍ وَعهدٍ إصرٌ. والبابُ كلُّه واحد. والعرب تقول: \"ما تأصِرُني على فلان آصِرَةٌ\"، أي ما تعطفني عليه قرابة. قال الحطيئة:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأصد - أصر\n\n(أصر) الهمزة والصاد والراء، أصلٌ واحدٌ يتفرع منه أشياء متقاربة. فالأصر الحبسُ والعَطف وما في معناهما. وتفسيرُ ذلك أنَّ العهد يقال له إصْرٌ، والقرابة تسمى آصِرَةٌ، وكل عقدٍ وقرابةٍ وَعهدٍ إصرٌ. والبابُ كلُّه واحد. والعرب تقول: \"ما تأصِرُني على فلان آصِرَةٌ\"، أي ما تعطفني عليه قرابة. قال الحطيئة:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–ṣ–r rope, tie, connection, relation; an undertaking; promise,\nvow; load, burden. Of this root, إِصْر ʾiṣr occurs three times in the\nQur’an.\n\nإِصْر ʾiṣr [n.] 1 load, burden (7:157) وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالأَغْلالَ الَّتِي\nكَانَتْ عَلَيْهِمْ and He relieves them of their burdens, and the shackles\nthat were upon them 2 promise, vow, agreement, pledge,\ncovenant (3:81) أَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَى ذَلِكُمْ إِصْرِي do you affirm? [He\nsaid], and do you agree and take My pledge concerning this?",
+      "definition_english": "ʾ–ṣ–r rope, tie, connection, relation; an undertaking; promise,\nvow; load, burden. Of this root, إِصْر ʾiṣr occurs three times in the\nQur’an.\n\nإِصْر ʾiṣr [n.] 1 load, burden (7:157) وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالأَغْلالَ الَّتِي\nكَانَتْ عَلَيْهِمْ and He relieves them of their burdens, and the shackles\nthat were upon them 2 promise, vow, agreement, pledge,\ncovenant (3:81) أَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَى ذَلِكُمْ إِصْرِي do you affirm? [He\nsaid], and do you agree and take My pledge concerning this?"
+    }
+  ],
   "occurrences": [
     "2:286:24",
     "3:81:25",

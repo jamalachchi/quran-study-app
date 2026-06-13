@@ -1,9 +1,17 @@
 {
-  "id": 1986,
   "root": "ش ف ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشفي\n\nقولهم للغَيُور الذي لا يَفْتُرُ عن النَّظَرِ : شَفُون. ومن الناس من يقول شَفَنَ يَشْفِنُ، إذا نظر بمُؤْخر عينه، وشَفِن أيضاً يشفَن شَفْناً، وهو شَفُونٌ وشافن. وأنشد الخليل:\n\n* حِذَار مرتقبٍ شَفُونِ *\n\nقال الأمويّ: الشَّفِن: الكيِّس العاقل. وكلُّ ذلك يقرُب بعضُهُ من بعض.\n\n(شفي) الشين والفاء والحرف المعتل يدل على الإشراف على الشيء؛ يقال أشفى على الشيء إذا أشرفَ عليه. وسمِّي الشِّفاء شفاءً لغلَبته للمرض وإشفائه عليه. ويقال استشفَى فلانٌ، إذا طَلَبَ الشِّفاء. وشَفَى كلِّ شيء: حَرْفه. وهذا ممكنٌ أن يكون من هذا الباب، وممكنٌ أن يكون من الإبدال، وتكون الفاءُ مبدلةً من ياء.\n\nويقال أعطيتك الشّيءَ تستشفي به، ثم يقال أَشْفَيتُكَ الشيءَ، وهو الصحيح. ويقال أَشْفَى المريضُ على الموت، وما بَقيَ منه إلا شَفىً أي قليل. فأمَّا قول العجاج:\n\n* أوْفَيْتُهُ قَبْلَ شَفىً أو بِشَفَى *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشفي\n\nقولهم للغَيُور الذي لا يَفْتُرُ عن النَّظَرِ : شَفُون. ومن الناس من يقول شَفَنَ يَشْفِنُ، إذا نظر بمُؤْخر عينه، وشَفِن أيضاً يشفَن شَفْناً، وهو شَفُونٌ وشافن. وأنشد الخليل:\n\n* حِذَار مرتقبٍ شَفُونِ *\n\nقال الأمويّ: الشَّفِن: الكيِّس العاقل. وكلُّ ذلك يقرُب بعضُهُ من بعض.\n\n(شفي) الشين والفاء والحرف المعتل يدل على الإشراف على الشيء؛ يقال أشفى على الشيء إذا أشرفَ عليه. وسمِّي الشِّفاء شفاءً لغلَبته للمرض وإشفائه عليه. ويقال استشفَى فلانٌ، إذا طَلَبَ الشِّفاء. وشَفَى كلِّ شيء: حَرْفه. وهذا ممكنٌ أن يكون من هذا الباب، وممكنٌ أن يكون من الإبدال، وتكون الفاءُ مبدلةً من ياء.\n\nويقال أعطيتك الشّيءَ تستشفي به، ثم يقال أَشْفَيتُكَ الشيءَ، وهو الصحيح. ويقال أَشْفَى المريضُ على الموت، وما بَقيَ منه إلا شَفىً أي قليل. فأمَّا قول العجاج:\n\n* أوْفَيْتُهُ قَبْلَ شَفىً أو بِشَفَى *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–f–y to restore to good health, to cure; to satisfy one’s curiosity, to reassure oneself. Of this root, two forms occur six times in the Qurʾan: يَشْفِي yashfī twice and شِفَاء shifāʾ four times.\nيَشْفِي yashfī [imperf. v., trans.] to heal, to cure a physical or mental illness; to remove rancour or bad feeling from the heart (26:80) وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ and if I become sick He heals me.\n\nشِفَاء shifāʾ [n./v. n.] cure, remedy; curing, healing (17:82) وَنُنَزِّلُ\n\n491",
+      "definition_english": "sh–f–y to restore to good health, to cure; to satisfy one’s curiosity, to reassure oneself. Of this root, two forms occur six times in the Qurʾan: يَشْفِي yashfī twice and شِفَاء shifāʾ four times.\nيَشْفِي yashfī [imperf. v., trans.] to heal, to cure a physical or mental illness; to remove rancour or bad feeling from the heart (26:80) وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ and if I become sick He heals me.\n\nشِفَاء shifāʾ [n./v. n.] cure, remedy; curing, healing (17:82) وَنُنَزِّلُ\n\n491"
+    }
+  ],
   "occurrences": [
     "10:57:8",
     "16:69:17",

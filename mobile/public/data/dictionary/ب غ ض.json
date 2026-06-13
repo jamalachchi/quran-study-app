@@ -1,9 +1,17 @@
 {
-  "id": 317,
   "root": "ب غ ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبغت - بغث\n\n(بغض) الباء والغين والضاد أصلٌ واحد، وهو يدلُّ على خلاف الحبّ. يقال أبغَضْتُه أُبْغِضُه. فأمّا قوله:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبغت - بغث\n\n(بغض) الباء والغين والضاد أصلٌ واحد، وهو يدلُّ على خلاف الحبّ. يقال أبغَضْتُه أُبْغِضُه. فأمّا قوله:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b-gh-ḍ hate. Of this root, بَغْضَاء baghḍāʾ occurs five times in\nthe Qurʾan.\n\nبَغْضَاء baghḍāʾ [n.] intense hatred, loathing (3:118) قَدْ بَدَتِ الْبَغْضَاءُ\nمِنْ أَفْوَاهِهِمْ vehement hatred has already willed itself out of their\nmouths.",
+      "definition_english": "b-gh-ḍ hate. Of this root, بَغْضَاء baghḍāʾ occurs five times in\nthe Qurʾan.\n\nبَغْضَاء baghḍāʾ [n.] intense hatred, loathing (3:118) قَدْ بَدَتِ الْبَغْضَاءُ\nمِنْ أَفْوَاهِهِمْ vehement hatred has already willed itself out of their\nmouths."
+    }
+  ],
   "occurrences": [
     "3:118:17",
     "5:14:16",

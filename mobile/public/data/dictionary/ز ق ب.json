@@ -1,8 +1,11 @@
 {
-  "id": 1652,
   "root": "ز ق ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزعب\n\n(زقب) الزاء القاف والباء كلمة. يقال طريقٌ زَقَبٌ . أي ضيِّق.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزعب\n\n(زقب) الزاء القاف والباء كلمة. يقال طريقٌ زَقَبٌ . أي ضيِّق.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

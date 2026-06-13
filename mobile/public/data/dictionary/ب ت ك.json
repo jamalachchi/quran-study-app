@@ -1,9 +1,17 @@
 {
-  "id": 207,
   "root": "ب ت ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبه - ببّ\n\n(بتك) الباء والتاء والكاف أصلٌ واحد، وهو القطع. قالوا: بَتَكْتُ الشيء قَطعته أبْتُِكه بَتْكاً. قال الخليل: البَتْك قطع الأذُن. وفي القرآن: ] فَلَيُبَتِّكُنَّ آذَانَ الأَنْعَامِ [ [النساء 119]. قال: والباتك السَّيف القاطع. قال: والبَتْك أن تقبض على شَعَرٍ أو ريشٍ أو نحوِ ذلك ثم تجذبَه إليك فينْبتِكَ من أصله، أي ينقطع ويَنْتَتِفُ ، وكل طائفةٍ من ذلك بِتْكَةٌ، والجمع بِتَك. قال زُهير:\n\nطارت وفي كَفِّهِ مِنْ ريشِها بِتَكُ\n\nحتى إذا ما هَوَتْ كفُّ الغلامِ لها",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبه - ببّ\n\n(بتك) الباء والتاء والكاف أصلٌ واحد، وهو القطع. قالوا: بَتَكْتُ الشيء قَطعته أبْتُِكه بَتْكاً. قال الخليل: البَتْك قطع الأذُن. وفي القرآن: ] فَلَيُبَتِّكُنَّ آذَانَ الأَنْعَامِ [ [النساء 119]. قال: والباتك السَّيف القاطع. قال: والبَتْك أن تقبض على شَعَرٍ أو ريشٍ أو نحوِ ذلك ثم تجذبَه إليك فينْبتِكَ من أصله، أي ينقطع ويَنْتَتِفُ ، وكل طائفةٍ من ذلك بِتْكَةٌ، والجمع بِتَك. قال زُهير:\n\nطارت وفي كَفِّهِ مِنْ ريشِها بِتَكُ\n\nحتى إذا ما هَوَتْ كفُّ الغلامِ لها",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–t–k to uproot, to cut off at the base; to dedicate an animal to\na certain idol, as was the custom in pre-Islamic Arabia, by cutting\noff, or slitting its ear; to be sharp. Of this root, يُبَتِّكُنَّ yubattikunna,\noccurs once in the Qurʾan.\n\nيُبَتِّكُ yubattik [imperf. of v. II بَتَّكَ battaka, trans.] to cut off or to\nslit [the ear of an animal] (4:119) وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ\n[Indeed] I will [certainly] mislead them and incite vain desires in\nthem; I will command them to slit the ears of cattle and will\ncommand them and they will alter God’s creation.",
+      "definition_english": "b–t–k to uproot, to cut off at the base; to dedicate an animal to\na certain idol, as was the custom in pre-Islamic Arabia, by cutting\noff, or slitting its ear; to be sharp. Of this root, يُبَتِّكُنَّ yubattikunna,\noccurs once in the Qurʾan.\n\nيُبَتِّكُ yubattik [imperf. of v. II بَتَّكَ battaka, trans.] to cut off or to\nslit [the ear of an animal] (4:119) وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ\n[Indeed] I will [certainly] mislead them and incite vain desires in\nthem; I will command them to slit the ears of cattle and will\ncommand them and they will alter God’s creation."
+    }
+  ],
   "occurrences": [
     "4:119:4"
   ]

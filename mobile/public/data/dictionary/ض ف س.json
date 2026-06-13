@@ -1,8 +1,11 @@
 {
-  "id": 2296,
   "root": "ض ف س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضغز - ضفن\n\n(ضفس) الضاد والفاء والسين ليس بشيء، إلاَّ أنَّ ابنَ دُريد ذكر أن الضَّفْس مثل الضَّفْز.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضغز - ضفن\n\n(ضفس) الضاد والفاء والسين ليس بشيء، إلاَّ أنَّ ابنَ دُريد ذكر أن الضَّفْس مثل الضَّفْز.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

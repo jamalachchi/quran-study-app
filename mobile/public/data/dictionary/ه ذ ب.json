@@ -1,8 +1,11 @@
 {
-  "id": 4220,
   "root": "ه ذ ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهدج\n\n(هذب) الهاء والذال والباء: كلمةٌ تدلُّ على تَنقِيَةِ شيءٍ مما يَعِيبه. يقال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهدج\n\n(هذب) الهاء والذال والباء: كلمةٌ تدلُّ على تَنقِيَةِ شيءٍ مما يَعِيبه. يقال:",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

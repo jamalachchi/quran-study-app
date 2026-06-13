@@ -1,8 +1,11 @@
 {
-  "id": 705,
   "root": "ج ي س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيس) الجيم والياء والسين أصل يائه واو، وقد مضى ذكرُه.\n\nجيش - جيض - جيل",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الجيم\n\nجيأ - جيب\n\n(جيس) الجيم والياء والسين أصل يائه واو، وقد مضى ذكرُه.\n\nجيش - جيض - جيل",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 2050,
   "root": "ش ي خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشيح\n\n(شيخ) الشين والياء والخاء كلمة واحدة، وهي الشَّيخ. تقول: هو شيخٌ، وهو معروف، بيِّن الشَّيخوخة والشَّيَخ والتّشييخ. وقد قالوا أيضاً كلمةً، قالوا: شَيَّخت عليه .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشيح\n\n(شيخ) الشين والياء والخاء كلمة واحدة، وهي الشَّيخ. تقول: هو شيخٌ، وهو معروف، بيِّن الشَّيخوخة والشَّيَخ والتّشييخ. وقد قالوا أيضاً كلمةً، قالوا: شَيَّخت عليه .",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–y–kh to become old, to advance in years, an old or elderly\nman. Of this root, two words occur three times in the Qurʾan: شَيْخ\nshaykh twice and شُيُوخ shuyūkh once.\n\nشَيْخ shaykh [n./quasi-act. part., pl. شُيُوخ shuyūkh] an old man,\nan ageing man (28:23) لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ وَأَبُونَا شَيْخٌ كَبِيرٌ we do\nnot water [our flocks] until the shepherds take [their sheep]\naway; our father is a very old man.",
+      "definition_english": "sh–y–kh to become old, to advance in years, an old or elderly\nman. Of this root, two words occur three times in the Qurʾan: شَيْخ\nshaykh twice and شُيُوخ shuyūkh once.\n\nشَيْخ shaykh [n./quasi-act. part., pl. شُيُوخ shuyūkh] an old man,\nan ageing man (28:23) لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ وَأَبُونَا شَيْخٌ كَبِيرٌ we do\nnot water [our flocks] until the shepherds take [their sheep]\naway; our father is a very old man."
+    }
+  ],
   "occurrences": [
     "11:72:8",
     "12:78:7",

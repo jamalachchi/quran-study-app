@@ -1,9 +1,17 @@
 {
-  "id": 3354,
   "root": "ك ث ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكثف - كثع\n\n(كثب) الكاف والثاء والباء أصلٌ صحيح واحدٌ يدلُّ على تجمُّع وعلى قُرْب. من ذلك الكُثْبة، وهي القِطعة من اللَّبَن ومن التَّمر. قالوا: سمِّيت بذلك لاجتماعها. ومنه كثيب الرَّمل. والكاثب: الجامع. والكاثِبةُ: ما ارتفَعَ من مِنْسَج الفَرَس؛ والجمع كواثب. قال النابغة:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكثف - كثع\n\n(كثب) الكاف والثاء والباء أصلٌ صحيح واحدٌ يدلُّ على تجمُّع وعلى قُرْب. من ذلك الكُثْبة، وهي القِطعة من اللَّبَن ومن التَّمر. قالوا: سمِّيت بذلك لاجتماعها. ومنه كثيب الرَّمل. والكاثب: الجامع. والكاثِبةُ: ما ارتفَعَ من مِنْسَج الفَرَس؛ والجمع كواثب. قال النابغة:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–th–b nearness, proximity, to approach; to heap up, to\ncollect; sand dunes; small amount. Of this root, كَثِيب kathīb occurs\nonce in the Qur’an.\n\nكَثِيب kathīb [n.] heap of sand, sand dune (73:14) وَكَانَتِ الْجِبَالُ كَثِيبًا\nمَهِيلًا and the mountains will become a heap of running sand.",
+      "definition_english": "k–th–b nearness, proximity, to approach; to heap up, to\ncollect; sand dunes; small amount. Of this root, كَثِيب kathīb occurs\nonce in the Qur’an.\n\nكَثِيب kathīb [n.] heap of sand, sand dune (73:14) وَكَانَتِ الْجِبَالُ كَثِيبًا\nمَهِيلًا and the mountains will become a heap of running sand."
+    }
+  ],
   "occurrences": [
     "73:14:7"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 3444,
   "root": "ل م س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلمس - لمظ\n\n(لمس) اللام والميم والسين أصلٌ واحدٌ يدلُّ على تطلُّبِ شيء ومَسيسِه أيضاً. تقول: تلمّست الشّيءَ، إذا تطلَّبْتَه بيدك. قال أبو بكر بن دريد: اللّمس أصلُه باليد ليُعرَف مَسُّ الشّيء، ثم كثُرَ ذلك حتَّى صار كلُّ طالب مُلتمِساً . ولَمَسْت ، إذا مَسِسْتَ. قالوا: وكلُّ مَاسٍّ لامس. قال الله سُبحانه: ] أَوْ لاَمَسْتُمُ النِّسَاءَ [ [النساء 43، المائدة 6]، قال قومٌ: أُريد به الجماع. وذهَبَ قوم إلى أنَّه المَسيس، وأنَّ اللَّمْس والملامَسة يكون بغير جماع. وأنشدوا :\n\nولم أدرِ أنَّ الجودَ من كفِّه يُعدِي\n\nلَمَسْتُ بكفِّي كفّه أبْتَغِي الغِنَى\n\nوهذا شعرٌ لا يحتجُّ به. واللّمَاسَة : الطَّلِبةُ والحاجة. ويقال: \"لا يَمنَع يدَ\n\nلامِس\"، إذا لم تكن فيه منفعة ولا له دِفاع. قال:\n\n* ولولاهمُ لم تَدفَعُوا كفَّ لامِسِ *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلمس - لمظ\n\n(لمس) اللام والميم والسين أصلٌ واحدٌ يدلُّ على تطلُّبِ شيء ومَسيسِه أيضاً. تقول: تلمّست الشّيءَ، إذا تطلَّبْتَه بيدك. قال أبو بكر بن دريد: اللّمس أصلُه باليد ليُعرَف مَسُّ الشّيء، ثم كثُرَ ذلك حتَّى صار كلُّ طالب مُلتمِساً . ولَمَسْت ، إذا مَسِسْتَ. قالوا: وكلُّ مَاسٍّ لامس. قال الله سُبحانه: ] أَوْ لاَمَسْتُمُ النِّسَاءَ [ [النساء 43، المائدة 6]، قال قومٌ: أُريد به الجماع. وذهَبَ قوم إلى أنَّه المَسيس، وأنَّ اللَّمْس والملامَسة يكون بغير جماع. وأنشدوا :\n\nولم أدرِ أنَّ الجودَ من كفِّه يُعدِي\n\nلَمَسْتُ بكفِّي كفّه أبْتَغِي الغِنَى\n\nوهذا شعرٌ لا يحتجُّ به. واللّمَاسَة : الطَّلِبةُ والحاجة. ويقال: \"لا يَمنَع يدَ\n\nلامِس\"، إذا لم تكن فيه منفعة ولا له دِفاع. قال:\n\n* ولولاهمُ لم تَدفَعُوا كفَّ لامِسِ *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–m–s to touch, to probe; to look for, to request; to become\naware; to be in contact with, to have sexual intercourse. Of this\nroot, three forms occur five times in the Qur’an: لَمَسَ lamasa\ntwice; لَامَسَ lāmāsa twice and الْتَمِسُوا ʾiltamisū once.\n\nلَمَسَ lamasa i/u [v. trans.] 1 to touch (6:7) وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي\nقِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ even if We had sent down to you actual writing\ninscribed on parchment, and they had touched it with their own\nhands 2 to seek, to probe, to reach for (72:8) وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا\nمُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا and we probed heaven, but found it had been\nfilled with strong guards and meteors.\n\nلَامَسَ lāmāsa [v. III, trans.] to come into contact with *(4:43)\nلَامَسْتُمُ النِّسَاءَ you have [come into contact] had sexual intercourse\nwith women.\n\nالْتَمِس ʾiltamis [imper. of v. VIII, trans.] seek, search for, go in\nquest of (57:13) ارْجِعُوا وَرَاءَكُمْ فَالْتَمِسُوا نُورًا go back and look for a\nlight.",
+      "definition_english": "l–m–s to touch, to probe; to look for, to request; to become\naware; to be in contact with, to have sexual intercourse. Of this\nroot, three forms occur five times in the Qur’an: لَمَسَ lamasa\ntwice; لَامَسَ lāmāsa twice and الْتَمِسُوا ʾiltamisū once.\n\nلَمَسَ lamasa i/u [v. trans.] 1 to touch (6:7) وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي\nقِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ even if We had sent down to you actual writing\ninscribed on parchment, and they had touched it with their own\nhands 2 to seek, to probe, to reach for (72:8) وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا\nمُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا and we probed heaven, but found it had been\nfilled with strong guards and meteors.\n\nلَامَسَ lāmāsa [v. III, trans.] to come into contact with *(4:43)\nلَامَسْتُمُ النِّسَاءَ you have [come into contact] had sexual intercourse\nwith women.\n\nالْتَمِس ʾiltamis [imper. of v. VIII, trans.] seek, search for, go in\nquest of (57:13) ارْجِعُوا وَرَاءَكُمْ فَالْتَمِسُوا نُورًا go back and look for a\nlight."
+    }
+  ],
   "occurrences": [
     "4:43:33",
     "57:13:14",

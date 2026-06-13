@@ -1,9 +1,22 @@
 {
-  "id": 1091,
   "root": "خ ب ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخام\n\n(خبث) الخاء والباء والثاء أصلٌ واحد يدلُّ على خلاف الطّيّب. يقال خبيثٌ، أي ليس بطيِّب. وأخْبَثَ، إذا كانَ أصحابُه خُبثاء. ومن ذلك التعوُّذ مِن الخبيث المُخْبِث. فالخبيث في نفسه، والمُخْبِث الذي أصحابُه وأعوانُه خُبَثاء.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخام\n\n(خبث) الخاء والباء والثاء أصلٌ واحد يدلُّ على خلاف الطّيّب. يقال خبيثٌ، أي ليس بطيِّب. وأخْبَثَ، إذا كانَ أصحابُه خُبثاء. ومن ذلك التعوُّذ مِن الخبيث المُخْبِث. فالخبيث في نفسه، والمُخْبِث الذي أصحابُه وأعوانُه خُبَثاء.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "One, so devote yourselves to Him, and [Prophet] give good news\nto those humbling themselves [before Him].",
+      "definition_english": "One, so devote yourselves to Him, and [Prophet] give good news\nto those humbling themselves [before Him]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–b–th impurities, to be impure; to be bad, to be wicked, to\nbe corrupt, to be vicious; to be nauseated; bad deeds, crimes, sins,\nevil, adultery. Of this root, six forms occur 16 times in the\nQur’an: خَبُثَ khabutha once; خَبِيث khabīth six times; خَبِيثُون\nkhabīthūn twice; خَبِيثَة khabīthatun twice; خَبِيثَات khabīthāt twice\nand خَبَائِث khabāʾith twice.\n\nخَبُثَ khabutha u [v. intrans.] to be or become bad, to be or\nbecome corrupt (7:58) وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي خَبُثَ لَا يَخْرُجُ\nإِلَّا نَكِدًا as for the good land, its vegetation comes up by the will of\nits Lord, but [in] that [land] which has become corrupt it comes\nup only sparsely [stunted].\n\nخَبِيث khabīth [quasi-act. part.; pl. خَبِيثُون khabīthūn; fem. خَبِيثَة\nkhabīthatun; pl. خَبِيثَات khabīthāt] bad, vicious, wicked, sinful, evil\n(3:179) مَا كَانَ اللَّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَىٰ مَا أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ\nGod will not leave the believers in the state you are in until He\ndistinguishes the bad from the good.\n\nخَبَائِث khabāʾith [pl. of n. خَبِيثَة khabīthatun] abominations,\nobscenities, wickedness, sins, evil deeds (21:74) وَلُوطًا آتَيْنَاهُ حُكْمًا\nوَعِلْمًا وَنَجَّيْنَاهُ مِنَ الْقَرْيَةِ الَّتِي كَانَت تَّعْمَلُ الْخَبَائِثَ We gave Lot sound\njudgement and knowledge and saved him from the township that\npractised obscenities.",
+      "definition_english": "kh–b–th impurities, to be impure; to be bad, to be wicked, to\nbe corrupt, to be vicious; to be nauseated; bad deeds, crimes, sins,\nevil, adultery. Of this root, six forms occur 16 times in the\nQur’an: خَبُثَ khabutha once; خَبِيث khabīth six times; خَبِيثُون\nkhabīthūn twice; خَبِيثَة khabīthatun twice; خَبِيثَات khabīthāt twice\nand خَبَائِث khabāʾith twice.\n\nخَبُثَ khabutha u [v. intrans.] to be or become bad, to be or\nbecome corrupt (7:58) وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي خَبُثَ لَا يَخْرُجُ\nإِلَّا نَكِدًا as for the good land, its vegetation comes up by the will of\nits Lord, but [in] that [land] which has become corrupt it comes\nup only sparsely [stunted].\n\nخَبِيث khabīth [quasi-act. part.; pl. خَبِيثُون khabīthūn; fem. خَبِيثَة\nkhabīthatun; pl. خَبِيثَات khabīthāt] bad, vicious, wicked, sinful, evil\n(3:179) مَا كَانَ اللَّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَىٰ مَا أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ\nGod will not leave the believers in the state you are in until He\ndistinguishes the bad from the good.\n\nخَبَائِث khabāʾith [pl. of n. خَبِيثَة khabīthatun] abominations,\nobscenities, wickedness, sins, evil deeds (21:74) وَلُوطًا آتَيْنَاهُ حُكْمًا\nوَعِلْمًا وَنَجَّيْنَاهُ مِنَ الْقَرْيَةِ الَّتِي كَانَت تَّعْمَلُ الْخَبَائِثَ We gave Lot sound\njudgement and knowledge and saved him from the township that\npractised obscenities."
+    }
+  ],
   "occurrences": [
     "14:26:3",
     "14:26:5",

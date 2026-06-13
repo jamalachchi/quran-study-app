@@ -1,9 +1,17 @@
 {
-  "id": 529,
   "root": "ث و ي",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الثاء\n\nثوي - ثوب\n\n(باب الثاء والواو وما يثلثهما)\n\n(ثوي) الثاء والواو والياء كلمةٌ واحدة صحيحة تدلُّ على الإقامة. يقال ثَوَى يثْوِي فهو ثاوٍ. وقال:\n\nربَّ ثاوٍ يُمَلّ منه الثَّواءُ\n\nآذَنَتْنَا بِبَيْنها أسماءُ\n\nويقال أثْوَى أيضاً. قال:\n\nفَمضَى وأخلف من قُتَيْلَة مَوْعِدا\n\nأَثْوَى وَقَصَّرَ لَيْلُه ليُزَوَّدا\n\nوالثَّوِيَّة والثَّايَة: مأوى الغَنَم. والثَّويَّة: مكان . وأمُّ مَثْوَى الرّجلِ: صاحبةُ منزلهِ. والقياس كلُّه واحد. والثّايَة أيضاً: حِجارةٌ تُرفَع للرّاعي يَرجع إليها لَيْلاً، تكونُ علماً له.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الثاء\n\nثوي - ثوب\n\n(باب الثاء والواو وما يثلثهما)\n\n(ثوي) الثاء والواو والياء كلمةٌ واحدة صحيحة تدلُّ على الإقامة. يقال ثَوَى يثْوِي فهو ثاوٍ. وقال:\n\nربَّ ثاوٍ يُمَلّ منه الثَّواءُ\n\nآذَنَتْنَا بِبَيْنها أسماءُ\n\nويقال أثْوَى أيضاً. قال:\n\nفَمضَى وأخلف من قُتَيْلَة مَوْعِدا\n\nأَثْوَى وَقَصَّرَ لَيْلُه ليُزَوَّدا\n\nوالثَّوِيَّة والثَّايَة: مأوى الغَنَم. والثَّويَّة: مكان . وأمُّ مَثْوَى الرّجلِ: صاحبةُ منزلهِ. والقياس كلُّه واحد. والثّايَة أيضاً: حِجارةٌ تُرفَع للرّاعي يَرجع إليها لَيْلاً، تكونُ علماً له.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "th–w–y dwelling, abode, animal enclosure, to abide in a place, to live for a long time in one place. Of this root, two forms occur\n151\n\nثَيِّبَات\n\n14 times in the Qurʾan: ثَاوِي thāwī once and مَثْوًى mathwā 13 times.\n\nثَاوِي thāwī [act. part.] residing, dwelling (28:45) وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا nor were you residing among the people of Midian reciting Our Revelation to them.\n\nمَثْوًى mathwā [n. of place/v. n.] a place of residence, an abode; residing (47:12) وَالنَّارُ مَثْوًى لَهُمْ but the Fire will be their abode *(12:21) أَكْرِمِي مَثْوَاهُ look after him well!, treat him with hospitality [lit. honour his abode].\n\nثَيِّبَات thayyibāt (possibly from ث/و/ب th–w–b) [pl. of quasi-act. part./n. fem. ثَيِّب thayyib, occurring once in the Qurʾan] widow, divorcee, non-virgin woman (66:5) ثَيِّبَاتٍ وَأَبْكَارًا previously married or virgins.\n\nج / jīm\n\nاَلْجِيم ʾal-jīm the fifth letter of the alphabet; it represents a voiced palato-alveolar affricate sound.",
+      "definition_english": "th–w–y dwelling, abode, animal enclosure, to abide in a place, to live for a long time in one place. Of this root, two forms occur\n151\n\nثَيِّبَات\n\n14 times in the Qurʾan: ثَاوِي thāwī once and مَثْوًى mathwā 13 times.\n\nثَاوِي thāwī [act. part.] residing, dwelling (28:45) وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا nor were you residing among the people of Midian reciting Our Revelation to them.\n\nمَثْوًى mathwā [n. of place/v. n.] a place of residence, an abode; residing (47:12) وَالنَّارُ مَثْوًى لَهُمْ but the Fire will be their abode *(12:21) أَكْرِمِي مَثْوَاهُ look after him well!, treat him with hospitality [lit. honour his abode].\n\nثَيِّبَات thayyibāt (possibly from ث/و/ب th–w–b) [pl. of quasi-act. part./n. fem. ثَيِّب thayyib, occurring once in the Qurʾan] widow, divorcee, non-virgin woman (66:5) ثَيِّبَاتٍ وَأَبْكَارًا previously married or virgins.\n\nج / jīm\n\nاَلْجِيم ʾal-jīm the fifth letter of the alphabet; it represents a voiced palato-alveolar affricate sound."
+    }
+  ],
   "occurrences": [
     "12:21:8",
     "12:23:19",

@@ -1,8 +1,11 @@
 {
-  "id": 1699,
   "root": "ز و ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزوج - زوح\n\n(زوف) الزاء والواو والفاء ليس بشيء، إلاّ أنّهم يقولون موتٌ *زُوَاف: وحِيٌّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزوج - زوح\n\n(زوف) الزاء والواو والفاء ليس بشيء، إلاّ أنّهم يقولون موتٌ *زُوَاف: وحِيٌّ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

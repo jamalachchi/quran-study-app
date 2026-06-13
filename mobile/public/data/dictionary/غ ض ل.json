@@ -1,8 +1,11 @@
 {
-  "id": 2840,
   "root": "غ ض ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الغين\n\nغضن - غضر\n\n(غضل) الغين والضاد واللام. يقولون: أَغْضَلَتِ الشَّجرة واغضالَّتْ ، إذا كثُرت أغصانها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الغين\n\nغضن - غضر\n\n(غضل) الغين والضاد واللام. يقولون: أَغْضَلَتِ الشَّجرة واغضالَّتْ ، إذا كثُرت أغصانها.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

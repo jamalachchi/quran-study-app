@@ -1,9 +1,17 @@
 {
-  "id": 3066,
   "root": "ق ل ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقلز - قلس\n\n(قلع) القاف واللام والعين أصلٌ صحيحٌ يدلُّ على انتزاعِ شيءٍ من شيء، ثم يفرَّع منه ما يقاربُه. تقول: قلَعْتُ الشّيءَ قَلعاً، فأنا قالعٌ وهو مقلوع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقلز - قلس\n\n(قلع) القاف واللام والعين أصلٌ صحيحٌ يدلُّ على انتزاعِ شيءٍ من شيء، ثم يفرَّع منه ما يقاربُه. تقول: قلَعْتُ الشّيءَ قَلعاً، فأنا قالعٌ وهو مقلوع.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–l–ʿ to pull out, to uproot, to remove; castle, stronghold; to\ncease, to desist, to abstain, to abandon; sail, to sail; fever,\nulcerated stomach. Of this root, أَقْلِعِي ʾaqliʿī occurs once in the\nQur’an.\n\nأَقْلِعِي ʾaqlaʿa [v. IV, intrans.] to cease action, to abate (11:44)\nوَقِيلَ يَاأَرْضُ ابْلَعِي مَاءَكِ وَيَاسَمَاءُ أَقْلِعِي then it was said, ‘Earth, swallow\nup your water, and sky, cease [raining].’",
+      "definition_english": "q–l–ʿ to pull out, to uproot, to remove; castle, stronghold; to\ncease, to desist, to abstain, to abandon; sail, to sail; fever,\nulcerated stomach. Of this root, أَقْلِعِي ʾaqliʿī occurs once in the\nQur’an.\n\nأَقْلِعِي ʾaqlaʿa [v. IV, intrans.] to cease action, to abate (11:44)\nوَقِيلَ يَاأَرْضُ ابْلَعِي مَاءَكِ وَيَاسَمَاءُ أَقْلِعِي then it was said, ‘Earth, swallow\nup your water, and sky, cease [raining].’"
+    }
+  ],
   "occurrences": [
     "11:44:6"
   ]

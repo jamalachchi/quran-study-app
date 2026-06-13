@@ -1,9 +1,17 @@
 {
-  "id": 2897,
   "root": "ف ن د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفني - فند\n\n(فند) الفاء والنون والدال أصلٌ صحيح يدلُّ على ثِقَل وشدة، ويقال",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفني - فند\n\n(فند) الفاء والنون والدال أصلٌ صحيح يدلُّ على ثِقَل وشدة، ويقال",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–n–d branch, to branch out, faction; to be weak of mind or\nbody, to become senile; to lie; to refute, to dispute; to err; to fall\ninto factions, to take refuge. Of this root, تُفَنِّدُون tufannidūn, occurs\nonce in the Qur’an.\n\nتُفَنِّد tufannid [imperf. of v. II, trans.] to refute, to deny; to\ndescribe as senile (12:94) إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ I sense\n[find] Joseph’s scent, even though you may think I am senile.",
+      "definition_english": "f–n–d branch, to branch out, faction; to be weak of mind or\nbody, to become senile; to lie; to refute, to dispute; to err; to fall\ninto factions, to take refuge. Of this root, تُفَنِّدُون tufannidūn, occurs\nonce in the Qur’an.\n\nتُفَنِّد tufannid [imperf. of v. II, trans.] to refute, to deny; to\ndescribe as senile (12:94) إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ I sense\n[find] Joseph’s scent, even though you may think I am senile."
+    }
+  ],
   "occurrences": [
     "12:94:12"
   ]

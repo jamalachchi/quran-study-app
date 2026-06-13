@@ -1,8 +1,11 @@
 {
-  "id": 824,
   "root": "ح ف س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحفز\n\n(حفس) الحاء والفاء والسين ليس أصلاً. يقال للرجل القصير حيفس .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحفز\n\n(حفس) الحاء والفاء والسين ليس أصلاً. يقال للرجل القصير حيفس .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

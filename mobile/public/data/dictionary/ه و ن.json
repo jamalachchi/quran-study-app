@@ -1,9 +1,22 @@
 {
-  "id": 4155,
   "root": "ه و ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهوك - هول\n\n(هون) الهاء والواو والنون أُصَيلٌ يدلُّ على سكون أو سكينة أو ذلّ. من ذلك الهَوْن: السَّكينة والوَقار. قال الله سبحانه: ] يَمْشُونَ عَلَى الأَرْضِ هَوْناً [ [الفرقان 63]. والهُون: الهَوان. قال عزّ وجلّ: ] أَيُمْسِكُهُ عَلَى هُونٍ [ [النحل 59]. والهَاوُون لِلذي يُدقُّ به عربيٌّ صحيح، كأنّه فاعول من الهَوْن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهوك - هول\n\n(هون) الهاء والواو والنون أُصَيلٌ يدلُّ على سكون أو سكينة أو ذلّ. من ذلك الهَوْن: السَّكينة والوَقار. قال الله سبحانه: ] يَمْشُونَ عَلَى الأَرْضِ هَوْناً [ [الفرقان 63]. والهُون: الهَوان. قال عزّ وجلّ: ] أَيُمْسِكُهُ عَلَى هُونٍ [ [النحل 59]. والهَاوُون لِلذي يُدقُّ به عربيٌّ صحيح، كأنّه فاعول من الهَوْن.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "people to the worship of God alone, reminding them of His\nbounty to them. Their story, recounted in Sūrat Hūd, records their\nintransigence and describes how God destroyed them with a\n‘storm-wind’ which left their dwellings in ruins (Q. 46:21–25);\n\n* هود name of Sura 11, Meccan sura, so-named because of the\n  reference in verses 50–60 to ‘Hūd’.",
+      "definition_english": "people to the worship of God alone, reminding them of His\nbounty to them. Their story, recounted in Sūrat Hūd, records their\nintransigence and describes how God destroyed them with a\n‘storm-wind’ which left their dwellings in ruins (Q. 46:21–25);\n\n* هود name of Sura 11, Meccan sura, so-named because of the\n  reference in verses 50–60 to ‘Hūd’."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–w–n humiliation, disgrace; to ridicule, to value lightly, to\nbe despicable; to be weak, to be meek; to be easy; to be amiable;\nto be moderate; to be solemn, to be gentle. Of this root, seven\nforms occur 26 times in the Qur’an: أَهَانَ ʾahāna twice; هَوْن hawn\nonce; هُون hūn four times; هَيِّن hayyin three times; أَهْوَن ʾahwan\nonce; مُهِين muhin 14 times and مُهَان muhān once.\n\nأَهَانَ ʾahāna [v. IV, trans.] to disgrace, to humiliate, to humble,\nto demean (89:16) وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ but\nwhenever He tests him and straitens his provision, he says, ‘My\nLord has humiliated me.’\n\nهَوْن hawn [v. n.] gentility, modesty, ease of manner (25:63)\nوَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا the servants of the Lord of\nMercy are those who walk on the earth modestly.\n\nهُون hūn [v. n.] contempt, abasement, degradation, shame\n(16:59) أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ should he keep it [the baby\ngirl] in [a state of] humiliation (or, suffer humiliation himself) or\n\n996",
+      "definition_english": "h–w–n humiliation, disgrace; to ridicule, to value lightly, to\nbe despicable; to be weak, to be meek; to be easy; to be amiable;\nto be moderate; to be solemn, to be gentle. Of this root, seven\nforms occur 26 times in the Qur’an: أَهَانَ ʾahāna twice; هَوْن hawn\nonce; هُون hūn four times; هَيِّن hayyin three times; أَهْوَن ʾahwan\nonce; مُهِين muhin 14 times and مُهَان muhān once.\n\nأَهَانَ ʾahāna [v. IV, trans.] to disgrace, to humiliate, to humble,\nto demean (89:16) وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ but\nwhenever He tests him and straitens his provision, he says, ‘My\nLord has humiliated me.’\n\nهَوْن hawn [v. n.] gentility, modesty, ease of manner (25:63)\nوَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا the servants of the Lord of\nMercy are those who walk on the earth modestly.\n\nهُون hūn [v. n.] contempt, abasement, degradation, shame\n(16:59) أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ should he keep it [the baby\ngirl] in [a state of] humiliation (or, suffer humiliation himself) or\n\n996"
+    }
+  ],
   "occurrences": [
     "16:59:11",
     "19:21:7",

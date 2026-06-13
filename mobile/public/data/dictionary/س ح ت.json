@@ -1,9 +1,17 @@
 {
-  "id": 1905,
   "root": "س ح ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسحو - سحب\n\n(سحت) السين والحاء والتاء أصلٌ صحيح منقاس. يقال سُحِت الشيء، إذا استُؤصل، وأُسْحِت. يقال سحت الله الكافر بعذابٍ، إذا استأصله. ومال مسحوتٌ ومُسْحَت في قول الفرزدق:\n\nوعَضُّ زمانٍ يا بنَ مروانَ لم يَدَعْ\n\nمن المال إلاّ مُسْحَتاً أو مُجَلَّفُ\n\nومن الباب: رجلٌ مسحوت الجوف، إذا كان لا يشبَع، كأنَّ الذي يبلعه يُستأصل من جوفِه، فلا يبقى. المال السُّحْـت: كلُّ حرامٍ يلزمُ آكلَه العارُ؛ وسمِّي سُحتاً لأنّه لا بقاء لـه. ويقال أَسْحَت في تجارته، إذا كَسَبَ السُّحت. وأسْحَت مالَهُ: أفسده.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسحو - سحب\n\n(سحت) السين والحاء والتاء أصلٌ صحيح منقاس. يقال سُحِت الشيء، إذا استُؤصل، وأُسْحِت. يقال سحت الله الكافر بعذابٍ، إذا استأصله. ومال مسحوتٌ ومُسْحَت في قول الفرزدق:\n\nوعَضُّ زمانٍ يا بنَ مروانَ لم يَدَعْ\n\nمن المال إلاّ مُسْحَتاً أو مُجَلَّفُ\n\nومن الباب: رجلٌ مسحوت الجوف، إذا كان لا يشبَع، كأنَّ الذي يبلعه يُستأصل من جوفِه، فلا يبقى. المال السُّحْـت: كلُّ حرامٍ يلزمُ آكلَه العارُ؛ وسمِّي سُحتاً لأنّه لا بقاء لـه. ويقال أَسْحَت في تجارته، إذا كَسَبَ السُّحت. وأسْحَت مالَهُ: أفسده.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s–ḥ–t to eradicate, to scrape off; unlawful gain, illicit earning.\nOf this root, two forms occur four times in the Qur’an: يُسحت\nyusḥit once and سحت suḥt three times.\n\nيُسحت yusḥit [imperf. of v. IV, trans.] to eradicate, to destroy\ncompletely (20:61) لا تفتروا على الله كذبا فيسحتكم بعذاب do not invent\nlies against God, lest He obliterate you with punishment.\n\nسحت suḥt [n.] illicitly gained money, ill-gotten property (5:42)\nسماعون للكذب أكالون للسحت eagerly listening to falsehood and\ngreedily consuming ill-gotten gains.\n\n425",
+      "definition_english": "s–ḥ–t to eradicate, to scrape off; unlawful gain, illicit earning.\nOf this root, two forms occur four times in the Qur’an: يُسحت\nyusḥit once and سحت suḥt three times.\n\nيُسحت yusḥit [imperf. of v. IV, trans.] to eradicate, to destroy\ncompletely (20:61) لا تفتروا على الله كذبا فيسحتكم بعذاب do not invent\nlies against God, lest He obliterate you with punishment.\n\nسحت suḥt [n.] illicitly gained money, ill-gotten property (5:42)\nسماعون للكذب أكالون للسحت eagerly listening to falsehood and\ngreedily consuming ill-gotten gains.\n\n425"
+    }
+  ],
   "occurrences": [
     "20:61:10",
     "5:42:4",

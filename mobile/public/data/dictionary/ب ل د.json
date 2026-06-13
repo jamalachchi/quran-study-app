@@ -1,9 +1,17 @@
 {
-  "id": 332,
   "root": "ب ل د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبلخ - بلد\n\n(بلد) الباء واللام والدال أصلٌ واحد يتقارب فُروعُه عند النَّظر في قياسه، والأصل الصدْر. ويقال وضَعَت النّاقةُ بَلْدَتَها بالأرض، إذا بَرَكت. قال ذو الرُّمّة:\n\nقَليلٍ بها الأصواتُ إلاّ بُغامُها\n\nأنيخت فألْقَتْ بَلْدَةً فوقَ بَلْدَةٍ\n\nويقال تبلَّد الرّجلُ، إذا وضَعَ يَدَهُ على صَدْره عند تَحيُّرِه في الأمر. والأبْلد الذي ليس بمقْرُونِ الحاجبَيْن، يقال لما بين حاجبيه بَُلْدَة. وهو من هذا الأصل؛ لأنّ ذلك يشبه الأرض البلدة. والبلدة: النَّجم، يقولون هو بَلْدة الأسد، أي صدره . والبلد صدْرُ القُرى. فأمّا قول ابن الرِّقاع:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبلخ - بلد\n\n(بلد) الباء واللام والدال أصلٌ واحد يتقارب فُروعُه عند النَّظر في قياسه، والأصل الصدْر. ويقال وضَعَت النّاقةُ بَلْدَتَها بالأرض، إذا بَرَكت. قال ذو الرُّمّة:\n\nقَليلٍ بها الأصواتُ إلاّ بُغامُها\n\nأنيخت فألْقَتْ بَلْدَةً فوقَ بَلْدَةٍ\n\nويقال تبلَّد الرّجلُ، إذا وضَعَ يَدَهُ على صَدْره عند تَحيُّرِه في الأمر. والأبْلد الذي ليس بمقْرُونِ الحاجبَيْن، يقال لما بين حاجبيه بَُلْدَة. وهو من هذا الأصل؛ لأنّ ذلك يشبه الأرض البلدة. والبلدة: النَّجم، يقولون هو بَلْدة الأسد، أي صدره . والبلد صدْرُ القُرى. فأمّا قول ابن الرِّقاع:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–l–d a marked plot of land; an animal dwelling, an abode, to abide in a place, to stay put; a tower; city, village; density; to be lacking in intelligence. Of this root, three forms occur 19 times in the Qur’an: بَلَد balad nine times; بِلَاد bilād five times and بَلْدَة baldatun five times.\nبَلَد balad [n., pl. بِلَاد bilād] 1 city, town, village (90:2) وَأَنتَ حِلٌّ بِهَذَا الْبَلَدِ while you [Prophet] are residing in this city 2 tract of land, region (7:58) وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ as for the good land, its vegetation comes by the will of its Lord; *(7:57) لِّبَلَدٍ مَّيِّتٍ barren land with no herbage or pasture [lit. dead land]; *البلد al-balad name of Sura 90, Meccan sura, so-named because of the reference to ‘the City’ [of Mecca] in verse 1.\n\nبَلْدَة baldatun [n.] 1 town, village, city (27:91) إِنَّمَا أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَذِهِ الْبَلْدَةِ الَّذِي حَرَّمَهَا I have been commanded only to serve the Lord of this town\n\n111",
+      "definition_english": "b–l–d a marked plot of land; an animal dwelling, an abode, to abide in a place, to stay put; a tower; city, village; density; to be lacking in intelligence. Of this root, three forms occur 19 times in the Qur’an: بَلَد balad nine times; بِلَاد bilād five times and بَلْدَة baldatun five times.\nبَلَد balad [n., pl. بِلَاد bilād] 1 city, town, village (90:2) وَأَنتَ حِلٌّ بِهَذَا الْبَلَدِ while you [Prophet] are residing in this city 2 tract of land, region (7:58) وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ as for the good land, its vegetation comes by the will of its Lord; *(7:57) لِّبَلَدٍ مَّيِّتٍ barren land with no herbage or pasture [lit. dead land]; *البلد al-balad name of Sura 90, Meccan sura, so-named because of the reference to ‘the City’ [of Mecca] in verse 1.\n\nبَلْدَة baldatun [n.] 1 town, village, city (27:91) إِنَّمَا أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَذِهِ الْبَلْدَةِ الَّذِي حَرَّمَهَا I have been commanded only to serve the Lord of this town\n\n111"
+    }
+  ],
   "occurrences": [
     "14:35:7",
     "16:7:4",

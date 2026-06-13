@@ -1,9 +1,17 @@
 {
-  "id": 1998,
   "root": "ش ك ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشقر\n\n(شكل) الشين والكاف واللام مُعظمُ بابِهِ المُماثَلة. تقول: هذا شَِكل هذا، أي مِثله. ومن ذلك يقال أمرٌ مُشْكِل، كما يقال أمر مُشْتبِه، أي هذا شابَهَ هذا، وهذا دخل في شِكل هذا، ثم يُحمل على ذلك، فيقال: شَكَلتُ الدّابةَ بِشكالِهِ، وذلك أنَّه يجمع بين إحدى قوائمهِ وشِكْلٍ لها. وكذلك دابّة بها شِكال، إذا كان إحدى يديه وإحدى رجليه مُحَجَّلا. وهو ذاك القياس؛ لأنَّ البياض أخذَ واحدةً وَشَِكْلَها.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشقر\n\n(شكل) الشين والكاف واللام مُعظمُ بابِهِ المُماثَلة. تقول: هذا شَِكل هذا، أي مِثله. ومن ذلك يقال أمرٌ مُشْكِل، كما يقال أمر مُشْتبِه، أي هذا شابَهَ هذا، وهذا دخل في شِكل هذا، ثم يُحمل على ذلك، فيقال: شَكَلتُ الدّابةَ بِشكالِهِ، وذلك أنَّه يجمع بين إحدى قوائمهِ وشِكْلٍ لها. وكذلك دابّة بها شِكال، إذا كان إحدى يديه وإحدى رجليه مُحَجَّلا. وهو ذاك القياس؛ لأنَّ البياض أخذَ واحدةً وَشَِكْلَها.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–k–l to bind; to shape, to fashion, to sculpt; to be similar, to be homogeneous, likeness, resemblance, similitude. Of this root, two words occur once each in the Qurʾan: شَكْل shakl and شَاكِلَة shākilatun.\nشَكْل shakl [n.] likeness, like (38:58) وَآخَرُ مِنْ شَكْلِهِ أَزْوَاجٌ and another of its types [in] pairs.\n\nشَاكِلَة shākilatun [n.] a way, manner, peculiarity, attitude, inclination or disposition of one particular person (17:84) كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ everyone does things in his own way [lit. everyone does things in accordance with his disposition].\n\n495",
+      "definition_english": "sh–k–l to bind; to shape, to fashion, to sculpt; to be similar, to be homogeneous, likeness, resemblance, similitude. Of this root, two words occur once each in the Qurʾan: شَكْل shakl and شَاكِلَة shākilatun.\nشَكْل shakl [n.] likeness, like (38:58) وَآخَرُ مِنْ شَكْلِهِ أَزْوَاجٌ and another of its types [in] pairs.\n\nشَاكِلَة shākilatun [n.] a way, manner, peculiarity, attitude, inclination or disposition of one particular person (17:84) كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ everyone does things in his own way [lit. everyone does things in accordance with his disposition].\n\n495"
+    }
+  ],
   "occurrences": [
     "17:84:5",
     "38:58:3"

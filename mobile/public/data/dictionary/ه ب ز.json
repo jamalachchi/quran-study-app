@@ -1,8 +1,11 @@
 {
-  "id": 4181,
   "root": "ه ب ز",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هبز) الهاء والباء والزاء. ذكَرُوا عن أبي زَيد: هَبَزَ: ماتَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهيج - هيد\n\n(هبز) الهاء والباء والزاء. ذكَرُوا عن أبي زَيد: هَبَزَ: ماتَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,17 @@
 {
-  "id": 2127,
   "root": "ش ر د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشرث - شرج\n\n(شرد) الشين والراء والدال أصلٌ واحدٌ، وهو يدلُّ على تنفيرٍ وإِبعاد، وعلى نِفَارٍ وبُعدٍ، في انتشار. وقد يقال للواحد . من ذلك شَرَد البعيرُ شُرودا. وشَرّدْتُ الإبلَ تشريداً أُشرِّدُهَا. ومنه قوله جلَّ ثناؤه: } فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ { [الأنفال 57]، يريد نكِّل بهم وسَمِّع. وهو ذلك المعنى، أنَّ المُذْنِب إذا أَذْنَبَ\n\nشزغ شزن شزب\n\nوعُوقِبَ عليه، فقد شُرِّدَ بتلك العقوبة غيرُهُ، لأنَّه يحذرُ مثلَ ما وقع بالمذْنِبِ فَيَشْرُد عن الذَّنْبِ وَينْكُلُ. والله أعلم.\n\n(باب الشين والزاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشرث - شرج\n\n(شرد) الشين والراء والدال أصلٌ واحدٌ، وهو يدلُّ على تنفيرٍ وإِبعاد، وعلى نِفَارٍ وبُعدٍ، في انتشار. وقد يقال للواحد . من ذلك شَرَد البعيرُ شُرودا. وشَرّدْتُ الإبلَ تشريداً أُشرِّدُهَا. ومنه قوله جلَّ ثناؤه: } فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ { [الأنفال 57]، يريد نكِّل بهم وسَمِّع. وهو ذلك المعنى، أنَّ المُذْنِب إذا أَذْنَبَ\n\nشزغ شزن شزب\n\nوعُوقِبَ عليه، فقد شُرِّدَ بتلك العقوبة غيرُهُ، لأنَّه يحذرُ مثلَ ما وقع بالمذْنِبِ فَيَشْرُد عن الذَّنْبِ وَينْكُلُ. والله أعلم.\n\n(باب الشين والزاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–r–d to bolt, to break loose; to roam, to go astray; to disperse, to scatter; to be absent-minded. Of this root, only شرّد sharrid occurs once in the Qurʾan.\nشرّد sharrid [imper. of v. II] scatter, disperse, put to flight, frighten away *(8:57) فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ if you gain mastery over them in battle, use them to frighten those who [later] follow them, so that they may take heed.",
+      "definition_english": "sh–r–d to bolt, to break loose; to roam, to go astray; to disperse, to scatter; to be absent-minded. Of this root, only شرّد sharrid occurs once in the Qurʾan.\nشرّد sharrid [imper. of v. II] scatter, disperse, put to flight, frighten away *(8:57) فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ if you gain mastery over them in battle, use them to frighten those who [later] follow them, so that they may take heed."
+    }
+  ],
   "occurrences": [
     "8:57:5"
   ]

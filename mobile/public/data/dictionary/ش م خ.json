@@ -1,9 +1,17 @@
 {
-  "id": 2009,
   "root": "ش م خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشمج\n\n(شمخ) الشين والميم والخاء أصلٌ صحيح يدل على تعظُّم وارتفاع. يقال جَبَلٌ شامخٌ، أي عالٍ. وشَمَخَ فلانٌ بأنفه، وذلك إذا تَعَظَّمَ في نفسه. وشَمْخٌ: اسم رجل.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشمج\n\n(شمخ) الشين والميم والخاء أصلٌ صحيح يدل على تعظُّم وارتفاع. يقال جَبَلٌ شامخٌ، أي عالٍ. وشَمَخَ فلانٌ بأنفه، وذلك إذا تَعَظَّمَ في نفسه. وشَمْخٌ: اسم رجل.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–m–kh (of a mountain) to be high; to be lofty, to tower over; to behave proudly. Of this root, only شَامِخَات shāmikhāt occurs once in the Qurʾan.\nشَامِخَات shāmikhāt [pl. of fem. act. part. شَامِخَة shāmikhatun] lofty, towering, high (77:27) وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ and We placed on it firm lofty mountains.",
+      "definition_english": "sh–m–kh (of a mountain) to be high; to be lofty, to tower over; to behave proudly. Of this root, only شَامِخَات shāmikhāt occurs once in the Qurʾan.\nشَامِخَات shāmikhāt [pl. of fem. act. part. شَامِخَة shāmikhatun] lofty, towering, high (77:27) وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ and We placed on it firm lofty mountains."
+    }
+  ],
   "occurrences": [
     "77:27:4"
   ]

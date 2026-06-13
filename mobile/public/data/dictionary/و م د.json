@@ -1,8 +1,11 @@
 {
-  "id": 4518,
   "root": "و م د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nولق - ومأ\n\n(ومد) الواو والميم والدال: كلمتان. والوَمَد: شِدّة الحَرّ. ويقال: وَمِدَ: غَضِبَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nولق - ومأ\n\n(ومد) الواو والميم والدال: كلمتان. والوَمَد: شِدّة الحَرّ. ويقال: وَمِدَ: غَضِبَ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

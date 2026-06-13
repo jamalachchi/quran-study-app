@@ -1,9 +1,22 @@
 {
-  "id": 3904,
   "root": "ن ب ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنبت\n\n(نبع) النون والباء والعين كلمتان:\n\nإحداهُما نُبوع الماء، والموضع الذي يَنْبُع منه يَنْبُوع. والنَّوابع من البعير: المواضع التي يَسيل منها عرقُه. ومنابع الماء: مَخَارِجُه من الأرض.\n\nوالأخرى النَّبْع: شَجَر.\n\nنبغ نبق نبك",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنبت\n\n(نبع) النون والباء والعين كلمتان:\n\nإحداهُما نُبوع الماء، والموضع الذي يَنْبُع منه يَنْبُوع. والنَّوابع من البعير: المواضع التي يَسيل منها عرقُه. ومنابع الماء: مَخَارِجُه من الأرض.\n\nوالأخرى النَّبْع: شَجَر.\n\nنبغ نبق نبك",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ had a favour from his Lord not\nreached him, he would have been cast into the wilderness\nblameworthy.\n\nانْتَبَذَ ʾintabadha [v. VIII intrans.] to retire apart, or withdraw,\nfrom others (19:22) فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا so she conceived him\nand withdrew with him to a distant place.",
+      "definition_english": "تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ had a favour from his Lord not\nreached him, he would have been cast into the wilderness\nblameworthy.\n\nانْتَبَذَ ʾintabadha [v. VIII intrans.] to retire apart, or withdraw,\nfrom others (19:22) فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا so she conceived him\nand withdrew with him to a distant place."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–b–ʿ spring of water, brook, creek; to flow, to gush out, to\nissue, to originate. Of this root, two forms occur once each in the\nQur’an: يَنْبُوع yanbūʿ and يَنَابِيع yanābīʿ.\n\nيَنْبُوع yanbūʿ [n., pl. يَنَابِيع yanābīʿ] 1 spring (17:90) لَنْ نُؤْمِنَ لَكَ حَتَّى\nتُفَجِّرَ لَنَا مِنَ الْأَرْضِ يَنْبُوعًا we will not believe with you until you cause\na spring to gush forth for us from the earth 2 tract, channel,\npassage, conduit (39:21) أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَلَكَهُ يَنَابِيعَ فِي\nالْأَرْضِ have you not considered that God sends down water from\nthe sky, then He causes it to penetrate [the soil] along conduits in\nthe earth.\n\n918",
+      "definition_english": "n–b–ʿ spring of water, brook, creek; to flow, to gush out, to\nissue, to originate. Of this root, two forms occur once each in the\nQur’an: يَنْبُوع yanbūʿ and يَنَابِيع yanābīʿ.\n\nيَنْبُوع yanbūʿ [n., pl. يَنَابِيع yanābīʿ] 1 spring (17:90) لَنْ نُؤْمِنَ لَكَ حَتَّى\nتُفَجِّرَ لَنَا مِنَ الْأَرْضِ يَنْبُوعًا we will not believe with you until you cause\na spring to gush forth for us from the earth 2 tract, channel,\npassage, conduit (39:21) أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَلَكَهُ يَنَابِيعَ فِي\nالْأَرْضِ have you not considered that God sends down water from\nthe sky, then He causes it to penetrate [the soil] along conduits in\nthe earth.\n\n918"
+    }
+  ],
   "occurrences": [
     "17:90:10",
     "39:21:10"

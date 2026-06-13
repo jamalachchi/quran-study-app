@@ -1,9 +1,17 @@
 {
-  "id": 3169,
   "root": "ق ر ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقذع - قذف\n\n(قرض) القاف والراء والضاد أصلٌ صحيحٌ، وهو يدلُّ على القطع. يقال: قَرَضت الشيءَ بالمقراض. والقَرْض: ما تُعطيه الإنسانَ من مالك لتُقْضَاه،",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقذع - قذف\n\n(قرض) القاف والراء والضاد أصلٌ صحيحٌ، وهو يدلُّ على القطع. يقال: قَرَضت الشيءَ بالمقراض. والقَرْض: ما تُعطيه الإنسانَ من مالك لتُقْضَاه،",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–r–ḍ cutting, clipping, to cut; to become extinct; to gnaw, to nibble; shavings, sawdust; loan, to loan; to slander; to skirt, to avoid; poetry, to make poetry. Of this root, three forms occur 13 times in the Qur’an: تَقْرِض taqriḍ once; أَقْرَض ʾaqraḍa six times and قَرْض qarḍ six times.\nتَقْرِض taqriḍ [imperf. v., trans.] to avoid, to turn away from, to pass away (18:17) وَتَرَى الشَّمْسَ إِذَا طَلَعَتْ تَّزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ الْيَمِينِ وَإِذَا غَرَبَتْ تَقْرِضُهُمْ ذَاتَ الشِّمَالِ you could see the sun, as it rose, veering away from their cave towards the right, and when it set, avoiding them [by inclining] to the left.\n\n753",
+      "definition_english": "q–r–ḍ cutting, clipping, to cut; to become extinct; to gnaw, to nibble; shavings, sawdust; loan, to loan; to slander; to skirt, to avoid; poetry, to make poetry. Of this root, three forms occur 13 times in the Qur’an: تَقْرِض taqriḍ once; أَقْرَض ʾaqraḍa six times and قَرْض qarḍ six times.\nتَقْرِض taqriḍ [imperf. v., trans.] to avoid, to turn away from, to pass away (18:17) وَتَرَى الشَّمْسَ إِذَا طَلَعَتْ تَّزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ الْيَمِينِ وَإِذَا غَرَبَتْ تَقْرِضُهُمْ ذَاتَ الشِّمَالِ you could see the sun, as it rose, veering away from their cave towards the right, and when it set, avoiding them [by inclining] to the left.\n\n753"
+    }
+  ],
   "occurrences": [
     "18:17:12",
     "2:245:4",

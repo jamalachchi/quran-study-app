@@ -1,8 +1,11 @@
 {
-  "id": 4235,
   "root": "ه ز ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهاء\n\nهزع\n\n(هزف) الهاء والزاء والفاء كلمة واحدة. الهِزَفُّ : الظلِيم. وذكر ابنُ دريد : هَزَفته الرِّيح: طارَتْ به.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهاء\n\nهزع\n\n(هزف) الهاء والزاء والفاء كلمة واحدة. الهِزَفُّ : الظلِيم. وذكر ابنُ دريد : هَزَفته الرِّيح: طارَتْ به.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

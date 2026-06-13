@@ -1,9 +1,17 @@
 {
-  "id": 2163,
   "root": "ص ف ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الصَّاد\n\nصفح - صفد\n\n(صفح) الصاد والفاء والحاء أصلٌ صحيحٌ مطَّرد يدلُّ على عَرْض وعِرَض. من ذلك صَُفْح الشَّيء: عُرْضُهُ. ويقال رأس مُصْفَحٌ: عريض. والصفيحة: كلُّ سيفٍ عريض. وصَفْحَتا السَّيف: وَجْهاه. وكلُّ حجرٍ عريضٍ صفيحةٌ، والجمع صَفائِح. والصُّفَّاح: كلُّ حجرٍ عريض. قال النّابغة:\n\nتقدُّ السَّلوقيَّ المضاعفَ نسجُهُ\n\nويُوقِدْن بالصُّفّاحِ نارَ الحُباحِبِ\n\nومن الباب: المُصافحةُ باليد، كأنَّه ألصقَ يدَه بصَفحةِ يدِ ذاك. والصَّفْح: الجنْب. وصَفحا كلِّ شيء: جانباه. فأمَّا قولهم: صَفَح عنه، وذلك إِعْراضُهُ عن ذنْبِهِ، فهو من البابِ؛ لأنَّه إِذا أعرضَ عنه فكأنَّه قد ولاَّه صَفْحتَه وصُفحه، أي عُرضه وجانِبَه، وهو مَثَلٌ.\n\nومن الباب: صَفحت الرَّجلَ وأصفحتُهُ، إِذا سألك فمنعتَه . وهو من أنّك أريتَه صَفْحَتَك مُعْرِضاً عنه. ويقال: صَفحتُ الإِبلَ على الحوض، إِذا أمررتَها عليه، وكأنَّكَ أَرَيْتَ الحوضَ صَفَحَاتِها، وهي جُنوبُها.\n\nومما شذَّ عن الباب قولُهم: صفحت الرَّجل صفحاً، إِذا سَقيتَه أيَّ شرابٍ كان ومتى كان.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الصَّاد\n\nصفح - صفد\n\n(صفح) الصاد والفاء والحاء أصلٌ صحيحٌ مطَّرد يدلُّ على عَرْض وعِرَض. من ذلك صَُفْح الشَّيء: عُرْضُهُ. ويقال رأس مُصْفَحٌ: عريض. والصفيحة: كلُّ سيفٍ عريض. وصَفْحَتا السَّيف: وَجْهاه. وكلُّ حجرٍ عريضٍ صفيحةٌ، والجمع صَفائِح. والصُّفَّاح: كلُّ حجرٍ عريض. قال النّابغة:\n\nتقدُّ السَّلوقيَّ المضاعفَ نسجُهُ\n\nويُوقِدْن بالصُّفّاحِ نارَ الحُباحِبِ\n\nومن الباب: المُصافحةُ باليد، كأنَّه ألصقَ يدَه بصَفحةِ يدِ ذاك. والصَّفْح: الجنْب. وصَفحا كلِّ شيء: جانباه. فأمَّا قولهم: صَفَح عنه، وذلك إِعْراضُهُ عن ذنْبِهِ، فهو من البابِ؛ لأنَّه إِذا أعرضَ عنه فكأنَّه قد ولاَّه صَفْحتَه وصُفحه، أي عُرضه وجانِبَه، وهو مَثَلٌ.\n\nومن الباب: صَفحت الرَّجلَ وأصفحتُهُ، إِذا سألك فمنعتَه . وهو من أنّك أريتَه صَفْحَتَك مُعْرِضاً عنه. ويقال: صَفحتُ الإِبلَ على الحوض، إِذا أمررتَها عليه، وكأنَّكَ أَرَيْتَ الحوضَ صَفَحَاتِها، وهي جُنوبُها.\n\nومما شذَّ عن الباب قولُهم: صفحت الرَّجل صفحاً، إِذا سَقيتَه أيَّ شرابٍ كان ومتى كان.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ṣ–f–ḥ width or broad side of a mountain; the side, or lateral, or outward part, face, or surface, flatness or wide smooth expanse; to turn away from someone’s crime, to forgive, to let off, to set free; to take someone’s hand in salute. Of this root, three forms occur eight times in the Qurʾan: تَصْفَحُوا taṣfaḥū twice; اِصْفَح ʾiṣfaḥ four times and صَفْح ṣafḥ twice.\nتَصْفَح taṣfaḥ [imperf. v. intrans.] to forgive, to pardon (24:22) وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ لَكُمْ and let them pardon and forgive–do you not wish that God should forgive you?\n\nصَفْح ṣafḥ [v. n.] 1 forgiving, pardoning (15:85) وَإِنَّ السَّاعَةَ لَآتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ the Hour is certainly coming, so forgive with gracious forgiveness 2 turning to one side, averting * (43:5) أَفَنَضْرِبُ عَنكُمُ الذِّكْرَ صَفْحًا should We stop talking about you completely (or, should We ignore you completely and turn this Revelation away from you).",
+      "definition_english": "ṣ–f–ḥ width or broad side of a mountain; the side, or lateral, or outward part, face, or surface, flatness or wide smooth expanse; to turn away from someone’s crime, to forgive, to let off, to set free; to take someone’s hand in salute. Of this root, three forms occur eight times in the Qurʾan: تَصْفَحُوا taṣfaḥū twice; اِصْفَح ʾiṣfaḥ four times and صَفْح ṣafḥ twice.\nتَصْفَح taṣfaḥ [imperf. v. intrans.] to forgive, to pardon (24:22) وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ لَكُمْ and let them pardon and forgive–do you not wish that God should forgive you?\n\nصَفْح ṣafḥ [v. n.] 1 forgiving, pardoning (15:85) وَإِنَّ السَّاعَةَ لَآتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ the Hour is certainly coming, so forgive with gracious forgiveness 2 turning to one side, averting * (43:5) أَفَنَضْرِبُ عَنكُمُ الذِّكْرَ صَفْحًا should We stop talking about you completely (or, should We ignore you completely and turn this Revelation away from you)."
+    }
+  ],
   "occurrences": [
     "15:85:12",
     "15:85:13",

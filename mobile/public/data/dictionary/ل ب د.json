@@ -1,9 +1,17 @@
 {
-  "id": 3494,
   "root": "ل ب د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب اللاّم\n\nلاه - لأو\n\n(لبد) اللام والباء والدال كلمةٌ صحيحة تدلُّ على تكرُّسِ الشَّيءِ بعضِه فوقَ بعض. من ذلك اللِّبْد، وهو معروف. وتلبَّدت الأرضُ، ولبَّدها المطر.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب اللاّم\n\nلاه - لأو\n\n(لبد) اللام والباء والدال كلمةٌ صحيحة تدلُّ على تكرُّسِ الشَّيءِ بعضِه فوقَ بعض. من ذلك اللِّبْد، وهو معروف. وتلبَّدت الأرضُ، ولبَّدها المطر.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "l–b–d mane; felt; ticks, locusts, crowd; to stay, to accumulate,\nto congregate; to patch up; to be stuck to the earth. Of this root,\ntwo forms occur once each in the Qur’an: لُبَد lubad and لِبَد libad.\n\nلُبَد lubad [quasi-act. part, also said to be pl. of n. لُبْدَة\nlubdatun] an accumulation (of something), much, great, a lot,\nvast (90:6) يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا he says, ‘I have squandered great\nwealth.’\n\nلِبَد libad [pl. of n. لِبْدَة libdatun or لُبْدَة lubdatun] crowds\nof people, in dense crowds (72:19) وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا\nيَكُونُونَ عَلَيْهِ لِبَدًا yet when God’s Servant stood up to pray to Him, they\nalmost fell upon him in [their] crowds.",
+      "definition_english": "l–b–d mane; felt; ticks, locusts, crowd; to stay, to accumulate,\nto congregate; to patch up; to be stuck to the earth. Of this root,\ntwo forms occur once each in the Qur’an: لُبَد lubad and لِبَد libad.\n\nلُبَد lubad [quasi-act. part, also said to be pl. of n. لُبْدَة\nlubdatun] an accumulation (of something), much, great, a lot,\nvast (90:6) يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا he says, ‘I have squandered great\nwealth.’\n\nلِبَد libad [pl. of n. لِبْدَة libdatun or لُبْدَة lubdatun] crowds\nof people, in dense crowds (72:19) وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا\nيَكُونُونَ عَلَيْهِ لِبَدًا yet when God’s Servant stood up to pray to Him, they\nalmost fell upon him in [their] crowds."
+    }
+  ],
   "occurrences": [
     "72:19:10",
     "90:6:4"

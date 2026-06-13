@@ -1,9 +1,17 @@
 {
-  "id": 3778,
   "root": "م ع ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمضغ\n\n(معن) الميم والعين والنون أصلٌ يدلُّ على سهولةٍ في جريان أو جري أو غير ذلك. ومَعَن الماءُ: جَرَى. وماءٌ معينٌ. ومجارِي الماء في الوادي مُعْنانٌ، كذا قال أبو بكر . والمَعْنة: ماءٌ قليل يجري. ومن الباب أمعَنَ الفرسُ في عَدْوِه. وأمْعَنَ بحقِّي: ذهَبَ به. ورجل مَعْنٌ في حاجته: سَهْل. وأمعنت الأرضُ: رَوِيَتْ. وكلأ مَمْعونٌ: جَرَى فيه الماء. وقول النَّمْر:\n\nفإنَّ ضَيَاعَ مالِكَ غيرُ مَعْنِ\n\nولا ضيّعْتُه فأُلاَمَ فيه\n\nمعناه غير سهل. ويقولون: \"ماله سَعْنَةٌ ولا مَعْنَةٌ\" وهو من الإتباع، ويجوز أن يكون من الباب، أي ماله كثيرٌ ولا قليل يسهل خَطَره. وقولهم للمنزل مَعَانٌ، وزنه فعَال، وجمعه مُعُنٌ. ومَعَن الوادي: كثُر فيه الماء المَعين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمضغ\n\n(معن) الميم والعين والنون أصلٌ يدلُّ على سهولةٍ في جريان أو جري أو غير ذلك. ومَعَن الماءُ: جَرَى. وماءٌ معينٌ. ومجارِي الماء في الوادي مُعْنانٌ، كذا قال أبو بكر . والمَعْنة: ماءٌ قليل يجري. ومن الباب أمعَنَ الفرسُ في عَدْوِه. وأمْعَنَ بحقِّي: ذهَبَ به. ورجل مَعْنٌ في حاجته: سَهْل. وأمعنت الأرضُ: رَوِيَتْ. وكلأ مَمْعونٌ: جَرَى فيه الماء. وقول النَّمْر:\n\nفإنَّ ضَيَاعَ مالِكَ غيرُ مَعْنِ\n\nولا ضيّعْتُه فأُلاَمَ فيه\n\nمعناه غير سهل. ويقولون: \"ماله سَعْنَةٌ ولا مَعْنَةٌ\" وهو من الإتباع، ويجوز أن يكون من الباب، أي ماله كثيرٌ ولا قليل يسهل خَطَره. وقولهم للمنزل مَعَانٌ، وزنه فعَال، وجمعه مُعُنٌ. ومَعَن الوادي: كثُر فيه الماء المَعين.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "m–ʿ–n water channels in the bottom of a valley, sweet, running\nwater, utensils; to devote one’s efforts to; obedience, to confess;\nassistance; property; settled dwelling. The two words, مَاعُون\nmāʿūn and مَعِين maʿīn are variously derived from either this root\nor the root ع/ي/ن ʿ–y–n. They are also considered by some to have\nbeen borrowed in pre-Islamic times from Hebrew. Of this root,\ntwo words occur five times in the Qur’an: مَاعُون māʿūn once and\nمَعِين maʿīn four times.\n\n889",
+      "definition_english": "m–ʿ–n water channels in the bottom of a valley, sweet, running\nwater, utensils; to devote one’s efforts to; obedience, to confess;\nassistance; property; settled dwelling. The two words, مَاعُون\nmāʿūn and مَعِين maʿīn are variously derived from either this root\nor the root ع/ي/ن ʿ–y–n. They are also considered by some to have\nbeen borrowed in pre-Islamic times from Hebrew. Of this root,\ntwo words occur five times in the Qur’an: مَاعُون māʿūn once and\nمَعِين maʿīn four times.\n\n889"
+    }
+  ],
   "occurrences": [
     "107:7:2"
   ]

@@ -1,9 +1,17 @@
 {
-  "id": 3305,
   "root": "ك و ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كوب) الكاف والواو والباء كلمةٌ واحدة. وهي الكُوب: القَدَح لا عُروةَ ـله؛ والجمع أكواب. قال الله تعالى: ] وأَكْوَابٌ مَوْضوعَةٌ [ [الغاشية 14]. ويقولون: الكُوبةُ: الطَّبلُ لِلَّعب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكنع - كنف\n\n(كوب) الكاف والواو والباء كلمةٌ واحدة. وهي الكُوب: القَدَح لا عُروةَ ـله؛ والجمع أكواب. قال الله تعالى: ] وأَكْوَابٌ مَوْضوعَةٌ [ [الغاشية 14]. ويقولون: الكُوبةُ: الطَّبلُ لِلَّعب.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–w–b cup, goblet without a handle or spout, to drink from\nsuch a cup; to be large of head but slender of neck; dice; drums. It\nwas originally suggested by some scholars that كُوب kūb is an\nearly borrowing from Nabataean. Recently, however, it has been\nlinked to Greek through a chain which includes Aramaic, Syriac\nand Byzantine. Of this root, أَكْوَاب ʾakwāb occurs four times in the\nQur’an.\n\nأَكْوَاب ʾakwāb [pl. of n. كُوب [kūb]] cup, goblet, glass (43:71) يُطَافُ\nعَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ dishes of gold will be passed around for\nthem, and goblets.",
+      "definition_english": "k–w–b cup, goblet without a handle or spout, to drink from\nsuch a cup; to be large of head but slender of neck; dice; drums. It\nwas originally suggested by some scholars that كُوب kūb is an\nearly borrowing from Nabataean. Recently, however, it has been\nlinked to Greek through a chain which includes Aramaic, Syriac\nand Byzantine. Of this root, أَكْوَاب ʾakwāb occurs four times in the\nQur’an.\n\nأَكْوَاب ʾakwāb [pl. of n. كُوب [kūb]] cup, goblet, glass (43:71) يُطَافُ\nعَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ dishes of gold will be passed around for\nthem, and goblets."
+    }
+  ],
   "occurrences": [
     "43:71:6",
     "56:18:1",

@@ -1,9 +1,17 @@
 {
-  "id": 2079,
   "root": "ش ت و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشبص - شبع\n\n(شتو) الشين والتاء والحرف المعتل أصلٌ واحدٌ لزمانٍ من الأزمنة، وهو الشِّتاء: خلافُ الصَّيف. وهي الشَّتْوة، بفتح الشين. والموضع المَشْتاة والمَشْتَى. قال طَرَفة:\n\nلا تَرَى الآدِبَ فينا ينتقِرْ\n\nنَحْنُ في المشتاةِ نَدعُو الجَفَلَى\n\nوقال الخليل: الشِّتاء معروف، والواحد الشَّتوة. وهذا قياسٌ جيِّد، وهو مثل شَكوة وشِكاء. ويقال أشتى القوم، إِذا دخَلوا في الشتاء؛ وشَتَوا؛ إذا أصابهم الشِّتاء.\n\n(باب الشين والثاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشبص - شبع\n\n(شتو) الشين والتاء والحرف المعتل أصلٌ واحدٌ لزمانٍ من الأزمنة، وهو الشِّتاء: خلافُ الصَّيف. وهي الشَّتْوة، بفتح الشين. والموضع المَشْتاة والمَشْتَى. قال طَرَفة:\n\nلا تَرَى الآدِبَ فينا ينتقِرْ\n\nنَحْنُ في المشتاةِ نَدعُو الجَفَلَى\n\nوقال الخليل: الشِّتاء معروف، والواحد الشَّتوة. وهذا قياسٌ جيِّد، وهو مثل شَكوة وشِكاء. ويقال أشتى القوم، إِذا دخَلوا في الشتاء؛ وشَتَوا؛ إذا أصابهم الشِّتاء.\n\n(باب الشين والثاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh-t-w winter, to spend the winter, to enter the winter season, to be or become cold, a place where one spends the winter; to experience drought. Of this root, only الشتاء ʾal-shitāʾ occurs once in the Qurʾan.\nالشِّتَاء ʾal-shitāʾ [n.] winter (106:2) رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ the journey of the winter and [the journey of ] the summer (cf. رِحْلَة riḥlatun).",
+      "definition_english": "sh-t-w winter, to spend the winter, to enter the winter season, to be or become cold, a place where one spends the winter; to experience drought. Of this root, only الشتاء ʾal-shitāʾ occurs once in the Qurʾan.\nالشِّتَاء ʾal-shitāʾ [n.] winter (106:2) رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ the journey of the winter and [the journey of ] the summer (cf. رِحْلَة riḥlatun)."
+    }
+  ],
   "occurrences": [
     "106:2:3"
   ]

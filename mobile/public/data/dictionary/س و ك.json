@@ -1,8 +1,11 @@
 {
-  "id": 1856,
   "root": "س و ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسور - سوط\n\n(سوك) السين والواو والكاف أصلٌ واحد يدلُّ على حركةٍ واضطراب.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسور - سوط\n\n(سوك) السين والواو والكاف أصلٌ واحد يدلُّ على حركةٍ واضطراب.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

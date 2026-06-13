@@ -1,8 +1,11 @@
 {
-  "id": 3758,
   "root": "م ص و",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمصع - مصل\n\n(مصو) الميم والصاد والحرف المعتلّ كلمةٌ واحدة. المَصْواء: المرأة لا لحمَ على فَخِذَيها .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمصع - مصل\n\n(مصو) الميم والصاد والحرف المعتلّ كلمةٌ واحدة. المَصْواء: المرأة لا لحمَ على فَخِذَيها .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

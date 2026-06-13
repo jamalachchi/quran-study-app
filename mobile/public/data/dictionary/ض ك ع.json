@@ -1,8 +1,11 @@
 {
-  "id": 2299,
   "root": "ض ك ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الضاد\n\nضغز - ضفن\n\n(ضكع) الضاد والكاف والعين فيه كلمةٌ لا قياسَ لها. يقال رجل ضَوْكَعةٌ، إِذا كان كثيرَ اللَّحم ثقيلاً.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الضاد\n\nضغز - ضفن\n\n(ضكع) الضاد والكاف والعين فيه كلمةٌ لا قياسَ لها. يقال رجل ضَوْكَعةٌ، إِذا كان كثيرَ اللَّحم ثقيلاً.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

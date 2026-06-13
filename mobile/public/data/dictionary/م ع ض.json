@@ -1,8 +1,11 @@
 {
-  "id": 3787,
   "root": "م ع ض",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الميم\n\nمضغ\n\n(معض) الميم والعين والضاد كلمةٌ. مَعِضَ من الأمر: شَقَّ عليه وأوجَعه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الميم\n\nمضغ\n\n(معض) الميم والعين والضاد كلمةٌ. مَعِضَ من الأمر: شَقَّ عليه وأوجَعه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

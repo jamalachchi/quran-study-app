@@ -1,8 +1,11 @@
 {
-  "id": 1919,
   "root": "س د ك",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسخب - سخت\n\n(سدك) السين والدال والكاف كلمةٌ واحدة لا يقاس عليها. تقول: سَدِك به، إِذَا لزِمَه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسخب - سخت\n\n(سدك) السين والدال والكاف كلمةٌ واحدة لا يقاس عليها. تقول: سَدِك به، إِذَا لزِمَه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

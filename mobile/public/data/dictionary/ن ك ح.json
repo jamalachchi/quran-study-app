@@ -1,9 +1,22 @@
 {
-  "id": 4103,
   "root": "ن ك ح",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنكل\n\n(نكح) النون والكاف والحاء أصلٌ واحد، وهو البِضاع. ونَكَحَ يَنْكِحُ. وامرأةٌ ناكِحٌ في بني فلان، أي ذات زَوجٍ منهم. والنِّكاح يكون العَقدَ دونَ الوطء. يقال نَكَحْتُ: تَزَوّجْتُ. وأنكَحْتُ غَيرِي.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنكل\n\n(نكح) النون والكاف والحاء أصلٌ واحد، وهو البِضاع. ونَكَحَ يَنْكِحُ. وامرأةٌ ناكِحٌ في بني فلان، أي ذات زَوجٍ منهم. والنِّكاح يكون العَقدَ دونَ الوطء. يقال نَكَحْتُ: تَزَوّجْتُ. وأنكَحْتُ غَيرِي.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "نَكَثَ nakatha u [v. trans.] to break an agreement, to go back on\na promise, to break one’s word (43:50) فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ\nيَنْكُثُونَ but when We removed from them the torment, they went\nback on their word.\n\nأَنْكَاث ʾankāth [pl. of n. نِكْث nikth] untwisted pieces of yarn (a\nstate of complete disarray, complete disintegration) (16:92) وَلَا\nتَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا do not be like a woman who\nunravels her yarn into fibres, after it has become strong, [falling\nthus into complete disintegration/losing your unity].",
+      "definition_english": "نَكَثَ nakatha u [v. trans.] to break an agreement, to go back on\na promise, to break one’s word (43:50) فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ\nيَنْكُثُونَ but when We removed from them the torment, they went\nback on their word.\n\nأَنْكَاث ʾankāth [pl. of n. نِكْث nikth] untwisted pieces of yarn (a\nstate of complete disarray, complete disintegration) (16:92) وَلَا\nتَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا do not be like a woman who\nunravels her yarn into fibres, after it has become strong, [falling\nthus into complete disintegration/losing your unity]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–k–ḥ to marry, to be married, to give in matrimony; to\nfornicate, fornication; to drench the land (with rain), to be\novercome (by sleep). Of this root, four forms occur 23 times in\nthe Qur’an: نَكَحَ nakaha 14 times; أَنْكَحَ ʾankaha three times; اِسْتَنْكَحَ\nʾistankaha once and نِكَاح nikāḥ four times.\n\nنَكَحَ nakaha i [v. trans.] 1 to wed, to marry someone (4:22) وَلَا\nتَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ مِنَ النِّسَاءِ do not marry any of the women that\nyour fathers married 2 (possibly, in an interpretation of 24:3) to\nfornicate, to copulate with, to have intercourse with الزَّانِي لَا يَنْكِحُ إِلَّا\nزَانِيَةً أَوْ مُشْرِكَةً وَالزَّانِيَةُ لَا يَنْكِحُهَا إِلَّا زَانٍ أَوْ مُشْرِكٌ the adulterer only\nfornicates with an adulteress or an idolatress, and the adultress\nonly fornicates with an adulterer or an idolater.\n\nأُنْكِحَ ʾunkiḥa [imperf. v. IV] I [trans.] to marry off, to enable to\nmarry, to facilitate the marriage of (24:32) وَأَنْكِحُوا الْأَيَامَى مِنْكُمْ marry\noff the single among you II [doubly trans.] to give to someone in\nmarriage (28:27) إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ I wish to give you\nin marriage one of these two daughters of mine.\n\nاِسْتَنْكَحَ ʾistankaha [v. X trans.] to seek to marry, to desire to\nmarry (33:50) إِنْ أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا if the Prophet wishes to seek\nher in marriage.\n\nنِكَاح nikāḥ [n.] marriage (also marriage cost) (24:33) وَلْيَسْتَعْفِفِ\nالَّذِينَ لَا يَجِدُونَ نِكَاحًا let those who are unable to afford marriage keep\nchaste.",
+      "definition_english": "n–k–ḥ to marry, to be married, to give in matrimony; to\nfornicate, fornication; to drench the land (with rain), to be\novercome (by sleep). Of this root, four forms occur 23 times in\nthe Qur’an: نَكَحَ nakaha 14 times; أَنْكَحَ ʾankaha three times; اِسْتَنْكَحَ\nʾistankaha once and نِكَاح nikāḥ four times.\n\nنَكَحَ nakaha i [v. trans.] 1 to wed, to marry someone (4:22) وَلَا\nتَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ مِنَ النِّسَاءِ do not marry any of the women that\nyour fathers married 2 (possibly, in an interpretation of 24:3) to\nfornicate, to copulate with, to have intercourse with الزَّانِي لَا يَنْكِحُ إِلَّا\nزَانِيَةً أَوْ مُشْرِكَةً وَالزَّانِيَةُ لَا يَنْكِحُهَا إِلَّا زَانٍ أَوْ مُشْرِكٌ the adulterer only\nfornicates with an adulteress or an idolatress, and the adultress\nonly fornicates with an adulterer or an idolater.\n\nأُنْكِحَ ʾunkiḥa [imperf. v. IV] I [trans.] to marry off, to enable to\nmarry, to facilitate the marriage of (24:32) وَأَنْكِحُوا الْأَيَامَى مِنْكُمْ marry\noff the single among you II [doubly trans.] to give to someone in\nmarriage (28:27) إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ I wish to give you\nin marriage one of these two daughters of mine.\n\nاِسْتَنْكَحَ ʾistankaha [v. X trans.] to seek to marry, to desire to\nmarry (33:50) إِنْ أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا if the Prophet wishes to seek\nher in marriage.\n\nنِكَاح nikāḥ [n.] marriage (also marriage cost) (24:33) وَلْيَسْتَعْفِفِ\nالَّذِينَ لَا يَجِدُونَ نِكَاحًا let those who are unable to afford marriage keep\nchaste."
+    }
+  ],
   "occurrences": [
     "24:32:1",
     "24:33:5",

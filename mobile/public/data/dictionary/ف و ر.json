@@ -1,9 +1,17 @@
 {
-  "id": 2911,
   "root": "ف و ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الفاء\n\nفهم - فوت\n\n(فور) الفاء والواو والراء كلمةٌ تدلُّ على غَلَيان، ثم يقاس عليها. فالفَوْر: الغَلَيان. يقال: فارت القدرُ تَفورُ فَوراً. قال:\n\nتَفور علينا قِدرُهم فنُدِيمُها\n\nونَفْثَؤُها عنَّا إذا حَمْيُها غلا\n\nوفار غضبُه، إذا جاشَ.\n\nوممَّا قِيس على هذا قولُهم: فَعَله من فَوْره، أي في بدء أمرِه، قبل أنْ يسكُن.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الفاء\n\nفهم - فوت\n\n(فور) الفاء والواو والراء كلمةٌ تدلُّ على غَلَيان، ثم يقاس عليها. فالفَوْر: الغَلَيان. يقال: فارت القدرُ تَفورُ فَوراً. قال:\n\nتَفور علينا قِدرُهم فنُدِيمُها\n\nونَفْثَؤُها عنَّا إذا حَمْيُها غلا\n\nوفار غضبُه، إذا جاشَ.\n\nوممَّا قِيس على هذا قولُهم: فَعَله من فَوْره، أي في بدء أمرِه، قبل أنْ يسكُن.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "f–w–r to boil over, to gush out; to spread smells; to erupt with\nanger; (of heat) rising, to increase in intensity, swelling;\nimmediacy. Of this root, two forms occur four times in the\nQur’an: فَار fāra three times and فَوْر fawr once.\n\nفَار fāra ū [v. intrans.] 1 to boil over, to erupt (11:40) حَتَّى إِذَا جَاءَ\nأَمْرُنَا وَفَارَ التَّنُّورُ until such time as Our command came to pass, and\nthe earth’s surface (or, the furnace, or, the spring of water)\nerupted 2 to boil, to heave, to blaze forth (67:7) سَمِعُوا لَهَا شَهِيقًا وَهِيَ\nتَفُورُ they will hear from it a deep inhaling as it boils up.\n\nفَوْر fawr [n.; v. n.] the present time (in which there is no\ntarrying), immediacy, haste *(3:125) وَيَأْتُوكُمْ مِنْ فَوْرِهِمْ they come to\nyou instantly [lit. in their haste/immediacy].\n\n725",
+      "definition_english": "f–w–r to boil over, to gush out; to spread smells; to erupt with\nanger; (of heat) rising, to increase in intensity, swelling;\nimmediacy. Of this root, two forms occur four times in the\nQur’an: فَار fāra three times and فَوْر fawr once.\n\nفَار fāra ū [v. intrans.] 1 to boil over, to erupt (11:40) حَتَّى إِذَا جَاءَ\nأَمْرُنَا وَفَارَ التَّنُّورُ until such time as Our command came to pass, and\nthe earth’s surface (or, the furnace, or, the spring of water)\nerupted 2 to boil, to heave, to blaze forth (67:7) سَمِعُوا لَهَا شَهِيقًا وَهِيَ\nتَفُورُ they will hear from it a deep inhaling as it boils up.\n\nفَوْر fawr [n.; v. n.] the present time (in which there is no\ntarrying), immediacy, haste *(3:125) وَيَأْتُوكُمْ مِنْ فَوْرِهِمْ they come to\nyou instantly [lit. in their haste/immediacy].\n\n725"
+    }
+  ],
   "occurrences": [
     "11:40:5",
     "23:27:11",

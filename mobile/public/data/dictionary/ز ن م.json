@@ -1,9 +1,17 @@
 {
-  "id": 1684,
   "root": "ز ن م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الزّاي\n\nزنر - زنق\n\n(زنم) الزاء والنون والميم أصلٌ يدلُّ على تعليق شيء بشيء. من ذلك الزَّنيم، وهو الدَّعِيُّ. وكذلك المُزَنَّمُ؛ وشُبّه بزنَمَتَي العنز، وهما اللتان تتعلَّقان من أذنها. والزَّنَمة: اللَّحمة المتدلّية في الحلْق. وقال الشاعر في الزَّنيم:\n\nزَنيمٌ تَداعاهُ الرِّجالُ زيادةً\n\nكما زِيدَ في عَرضِ الأديمِ الأكارعُ\n\n(باب الزاءِ والهاءِ والحرف المعتل)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الزّاي\n\nزنر - زنق\n\n(زنم) الزاء والنون والميم أصلٌ يدلُّ على تعليق شيء بشيء. من ذلك الزَّنيم، وهو الدَّعِيُّ. وكذلك المُزَنَّمُ؛ وشُبّه بزنَمَتَي العنز، وهما اللتان تتعلَّقان من أذنها. والزَّنَمة: اللَّحمة المتدلّية في الحلْق. وقال الشاعر في الزَّنيم:\n\nزَنيمٌ تَداعاهُ الرِّجالُ زيادةً\n\nكما زِيدَ في عَرضِ الأديمِ الأكارعُ\n\n(باب الزاءِ والهاءِ والحرف المعتل)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "z-n-m derivatives of this root are taken from the noun زَنَمَة\nzanamatun, the lowest edge of the earlobe. It was customary in\npre-Islamic Arabia to slit the lower earlobe of certain pedigree\nanimals at one end and leave it hanging as a mark of their value.\nMetaphorically, زَنَمَة zanamatun came to convey the concept of\nattachment. زَنِيم zanīm said of animals means pedigree, but of\nhumans it is associated with servant, person of uncertain\nparentage and scoundrel. Of this root, زَنِيم zanīm occurs only once\nin the Qurʾan.\n\nزَنِيم zanīm [quasi-act. part.] useless, ill-bred, ignoble, wicked,\nevil, (68:13) عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ coarse, and on top of all that, ill-bred.",
+      "definition_english": "z-n-m derivatives of this root are taken from the noun زَنَمَة\nzanamatun, the lowest edge of the earlobe. It was customary in\npre-Islamic Arabia to slit the lower earlobe of certain pedigree\nanimals at one end and leave it hanging as a mark of their value.\nMetaphorically, زَنَمَة zanamatun came to convey the concept of\nattachment. زَنِيم zanīm said of animals means pedigree, but of\nhumans it is associated with servant, person of uncertain\nparentage and scoundrel. Of this root, زَنِيم zanīm occurs only once\nin the Qurʾan.\n\nزَنِيم zanīm [quasi-act. part.] useless, ill-bred, ignoble, wicked,\nevil, (68:13) عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ coarse, and on top of all that, ill-bred."
+    }
+  ],
   "occurrences": [
     "68:13:4"
   ]

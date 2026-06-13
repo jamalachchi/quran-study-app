@@ -1,9 +1,17 @@
 {
-  "id": 4071,
   "root": "ن ف خ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنفل\n\n(نفخ) النون والفاء والخاء: أصلٌ صحيح يدلُّ على انتفاخٍ وعلوّ. منه انتفَخَ الشّيءُ انتفاخاً. ويقال انتَفَخَ النَّهار: علا. ونَفْخَة الرَّبيع: إعْشابه ؛ لأنَّ الأرضَ تربو فيه وتنتفِخ. والمْنفُوخُ: الرَّجل السَّمين. والنَّفْخاء من الأرض مثلُ النَّبْخاء؛ وقد مَضَى.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنفل\n\n(نفخ) النون والفاء والخاء: أصلٌ صحيح يدلُّ على انتفاخٍ وعلوّ. منه انتفَخَ الشّيءُ انتفاخاً. ويقال انتَفَخَ النَّهار: علا. ونَفْخَة الرَّبيع: إعْشابه ؛ لأنَّ الأرضَ تربو فيه وتنتفِخ. والمْنفُوخُ: الرَّجل السَّمين. والنَّفْخاء من الأرض مثلُ النَّبْخاء؛ وقد مَضَى.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–f–kh puff, to blow, to blow into, to breathe in, to inflate,\nbellows; haughtiness, arrogance. Of this root, three forms, occur\n20 times in the Qur’an: نَفَخ nafakha eight times; نُفِخ nufikha 11\ntimes and نَفْخَة nafkhatun once.\n\nنَفَخ nafakha u I [v. trans.] to blow, to breathe into something\n(66:12) فَنَفَخْنَا فِيهِ مِنْ رُوحِنَا so We breathed into it of Our spirit II [v.\nintrans.] to blow (18:96) قَالَ انفُخُوا حَتَّىٰ إِذَا جَعَلَهُ نَارًا he said, ‘Blow!’—\nuntil he had made it a fire.\n\nنُفِخ nufikha [pass. v.] to be blown (39:68) وَنُفِخَ فِي الصُّورِ the\ntrumpet is blown.\n\nنَفْخَة nafkhatun [unit n.] a single puff, a single blow, a single\nbreath, a single blast (69:13) فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ when the\ntrumpet is sounded with one blast.",
+      "definition_english": "n–f–kh puff, to blow, to blow into, to breathe in, to inflate,\nbellows; haughtiness, arrogance. Of this root, three forms, occur\n20 times in the Qur’an: نَفَخ nafakha eight times; نُفِخ nufikha 11\ntimes and نَفْخَة nafkhatun once.\n\nنَفَخ nafakha u I [v. trans.] to blow, to breathe into something\n(66:12) فَنَفَخْنَا فِيهِ مِنْ رُوحِنَا so We breathed into it of Our spirit II [v.\nintrans.] to blow (18:96) قَالَ انفُخُوا حَتَّىٰ إِذَا جَعَلَهُ نَارًا he said, ‘Blow!’—\nuntil he had made it a fire.\n\nنُفِخ nufikha [pass. v.] to be blown (39:68) وَنُفِخَ فِي الصُّورِ the\ntrumpet is blown.\n\nنَفْخَة nafkhatun [unit n.] a single puff, a single blow, a single\nbreath, a single blast (69:13) فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ when the\ntrumpet is sounded with one blast."
+    }
+  ],
   "occurrences": [
     "15:29:3",
     "18:96:10",

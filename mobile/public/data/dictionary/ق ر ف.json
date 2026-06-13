@@ -1,9 +1,22 @@
 {
-  "id": 3172,
   "root": "ق ر ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقرف\n\nوخيارُ المال: قُرعتُه، وسمِّي لأنَّه يعَوَّل عليه في النَّوائب كما قلناه في القَرِيع.\n\nوممّا اتّسعوا فيه والأصل ما ذكرناه: القَريعة، وهو خير بيتٍ في الرّبع، إن كان بَرْدٌ فخيارُ كِنِّهِ، وإن كان حرٌّ فخِيارُ ظلِّه.\n\nومما شذَّ عن هذا الأصل القَرَع، وفَصِيلٌ مقرَّع. قال أوس:\n\nيُجَرُّ كما جُرَّ الفصيلُ المقرَّعُ\n\nلدى كلِّ أُخدودٍ يغادرنَ دارعاً\n\nوالقَرَع أيضاً: ذَهابُ الشَّعَْر من الرأس.\n\n(قرف) القاف والراء والفاء أصلٌ صحيح يدلُّ على مخالطةِ الشيء",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقرف\n\nوخيارُ المال: قُرعتُه، وسمِّي لأنَّه يعَوَّل عليه في النَّوائب كما قلناه في القَرِيع.\n\nوممّا اتّسعوا فيه والأصل ما ذكرناه: القَريعة، وهو خير بيتٍ في الرّبع، إن كان بَرْدٌ فخيارُ كِنِّهِ، وإن كان حرٌّ فخِيارُ ظلِّه.\n\nومما شذَّ عن هذا الأصل القَرَع، وفَصِيلٌ مقرَّع. قال أوس:\n\nيُجَرُّ كما جُرَّ الفصيلُ المقرَّعُ\n\nلدى كلِّ أُخدودٍ يغادرنَ دارعاً\n\nوالقَرَع أيضاً: ذَهابُ الشَّعَْر من الرأس.\n\n(قرف) القاف والراء والفاء أصلٌ صحيح يدلُّ على مخالطةِ الشيء",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "أَقْرَض ʾaqraḍa [v. IV, trans.] to lend (64:17) إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ if you give alms to the poor [lit. make a goodly loan to God], He will multiply it for you and forgive you.\nقَرْض qarḍ [n.] loan *(73:20) قَرْضًا حَسَنًا alms given to the needy for the sake of God alone [lit. a goodly loan].",
+      "definition_english": "أَقْرَض ʾaqraḍa [v. IV, trans.] to lend (64:17) إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ if you give alms to the poor [lit. make a goodly loan to God], He will multiply it for you and forgive you.\nقَرْض qarḍ [n.] loan *(73:20) قَرْضًا حَسَنًا alms given to the needy for the sake of God alone [lit. a goodly loan]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–r–f tree bark, to peel off the bark; to kill, to eradicate; to earn, earnings; to commit a sin, to commit a crime, to slander, to accuse; to be worthy of something; to be loathsome. Of this root, two forms occur five times in the Qur’an: اِقْتَرَف ʾiqtarafa four times and مُقْتَرِفُون muqtarifūn once.\n754",
+      "definition_english": "q–r–f tree bark, to peel off the bark; to kill, to eradicate; to earn, earnings; to commit a sin, to commit a crime, to slander, to accuse; to be worthy of something; to be loathsome. Of this root, two forms occur five times in the Qur’an: اِقْتَرَف ʾiqtarafa four times and مُقْتَرِفُون muqtarifūn once.\n754"
+    }
+  ],
   "occurrences": [
     "42:23:20",
     "6:113:12",

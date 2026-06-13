@@ -1,8 +1,11 @@
 {
-  "id": 812,
   "root": "ح ط أ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحطم - حطأ\n\n(حطأ) الحاء والطاء والهمزة أصلٌ منقاس، وهو تطامُن الشَّيءِ وسقوطُه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحطم - حطأ\n\n(حطأ) الحاء والطاء والهمزة أصلٌ منقاس، وهو تطامُن الشَّيءِ وسقوطُه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

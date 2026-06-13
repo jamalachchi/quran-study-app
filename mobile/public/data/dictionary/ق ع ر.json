@@ -1,9 +1,17 @@
 {
-  "id": 3224,
   "root": "ق ع ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقعث - قعد\n\n(قعر) القاف والعين والراء أصلٌ صحيحٌ واحد، يدلُّ على هَزْمٍ في الشّيء ذاهبٍ سُفْلاً. يقال: هذا قَعر البئر، وقَعر الإناء، وهذه قصعةٌ قَعِيرةٌ. وقَعَّر الرّجلُ في كلامه: شَدَّق. وامرأة قَعِرة: نعتُ سَوءٍ في الجِماع. وانقَعَرت الشّجرة من أرومتِها: انقلعَتْ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقعث - قعد\n\n(قعر) القاف والعين والراء أصلٌ صحيحٌ واحد، يدلُّ على هَزْمٍ في الشّيء ذاهبٍ سُفْلاً. يقال: هذا قَعر البئر، وقَعر الإناء، وهذه قصعةٌ قَعِيرةٌ. وقَعَّر الرّجلُ في كلامه: شَدَّق. وامرأة قَعِرة: نعتُ سَوءٍ في الجِماع. وانقَعَرت الشّجرة من أرومتِها: انقلعَتْ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "q–ʿ–r bottom, depth, to excavate, to pierce, to uproot; to\nhollow; to knock down. Of this root, مُنْقَعِر munqaʿir occurs once\nin the Qur’an.\n\nمُنْقَعِر munqaʿir [pass. part. of v. VIII اِنْقَعَرَ ʾinqaʿara] uprooted,\nsevered at the root (54:20) تَنْزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُنْقَعِرٍ it sweeps\npeople away, as if they were uprooted palm stumps.",
+      "definition_english": "q–ʿ–r bottom, depth, to excavate, to pierce, to uproot; to\nhollow; to knock down. Of this root, مُنْقَعِر munqaʿir occurs once\nin the Qur’an.\n\nمُنْقَعِر munqaʿir [pass. part. of v. VIII اِنْقَعَرَ ʾinqaʿara] uprooted,\nsevered at the root (54:20) تَنْزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُنْقَعِرٍ it sweeps\npeople away, as if they were uprooted palm stumps."
+    }
+  ],
   "occurrences": [
     "54:20:6"
   ]

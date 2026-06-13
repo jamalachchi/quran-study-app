@@ -1,9 +1,17 @@
 {
-  "id": 750,
   "root": "ح د ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحدس - حدق\n\n(حدق) الحاء والدال والقاف أصلٌ واحدٌ، [وهو الشيء] يحيط بشيء. يقال حَدَقَ القومُ بالرّجُل وأحدقوا به. قال:\n\nالمطعِمون بَنُو حَربٍ وقَدْ حَدَقَتْ\n\nبي المنيّةُ واستبطأتُ أنصارِي\n\nوحَدَقَة العين مِن هذا، وهي السَّواد، لأنها تحيط بالصَّبِيّ ؛ والجمع حِداق. قال:",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحدس - حدق\n\n(حدق) الحاء والدال والقاف أصلٌ واحدٌ، [وهو الشيء] يحيط بشيء. يقال حَدَقَ القومُ بالرّجُل وأحدقوا به. قال:\n\nالمطعِمون بَنُو حَربٍ وقَدْ حَدَقَتْ\n\nبي المنيّةُ واستبطأتُ أنصارِي\n\nوحَدَقَة العين مِن هذا، وهي السَّواد، لأنها تحيط بالصَّبِيّ ؛ والجمع حِداق. قال:",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–d–q pupil of the eye, to gaze; to encircle, to encompass;\nwalled garden or cultivated land, large deep ditch for storing\nwater. Of this root, حَدَآئِق ḥadāʾiq occurs three times in the Qur’an.\n\nحَدَآئِق ḥadāʾiq [pl. of n. حَدِيقَة ḥadīqatun] garden planted with\ntrees, particularly fruit-bearing ones (27:60) وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً\nفَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ and We sent for you water from the sky with\nwhich We caused gardens of delight to grow.",
+      "definition_english": "h–d–q pupil of the eye, to gaze; to encircle, to encompass;\nwalled garden or cultivated land, large deep ditch for storing\nwater. Of this root, حَدَآئِق ḥadāʾiq occurs three times in the Qur’an.\n\nحَدَآئِق ḥadāʾiq [pl. of n. حَدِيقَة ḥadīqatun] garden planted with\ntrees, particularly fruit-bearing ones (27:60) وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً\nفَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ and We sent for you water from the sky with\nwhich We caused gardens of delight to grow."
+    }
+  ],
   "occurrences": [
     "27:60:12",
     "78:32:1",

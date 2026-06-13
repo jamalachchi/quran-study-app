@@ -1,9 +1,17 @@
 {
-  "id": 765,
   "root": "ح ر ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الحاء\n\nحرف\n\nالرّجُل، إذا وُلِد له [ولَدُ] سَوء. وربما قالوا حَرَضَ الحالبان النّاقَة، إذا احتلبا لبنَها كلَّه.\n\n(حرف) الحاء الراء والفاء ثلاثة أصول: حدُّ الشيء، والعُدول، وتقدير الشَّيء.\n\nفأمّا الحدّ فحرْفُ كلِّ شيء حدُّه، كالسيف وغيره. ومنه الحَرْف، وهو الوجْه. تقول: هو مِن أمرِه على حَرْفٍ واحد، أي طريقة واحدة. قال الله تعالى ] وَمِنَ النَّاسِ مَنْ يَعْبُدُ اللهََ عَلَى حَرْفٍ [ [الحج 11]. أي على وجه واحد. وذلك أنّ العبد يجبُ عليه طاعةُ ربِّه تعالى عند السرّاء والضرّاء، فإذا أطاعَه عند السّرّاء وعَصاه عند الضرّاء فقد عَبَدَه على حرفٍ. ألا تراه قال تعالى: ] فَإِنْ أصَابَهُ خَيْرٌ اطْمَأَنَّ بهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انْقَلَبَ عَلَى وَجْهِهِ [ [الحج 11]. ويقال للناقةِ حَرْفٌ. قال قوم: هي الضامر، شبِّهت بحرف السَّيف. وقال آخرون: بل هي الضَّخْمة، شبِّهت بحرف الجبل، وهو جانبُه. قال أوس:\n\nحَرْفٌ أخُوها أبوها مِن مُهَجَّنَةٍ\n\nوعَمُّها خالُها قوداءُ مِئشيرُ\n\nوقال كعب بن زهير:\n\nحرفٌ أخوها أبوها مِن مهجَّنةٍ\n\nوعَمُّها خالُها جرداءُ شِمْلِيلُ\n\nوالأصل الثاني: الانحراف عن الشَّيء. يقال انحرَفَ عنه يَنحرِف انحرافاً. وحرّفتُه أنا عنه، أي عدَلتُ به عنه. ولذلك يقال مُحَارَفٌ، وذلك إذا حُورِف",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الحاء\n\nحرف\n\nالرّجُل، إذا وُلِد له [ولَدُ] سَوء. وربما قالوا حَرَضَ الحالبان النّاقَة، إذا احتلبا لبنَها كلَّه.\n\n(حرف) الحاء الراء والفاء ثلاثة أصول: حدُّ الشيء، والعُدول، وتقدير الشَّيء.\n\nفأمّا الحدّ فحرْفُ كلِّ شيء حدُّه، كالسيف وغيره. ومنه الحَرْف، وهو الوجْه. تقول: هو مِن أمرِه على حَرْفٍ واحد، أي طريقة واحدة. قال الله تعالى ] وَمِنَ النَّاسِ مَنْ يَعْبُدُ اللهََ عَلَى حَرْفٍ [ [الحج 11]. أي على وجه واحد. وذلك أنّ العبد يجبُ عليه طاعةُ ربِّه تعالى عند السرّاء والضرّاء، فإذا أطاعَه عند السّرّاء وعَصاه عند الضرّاء فقد عَبَدَه على حرفٍ. ألا تراه قال تعالى: ] فَإِنْ أصَابَهُ خَيْرٌ اطْمَأَنَّ بهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انْقَلَبَ عَلَى وَجْهِهِ [ [الحج 11]. ويقال للناقةِ حَرْفٌ. قال قوم: هي الضامر، شبِّهت بحرف السَّيف. وقال آخرون: بل هي الضَّخْمة، شبِّهت بحرف الجبل، وهو جانبُه. قال أوس:\n\nحَرْفٌ أخُوها أبوها مِن مُهَجَّنَةٍ\n\nوعَمُّها خالُها قوداءُ مِئشيرُ\n\nوقال كعب بن زهير:\n\nحرفٌ أخوها أبوها مِن مهجَّنةٍ\n\nوعَمُّها خالُها جرداءُ شِمْلِيلُ\n\nوالأصل الثاني: الانحراف عن الشَّيء. يقال انحرَفَ عنه يَنحرِف انحرافاً. وحرّفتُه أنا عنه، أي عدَلتُ به عنه. ولذلك يقال مُحَارَفٌ، وذلك إذا حُورِف",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "h–r–f edge, ledge, side; to deviate, to veer, to slant; to distort,\nto pervert; a profession, a craft; to take up a trade; to be hot and\nspicy. Of this root, three forms occur six times in the Qurʾan:\nيُحَرِّفُونَ yuḥarrifūn four times; مُتَحَرِّف mutaḥarrif once and حَرْف ḥarf\nonce.\n\nيُحَرِّف yuḥarrif [imperf. of v. II حَرَّفَ ḥarrafa, trans.] to alter, to\ndistort, to twist to pervert (2:75) يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا\nعَقَلُوهُ وَهُمْ يَعْلَمُونَ they hear the words of God and then pervert them\nafter they have understood them.\n\nمُتَحَرِّف mutaḥarrif [act. part.] one who approaches from the\nside, one coming sideways *(8:16) مُتَحَرِّفًا لِّقِتَالٍ going sideways for\nfighting, manoeuvring for battle.\n\n201",
+      "definition_english": "h–r–f edge, ledge, side; to deviate, to veer, to slant; to distort,\nto pervert; a profession, a craft; to take up a trade; to be hot and\nspicy. Of this root, three forms occur six times in the Qurʾan:\nيُحَرِّفُونَ yuḥarrifūn four times; مُتَحَرِّف mutaḥarrif once and حَرْف ḥarf\nonce.\n\nيُحَرِّف yuḥarrif [imperf. of v. II حَرَّفَ ḥarrafa, trans.] to alter, to\ndistort, to twist to pervert (2:75) يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا\nعَقَلُوهُ وَهُمْ يَعْلَمُونَ they hear the words of God and then pervert them\nafter they have understood them.\n\nمُتَحَرِّف mutaḥarrif [act. part.] one who approaches from the\nside, one coming sideways *(8:16) مُتَحَرِّفًا لِّقِتَالٍ going sideways for\nfighting, manoeuvring for battle.\n\n201"
+    }
+  ],
   "occurrences": [
     "22:11:7",
     "2:75:13",

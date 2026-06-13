@@ -1,9 +1,17 @@
 {
-  "id": 419,
   "root": "ت ر ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب التاء\n\nتره - ترب\n\n(ترب) التاء والراء والباء أصلان: أحدهما التّراب وما يشتقّ منه، والآخر تساوي الشّيئين. فالأول التُّراب، وهو التَّيْربُ والتَّوْرَاب . ويقال تَرِبَ الرجل إذا افتقَرَ كأنّه لصِق بالتُّراب، وأتْربَ إذا استَغْنى، كأنّه صار لـه من المال بقَدْرِ التُّراب، والتَّرباء الأرضُ نفسها. ويقال ريحٌ تَرِبَةٌ إذا جاءَت بالتُّراب. قال:\n\nمرّاً سَحابٌ ومَرّاً بارحٌ تَرِبُ\n\nلا بَلْ هو الشَّوقُ مِنْ دارٍ تخَوَّنَهَا\n\nترج - ترح - تسع\n\nوأمّا الآخر فالتِّرب الخِدْن، والجمع أترابٌ. ومنه التَّرِيب، وهو الصَّدر عند تساوي رؤوس العظام. قال:\n\n* أشْرَفَ ثَدْيَاها على التَّريبِ *\n\nومنه التَّرِبات وهي الأنامل، الواحدة تَرِبة.\n\nومما شذَّ عن الباب التّربة وهو نبت.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب التاء\n\nتره - ترب\n\n(ترب) التاء والراء والباء أصلان: أحدهما التّراب وما يشتقّ منه، والآخر تساوي الشّيئين. فالأول التُّراب، وهو التَّيْربُ والتَّوْرَاب . ويقال تَرِبَ الرجل إذا افتقَرَ كأنّه لصِق بالتُّراب، وأتْربَ إذا استَغْنى، كأنّه صار لـه من المال بقَدْرِ التُّراب، والتَّرباء الأرضُ نفسها. ويقال ريحٌ تَرِبَةٌ إذا جاءَت بالتُّراب. قال:\n\nمرّاً سَحابٌ ومَرّاً بارحٌ تَرِبُ\n\nلا بَلْ هو الشَّوقُ مِنْ دارٍ تخَوَّنَهَا\n\nترج - ترح - تسع\n\nوأمّا الآخر فالتِّرب الخِدْن، والجمع أترابٌ. ومنه التَّرِيب، وهو الصَّدر عند تساوي رؤوس العظام. قال:\n\n* أشْرَفَ ثَدْيَاها على التَّريبِ *\n\nومنه التَّرِبات وهي الأنامل، الواحدة تَرِبة.\n\nومما شذَّ عن الباب التّربة وهو نبت.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "t-r-b earth, dust, to cover with dust; to become poor, poverty,\nneed; playmates, people of similar age; to become wealthy; to\nbecome tame, to become docile; the base of the neck, the area\nbetween the breasts and collar bone. Of this root, four forms\n\n132",
+      "definition_english": "t-r-b earth, dust, to cover with dust; to become poor, poverty,\nneed; playmates, people of similar age; to become wealthy; to\nbecome tame, to become docile; the base of the neck, the area\nbetween the breasts and collar bone. Of this root, four forms\n\n132"
+    }
+  ],
   "occurrences": [
     "13:5:7",
     "16:59:15",

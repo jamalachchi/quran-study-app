@@ -1,8 +1,11 @@
 {
-  "id": 1826,
   "root": "س ن ج",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسنه - سني\n\n(سنج) السن والنون والجيم فيه كلمة. ويقولون: إن السِّناج أثرُ دُخَان السِّرَاج في الحائط.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسنه - سني\n\n(سنج) السن والنون والجيم فيه كلمة. ويقولون: إن السِّناج أثرُ دُخَان السِّرَاج في الحائط.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

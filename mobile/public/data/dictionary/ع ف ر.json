@@ -1,9 +1,22 @@
 {
-  "id": 2513,
   "root": "ع ف ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب العين\n\nعفو\n\n(عفر) العين والفاء والراء أصلٌ صحيح، وله معانٍ. فالأول لون من الألوان، والثاني نبت، والثالث شدّة وقُوّة، والرابع زَمان، والخامس شيءٌ من خَلْق الحيوان.\n\nفالأول: العُفرة في الألوان، وهو أن يَضرِب إلى غُبْرَة في حمرة؛ ولذلك سمّي التراب العَفَر. يقال: عفَّرت الشيءَ في التُّراب تعفيراً. واعتَفَر الشيء: سقَط في العَفَر. قال الشاعر يصف ذوائب المرأة، وأنّها إذا أرسلتها سقطَتْ على الأرض.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب العين\n\nعفو\n\n(عفر) العين والفاء والراء أصلٌ صحيح، وله معانٍ. فالأول لون من الألوان، والثاني نبت، والثالث شدّة وقُوّة، والرابع زَمان، والخامس شيءٌ من خَلْق الحيوان.\n\nفالأول: العُفرة في الألوان، وهو أن يَضرِب إلى غُبْرَة في حمرة؛ ولذلك سمّي التراب العَفَر. يقال: عفَّرت الشيءَ في التُّراب تعفيراً. واعتَفَر الشيء: سقَط في العَفَر. قال الشاعر يصف ذوائب المرأة، وأنّها إذا أرسلتها سقطَتْ على الأرض.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "عَطَاء ʿaṭāʾ [n./v. n.] gift, favour, bounty, donation (17:20) وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا your Lord’s bounty is not restricted.\n",
+      "definition_english": "عَطَاء ʿaṭāʾ [n./v. n.] gift, favour, bounty, donation (17:20) وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا your Lord’s bounty is not restricted.\n"
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʿ-f-r dust, to dust, to rub in the dust; genie, mighty; hair, mane. Some scholars attribute عِفْرِيت ʿifrīt to a borrowing from Persian, but philologists classify it under this root. Of this root, only عِفْرِيت ʿifrīt occurs once in the Qurʾan.\nعِفْرِيت ʿifrīt [n.] a member of the jinn, a genie, a powerful member of the jinn (so called because, as it is said, he knocks\n\ndown his adversaries and rolls them in the dust) (27:39) قال عفريتٌ\nمن الجن a powerful genie from amongst the jinn said.",
+      "definition_english": "ʿ-f-r dust, to dust, to rub in the dust; genie, mighty; hair, mane. Some scholars attribute عِفْرِيت ʿifrīt to a borrowing from Persian, but philologists classify it under this root. Of this root, only عِفْرِيت ʿifrīt occurs once in the Qurʾan.\nعِفْرِيت ʿifrīt [n.] a member of the jinn, a genie, a powerful member of the jinn (so called because, as it is said, he knocks\n\ndown his adversaries and rolls them in the dust) (27:39) قال عفريتٌ\nمن الجن a powerful genie from amongst the jinn said."
+    }
+  ],
   "occurrences": [
     "27:39:2"
   ]

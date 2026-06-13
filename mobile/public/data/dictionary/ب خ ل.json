@@ -1,9 +1,17 @@
 {
-  "id": 230,
   "root": "ب خ ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبخق - بخل\n\n(بخل) الباء والخاء واللام كلمة واحدة، وهي : البُخْل والبَخَلُ. ورجلٌ بخيلٌ وباخلٌ. فإذا كان ذلك شأنَه فهو بخَّالٌ. قال رؤبة:\n\n* فَذاكَ بَخَّالٌ أَرُوزُ الأَرْزِ *\n\nبخو - بخت - بدر",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبخق - بخل\n\n(بخل) الباء والخاء واللام كلمة واحدة، وهي : البُخْل والبَخَلُ. ورجلٌ بخيلٌ وباخلٌ. فإذا كان ذلك شأنَه فهو بخَّالٌ. قال رؤبة:\n\n* فَذاكَ بَخَّالٌ أَرُوزُ الأَرْزِ *\n\nبخو - بخت - بدر",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "b–kh–l to be stingy, to be covetous; to be grudging, meanness.\nOf this root, two forms occur 12 times in the Qurʾan: بَخِلَ bakhila\n10 times and بُخْل bukhl twice.\n\nبَخِلَ bakhila a [v. intrans.] 1 to be or act in a niggardly or\nmiserly way (47:38) هَا أَنتُمْ هَـٰؤُلَاءِ تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّهِ فَمِنكُم مَّن\nيَبْخَلُ here you are, called upon to spend in the cause of God, but some\nof you will be niggardly 2 [with prep. بـ] to deny something\nmeanly, to begrudge (9:76) فَلَمَّا آتَاهُم مِّن فَضْلِهِ بَخِلُوا بِهِ yet when He\ndid give them some of His bounty, they begrudged it [to others] 3\n[with prep. عن] to be niggardly towards (47:38) وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ\nعَن نَّفْسِهِ whoever is niggardly is niggardly against himself.\n\nبُخْل bukhl [n./v. n.] miserliness, niggardliness, meanness,\nstinginess (57:24) الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ those who are\nmiserly and urge miserliness on others.",
+      "definition_english": "b–kh–l to be stingy, to be covetous; to be grudging, meanness.\nOf this root, two forms occur 12 times in the Qurʾan: بَخِلَ bakhila\n10 times and بُخْل bukhl twice.\n\nبَخِلَ bakhila a [v. intrans.] 1 to be or act in a niggardly or\nmiserly way (47:38) هَا أَنتُمْ هَـٰؤُلَاءِ تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّهِ فَمِنكُم مَّن\nيَبْخَلُ here you are, called upon to spend in the cause of God, but some\nof you will be niggardly 2 [with prep. بـ] to deny something\nmeanly, to begrudge (9:76) فَلَمَّا آتَاهُم مِّن فَضْلِهِ بَخِلُوا بِهِ yet when He\ndid give them some of His bounty, they begrudged it [to others] 3\n[with prep. عن] to be niggardly towards (47:38) وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ\nعَن نَّفْسِهِ whoever is niggardly is niggardly against himself.\n\nبُخْل bukhl [n./v. n.] miserliness, niggardliness, meanness,\nstinginess (57:24) الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ those who are\nmiserly and urge miserliness on others."
+    }
+  ],
   "occurrences": [
     "3:180:19",
     "3:180:4",

@@ -1,8 +1,11 @@
 {
-  "id": 195,
   "root": "ب ظ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الباء\n\nبضّ\n\n(بظّ) الباء والظاء يقال إنّهم يقولون بَظّ أوتارَه للضَّرْب، إذا هيّأها. ومثلُ هذا لا يعوّل عليه.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الباء\n\nبضّ\n\n(بظّ) الباء والظاء يقال إنّهم يقولون بَظّ أوتارَه للضَّرْب، إذا هيّأها. ومثلُ هذا لا يعوّل عليه.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

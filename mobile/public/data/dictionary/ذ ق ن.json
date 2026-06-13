@@ -1,9 +1,17 @@
 {
-  "id": 1315,
   "root": "ذ ق ن",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الذّال\n\nذقن - ذكا\n\n{باب الذال والقاف وما يثلثهما}\n\n(ذقن) الذال والقاف والنون كلمةٌ واحدة إليها يرجع سائرُ ما يشتقّ من الباب. فالذَّقَنُ ذَقَن الإنسان وغيرِه : مَجمَع لَحْيَيه. ويقال ناقةٌ ذَقُونٌ: تحرِّك رأسَها إذا سارت. والذّاقنة: طرَف الحلقومِ الناتئُ. وهو في حديث عائشة: \"تُوفِّيَ رسول الله صلى الله عليه وآله وسلم بين سَحْرِي ونَحْري وحاقِنَتِي وذاقِنَتِي\". وتقول: ذَقَنْتُ الرّجل أَذْقُنُه، إذا دَفعْتَ بجُمْع كفِّك في لِهْزِمَتِه. ودَلْوٌ ذَقونٌ، إذا لم تكُنْ مستويةً، بل تكون ضخمةً مائلة.\n\n{باب الذال والكاف وما يثلثهما}",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الذّال\n\nذقن - ذكا\n\n{باب الذال والقاف وما يثلثهما}\n\n(ذقن) الذال والقاف والنون كلمةٌ واحدة إليها يرجع سائرُ ما يشتقّ من الباب. فالذَّقَنُ ذَقَن الإنسان وغيرِه : مَجمَع لَحْيَيه. ويقال ناقةٌ ذَقُونٌ: تحرِّك رأسَها إذا سارت. والذّاقنة: طرَف الحلقومِ الناتئُ. وهو في حديث عائشة: \"تُوفِّيَ رسول الله صلى الله عليه وآله وسلم بين سَحْرِي ونَحْري وحاقِنَتِي وذاقِنَتِي\". وتقول: ذَقَنْتُ الرّجل أَذْقُنُه، إذا دَفعْتَ بجُمْع كفِّك في لِهْزِمَتِه. ودَلْوٌ ذَقونٌ، إذا لم تكُنْ مستويةً، بل تكون ضخمةً مائلة.\n\n{باب الذال والكاف وما يثلثهما}",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "dh–q–n chin, beard; to place the hand under the chin, to hit on the chin; to annoy. Of this root, أَذْقَان adhqān, occurs three times in the Qur’an\nأَذْقَان adhqān [pl. of n. ذَقَن dhaqan] chins (36:8) إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ We have placed fetters on their necks, right up to their chins; *(17:109) يَخِرُّونَ لِلْأَذْقَانِ they fall down on their faces, they prostrate themselves [lit. they fall to the chins].",
+      "definition_english": "dh–q–n chin, beard; to place the hand under the chin, to hit on the chin; to annoy. Of this root, أَذْقَان adhqān, occurs three times in the Qur’an\nأَذْقَان adhqān [pl. of n. ذَقَن dhaqan] chins (36:8) إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ We have placed fetters on their necks, right up to their chins; *(17:109) يَخِرُّونَ لِلْأَذْقَانِ they fall down on their faces, they prostrate themselves [lit. they fall to the chins]."
+    }
+  ],
   "occurrences": [
     "17:107:17",
     "17:109:2",

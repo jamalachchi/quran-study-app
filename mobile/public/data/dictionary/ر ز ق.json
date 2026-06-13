@@ -1,9 +1,17 @@
 {
-  "id": 1374,
   "root": "ر ز ق",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الرّاء\n\nرزف - رزق\n\n(رزق) الراء والزاء والقاف أُصَيْلٌ واحدٌ يدلُّ على عَطاءٍ لوَقت، ثم يُحمَل عليه غير الموقوت. فالرِّزْق: عَطاء الله جلَّ ثناؤُه. ويقال رَزَقه الله رَزْقاً، والاسم الرِّزْق. [والرِّزْق] بلغة أزْدِشُنوءَة: الشُّكر، من قوله جلّ ثناؤه: } وَتَجْعَلُونَ رِزْقَكُمْ { [الواقعة 82]. وفعلتُ ذلك لمَّا رزَقْتَني، أي لمَّا شكَرْتَني.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الرّاء\n\nرزف - رزق\n\n(رزق) الراء والزاء والقاف أُصَيْلٌ واحدٌ يدلُّ على عَطاءٍ لوَقت، ثم يُحمَل عليه غير الموقوت. فالرِّزْق: عَطاء الله جلَّ ثناؤُه. ويقال رَزَقه الله رَزْقاً، والاسم الرِّزْق. [والرِّزْق] بلغة أزْدِشُنوءَة: الشُّكر، من قوله جلّ ثناؤه: } وَتَجْعَلُونَ رِزْقَكُمْ { [الواقعة 82]. وفعلتُ ذلك لمَّا رزَقْتَني، أي لمَّا شكَرْتَني.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "r–z–q provision, livelihood, earnings, means of living,\nsubsistence, income, bounty, (of God) to provide with means of\nliving, to seek to earn a living, (of God) to bestow with bounties\nor to favour with bounties, to grant as means of sustenance. Of\nthis root, five forms occur 123 times in the Qur’an: رَزَقَ razaqa 56\ntimes; رُزِقَ ruziqa five times; رِزْق rizq 55 times; رَازِقُون rāziqūn six\ntimes and رَزَّاق razzāq once.\n\nرَزَقَ razaqa u I [v. trans., pass. v. رُزِقَ ruziqa] 1 (of God) to\nsustain (30:40) اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ God it is who\ncreates you then sustains you, then causes you to die, then gives\nyou life again 2 (of God) to provide something for someone\n(2:172) كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ eat of the good things We have\nprovided for you 3 to make provisions for, to give maintenance to\n\n361",
+      "definition_english": "r–z–q provision, livelihood, earnings, means of living,\nsubsistence, income, bounty, (of God) to provide with means of\nliving, to seek to earn a living, (of God) to bestow with bounties\nor to favour with bounties, to grant as means of sustenance. Of\nthis root, five forms occur 123 times in the Qur’an: رَزَقَ razaqa 56\ntimes; رُزِقَ ruziqa five times; رِزْق rizq 55 times; رَازِقُون rāziqūn six\ntimes and رَزَّاق razzāq once.\n\nرَزَقَ razaqa u I [v. trans., pass. v. رُزِقَ ruziqa] 1 (of God) to\nsustain (30:40) اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ God it is who\ncreates you then sustains you, then causes you to die, then gives\nyou life again 2 (of God) to provide something for someone\n(2:172) كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ eat of the good things We have\nprovided for you 3 to make provisions for, to give maintenance to\n\n361"
+    }
+  ],
   "occurrences": [
     "10:31:3",
     "10:59:8",

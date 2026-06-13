@@ -1,9 +1,17 @@
 {
-  "id": 53,
   "root": "أ ج ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الهمزة\n\nأثم\n\n(أجر) الهمزة والجيم والراء أصلان يمكن الجمعُ بينهما بالمعنى، فالأول الكِراء على العمل، والثاني جَبْر العظم الكَسِير. فأمّا الكِراء فالأجر والأُجْرة. وكان الخليل يقول: الأجْر جزاء العمل، والفعل أجَرَ يَأجُرُ أَجْرا، والمفعول",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الهمزة\n\nأثم\n\n(أجر) الهمزة والجيم والراء أصلان يمكن الجمعُ بينهما بالمعنى، فالأول الكِراء على العمل، والثاني جَبْر العظم الكَسِير. فأمّا الكِراء فالأجر والأُجْرة. وكان الخليل يقول: الأجْر جزاء العمل، والفعل أجَرَ يَأجُرُ أَجْرا، والمفعول",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "ʾ–j–r wages, reward for work done; to hire, to engage; rent, to\nrent; dowry. Of this root, four forms occur 108 times in the\nQur’an: تَأْجُر taʾjur once; اِسْتَأْجَر istaʾjara twice; أَجْر ʾajr 93 times\nand أُجُور ʾujūr 12 times.\n\nتَأْجُر taʾjur [imperf. of v. أَجَرَ ʾajara, trans.] to go into\ncontractual agreement, to work as a hired person or to hire\nsomeone to work as a hired person (28:27) إِنِّي أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ابْنَتَيَّ\nهَاتَيْنِ عَلَى أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ I wish to marry you to one of these two\ndaughters of mine, on condition that you hire yourself to me for\neight years.\n\nاِسْتَأْجَر istaʾjara [v. X trans.] to hire, to rent (28:26) قَالَتْ إِحْدَاهُمَا\nيَاأَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الأَمِينُ one of the two [daughters]\nsaid, ‘Father, hire him–the strong, trustworthy man is the best\nperson you could hire.’\n\nأَجْر ʾajr [n., pl. أُجُور ʾujūr] 1 wages, payment for work done\n(65:6) فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ if they suckle [your babies] for\nyou, pay them their wages [for it] 2 reward (26:109) وَمَا أَسْأَلُكُمْ عَلَيْهِ\nمِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى رَبِّ الْعَالَمِينَ I do not ask you any reward for it,\nfor my only reward is with the Lord of all beings 3 dowry (4:25)\nفَانكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ so marry them with their\npeople’s consent and give them their dowries in accordance with\nthe norms.",
+      "definition_english": "ʾ–j–r wages, reward for work done; to hire, to engage; rent, to\nrent; dowry. Of this root, four forms occur 108 times in the\nQur’an: تَأْجُر taʾjur once; اِسْتَأْجَر istaʾjara twice; أَجْر ʾajr 93 times\nand أُجُور ʾujūr 12 times.\n\nتَأْجُر taʾjur [imperf. of v. أَجَرَ ʾajara, trans.] to go into\ncontractual agreement, to work as a hired person or to hire\nsomeone to work as a hired person (28:27) إِنِّي أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ابْنَتَيَّ\nهَاتَيْنِ عَلَى أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ I wish to marry you to one of these two\ndaughters of mine, on condition that you hire yourself to me for\neight years.\n\nاِسْتَأْجَر istaʾjara [v. X trans.] to hire, to rent (28:26) قَالَتْ إِحْدَاهُمَا\nيَاأَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الأَمِينُ one of the two [daughters]\nsaid, ‘Father, hire him–the strong, trustworthy man is the best\nperson you could hire.’\n\nأَجْر ʾajr [n., pl. أُجُور ʾujūr] 1 wages, payment for work done\n(65:6) فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ if they suckle [your babies] for\nyou, pay them their wages [for it] 2 reward (26:109) وَمَا أَسْأَلُكُمْ عَلَيْهِ\nمِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى رَبِّ الْعَالَمِينَ I do not ask you any reward for it,\nfor my only reward is with the Lord of all beings 3 dowry (4:25)\nفَانكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ so marry them with their\npeople’s consent and give them their dowries in accordance with\nthe norms."
+    }
+  ],
   "occurrences": [
     "10:72:6",
     "10:72:8",

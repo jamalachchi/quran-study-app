@@ -1,8 +1,11 @@
 {
-  "id": 4560,
   "root": "ي ن ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الياء\n\nيعر\n\n(ينف)* الياء والنون والفاء. يَنُوفُ في شعر امرئ القيس : هَضْبةٌ في جبَلَيْ طَيّ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الياء\n\nيعر\n\n(ينف)* الياء والنون والفاء. يَنُوفُ في شعر امرئ القيس : هَضْبةٌ في جبَلَيْ طَيّ.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

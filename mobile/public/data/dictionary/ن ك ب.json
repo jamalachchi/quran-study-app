@@ -1,9 +1,17 @@
 {
-  "id": 4100,
   "root": "ن ك ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنكل\n\n(نكب) النون والكاف والباء أصلٌ صحيح يدلُّ على مَيْل أو مَيَلٍ في الشَّيء. ونَكَب عن الشَّيء يَنكُبُ. قال الله تعالى: ] عَن الصِّراطِ لَناكِبُون [ [المؤمنون 74]. والنَّكباء: كلُّ ريح عَدلَتْ عن مَهبِّ الرِّياح الأربع. قال:\n\nنَكباءُ صِرٌّ بأصحاب المُحِلاّتِ\n\nلا تَعدِلَنّ أَتَاوِيِّين تَضربُهُمْ\n\nوالأنكَب: الذي كأنَّه يمشي في شِقّ. والمَنْكِبُ: مُجتَمَع ما بين العَضُد والكَتِف، وهما مَنكِبان، لأنَّهما في الجانبين. والنَّكَبُ: داءٌ يأخذ الإبلَ في مناكبها فتَظلَعُ منه. والمَنْكِب: عَون العَرِيف، مشبَّه بمنكب الإنسان، كأنَّه يقوِّي أمرَ العَرِيف كما يتقوَّى بمَنكِبِه الإنسان.\n\nنكت - نكث نكح نكد",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنكل\n\n(نكب) النون والكاف والباء أصلٌ صحيح يدلُّ على مَيْل أو مَيَلٍ في الشَّيء. ونَكَب عن الشَّيء يَنكُبُ. قال الله تعالى: ] عَن الصِّراطِ لَناكِبُون [ [المؤمنون 74]. والنَّكباء: كلُّ ريح عَدلَتْ عن مَهبِّ الرِّياح الأربع. قال:\n\nنَكباءُ صِرٌّ بأصحاب المُحِلاّتِ\n\nلا تَعدِلَنّ أَتَاوِيِّين تَضربُهُمْ\n\nوالأنكَب: الذي كأنَّه يمشي في شِقّ. والمَنْكِبُ: مُجتَمَع ما بين العَضُد والكَتِف، وهما مَنكِبان، لأنَّهما في الجانبين. والنَّكَبُ: داءٌ يأخذ الإبلَ في مناكبها فتَظلَعُ منه. والمَنْكِب: عَون العَرِيف، مشبَّه بمنكب الإنسان، كأنَّه يقوِّي أمرَ العَرِيف كما يتقوَّى بمَنكِبِه الإنسان.\n\nنكت - نكث نكح نكد",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–k–b wind that brings no rain, disastrous wind, to be afflicted\nby disaster; the shoulder joint, disease that afflicts the joint, to\nveer off, to turn away from. Of this root, two forms occur once\neach in the Qur’an: نَاكِبُون nākibūn and مَنَاكِب manākib.\n\nنَاكِبُون nākibūn [pl. of act. part. نَاكِب nākib] one who veers away,\na deviator, one who goes astray (23:74) وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ\nالصِّرَاطِ لَنَاكِبُونَ and those who do not believe in the Hereafter will\ncertainly veer off the Path.\n\nمَنَاكِب manākib [pl. of n. مَنْكِب mankib] shoulder joints,\nwhereabouts or regions (of the earth), tracts (of the earth) (67:15)\nهُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا it is He who has made the\nearth stable for you—travel its regions.",
+      "definition_english": "n–k–b wind that brings no rain, disastrous wind, to be afflicted\nby disaster; the shoulder joint, disease that afflicts the joint, to\nveer off, to turn away from. Of this root, two forms occur once\neach in the Qur’an: نَاكِبُون nākibūn and مَنَاكِب manākib.\n\nنَاكِبُون nākibūn [pl. of act. part. نَاكِب nākib] one who veers away,\na deviator, one who goes astray (23:74) وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ\nالصِّرَاطِ لَنَاكِبُونَ and those who do not believe in the Hereafter will\ncertainly veer off the Path.\n\nمَنَاكِب manākib [pl. of n. مَنْكِب mankib] shoulder joints,\nwhereabouts or regions (of the earth), tracts (of the earth) (67:15)\nهُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا it is He who has made the\nearth stable for you—travel its regions."
+    }
+  ],
   "occurrences": [
     "23:74:8",
     "67:15:9"

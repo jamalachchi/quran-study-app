@@ -1,9 +1,17 @@
 {
-  "id": 1090,
   "root": "خ ب ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخام\n\n(خبت) الخاء والباء والتاء أصلٌ واحد يدلُّ على خُشوع: يقال أَخْبَتَ يخبِتُ إخباتاً، إذا خشَع. وأخْبَتَ لله تعالى. قال عزّ ذكره: ] وَبَشِّرِ المُخْبِتِين [ [الحج 34]، وأصلُه من الخَبْت، وهو المفازة لا نباتَ فيها.\n\nومن ذلك الحديث: \"ولو بِخَبْتِ الجَمِيش \". ألا تراه سمَّاها جَميشاً، كأنّ النَّباتَ قد جُمِشَ منها، أي حُلِق.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخام\n\n(خبت) الخاء والباء والتاء أصلٌ واحد يدلُّ على خُشوع: يقال أَخْبَتَ يخبِتُ إخباتاً، إذا خشَع. وأخْبَتَ لله تعالى. قال عزّ ذكره: ] وَبَشِّرِ المُخْبِتِين [ [الحج 34]، وأصلُه من الخَبْت، وهو المفازة لا نباتَ فيها.\n\nومن ذلك الحديث: \"ولو بِخَبْتِ الجَمِيش \". ألا تراه سمَّاها جَميشاً، كأنّ النَّباتَ قد جُمِشَ منها، أي حُلِق.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–b–t wide low land, deep valley covered with herbage; to\nsubside, to abate, to lie low; to become humble, to show humility,\nto feel tenderness in one’s heart. Of this root, two forms occur\nthree times in the Qur’an: أَخْبَتَ ʾakhbata twice and مُخْبِت mukhbit\nonce.\n\nأَخْبَتَ ʾakhbata [v. IV, intrans.] to become humble, to have a\ntender and humble heart, (of one’s heart) to soften; to become\nsubmissive, to become obedient (22:54) وَلِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ\nمِن رَّبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ and that those endowed with\nknowledge realise that it [the Revelation] is the truth from your\nLord and believe in it/Him, that their hearts may be humbled\nbefore it/Him.\n\nمُخْبِت mukhbit [act. part.] one who humbles himself, one who\nhas a tender and humble heart; one who submits in obedience and\nhumility (22:34) فَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَلَهُ أَسْلِمُوا وَبَشِّرِ الْمُخْبِتِينَ your God is\n\n252",
+      "definition_english": "kh–b–t wide low land, deep valley covered with herbage; to\nsubside, to abate, to lie low; to become humble, to show humility,\nto feel tenderness in one’s heart. Of this root, two forms occur\nthree times in the Qur’an: أَخْبَتَ ʾakhbata twice and مُخْبِت mukhbit\nonce.\n\nأَخْبَتَ ʾakhbata [v. IV, intrans.] to become humble, to have a\ntender and humble heart, (of one’s heart) to soften; to become\nsubmissive, to become obedient (22:54) وَلِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ\nمِن رَّبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ and that those endowed with\nknowledge realise that it [the Revelation] is the truth from your\nLord and believe in it/Him, that their hearts may be humbled\nbefore it/Him.\n\nمُخْبِت mukhbit [act. part.] one who humbles himself, one who\nhas a tender and humble heart; one who submits in obedience and\nhumility (22:34) فَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَلَهُ أَسْلِمُوا وَبَشِّرِ الْمُخْبِتِينَ your God is\n\n252"
+    }
+  ],
   "occurrences": [
     "11:23:6",
     "22:34:20",

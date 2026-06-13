@@ -1,9 +1,17 @@
 {
-  "id": 4394,
   "root": "و ر ث",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوري - ورب\n\n(ورث) الواو والراء والثاء: كلمةٌ واحدة، هي الوِرْث. والميراث أصله الواو. وهو أن يكون الشّيءُ لقومٍ ثم يصيرَ إلى آخرين بنسبٍ أو سبب. قال:\n\nونُورِثُها إذا مُِتْنا بَنِينا\n\nورِثْناهُنَّ عن آباءِ صدق",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوري - ورب\n\n(ورث) الواو والراء والثاء: كلمةٌ واحدة، هي الوِرْث. والميراث أصله الواو. وهو أن يكون الشّيءُ لقومٍ ثم يصيرَ إلى آخرين بنسبٍ أو سبب. قال:\n\nونُورِثُها إذا مُِتْنا بَنِينا\n\nورِثْناهُنَّ عن آباءِ صدق",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "w–r–th heirloom, inheritance, legacy; an inheritor; to cause\nsomeone to acquire something; (of rain) to bring life to the land.\nOf this root, eight forms occur 35 times in the Qur’an: وَرِث waritha 12 times; يُورَث yūrath once; أَوْرَث ʾawratha nine times;\nأُورِثَت ʾūritha three times; وَارِث wāriṯ once; وَارِثُون wāriṯūn\nfive times; وَرَثَة warathatun once; تُرَاث turāth once and مِيرَاث\nmīrāth twice.\n\nوَرِث waritha i [v. trans., pass. imperf. يُورَث yūrath] 1 to inherit\n(19:6) يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ [the one] who shall inherit me and\ninherit the family of Jacob 2 to come into the possession of\n(21:105) أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ the earth shall be the\ninheritance of My righteous servants 3 (of God) to remain after\nall has perished (in an interpretation of 19:40) إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ\nعَلَيْهَا it is We who inherit the earth and all who are on it (or, it is\nWe who will remain after the earth and all on it have perished).\n\nأَوْرَث ʾawratha [v. IV, doubly trans., pass أُورِث ʾūritha] 1 to\ncause to inherit (35:32) ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا then We\n\n1020",
+      "definition_english": "w–r–th heirloom, inheritance, legacy; an inheritor; to cause\nsomeone to acquire something; (of rain) to bring life to the land.\nOf this root, eight forms occur 35 times in the Qur’an: وَرِث waritha 12 times; يُورَث yūrath once; أَوْرَث ʾawratha nine times;\nأُورِثَت ʾūritha three times; وَارِث wāriṯ once; وَارِثُون wāriṯūn\nfive times; وَرَثَة warathatun once; تُرَاث turāth once and مِيرَاث\nmīrāth twice.\n\nوَرِث waritha i [v. trans., pass. imperf. يُورَث yūrath] 1 to inherit\n(19:6) يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ [the one] who shall inherit me and\ninherit the family of Jacob 2 to come into the possession of\n(21:105) أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ the earth shall be the\ninheritance of My righteous servants 3 (of God) to remain after\nall has perished (in an interpretation of 19:40) إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ\nعَلَيْهَا it is We who inherit the earth and all who are on it (or, it is\nWe who will remain after the earth and all on it have perished).\n\nأَوْرَث ʾawratha [v. IV, doubly trans., pass أُورِث ʾūritha] 1 to\ncause to inherit (35:32) ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا then We\n\n1020"
+    }
+  ],
   "occurrences": [
     "15:23:6",
     "19:40:3",

@@ -1,9 +1,22 @@
 {
-  "id": 4028,
   "root": "ن ض ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنضد - نضر\n\n(نضر) النون والضاد والراء أصلٌ صحيح يدلُّ على حُسنٍ وجمالٍ وخُلوص. منه النَّضْرة: حُسْن اللَّون، ونَضَُِرَ يَنْضَُر. ونَضَّر اللهُ وجهَه: حسَّنَه ونوَّره. وفي الحديث: \"نضَّر الله امرأً سمِعَ مقالتي فوعاها\". وأخْضَرُ ناضرٌ. ويقال هذا في [كُلِّ] مشرقٍ حَسَن. قال الله تعالى: ] وُجُوهٌ يَوْمَئِذٍ نَاضِرَة [ [القيامة 22]. والنَّضير: الذَّهب، لحُسنه وخلوصه. قال:\n\nعليها وجِريالَ النَّضير الدُّلامِصا\n\nإذا جُرِّدَت يوماً حسِبْتَ خَمِيصةً\n\nوقَدَحٌ نُضَارٌ: اتُّخِذ من أثْلٍ يكون بالغَوْر، ولعلَّه أن يكون حَسَناً.\n\nنطع نطف - نطق\n\n(باب النون والطاء وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنضد - نضر\n\n(نضر) النون والضاد والراء أصلٌ صحيح يدلُّ على حُسنٍ وجمالٍ وخُلوص. منه النَّضْرة: حُسْن اللَّون، ونَضَُِرَ يَنْضَُر. ونَضَّر اللهُ وجهَه: حسَّنَه ونوَّره. وفي الحديث: \"نضَّر الله امرأً سمِعَ مقالتي فوعاها\". وأخْضَرُ ناضرٌ. ويقال هذا في [كُلِّ] مشرقٍ حَسَن. قال الله تعالى: ] وُجُوهٌ يَوْمَئِذٍ نَاضِرَة [ [القيامة 22]. والنَّضير: الذَّهب، لحُسنه وخلوصه. قال:\n\nعليها وجِريالَ النَّضير الدُّلامِصا\n\nإذا جُرِّدَت يوماً حسِبْتَ خَمِيصةً\n\nوقَدَحٌ نُضَارٌ: اتُّخِذ من أثْلٍ يكون بالغَوْر، ولعلَّه أن يكون حَسَناً.\n\nنطع نطف - نطق\n\n(باب النون والطاء وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "the other (11:82) وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ and we rained\nupon it stones of baked clay, layer after layer.",
+      "definition_english": "the other (11:82) وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ and we rained\nupon it stones of baked clay, layer after layer."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–ḍ–r pure gold, good living; lushness, verdure, freshness,\ngood looks; the upper crust of the society; purity. Of this root,\ntwo forms occur three times in the Qur’an: نَضْرَة naḍratun twice\nand نَاضِرَة nāḍiratun once.\n\nنَضْرَة naḍratun [v. n.] freshness, radiance, glow (83:24) تَعْرِفُ فِي\nوُجُوهِهِمْ نَضْرَةَ النَّعِيمِ you will recognise in their faces the radiance of\nbliss.\n\nنَاضِرَة nāḍiratun [fem. act. part.] radiant, glowing, shining\n(75:22) وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ there will be radiant faces on that Day.",
+      "definition_english": "n–ḍ–r pure gold, good living; lushness, verdure, freshness,\ngood looks; the upper crust of the society; purity. Of this root,\ntwo forms occur three times in the Qur’an: نَضْرَة naḍratun twice\nand نَاضِرَة nāḍiratun once.\n\nنَضْرَة naḍratun [v. n.] freshness, radiance, glow (83:24) تَعْرِفُ فِي\nوُجُوهِهِمْ نَضْرَةَ النَّعِيمِ you will recognise in their faces the radiance of\nbliss.\n\nنَاضِرَة nāḍiratun [fem. act. part.] radiant, glowing, shining\n(75:22) وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ there will be radiant faces on that Day."
+    }
+  ],
   "occurrences": [
     "75:22:3",
     "76:11:7",

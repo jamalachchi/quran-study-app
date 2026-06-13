@@ -1,9 +1,17 @@
 {
-  "id": 979,
   "root": "خ ر ب",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخرم - خرب\n\n(خرب) الخاء والراء والباء أصلٌ يدل على التثلُّم والتثقُّب. فالخُرْبةُ: الثُّقْبة. والعبد الأخرَب: المثقوب الأذن*. والخُرْبُ: ثَقْب الورِك. والخُرْبة: عُروة المزادة.\n\nومن الباب، وهو الأصل، الخَراب: ضدّ العمارة. والخُرْب: منقَطَع الجُمْهور من الرَّمل. فأمَّا الخارب فسارقُ الإبل خاصَّةً؛ وهو القياس، لأن السَّرِق. إيقاع ثُلْمةٍ في المال.\n\nومما شذَّ عن الباب الخَرَب، وهو ذكر الحُبارى، والجمع خِرْبان. وأَخْرُب: موضعٌ. [قال]:\n\nخرت - خرث - خرج\n\nوبين رُحَيَّاتٍ إلى فَجِّ أَخْرُبِ\n\nخَرجنا نُغالي الوحش بينَ ثُعَالةٍ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخرم - خرب\n\n(خرب) الخاء والراء والباء أصلٌ يدل على التثلُّم والتثقُّب. فالخُرْبةُ: الثُّقْبة. والعبد الأخرَب: المثقوب الأذن*. والخُرْبُ: ثَقْب الورِك. والخُرْبة: عُروة المزادة.\n\nومن الباب، وهو الأصل، الخَراب: ضدّ العمارة. والخُرْب: منقَطَع الجُمْهور من الرَّمل. فأمَّا الخارب فسارقُ الإبل خاصَّةً؛ وهو القياس، لأن السَّرِق. إيقاع ثُلْمةٍ في المال.\n\nومما شذَّ عن الباب الخَرَب، وهو ذكر الحُبارى، والجمع خِرْبان. وأَخْرُب: موضعٌ. [قال]:\n\nخرت - خرث - خرج\n\nوبين رُحَيَّاتٍ إلى فَجِّ أَخْرُبِ\n\nخَرجنا نُغالي الوحش بينَ ثُعَالةٍ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–r–b to pull down, to lay waste, to level, to destroy, to ruin;\nruins; to desert, to neglect; to pierce. Of this root, two forms occur\nonce each in the Qur’an: يُخْرِب yukhrib (also read as يُخَرِّب\nyukharrib) and خَرَاب kharāb.\n\n257",
+      "definition_english": "kh–r–b to pull down, to lay waste, to level, to destroy, to ruin;\nruins; to desert, to neglect; to pierce. Of this root, two forms occur\nonce each in the Qur’an: يُخْرِب yukhrib (also read as يُخَرِّب\nyukharrib) and خَرَاب kharāb.\n\n257"
+    }
+  ],
   "occurrences": [
     "2:114:13",
     "59:2:33"

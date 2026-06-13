@@ -1,9 +1,22 @@
 {
-  "id": 956,
   "root": "خ د ع",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الخاء\n\nخدع\n\n(خدع) الخاء والدال والعين أصلٌ واحد، ذكر الخليلُ قياسَه. قال الخليل. الإخداع إخفاءُ الشَّيء. قال: وبذلك سُمِّيت الخِزانة المُِخْدع. وعلى هذا الذي ذكر الخليلُ يجري البابُ. فمنه خَدَعْتُ الرَّجُلَ خَتَلْتُه. ومنه: \"الحرب خُدَعَةٌ\" و\"خُدْعَةٌ\" . ويقال خَدَع الرِّيقُ في الفم، وذلك أنَّه يَخْفَى في الحَلْق وَيغِيب. قال:\n\n* طيِّبَ الرِّيق إذا الرِّيقُ خَدَعْ *\n\nويقال: \"ما خَدَعَتْ بِعَيْنَيْ نَعْسَةٌ\"، أي لم يدخل المنامُ في عيني. قال:\n\nومن يَلْق ما لاقيتُ لابدَّ يأرَقِ\n\nأرِقْتُ فلم تَخْدَع بعينَيَّ نعْسةٌ\n\nوالأخدع: عِرْقٌ في سالفة العُنُق. وهو خفيّ. ورجل مخدوعٌ: قُطع أخدَعُه. ولفلان خُلُقٌ خادِعٌ، إذا تخلَّق بغير خُلُقه. وهو من الباب؛ لأنه يُخفِي خلاف ما يُظهره. ويقال: إنَّ الخُدَعَة الدّهرُ، في قوله:\n\n* يا قوم مَنْ عاذِرِي مِن الخُدعَهْ *\n\nوهذا على معنى التَّمثيل، كأنّه يغَرّ ويَخدَع. ويقال: غُولٌ خَيْدَعٌ، كأنها\n\nخدف - خدل - خدم\n\nتَغتال وتَخدع. وزعم ناسٌ أنّهم يقولون: دينارٌ خادع، أي ناقص الوزْن. فإنه كان كذا فكأنَّه أرَى التَّمامَ وأخفى النُّقصانَ حتَّى أظهره الوزنُ. ومن الباب الخَيْدَعُ، وهو السَّراب ، والقياس واحد.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الخاء\n\nخدع\n\n(خدع) الخاء والدال والعين أصلٌ واحد، ذكر الخليلُ قياسَه. قال الخليل. الإخداع إخفاءُ الشَّيء. قال: وبذلك سُمِّيت الخِزانة المُِخْدع. وعلى هذا الذي ذكر الخليلُ يجري البابُ. فمنه خَدَعْتُ الرَّجُلَ خَتَلْتُه. ومنه: \"الحرب خُدَعَةٌ\" و\"خُدْعَةٌ\" . ويقال خَدَع الرِّيقُ في الفم، وذلك أنَّه يَخْفَى في الحَلْق وَيغِيب. قال:\n\n* طيِّبَ الرِّيق إذا الرِّيقُ خَدَعْ *\n\nويقال: \"ما خَدَعَتْ بِعَيْنَيْ نَعْسَةٌ\"، أي لم يدخل المنامُ في عيني. قال:\n\nومن يَلْق ما لاقيتُ لابدَّ يأرَقِ\n\nأرِقْتُ فلم تَخْدَع بعينَيَّ نعْسةٌ\n\nوالأخدع: عِرْقٌ في سالفة العُنُق. وهو خفيّ. ورجل مخدوعٌ: قُطع أخدَعُه. ولفلان خُلُقٌ خادِعٌ، إذا تخلَّق بغير خُلُقه. وهو من الباب؛ لأنه يُخفِي خلاف ما يُظهره. ويقال: إنَّ الخُدَعَة الدّهرُ، في قوله:\n\n* يا قوم مَنْ عاذِرِي مِن الخُدعَهْ *\n\nوهذا على معنى التَّمثيل، كأنّه يغَرّ ويَخدَع. ويقال: غُولٌ خَيْدَعٌ، كأنها\n\nخدف - خدل - خدم\n\nتَغتال وتَخدع. وزعم ناسٌ أنّهم يقولون: دينارٌ خادع، أي ناقص الوزْن. فإنه كان كذا فكأنَّه أرَى التَّمامَ وأخفى النُّقصانَ حتَّى أظهره الوزنُ. ومن الباب الخَيْدَعُ، وهو السَّراب ، والقياس واحد.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "the father of any one of your men; he is God’s Messenger and the\nseal of the prophets.\n\nخِتَام khitām [v. n./n.] concluding/conclusion, end part, seal/\nsealing; crowning touch (83:26) خِتَامُهُ مِسْكٌ whose seal (or, end\npart, conclusion) is musk.\n\nمَّخْتُوم makhtūm [pass. part.] that which is sealed, concluded,\nended (83:25) يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ they are given to drink of pure\nwine, sealed.",
+      "definition_english": "the father of any one of your men; he is God’s Messenger and the\nseal of the prophets.\n\nخِتَام khitām [v. n./n.] concluding/conclusion, end part, seal/\nsealing; crowning touch (83:26) خِتَامُهُ مِسْكٌ whose seal (or, end\npart, conclusion) is musk.\n\nمَّخْتُوم makhtūm [pass. part.] that which is sealed, concluded,\nended (83:25) يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ they are given to drink of pure\nwine, sealed."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "kh–d–ʿ to cover up, to cover, to hide; an inner room, bed\nchamber; to cheat, to deceive, to delude; to take precautions; to\nbecome bad, to become stagnant; the jugular veins. Of this root,\nthree forms occur five times in the Qur’an: يَخْدَع yakhdaʿ twice;\nيُخَادِع yukhādiʿ twice and خَادِع khādiʿ once.\n\nيَخْدَع yakhdaʿ [imperf. of v. خَدَعَ khadaʿa, trans.] to cheat, to\ndeceive (8:62) وَإِن يُرِيدُوا أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ if they intend to\ndeceive you, surely God is sufficient [as protector] for you.\n\nيُخَادِعُونَ yukhādiʿūna [imperf. of v. III خَادَعَ khādaʿa, trans.] to\nseek to deceive, to engage in deception, to try to double-cross\n(2:9) يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ they seek to deceive\n\n256",
+      "definition_english": "kh–d–ʿ to cover up, to cover, to hide; an inner room, bed\nchamber; to cheat, to deceive, to delude; to take precautions; to\nbecome bad, to become stagnant; the jugular veins. Of this root,\nthree forms occur five times in the Qur’an: يَخْدَع yakhdaʿ twice;\nيُخَادِع yukhādiʿ twice and خَادِع khādiʿ once.\n\nيَخْدَع yakhdaʿ [imperf. of v. خَدَعَ khadaʿa, trans.] to cheat, to\ndeceive (8:62) وَإِن يُرِيدُوا أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ if they intend to\ndeceive you, surely God is sufficient [as protector] for you.\n\nيُخَادِعُونَ yukhādiʿūna [imperf. of v. III خَادَعَ khādaʿa, trans.] to\nseek to deceive, to engage in deception, to try to double-cross\n(2:9) يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ they seek to deceive\n\n256"
+    }
+  ],
   "occurrences": [
     "2:9:1",
     "2:9:6",

@@ -1,9 +1,17 @@
 {
-  "id": 1879,
   "root": "س ب غ",
-  "source_book": "ibn_faris",
-  "definition": "كتاب السّين\n\nسبط - سبع\n\n(سبغ) السين والباء والغين أصلٌ واحد يدلُّ على تمامِ الشيء وكماله. يقال أَسْبَغْتُ الأمر، وأسْبَغَ فلان وضوءَه. ويقال أسبغ الله عليه نِعَمَه. ورجل مُسْبِغ، أي عليه درعٌ سابغة. وفحل سابغٌ: طويل الجُرْدَان ، وضدُّه الكَمْش. ويقال سَبَّغَت الناقةُ، إذا ألقت ولدَها وقد أَشْعَرَ.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب السّين\n\nسبط - سبع\n\n(سبغ) السين والباء والغين أصلٌ واحد يدلُّ على تمامِ الشيء وكماله. يقال أَسْبَغْتُ الأمر، وأسْبَغَ فلان وضوءَه. ويقال أسبغ الله عليه نِعَمَه. ورجل مُسْبِغ، أي عليه درعٌ سابغة. وفحل سابغٌ: طويل الجُرْدَان ، وضدُّه الكَمْش. ويقال سَبَّغَت الناقةُ، إذا ألقت ولدَها وقد أَشْعَرَ.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "s—b—gh to be ample, complete, abundant; (of garments and attire) to be long and overflowing; ease of living. Of this root, two forms occur once each in the Qurʾan: أسبغ ʾasbagha and سابغات sābighāt.\nأسبغ ʾasbagha [v. IV, trans.] to bestow generously and abundantly, to lavish (31:20) وأسبغ عليكم نعمه ظاهرةً وباطنةً and He has lavished on you His bounties, apparent and hidden.\n\nسابغات sābighāt [pl. of fem. n. سابغة sābighatun] full-length coat of mail (34:11) أن اعمل سابغات وقدّر في السرد [saying, to him] ‘Make full-length coats of mail, and measure well the links.’",
+      "definition_english": "s—b—gh to be ample, complete, abundant; (of garments and attire) to be long and overflowing; ease of living. Of this root, two forms occur once each in the Qurʾan: أسبغ ʾasbagha and سابغات sābighāt.\nأسبغ ʾasbagha [v. IV, trans.] to bestow generously and abundantly, to lavish (31:20) وأسبغ عليكم نعمه ظاهرةً وباطنةً and He has lavished on you His bounties, apparent and hidden.\n\nسابغات sābighāt [pl. of fem. n. سابغة sābighatun] full-length coat of mail (34:11) أن اعمل سابغات وقدّر في السرد [saying, to him] ‘Make full-length coats of mail, and measure well the links.’"
+    }
+  ],
   "occurrences": [
     "31:20:13",
     "34:11:3"

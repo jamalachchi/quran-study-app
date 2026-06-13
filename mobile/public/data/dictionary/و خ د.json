@@ -1,8 +1,11 @@
 {
-  "id": 4359,
   "root": "و خ د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الواو\n\nوحم - وحي\n\n(وخد) الواو والخاء والدال: كلمةٌ واحدة. يقال وخدت النّاقة تَخِدُ وَخَدَاناً، وهو سَعَة الخطْو.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الواو\n\nوحم - وحي\n\n(وخد) الواو والخاء والدال: كلمةٌ واحدة. يقال وخدت النّاقة تَخِدُ وَخَدَاناً، وهو سَعَة الخطْو.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

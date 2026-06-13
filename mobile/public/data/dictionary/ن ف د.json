@@ -1,9 +1,17 @@
 {
-  "id": 4072,
   "root": "ن ف د",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنفل\n\n(نفد) النون والفاء والدال: أصلٌ صحيحٌ يدلُّ على انقطاعِ شيء وفَنائِه. ونفِدَ الشّيءُ يَنفَد نَفاداً. وأنفَدُوا: فَنِيَ زادُهم. ويقال للخَصْم مُنافِدٌ، وذلك أن يَتخاصمَ الرَّجُلانِ يريد كلٌّ منهما إنفادَ حجَّةِ صاحِبه. وفي الحديث: \"إنْ نافَدْتَهم نافَدُوك\"، أي إنْ قلتَ لهم قالوا لك.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنفل\n\n(نفد) النون والفاء والدال: أصلٌ صحيحٌ يدلُّ على انقطاعِ شيء وفَنائِه. ونفِدَ الشّيءُ يَنفَد نَفاداً. وأنفَدُوا: فَنِيَ زادُهم. ويقال للخَصْم مُنافِدٌ، وذلك أن يَتخاصمَ الرَّجُلانِ يريد كلٌّ منهما إنفادَ حجَّةِ صاحِبه. وفي الحديث: \"إنْ نافَدْتَهم نافَدُوك\"، أي إنْ قلتَ لهم قالوا لك.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–f–d to run out, to vanish, to be depleted. Of this root, two\nforms occur five times in the Qur’an: نَفِد nafida four times and نَفَاد\nnafād once.\n\nنَفِد nafida a [v. intrans.] to run out, to come to an end (18:109)\nلَنَفِدَ الْبَحْرُ قَبْلَ أَنْ تَنْفَدَ كَلِمَاتُ رَبِّي the ocean will run dry before the words\nof my Lord run out.\n\nنَفَاد nafād [v. n.] running out, coming to an end (38:54) إِنَّ هَٰذَا\nلَرِزْقُنَا مَا لَهُ مِنْ نَفَادٍ this is Our provision [for you]; there is no ending\nto it.\n\n953",
+      "definition_english": "n–f–d to run out, to vanish, to be depleted. Of this root, two\nforms occur five times in the Qur’an: نَفِد nafida four times and نَفَاد\nnafād once.\n\nنَفِد nafida a [v. intrans.] to run out, to come to an end (18:109)\nلَنَفِدَ الْبَحْرُ قَبْلَ أَنْ تَنْفَدَ كَلِمَاتُ رَبِّي the ocean will run dry before the words\nof my Lord run out.\n\nنَفَاد nafād [v. n.] running out, coming to an end (38:54) إِنَّ هَٰذَا\nلَرِزْقُنَا مَا لَهُ مِنْ نَفَادٍ this is Our provision [for you]; there is no ending\nto it.\n\n953"
+    }
+  ],
   "occurrences": [
     "16:96:3",
     "18:109:12",

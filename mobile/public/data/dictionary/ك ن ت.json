@@ -1,8 +1,11 @@
 {
-  "id": 3289,
   "root": "ك ن ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كنت) الكاف والنون والتاء كلمةٌ إن صحّتْ. يقولون: كَنَتَ، واكْتَنَتَ ، إذا لزِمَ وقَنِع. وقال عديّ .",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كنت) الكاف والنون والتاء كلمةٌ إن صحّتْ. يقولون: كَنَتَ، واكْتَنَتَ ، إذا لزِمَ وقَنِع. وقال عديّ .",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

@@ -1,9 +1,22 @@
 {
-  "id": 3275,
   "root": "ك ل ف",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكلب\n\n(كلف) الكاف واللام والفاء أصلٌ صحيح يدلُّ على إيلاعٍ بالشيء وتعلُّقٍ به. من ذلك الكَلَف، تقول: قد كَلِف بالأمر يَكْلَفُ كَلَفاً. ويقولون: \"لا يَكُنْ حُبُّكَ كَلَفاً، ولا بُغْضُكَ تَلَفاً\". والكُلْفة: ما يُتَكلَّفُ من نائبةٍ أو حقٍّ. والمتكلِّف: العِرِّيض لما لا يَعنيه. قال الله سبحانه: ] قُلْ لا أسْأَلُكُمْ علَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ المُتَكَلِّفِينَ [ [ص 86]. ومن الباب الكَلَف: شيءٌ يعلو الوجهَ فيغيِّر بشرتَه.\n\n(باب الكاف والميم وما يثلثهما)",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكلب\n\n(كلف) الكاف واللام والفاء أصلٌ صحيح يدلُّ على إيلاعٍ بالشيء وتعلُّقٍ به. من ذلك الكَلَف، تقول: قد كَلِف بالأمر يَكْلَفُ كَلَفاً. ويقولون: \"لا يَكُنْ حُبُّكَ كَلَفاً، ولا بُغْضُكَ تَلَفاً\". والكُلْفة: ما يُتَكلَّفُ من نائبةٍ أو حقٍّ. والمتكلِّف: العِرِّيض لما لا يَعنيه. قال الله سبحانه: ] قُلْ لا أسْأَلُكُمْ علَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ المُتَكَلِّفِينَ [ [ص 86]. ومن الباب الكَلَف: شيءٌ يعلو الوجهَ فيغيِّر بشرتَه.\n\n(باب الكاف والميم وما يثلثهما)",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "كَالِحُون kāliḥūn [pl. of act. part. كَالِح kāliḥ] scowling, glowering,\ngloomy (23:104) تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ the Fire will scorch\ntheir faces and they will abide in it scowling [in pain].",
+      "definition_english": "كَالِحُون kāliḥūn [pl. of act. part. كَالِح kāliḥ] scowling, glowering,\ngloomy (23:104) تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ the Fire will scorch\ntheir faces and they will abide in it scowling [in pain]."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–l–f freckles, vitiligo; to be fond of; cost, task; to take the\ntrouble; to be keen, to be in charge; to feign. Of this root, three\nforms occur eight times in the Qur’an: نُكَلِّف nukallif five times;\nتُكَلَّف tukallaf twice and مُتَكَلِّفِين mutakallifīn once.\n\nنُكَلِّف nukallif [imperf. of v. II trans.] to charge someone with (a\ntask), to burden someone with (a task) (23:62) وَلَا نُكَلِّفُ نَفْسًا إِلَّا\nوُسْعَهَا we do not charge/burden any soul with more than it can bear.\n\nتُكَلَّف tukallaf [imperf. pass. v. II] to be charged with, to be\nburdened with, to be made responsible for (4:84) فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا\nتُكَلَّفُ إِلَّا نَفْسَكَ so fight in God’s cause; you are made responsible\nonly for yourself.\n\nمُتَكَلِّفِين mutakallifīn [pl. of act. part. مُتَكَلِّف mutakallif] pretender,\nimpostor, one who affects something, one who feigns (38:86) قُلْ مَا\nأَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ [Prophet] say, ‘I ask no reward\nwhatsoever of you for this, nor am I one of the impostors.’",
+      "definition_english": "k–l–f freckles, vitiligo; to be fond of; cost, task; to take the\ntrouble; to be keen, to be in charge; to feign. Of this root, three\nforms occur eight times in the Qur’an: نُكَلِّف nukallif five times;\nتُكَلَّف tukallaf twice and مُتَكَلِّفِين mutakallifīn once.\n\nنُكَلِّف nukallif [imperf. of v. II trans.] to charge someone with (a\ntask), to burden someone with (a task) (23:62) وَلَا نُكَلِّفُ نَفْسًا إِلَّا\nوُسْعَهَا we do not charge/burden any soul with more than it can bear.\n\nتُكَلَّف tukallaf [imperf. pass. v. II] to be charged with, to be\nburdened with, to be made responsible for (4:84) فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا\nتُكَلَّفُ إِلَّا نَفْسَكَ so fight in God’s cause; you are made responsible\nonly for yourself.\n\nمُتَكَلِّفِين mutakallifīn [pl. of act. part. مُتَكَلِّف mutakallif] pretender,\nimpostor, one who affects something, one who feigns (38:86) قُلْ مَا\nأَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ [Prophet] say, ‘I ask no reward\nwhatsoever of you for this, nor am I one of the impostors.’"
+    }
+  ],
   "occurrences": [
     "23:62:2",
     "2:233:18",

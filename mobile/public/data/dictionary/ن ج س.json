@@ -1,9 +1,17 @@
 {
-  "id": 3931,
   "root": "ن ج س",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنجذ\n\n(نجس) النون والجيم والسين أصلٌ صحيح يدلُّ على خلاف الطّهارة. وشيء نَجِسٌ ونَجَسٌ: قذِر. والنَّجَس: القَذَر. وليس ببعيد أن يكون",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنجذ\n\n(نجس) النون والجيم والسين أصلٌ صحيح يدلُّ على خلاف الطّهارة. وشيء نَجِسٌ ونَجَسٌ: قذِر. والنَّجَس: القَذَر. وليس ببعيد أن يكون",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–j–s filth, defilement, desecration, profanity, to soil; a type\nof amulet or charm used in pre-Islamic Arabia to protect children,\nincantations. One form of this root, نَجَس najas, occurs once in the\nQur’an.\n\nنَجَس najas [n.; quasi-act. part.] defilement, profanity,\ndesecration (9:28) إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَذَا\nthe polytheists are a defilement–do not let them come near the\nSacred Mosque after this year of theirs.\n\n919",
+      "definition_english": "n–j–s filth, defilement, desecration, profanity, to soil; a type\nof amulet or charm used in pre-Islamic Arabia to protect children,\nincantations. One form of this root, نَجَس najas, occurs once in the\nQur’an.\n\nنَجَس najas [n.; quasi-act. part.] defilement, profanity,\ndesecration (9:28) إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَذَا\nthe polytheists are a defilement–do not let them come near the\nSacred Mosque after this year of theirs.\n\n919"
+    }
+  ],
   "occurrences": [
     "9:28:6"
   ]

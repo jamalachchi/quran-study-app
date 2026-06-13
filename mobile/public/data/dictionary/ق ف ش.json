@@ -1,8 +1,11 @@
 {
-  "id": 3241,
   "root": "ق ف ش",
-  "source_book": "ibn_faris",
-  "definition": "كتاب القاف\n\nقفد - قفر\n\n(قفش) القاف والفاء والشين. فيه طريفَة ابنِ دريد : قفش: جمع.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب القاف\n\nقفد - قفر\n\n(قفش) القاف والفاء والشين. فيه طريفَة ابنِ دريد : قفش: جمع.",
+      "definition_english": null
+    }
+  ],
   "occurrences": []
 }

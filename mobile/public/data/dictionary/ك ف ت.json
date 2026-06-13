@@ -1,9 +1,17 @@
 {
-  "id": 3414,
   "root": "ك ف ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الكاف\n\nكفأ\n\n(كفت) الكاف والفاء والتاء أصلٌ صحيح، يدلُّ على جَمْعٍ وضمّ. من ذلك قولهم: كفَتُّ الشَّيءَ، إذا ضممتَه إليك. قال رسول الله عليه الصلاة والسلام في اللَّيل: \"واكفِتُوا صِبْيَانكم\"، يعني ضُمُّوهم إليكم واحبسوهم في البُيوت. وقال عزّ وجلّ: ] ألَمْ نَجْعَلِ الأَرْضَ كِفَاتاً. أحياءً وأمْوَاتاً [ [المرسلات 25، 26]. يقول: إنَّهم يَمشُون عليها ما دامُوا أحياءً، فإذا ماتُوا ضمَّتهم إليها في جَوْفها. وقال رؤبة:\n\n* من كَفْتـِ [ـها شَدَّاً كإضرام الحَرَقْ ] *",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الكاف\n\nكفأ\n\n(كفت) الكاف والفاء والتاء أصلٌ صحيح، يدلُّ على جَمْعٍ وضمّ. من ذلك قولهم: كفَتُّ الشَّيءَ، إذا ضممتَه إليك. قال رسول الله عليه الصلاة والسلام في اللَّيل: \"واكفِتُوا صِبْيَانكم\"، يعني ضُمُّوهم إليكم واحبسوهم في البُيوت. وقال عزّ وجلّ: ] ألَمْ نَجْعَلِ الأَرْضَ كِفَاتاً. أحياءً وأمْوَاتاً [ [المرسلات 25، 26]. يقول: إنَّهم يَمشُون عليها ما دامُوا أحياءً، فإذا ماتُوا ضمَّتهم إليها في جَوْفها. وقال رؤبة:\n\n* من كَفْتـِ [ـها شَدَّاً كإضرام الحَرَقْ ] *",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "k–f–t to alter, to change; to detain, hiding place, place for\nburying things/people; to compete; difficulty; livelihood; small\ncooking pot, to sheathe; death. Of this root, كِفَات kifāt occurs once\nin the Qur’an.\n\nكِفَات kifāt [v. n. as n. of place] terrain, territory, holding place,\nhome, habitat, environment (77:25–6) أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا\ndid We not make the earth a home for the living and the dead?",
+      "definition_english": "k–f–t to alter, to change; to detain, hiding place, place for\nburying things/people; to compete; difficulty; livelihood; small\ncooking pot, to sheathe; death. Of this root, كِفَات kifāt occurs once\nin the Qur’an.\n\nكِفَات kifāt [v. n. as n. of place] terrain, territory, holding place,\nhome, habitat, environment (77:25–6) أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا\ndid We not make the earth a home for the living and the dead?"
+    }
+  ],
   "occurrences": [
     "77:25:4"
   ]

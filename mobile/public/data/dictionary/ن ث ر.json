@@ -1,9 +1,17 @@
 {
-  "id": 3922,
   "root": "ن ث ر",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nنتب - نثر\n\n(نثر) النون والثاء والراء أصلٌ صحيح يدلُّ على إلقاء شيءٍ متفرِّق. ونَثَر الدّراهِمَ وغيرَها. ونَثَرت الشّاةُ: طرحت من أنْفِها الأذَى. وسمِّي الأنْف النَّثْرةَ من هذا، لأنه يَنْثُر ما فيه من الأذى. وجاء في الحديث: \"إذا توضَّأْت فانْتَثِرْ\" أو \"فانْثِرْ \"، معناه اجعَل الماءَ في نَثْرتك. [و] النَّثْرة: نجمٌ يقال\n\nنثل نثا - نجح\n\nإنَّه أنف الأسَد يَنْزِلُه القَمر. وطَعَنه فأنْثَرَه: ألقاه على خَيْشُومِه. وهذا هو القياس. قال:\n\nإذا رأى فارِسَ قومٍ أنْثَرَه\n\nإنَّ عليها فارساً كعَشَرهْ\n\n[ويقال: أنثَره ]: أرْعَفَه الدَّم. والنَّثْرة: الدِّرع، وهذا ممكنٌ أن يكون شاذَّاً من الأصل الذي ذكرنا.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nنتب - نثر\n\n(نثر) النون والثاء والراء أصلٌ صحيح يدلُّ على إلقاء شيءٍ متفرِّق. ونَثَر الدّراهِمَ وغيرَها. ونَثَرت الشّاةُ: طرحت من أنْفِها الأذَى. وسمِّي الأنْف النَّثْرةَ من هذا، لأنه يَنْثُر ما فيه من الأذى. وجاء في الحديث: \"إذا توضَّأْت فانْتَثِرْ\" أو \"فانْثِرْ \"، معناه اجعَل الماءَ في نَثْرتك. [و] النَّثْرة: نجمٌ يقال\n\nنثل نثا - نجح\n\nإنَّه أنف الأسَد يَنْزِلُه القَمر. وطَعَنه فأنْثَرَه: ألقاه على خَيْشُومِه. وهذا هو القياس. قال:\n\nإذا رأى فارِسَ قومٍ أنْثَرَه\n\nإنَّ عليها فارساً كعَشَرهْ\n\n[ويقال: أنثَره ]: أرْعَفَه الدَّم. والنَّثْرة: الدِّرع، وهذا ممكنٌ أن يكون شاذَّاً من الأصل الذي ذكرنا.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–th–r to strew, to scatter, to sprinkle, spillage. Of this root,\ntwo forms occur three times in the Qur’an: انْتَثَرَ ʾintathara once\nand مَنْثُور manthūr twice.\n\nانْتَثَرَ ʾintathara [v. VIII intrans.] to disperse, to go in different\ndirections (82:2) وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ and when the stars shall\ndisperse.\n\nمَنْثُور manthūr [pass. part.] strewn, scattered, dispersed (76:19)\nلَؤْلُؤًا مَنْثُورًا you would think they were scattered pearls.",
+      "definition_english": "n–th–r to strew, to scatter, to sprinkle, spillage. Of this root,\ntwo forms occur three times in the Qur’an: انْتَثَرَ ʾintathara once\nand مَنْثُور manthūr twice.\n\nانْتَثَرَ ʾintathara [v. VIII intrans.] to disperse, to go in different\ndirections (82:2) وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ and when the stars shall\ndisperse.\n\nمَنْثُور manthūr [pass. part.] strewn, scattered, dispersed (76:19)\nلَؤْلُؤًا مَنْثُورًا you would think they were scattered pearls."
+    }
+  ],
   "occurrences": [
     "25:23:9",
     "76:19:9",

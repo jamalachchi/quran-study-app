@@ -1,9 +1,22 @@
 {
-  "id": 1970,
   "root": "ش ع ل",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشظف - شظم\n\n(شعل) الشين والعين واللام أصلٌ صحيح يدلُّ على انتشارٍ وتفرُّق في الشيء الواحد من جوانبه. يقال أشعلْتُ النّار في الحطب، واشتعلت النّارُ. واشتعل الشّيب. قال الله تباركَ وتعالى: ] وَاشْتَعَلَ الرَّأسُ شَيْباً [ [مريم 4].\n\nشعي شعن - شعب\n\nوالشَّعِيلة: النار المُشْعَلة في الذُّبَال. وأشعلْنا الخيلَ في الإِغارة: بَثَثْناها. والشُّعْلة من النّار، معروفة. والشَّعَل: بياضٌ في ناصيةِ الفَرَس وذَنبه؛ يقال فرس أشعل، والأنثى شَعْلاء.\n\nومن الباب: تفرَّقَ القومُ شعاليلَ، أي فِرَقاً كأنَّهم اشتعلوا. وشَعْل: لقب، ويقال اسم امرأة .\n\nومما شذَّ عن الباب المِشْعَل، وهو شيءٌ من جلود، لـه أربعُ قوائم يُنْتَبذ فيه. قال ذو الرُّمَّة:\n\nوحالَفْنَ المشاعِلَ والجِرارا\n\nأَضَعْنَ مَوَاقِتَ الصَّلَواتِ عَمْداً",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشظف - شظم\n\n(شعل) الشين والعين واللام أصلٌ صحيح يدلُّ على انتشارٍ وتفرُّق في الشيء الواحد من جوانبه. يقال أشعلْتُ النّار في الحطب، واشتعلت النّارُ. واشتعل الشّيب. قال الله تباركَ وتعالى: ] وَاشْتَعَلَ الرَّأسُ شَيْباً [ [مريم 4].\n\nشعي شعن - شعب\n\nوالشَّعِيلة: النار المُشْعَلة في الذُّبَال. وأشعلْنا الخيلَ في الإِغارة: بَثَثْناها. والشُّعْلة من النّار، معروفة. والشَّعَل: بياضٌ في ناصيةِ الفَرَس وذَنبه؛ يقال فرس أشعل، والأنثى شَعْلاء.\n\nومن الباب: تفرَّقَ القومُ شعاليلَ، أي فِرَقاً كأنَّهم اشتعلوا. وشَعْل: لقب، ويقال اسم امرأة .\n\nومما شذَّ عن الباب المِشْعَل، وهو شيءٌ من جلود، لـه أربعُ قوائم يُنْتَبذ فيه. قال ذو الرُّمَّة:\n\nوحالَفْنَ المشاعِلَ والجِرارا\n\nأَضَعْنَ مَوَاقِتَ الصَّلَواتِ عَمْداً",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "worshipped in pre-Islamic Arabia (53:49) وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ that He is the Lord of Sirius.\nشعائر shaʿāʾir [pl. of n. شعيرة shaʿīratun] rituals, particularly those involving the Pilgrimage (2:158) إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ Safa and Marwa are among the rites of God.\n\nمشعر mashʿar [n. of place] a place where a religious ritual may be performed, a holy landmark, a sacred place *(2:198) الْمَشْعَرِ الْحَرَامِ the Holy Sacred Place, one of the sites of the pilgrimage between ʿarafāt and Minā—a plain called Muzdalifa, or an area on the mountain of Quzah at the extreme end of Muzdalifa (2:198) فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ when you surge down from Arafat remember God at the Sacred Place.",
+      "definition_english": "worshipped in pre-Islamic Arabia (53:49) وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ that He is the Lord of Sirius.\nشعائر shaʿāʾir [pl. of n. شعيرة shaʿīratun] rituals, particularly those involving the Pilgrimage (2:158) إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ Safa and Marwa are among the rites of God.\n\nمشعر mashʿar [n. of place] a place where a religious ritual may be performed, a holy landmark, a sacred place *(2:198) الْمَشْعَرِ الْحَرَامِ the Holy Sacred Place, one of the sites of the pilgrimage between ʿarafāt and Minā—a plain called Muzdalifa, or an area on the mountain of Quzah at the extreme end of Muzdalifa (2:198) فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ when you surge down from Arafat remember God at the Sacred Place."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–ʿ–l to set on fire, to inflame, to kindle, to blaze, to burn brightly. Of this root, only اشتعل ʾishtaʿala occurs once in the Qurʾan.\nاشتعل ʾishtaʿala [v. VIII, intrans.] to catch fire, to blaze, to be aflame *(19:4) وَاشْتَعَلَ الرَّأْسُ شَيْبًا and [my] head has become aflame with greyness.",
+      "definition_english": "sh–ʿ–l to set on fire, to inflame, to kindle, to blaze, to burn brightly. Of this root, only اشتعل ʾishtaʿala occurs once in the Qurʾan.\nاشتعل ʾishtaʿala [v. VIII, intrans.] to catch fire, to blaze, to be aflame *(19:4) وَاشْتَعَلَ الرَّأْسُ شَيْبًا and [my] head has become aflame with greyness."
+    }
+  ],
   "occurrences": [
     "19:4:7"
   ]

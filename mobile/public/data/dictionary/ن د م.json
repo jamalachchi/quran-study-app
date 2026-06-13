@@ -1,9 +1,22 @@
 {
-  "id": 3968,
   "root": "ن د م",
-  "source_book": "ibn_faris",
-  "definition": "كتاب النون\n\nندس\n\n(ندم) النون والدال والميم كلمةٌ تدلُّ على تَفَكُّنٍ لشيءٍ قد كان . يقال: ندِم عليه نَدَماً ونَدامةً. وشَرِيبُ الرّجلِ: مُنادِمُهُ ونديمُه . وقال ناسٌ: المنادمة مقلوب المدامنة، وذلك إدمان الشَّراب. وفيه نظر. وناسٌ يقولون: كان الشَّرِيبانِ يكونُ من أحدهما بعضُ ما يُنْدَم عليه، فلذلك سمِّيا نديمين.",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب النون\n\nندس\n\n(ندم) النون والدال والميم كلمةٌ تدلُّ على تَفَكُّنٍ لشيءٍ قد كان . يقال: ندِم عليه نَدَماً ونَدامةً. وشَرِيبُ الرّجلِ: مُنادِمُهُ ونديمُه . وقال ناسٌ: المنادمة مقلوب المدامنة، وذلك إدمان الشَّراب. وفيه نظر. وناسٌ يقولون: كان الشَّرِيبانِ يكونُ من أحدهما بعضُ ما يُنْدَم عليه، فلذلك سمِّيا نديمين.",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "but if they are happy to give up some of it for you, [you may]\nconsume it [as part of your own property] by all means [lit. with\nhealth and pleasure-giving appetite].\n\nنَحْنُ naḥnu (see أَنَا ʾanā).",
+      "definition_english": "but if they are happy to give up some of it for you, [you may]\nconsume it [as part of your own property] by all means [lit. with\nhealth and pleasure-giving appetite].\n\nنَحْنُ naḥnu (see أَنَا ʾanā)."
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "n–d–m remorse, repentance, regret, to be regretful; a drinking\npartner, an intimate companion. Of this root, two forms occur\nseven times in the Qur’an: نَادِمُون nādimūn five times and نَدَامَةٌ\nnadāmatun twice.\n\nنَادِمُون nādimūn [pl. of act. part. نَادِم nādim] remorseful (5:31)\nأَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَذَا الْغُرَابِ فَأُوَارِيَ سَوْأَةَ أَخِي فَأَصْبَحَ مِنَ النَّادِمِينَ\n‘Could I not have been like this raven and covered up the nakedness of my\n\n924",
+      "definition_english": "n–d–m remorse, repentance, regret, to be regretful; a drinking\npartner, an intimate companion. Of this root, two forms occur\nseven times in the Qur’an: نَادِمُون nādimūn five times and نَدَامَةٌ\nnadāmatun twice.\n\nنَادِمُون nādimūn [pl. of act. part. نَادِم nādim] remorseful (5:31)\nأَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَذَا الْغُرَابِ فَأُوَارِيَ سَوْأَةَ أَخِي فَأَصْبَحَ مِنَ النَّادِمِينَ\n‘Could I not have been like this raven and covered up the nakedness of my\n\n924"
+    }
+  ],
   "occurrences": [
     "10:54:12",
     "23:40:5",

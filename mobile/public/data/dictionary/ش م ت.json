@@ -1,9 +1,17 @@
 {
-  "id": 2007,
   "root": "ش م ت",
-  "source_book": "ibn_faris",
-  "definition": "كتاب الشين\n\nشلح - شمت\n\n(شمت) الشين والميم والتاء أصلٌ صحيح، ويشذُّ عنه بعضُ ما فيه إشكالٌ وغموض. فالأصل فرَحُ عدوٍّ ببليّةٍ تصيبُ مَنْ يعاديهِ. يقال: شَمِتَ به يَشْمَت شَماتةً، وأشمَتَه الله عزّ وجلّ بعدوِّه. وفي كتاب الله تعالى: ] فَلاَ تُشْمِتْ بِيَ الأَعْداءَ [ [الأعراف 149]،. ويقال بات فلانٌ بليلةِ الشَّوامت، أي بليلة سَوء تُشمت به الشَّوامت. قال:\n\nفارتاعَ مِن صوتِ كَلاَّبٍ فبات لـه\n\nطَوعَُ الشَّوامتِ مِنْ خوفٍ ومن صَرَدِ",
-  "definition_english": null,
+  "entries": [
+    {
+      "source_book": "ibn_faris",
+      "definition": "كتاب الشين\n\nشلح - شمت\n\n(شمت) الشين والميم والتاء أصلٌ صحيح، ويشذُّ عنه بعضُ ما فيه إشكالٌ وغموض. فالأصل فرَحُ عدوٍّ ببليّةٍ تصيبُ مَنْ يعاديهِ. يقال: شَمِتَ به يَشْمَت شَماتةً، وأشمَتَه الله عزّ وجلّ بعدوِّه. وفي كتاب الله تعالى: ] فَلاَ تُشْمِتْ بِيَ الأَعْداءَ [ [الأعراف 149]،. ويقال بات فلانٌ بليلةِ الشَّوامت، أي بليلة سَوء تُشمت به الشَّوامت. قال:\n\nفارتاعَ مِن صوتِ كَلاَّبٍ فبات لـه\n\nطَوعَُ الشَّوامتِ مِنْ خوفٍ ومن صَرَدِ",
+      "definition_english": null
+    },
+    {
+      "source_book": "quranic_usage",
+      "definition": "sh–m–t gloating, rejoicing over the misfortune of someone, particularly an adversary; to disappoint. Of this root, only تُشْمِتْ tushmit occurs once in the Qurʾan.\nتُشْمِتْ tushmit [imperf. of v. IV, trans.] to give someone cause to gloat over the bad lot of another (7:150) إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ the people deemed me weak, and almost killed me!, do not give the enemies a chance to gloat over me!",
+      "definition_english": "sh–m–t gloating, rejoicing over the misfortune of someone, particularly an adversary; to disappoint. Of this root, only تُشْمِتْ tushmit occurs once in the Qurʾan.\nتُشْمِتْ tushmit [imperf. of v. IV, trans.] to give someone cause to gloat over the bad lot of another (7:150) إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ the people deemed me weak, and almost killed me!, do not give the enemies a chance to gloat over me!"
+    }
+  ],
   "occurrences": [
     "7:150:32"
   ]
