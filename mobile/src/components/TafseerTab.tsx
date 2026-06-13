@@ -39,6 +39,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
     }
 
     async function checkStaticJson() {
+      let foundStatic = false;
       try {
         const res = await fetch(`/data/ai_summaries/${surahId}_${ayahId}.json`);
         if (res.ok) {
@@ -46,10 +47,27 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
           if (data && data.summary) {
             setGeminiSummary(data.summary);
             localStorage.setItem(`gemini-summary:${surahId}:${ayahId}`, data.summary);
+            foundStatic = true;
           }
         }
       } catch (e) {
         // Ignore fallback
+      }
+
+      // If not found in static JSON, fall back to checking the cloud database cache
+      if (!foundStatic && API_BASE_URL) {
+        try {
+          const res = await fetch(`${API_BASE_URL}/api/gemini?surah_id=${surahId}&ayah_id=${ayahId}`);
+          if (res.ok) {
+            const data = await res.json();
+            if (data && data.summary) {
+              setGeminiSummary(data.summary);
+              localStorage.setItem(`gemini-summary:${surahId}:${ayahId}`, data.summary);
+            }
+          }
+        } catch (e) {
+          console.warn("Failed to check cloud database cache:", e);
+        }
       }
     }
   }, [surahId, ayahId, localTafsirs]);
