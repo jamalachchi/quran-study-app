@@ -8,7 +8,6 @@ import Logo from "./components/Logo";
 import { RECITERS } from "./lib/utils";
 import { 
   Sparkles, 
-  Layers, 
   ChevronLeft, 
   ChevronRight, 
   Play, 
