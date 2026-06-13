@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { CHAPTERS, Chapter } from "./lib/chapters";
+import Link from "next/link";
 
 interface Word {
   id: number;
@@ -52,6 +53,7 @@ interface LexiconData {
   entries: Array<{
     source_book: string;
     definition: string;
+    definition_english?: string;
   }>;
   morphology: MorphPart[];
 }
@@ -224,6 +226,74 @@ export default function Home() {
   const [wordData, setWordData] = useState<LexiconData | null>(null);
   const [wordLoading, setWordLoading] = useState<boolean>(false);
 
+  // Vocabulary & Toast states
+  const [savedCount, setSavedCount] = useState<number>(0);
+  const [toasts, setToasts] = useState<Array<{ id: number; arabic: string; translation: string }>>([]);
+
+  // Load vocabulary count on mount
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        const stored = localStorage.getItem("al_bayan_vocabulary");
+        if (stored) {
+          const list = JSON.parse(stored);
+          setSavedCount(list.length);
+        }
+      } catch (e) {
+        console.error(e);
+      }
+    }
+  }, []);
+
+  const addToast = (arabic: string, translation: string) => {
+    const id = Date.now();
+    setToasts((prev) => [...prev, { id, arabic, translation }]);
+    setTimeout(() => {
+      setToasts((prev) => prev.filter((t) => t.id !== id));
+    }, 3000);
+  };
+
+  const saveWordToVocabulary = (word: Word, lexiconData: LexiconData | null) => {
+    if (typeof window === "undefined") return;
+    try {
+      const stored = localStorage.getItem("al_bayan_vocabulary");
+      const list: any[] = stored ? JSON.parse(stored) : [];
+      
+      const exists = list.some((item) => item.id === word.location);
+      if (exists) return; // Word already saved
+      
+      let primaryDefinition = null;
+      if (lexiconData && lexiconData.entries && lexiconData.entries.length > 0) {
+        const englishEntry = lexiconData.entries.find(
+          (e) => e.source_book === "quranic_usage" || e.definition_english
+        );
+        primaryDefinition = englishEntry 
+          ? (englishEntry.definition_english || englishEntry.definition)
+          : lexiconData.entries[0].definition;
+      }
+      
+      const newItem = {
+        id: word.location,
+        surahId: selectedSurah,
+        ayahId: selectedAyah,
+        wordIndex: word.position,
+        text_uthmani: word.text_uthmani || word.text,
+        translation: word.translation.text,
+        transliteration: word.transliteration.text,
+        root: lexiconData?.root || null,
+        definition: primaryDefinition || null,
+        savedAt: Date.now(),
+      };
+      
+      list.push(newItem);
+      localStorage.setItem("al_bayan_vocabulary", JSON.stringify(list));
+      setSavedCount(list.length);
+      addToast(word.text_uthmani || word.text, word.translation.text);
+    } catch (e) {
+      console.error("Failed to save word to vocabulary:", e);
+    }
+  };
+
   // Gemini AI states
   const [geminiSummary, setGeminiSummary] = useState<string>("");
   const [geminiLoading, setGeminiLoading] = useState<boolean>(false);
@@ -301,6 +371,32 @@ export default function Home() {
     }
   }, [selectedSurah]);
 
+  // Load Surah and Ayah from URL search params on mount if available
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        const params = new URLSearchParams(window.location.search);
+        const s = params.get("surah");
+        const a = params.get("ayah");
+        if (s) {
+          const surahId = parseInt(s, 10);
+          if (surahId >= 1 && surahId <= 114) {
+            setSelectedSurah(surahId);
+            if (a) {
+              const ayahId = parseInt(a, 10);
+              const chapter = CHAPTERS.find((c) => c.id === surahId);
+              if (chapter && ayahId >= 1 && ayahId <= chapter.verses_count) {
+                setSelectedAyah(ayahId);
+              }
+            }
+          }
+        }
+      } catch (e) {
+        console.error("Failed to parse URL query params", e);
+      }
+    }
+  }, []);
+
   // Fetch verse and local tafseers when Surah or Ayah changes
   useEffect(() => {
     fetchVerseDetails(selectedSurah, selectedAyah);
@@ -374,6 +470,7 @@ export default function Home() {
       if (!res.ok) throw new Error("Failed to fetch root details");
       const data = await res.json();
       setWordData(data);
+      saveWordToVocabulary(word, data);
 
       // Programmatically open the Lexicon Deep Dive details element
       const lexiconDetails = document.getElementById("details-lexicon") as HTMLDetailsElement;
@@ -408,7 +505,7 @@ export default function Home() {
     }
   };
 
-  const generateGeminiSummary = async () => {
+  const generateGeminiSummary = async (force: boolean = false) => {
     if (!verseData) return;
     setGeminiLoading(true);
     setGeminiError("");
@@ -420,9 +517,34 @@ export default function Home() {
       .join(" ");
 
     try {
-      const res = await fetch(
-        `/api/gemini?surah_id=${selectedSurah}&ayah_id=${selectedAyah}&verse_text=${encodeURIComponent(verseText)}`
-      );
+      // First try GET to see if it's cached (to save Gemini API usage)
+      if (!force) {
+        const getRes = await fetch(
+          `/api/gemini?surah_id=${selectedSurah}&ayah_id=${selectedAyah}`
+        );
+        if (getRes.ok) {
+          const data = await getRes.json();
+          if (data && data.summary) {
+            setGeminiSummary(data.summary);
+            setGeminiLoading(false);
+            return;
+          }
+        }
+      }
+
+      // Fallback or force: Call POST to generate it
+      const res = await fetch("/api/gemini", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          surah_id: selectedSurah,
+          ayah_id: selectedAyah,
+          verse_text: verseText,
+          force: force,
+        }),
+      });
       const data = await res.json();
       if (data.error) {
         setGeminiError(data.error);
@@ -651,6 +773,20 @@ export default function Home() {
           >
             →
           </button>
+
+          <Link
+            href="/vocabulary"
+            className="flex items-center gap-2 h-10 px-4 rounded-xl bg-brand-emerald/10 hover:bg-brand-emerald/20 text-brand-emerald font-semibold text-sm transition-all border border-brand-emerald/20 cursor-pointer active:scale-95 relative ml-2"
+            title="Study Center & Retention Game"
+          >
+            <span className="text-base">🎓</span>
+            <span className="hidden sm:inline">Study Center</span>
+            {savedCount > 0 && (
+              <span className="absolute -top-1.5 -right-1.5 min-w-5 h-5 px-1 bg-brand-indigo text-white text-[10px] font-bold rounded-full flex items-center justify-center border border-white dark:border-slate-950">
+                {savedCount}
+              </span>
+            )}
+          </Link>
         </div>
       </header>
 
@@ -1355,7 +1491,7 @@ export default function Home() {
                     Generate an on-demand, integrated English summary of the Arabic Tafseers (Ibn Ashur &amp; Al-Qurtubi) using Google Gemini AI.
                   </p>
                   <button
-                    onClick={generateGeminiSummary}
+                    onClick={() => generateGeminiSummary(false)}
                     disabled={verseLoading || tafsirsLoading}
                     className="px-5 py-2.5 bg-linear-to-r from-brand-emerald to-brand-teal text-white font-semibold text-xs rounded-xl shadow-md shadow-brand-emerald/15 hover:scale-103 active:scale-97 transition-all cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
                   >
@@ -1387,7 +1523,7 @@ export default function Home() {
                       AI Generated Synthesis
                     </span>
                     <button
-                      onClick={generateGeminiSummary}
+                      onClick={() => generateGeminiSummary(true)}
                       className="text-xs text-brand-emerald font-semibold hover:underline cursor-pointer"
                     >
                       Regenerate
@@ -1413,6 +1549,28 @@ export default function Home() {
           Linguistic morphological data sourced from the <a href="http://corpus.quran.com" className="hover:underline text-slate-400" target="_blank" rel="noopener noreferrer">Quranic Arabic Corpus</a>.
         </p>
       </footer>
+
+      {/* Toast Container */}
+      <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3 max-w-sm pointer-events-none">
+        {toasts.map((toast) => (
+          <div
+            key={toast.id}
+            className="pointer-events-auto flex items-center gap-3 bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 p-4 rounded-2xl shadow-xl transition-all duration-300 animate-slide-in-up backdrop-blur-md"
+          >
+            <div className="bg-brand-emerald/10 text-brand-emerald p-2 rounded-xl text-lg flex items-center justify-center font-bold">
+              🎓
+            </div>
+            <div className="flex flex-col">
+              <span className="text-[10px] text-slate-400 dark:text-slate-500 font-bold uppercase tracking-wider">Saved to Vocabulary</span>
+              <div className="flex items-center gap-2 mt-0.5">
+                <span className="font-arabic text-lg text-slate-850 dark:text-slate-100 leading-none">{toast.arabic}</span>
+                <span className="text-xs text-slate-400 font-mono">→</span>
+                <span className="text-sm font-semibold text-brand-indigo">{toast.translation}</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

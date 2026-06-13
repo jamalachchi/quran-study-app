@@ -72,7 +72,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
     }
   }, [surahId, ayahId, localTafsirs]);
 
-  const generateGeminiSummary = async () => {
+  const generateGeminiSummary = async (force: boolean = false) => {
     setGeminiLoading(true);
     setGeminiError("");
     setGeminiSummary("");
@@ -110,7 +110,8 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
           ayah_id: ayahId,
           verse_text: activeVerseText || "",
           ibn_ashur: ibnAshurContent,
-          qurtubi: qurtubiContent
+          qurtubi: qurtubiContent,
+          force: force
         })
       });
       if (!res.ok) throw new Error("Gemini service failed.");
@@ -265,7 +266,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
               
               {!geminiSummary && !geminiLoading && (
                 <button
-                  onClick={generateGeminiSummary}
+                  onClick={() => generateGeminiSummary(false)}
                   className="w-full flex items-center justify-center gap-2 py-2 px-4 rounded-xl bg-brand-emerald text-white text-xs font-bold hover:bg-brand-emerald-dark shadow-xs shadow-brand-emerald/20 transition-all cursor-pointer active:scale-97"
                 >
                   <Sparkles size={13} />
@@ -295,7 +296,7 @@ export default function TafseerTab({ surahId, ayahId, verseText, tafsirs: localT
                     Generated Commentary
                   </span>
                   <button
-                    onClick={generateGeminiSummary}
+                    onClick={() => generateGeminiSummary(true)}
                     className="p-1 rounded-md hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-400 hover:text-slate-650 dark:hover:text-slate-250 transition-colors"
                     title="Regenerate Summary"
                   >

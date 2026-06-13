@@ -37,6 +37,7 @@ export async function POST(request: NextRequest) {
     const verseText = body.verse_text || '';
     let ibnAshurContent = body.ibn_ashur || '';
     let qurtubiContent = body.qurtubi || '';
+    const force = body.force === true;
 
     if (!surahId || !ayahId) {
       return NextResponse.json({ error: 'Missing surah_id or ayah_id' }, { status: 400 });
@@ -51,29 +52,31 @@ export async function POST(request: NextRequest) {
 
     // 0. Check cache (SQLite locally, Postgres in cloud)
     let cachedContent = null;
-    if (db) {
-      try {
-        const cacheStmt = db.prepare('SELECT content FROM cached_ai_summaries WHERE surah_id = ? AND ayah_id = ?');
-        const cachedRow = cacheStmt.get(surahId, ayahId) as { content: string } | undefined;
-        if (cachedRow) {
-          cachedContent = cachedRow.content;
+    if (!force) {
+      if (db) {
+        try {
+          const cacheStmt = db.prepare('SELECT content FROM cached_ai_summaries WHERE surah_id = ? AND ayah_id = ?');
+          const cachedRow = cacheStmt.get(surahId, ayahId) as { content: string } | undefined;
+          if (cachedRow) {
+            cachedContent = cachedRow.content;
+          }
+        } catch (e) {
+          console.warn("Failed to check SQLite cache:", e);
         }
-      } catch (e) {
-        console.warn("Failed to check SQLite cache:", e);
-      }
-    } else if (process.env.POSTGRES_URL) {
-      try {
-        const { sql } = require('@vercel/postgres');
-        await ensurePostgresTable();
-        const { rows } = await sql`
-          SELECT content FROM cached_ai_summaries 
-          WHERE surah_id = ${surahId} AND ayah_id = ${ayahId}
-        `;
-        if (rows && rows.length > 0) {
-          cachedContent = rows[0].content;
+      } else if (process.env.POSTGRES_URL) {
+        try {
+          const { sql } = require('@vercel/postgres');
+          await ensurePostgresTable();
+          const { rows } = await sql`
+            SELECT content FROM cached_ai_summaries 
+            WHERE surah_id = ${surahId} AND ayah_id = ${ayahId}
+          `;
+          if (rows && rows.length > 0) {
+            cachedContent = rows[0].content;
+          }
+        } catch (e) {
+          console.warn("Failed to check Postgres cache:", e);
         }
-      } catch (e) {
-        console.warn("Failed to check Postgres cache:", e);
       }
     }
 
