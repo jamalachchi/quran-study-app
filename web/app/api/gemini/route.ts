@@ -2,6 +2,27 @@ import { NextRequest, NextResponse } from 'next/server';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import db from '../../lib/db';
 
+let isPostgresInitialized = false;
+
+async function ensurePostgresTable() {
+  if (isPostgresInitialized) return;
+  try {
+    const { sql } = require('@vercel/postgres');
+    await sql`
+      CREATE TABLE IF NOT EXISTS cached_ai_summaries (
+        surah_id INTEGER,
+        ayah_id INTEGER,
+        content TEXT,
+        PRIMARY KEY (surah_id, ayah_id)
+      )
+    `;
+    isPostgresInitialized = true;
+    console.log("Postgres database cache table verified successfully.");
+  } catch (err) {
+    console.error("Failed to verify/create Postgres database cache table:", err);
+  }
+}
+
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
@@ -22,21 +43,40 @@ export async function POST(request: NextRequest) {
       }, { status: 500 });
     }
 
-    // 0. Check cache if DB is available
+    // 0. Check cache (SQLite locally, Postgres in cloud)
+    let cachedContent = null;
     if (db) {
       try {
         const cacheStmt = db.prepare('SELECT content FROM cached_ai_summaries WHERE surah_id = ? AND ayah_id = ?');
         const cachedRow = cacheStmt.get(surahId, ayahId) as { content: string } | undefined;
         if (cachedRow) {
-          console.log(`Loading cached exegesis for Surah ${surahId}, Ayah ${ayahId} from database.`);
-          return NextResponse.json({ summary: cachedRow.content });
+          cachedContent = cachedRow.content;
         }
       } catch (e) {
-        console.warn("Failed to check database cache:", e);
+        console.warn("Failed to check SQLite cache:", e);
+      }
+    } else if (process.env.POSTGRES_URL) {
+      try {
+        const { sql } = require('@vercel/postgres');
+        await ensurePostgresTable();
+        const { rows } = await sql`
+          SELECT content FROM cached_ai_summaries 
+          WHERE surah_id = ${surahId} AND ayah_id = ${ayahId}
+        `;
+        if (rows && rows.length > 0) {
+          cachedContent = rows[0].content;
+        }
+      } catch (e) {
+        console.warn("Failed to check Postgres cache:", e);
       }
     }
 
-    // 1. Fetch from DB if content was not sent by client and DB is available
+    if (cachedContent) {
+      console.log(`Loading cached exegesis for Surah ${surahId}, Ayah ${ayahId} from database cache.`);
+      return NextResponse.json({ summary: cachedContent });
+    }
+
+    // 1. Fetch from DB if content was not sent by client and DB is available (local fallback)
     if (!ibnAshurContent && !qurtubiContent && db) {
       try {
         const stmt = db.prepare(`
@@ -125,14 +165,28 @@ Structure your response exactly as follows:
       throw lastError;
     }
 
-    // Save to DB cache if DB is available and writeable
+    // Save to cache (SQLite locally, Postgres in cloud)
     if (db) {
       try {
         const insertStmt = db.prepare('INSERT OR REPLACE INTO cached_ai_summaries (surah_id, ayah_id, content) VALUES (?, ?, ?)');
         insertStmt.run(surahId, ayahId, summaryText);
-        console.log(`Saved newly generated exegesis for Surah ${surahId}, Ayah ${ayahId} to database cache.`);
+        console.log(`Saved newly generated exegesis for Surah ${surahId}, Ayah ${ayahId} to SQLite cache.`);
       } catch (dbErr) {
-        console.error("Failed to save summary to database cache:", dbErr);
+        console.error("Failed to save summary to SQLite cache:", dbErr);
+      }
+    } else if (process.env.POSTGRES_URL) {
+      try {
+        const { sql } = require('@vercel/postgres');
+        await ensurePostgresTable();
+        await sql`
+          INSERT INTO cached_ai_summaries (surah_id, ayah_id, content)
+          VALUES (${surahId}, ${ayahId}, ${summaryText})
+          ON CONFLICT (surah_id, ayah_id)
+          DO UPDATE SET content = EXCLUDED.content
+        `;
+        console.log(`Saved newly generated exegesis for Surah ${surahId}, Ayah ${ayahId} to Postgres cache.`);
+      } catch (dbErr) {
+        console.error("Failed to save summary to Postgres cache:", dbErr);
       }
     }
 
@@ -154,11 +208,36 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: 'Missing surah_id or ayah_id' }, { status: 400 });
   }
 
-  const apiKey = process.env.GEMINI_API_KEY || process.env.NEXT_PUBLIC_GEMINI_API_KEY;
-  if (!apiKey) {
-    return NextResponse.json({ 
-      error: 'GEMINI_API_KEY is not configured. Please set the GEMINI_API_KEY environment variable.' 
-    }, { status: 500 });
+  // Check cache (SQLite locally, Postgres in cloud)
+  let cachedContent = null;
+  if (db) {
+    try {
+      const cacheStmt = db.prepare('SELECT content FROM cached_ai_summaries WHERE surah_id = ? AND ayah_id = ?');
+      const cachedRow = cacheStmt.get(surahId, ayahId) as { content: string } | undefined;
+      if (cachedRow) {
+        cachedContent = cachedRow.content;
+      }
+    } catch (e) {
+      console.warn("Failed to check SQLite cache:", e);
+    }
+  } else if (process.env.POSTGRES_URL) {
+    try {
+      const { sql } = require('@vercel/postgres');
+      await ensurePostgresTable();
+      const { rows } = await sql`
+        SELECT content FROM cached_ai_summaries 
+        WHERE surah_id = ${surahId} AND ayah_id = ${ayahId}
+      `;
+      if (rows && rows.length > 0) {
+        cachedContent = rows[0].content;
+      }
+    } catch (e) {
+      console.warn("Failed to check Postgres cache:", e);
+    }
+  }
+
+  if (cachedContent) {
+    return NextResponse.json({ summary: cachedContent });
   }
 
   // Fallback GET execution (only works if DB is available)
@@ -168,13 +247,14 @@ export async function GET(request: NextRequest) {
     }, { status: 503 });
   }
 
-  try {
-    const cacheStmt = db.prepare('SELECT content FROM cached_ai_summaries WHERE surah_id = ? AND ayah_id = ?');
-    const cachedRow = cacheStmt.get(surahId, ayahId) as { content: string } | undefined;
-    if (cachedRow) {
-      return NextResponse.json({ summary: cachedRow.content });
-    }
+  const apiKey = process.env.GEMINI_API_KEY || process.env.NEXT_PUBLIC_GEMINI_API_KEY;
+  if (!apiKey) {
+    return NextResponse.json({ 
+      error: 'GEMINI_API_KEY is not configured. Please set the GEMINI_API_KEY environment variable.' 
+    }, { status: 500 });
+  }
 
+  try {
     const stmt = db.prepare(`
       SELECT source_book, content 
       FROM tafsir_entries 
